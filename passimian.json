@@ -1,57 +1,68 @@
 [
   {
-    "set": "SM Black Star Promos SM12/250",
-    "cost": "Not PSA Graded: $9.28",
+    "code": "SM12/248",
+    "set": "SM Black Star Promos SM12/248",
+    "cost": "UnGraded: $9.28",
     "img": "https://images.pokemontcg.io/smp/SM12.png"
   },
   {
-    "set": "Ultra Prism 70/178",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "070/156",
+    "set": "Ultra Prism 070/156",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm5/70.png"
   },
   {
-    "set": "Sun & Moon 73/173",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "073/149",
+    "set": "Sun & Moon 073/149",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sm1/73.png"
   },
   {
-    "set": "Burning Shadows 79/177",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "079/147",
+    "set": "Burning Shadows 079/147",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm3/79.png"
   },
   {
-    "set": "Darkness Ablaze 97/201",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "097/189",
+    "set": "Darkness Ablaze 097/189",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh3/97.png"
   },
   {
-    "set": "Cosmic Eclipse 125/272",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "125/236",
+    "set": "Cosmic Eclipse 125/236",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm12/125.png"
   },
   {
-    "set": "Chilling Reign 88/233",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "088/198",
+    "set": "Chilling Reign 088/198",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh6/88.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH115/304",
+    "code": "SWSH115/307",
+    "set": "SWSH Black Star Promos SWSH115/307",
     "cost": null,
     "img": "https://images.pokemontcg.io/swshp/SWSH115.png"
   },
   {
+    "code": "TG08/30",
     "set": "Silver Tempest Trainer Gallery TG08/30",
-    "cost": "Not PSA Graded: $1.05",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/swsh12tg/TG08.png"
   },
   {
-    "set": "Paldea Evolved 118/279",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "118/193",
+    "set": "Paldea Evolved 118/193",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv2/118.png"
   },
   {
-    "set": "Surging Sparks 111/252",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "111/191",
+    "set": "Surging Sparks 111/191",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv8/111.png"
   }
 ]

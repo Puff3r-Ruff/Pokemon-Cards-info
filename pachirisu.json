@@ -1,97 +1,116 @@
 [
   {
-    "set": "POP Series 6 4/17",
-    "cost": "Not PSA Graded: $2.73",
+    "code": "004/17",
+    "set": "POP Series 6 004/17",
+    "cost": "UnGraded: $2.73",
     "img": "https://images.pokemontcg.io/pop6/4.png"
   },
   {
+    "code": "DP04/56",
     "set": "DP Black Star Promos DP04/56",
-    "cost": "Not PSA Graded: $9.58",
+    "cost": "UnGraded: $9.58",
     "img": "https://images.pokemontcg.io/dpp/DP04.png"
   },
   {
-    "set": "Great Encounters 5/106",
-    "cost": "Not PSA Graded: $9.19",
+    "code": "005/106",
+    "set": "Great Encounters 005/106",
+    "cost": "UnGraded: $9.19",
     "img": "https://images.pokemontcg.io/dp4/5.png"
   },
   {
-    "set": "POP Series 9 10/17",
-    "cost": "Not PSA Graded: $4.09",
+    "code": "010/17",
+    "set": "POP Series 9 010/17",
+    "cost": "UnGraded: $4.09",
     "img": "https://images.pokemontcg.io/pop9/10.png"
   },
   {
-    "set": "Call of Legends 18/106",
-    "cost": "Not PSA Graded: $6.45",
+    "code": "018/95",
+    "set": "Call of Legends 018/95",
+    "cost": "UnGraded: $6.45",
     "img": "https://images.pokemontcg.io/col1/18.png"
   },
   {
-    "set": "Phantom Forces 25/124",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "025/119",
+    "set": "Phantom Forces 025/119",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/xy4/25.png"
   },
   {
-    "set": "Diamond & Pearl 35/130",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "035/130",
+    "set": "Diamond & Pearl 035/130",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/dp1/35.png"
   },
   {
-    "set": "Plasma Freeze 37/122",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "037/116",
+    "set": "Plasma Freeze 037/116",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/bw9/37.png"
   },
   {
-    "set": "Majestic Dawn 43/100",
-    "cost": "Not PSA Graded: $3.33",
+    "code": "043/100",
+    "set": "Majestic Dawn 043/100",
+    "cost": "UnGraded: $3.33",
     "img": "https://images.pokemontcg.io/dp5/43.png"
   },
   {
-    "set": "Ultra Prism 49/178",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "049/156",
+    "set": "Ultra Prism 049/156",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm5/49.png"
   },
   {
-    "set": "Lost Thunder 80/240",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "080/214",
+    "set": "Lost Thunder 080/214",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/sm8/80.png"
   },
   {
-    "set": "Supreme Victors 118/153",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "118/147",
+    "set": "Supreme Victors 118/147",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/pl3/118.png"
   },
   {
-    "set": "Battle Styles 49/183",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "049/163",
+    "set": "Battle Styles 049/163",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh5/49.png"
   },
   {
-    "set": "Brilliant Stars 52/186",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "052/172",
+    "set": "Brilliant Stars 052/172",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh9/52.png"
   },
   {
-    "set": "Scarlet & Violet 68/258",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "068/198",
+    "set": "Scarlet & Violet 068/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv1/68.png"
   },
   {
-    "set": "Scarlet & Violet 208/258",
-    "cost": "Not PSA Graded: $10.66",
+    "code": "208/198",
+    "set": "Scarlet & Violet 208/198",
+    "cost": "UnGraded: $10.66",
     "img": "https://images.pokemontcg.io/sv1/208.png"
   },
   {
-    "set": "Paldean Fates 138/245",
-    "cost": "Not PSA Graded: $5.01",
+    "code": "138/91",
+    "set": "Paldean Fates 138/91",
+    "cost": "UnGraded: $5.01",
     "img": "https://images.pokemontcg.io/sv4pt5/138.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 158/196",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "158/215",
+    "set": "Scarlet & Violet Black Star Promos 158/215",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/svp/158.png"
   },
   {
-    "set": "Mega Evolution 51/188",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "051/132",
+    "set": "Mega Evolution 051/132",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/me1/51.png"
   }
 ]

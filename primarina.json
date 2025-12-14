@@ -1,27 +1,32 @@
 [
   {
-    "set": "Sun & Moon 41/173",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "041/149",
+    "set": "Sun & Moon 041/149",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/sm1/41.png"
   },
   {
-    "set": "Sun & Moon 42/173",
-    "cost": "Not PSA Graded: $2.5",
+    "code": "042/149",
+    "set": "Sun & Moon 042/149",
+    "cost": "UnGraded: $2.5",
     "img": "https://images.pokemontcg.io/sm1/42.png"
   },
   {
-    "set": "SM Black Star Promos SM39/250",
-    "cost": "Not PSA Graded: $9.5",
+    "code": "SM39/248",
+    "set": "SM Black Star Promos SM39/248",
+    "cost": "UnGraded: $9.5",
     "img": "https://images.pokemontcg.io/smp/SM39.png"
   },
   {
-    "set": "Lost Thunder 67/240",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "067/214",
+    "set": "Lost Thunder 067/214",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/sm8/67.png"
   },
   {
-    "set": "Guardians Rising 149/180",
-    "cost": "Not PSA Graded: $24.36",
+    "code": "149/145",
+    "set": "Guardians Rising 149/145",
+    "cost": "UnGraded: $24.36",
     "img": "https://images.pokemontcg.io/sm2/149.png"
   }
 ]

@@ -1,62 +1,74 @@
 [
   {
-    "set": "Flashfire 21/110",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "021/106",
+    "set": "Flashfire 021/106",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/xy2/21.png"
   },
   {
-    "set": "Team Rocket Returns 27/111",
-    "cost": "Not PSA Graded: $1.4",
+    "code": "027/109",
+    "set": "Team Rocket Returns 027/109",
+    "cost": "UnGraded: $1.4",
     "img": "https://images.pokemontcg.io/ex7/27.png"
   },
   {
-    "set": "Shining Legends 21/81",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "021/73",
+    "set": "Shining Legends 021/73",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm35/21.png"
   },
   {
-    "set": "HeartGold & SoulSilver 50/124",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "050/123",
+    "set": "HeartGold & SoulSilver 050/123",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/hgss1/50.png"
   },
   {
-    "set": "Sword & Shield 51/216",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "051/202",
+    "set": "Sword & Shield 051/202",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh1/51.png"
   },
   {
-    "set": "Neo Revelation 49/66",
+    "code": "049/64",
+    "set": "Neo Revelation 049/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/49.png"
   },
   {
+    "code": "101/132",
     "set": "Secret Wonders 101/132",
-    "cost": "Not PSA Graded: $0.4",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/dp3/101.png"
   },
   {
+    "code": "127/165",
     "set": "Expedition Base Set 127/165",
-    "cost": "Not PSA Graded: $1.51",
+    "cost": "UnGraded: $1.51",
     "img": "https://images.pokemontcg.io/ecard1/127.png"
   },
   {
-    "set": "Chilling Reign 101/233",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "101/198",
+    "set": "Chilling Reign 101/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh6/101.png"
   },
   {
-    "set": "Fusion Strike 60/284",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "060/264",
+    "set": "Fusion Strike 060/264",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh8/60.png"
   },
   {
-    "set": "Astral Radiance 88/216",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "088/189",
+    "set": "Astral Radiance 088/189",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh10/88.png"
   },
   {
-    "set": "Astral Radiance 89/216",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "089/189",
+    "set": "Astral Radiance 089/189",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh10/89.png"
   }
 ]

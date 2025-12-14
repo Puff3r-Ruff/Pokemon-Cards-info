@@ -1,97 +1,116 @@
 [
   {
-    "set": "Furious Fists 15/114",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "015/111",
+    "set": "Furious Fists 015/111",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy3/15.png"
   },
   {
-    "set": "Evolutions 23/113",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "023/108",
+    "set": "Evolutions 023/108",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/xy12/23.png"
   },
   {
-    "set": "Sun & Moon 30/173",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "030/149",
+    "set": "Sun & Moon 030/149",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm1/30.png"
   },
   {
-    "set": "Unbroken Bonds 36/234",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "036/214",
+    "set": "Unbroken Bonds 036/214",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm10/36.png"
   },
   {
-    "set": "Unbroken Bonds 37/234",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "037/214",
+    "set": "Unbroken Bonds 037/214",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm10/37.png"
   },
   {
-    "set": "Base 59/102",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "059/102",
+    "set": "Base 059/102",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/base1/59.png"
   },
   {
-    "set": "HS—Unleashed 58/96",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "058/95",
+    "set": "HS—Unleashed 058/95",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/hgss2/58.png"
   },
   {
-    "set": "Unseen Forces 67/145",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "067/115",
+    "set": "Unseen Forces 067/115",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/ex10/67.png"
   },
   {
-    "set": "Neo Discovery 62/75",
+    "code": "062/75",
+    "set": "Neo Discovery 062/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/62.png"
   },
   {
-    "set": "FireRed & LeafGreen 75/116",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "075/112",
+    "set": "FireRed & LeafGreen 075/112",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/ex6/75.png"
   },
   {
-    "set": "Gym Challenge 89/132",
+    "code": "089/132",
+    "set": "Gym Challenge 089/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/89.png"
   },
   {
-    "set": "Gym Heroes 87/132",
+    "code": "087/132",
+    "set": "Gym Heroes 087/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/87.png"
   },
   {
-    "set": "Base Set 2 88/130",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "088/130",
+    "set": "Base Set 2 088/130",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/base4/88.png"
   },
   {
+    "code": "114/146",
     "set": "Legends Awakened 114/146",
-    "cost": "Not PSA Graded: $0.42",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/dp6/114.png"
   },
   {
-    "set": "Skyridge 87/182",
-    "cost": "Not PSA Graded: $10.44",
+    "code": "087/144",
+    "set": "Skyridge 087/144",
+    "cost": "UnGraded: $10.44",
     "img": "https://images.pokemontcg.io/ecard3/87.png"
   },
   {
+    "code": "125/165",
     "set": "Expedition Base Set 125/165",
-    "cost": "Not PSA Graded: $10.11",
+    "cost": "UnGraded: $10.11",
     "img": "https://images.pokemontcg.io/ecard1/125.png"
   },
   {
-    "set": "Lost Origin 30/217",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "030/196",
+    "set": "Lost Origin 030/196",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh11/30.png"
   },
   {
-    "set": "151 60/207",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "060/165",
+    "set": "151 060/165",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv3pt5/60.png"
   },
   {
-    "set": "Twilight Masquerade 41/226",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "041/167",
+    "set": "Twilight Masquerade 041/167",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv6/41.png"
   }
 ]

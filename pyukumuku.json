@@ -1,27 +1,32 @@
 [
   {
-    "set": "Sun & Moon 47/173",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "047/149",
+    "set": "Sun & Moon 047/149",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm1/47.png"
   },
   {
-    "set": "Unified Minds 52/260",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "052/236",
+    "set": "Unified Minds 052/236",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm11/52.png"
   },
   {
-    "set": "Unbroken Bonds 53/234",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "053/214",
+    "set": "Unbroken Bonds 053/214",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/sm10/53.png"
   },
   {
-    "set": "Fusion Strike 77/284",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "077/264",
+    "set": "Fusion Strike 077/264",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh8/77.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH169/304",
-    "cost": "Not PSA Graded: $1.02",
+    "code": "SWSH169/307",
+    "set": "SWSH Black Star Promos SWSH169/307",
+    "cost": "UnGraded: $1.02",
     "img": "https://images.pokemontcg.io/swshp/SWSH169.png"
   }
 ]

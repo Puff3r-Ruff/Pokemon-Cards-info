@@ -1,72 +1,86 @@
 [
   {
-    "set": "Sword & Shield 19/216",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "019/202",
+    "set": "Sword & Shield 019/202",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh1/19.png"
   },
   {
-    "set": "Vivid Voltage 20/203",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "020/185",
+    "set": "Vivid Voltage 020/185",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/swsh4/20.png"
   },
   {
-    "set": "Vivid Voltage 21/203",
-    "cost": "Not PSA Graded: $1.47",
+    "code": "021/185",
+    "set": "Vivid Voltage 021/185",
+    "cost": "UnGraded: $1.47",
     "img": "https://images.pokemontcg.io/swsh4/21.png"
   },
   {
-    "set": "Vivid Voltage 166/203",
-    "cost": "Not PSA Graded: $1.45",
+    "code": "166/185",
+    "set": "Vivid Voltage 166/185",
+    "cost": "UnGraded: $1.45",
     "img": "https://images.pokemontcg.io/swsh4/166.png"
   },
   {
-    "set": "Vivid Voltage 186/203",
-    "cost": "Not PSA Graded: $7.07",
+    "code": "186/185",
+    "set": "Vivid Voltage 186/185",
+    "cost": "UnGraded: $7.07",
     "img": "https://images.pokemontcg.io/swsh4/186.png"
   },
   {
+    "code": "SV009/122",
     "set": "Shining Fates Shiny Vault SV009/122",
-    "cost": "Not PSA Graded: $1.52",
+    "cost": "UnGraded: $1.52",
     "img": "https://images.pokemontcg.io/swsh45sv/SV009.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH078/304",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "SWSH078/307",
+    "set": "SWSH Black Star Promos SWSH078/307",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/swshp/SWSH078.png"
   },
   {
-    "set": "Battle Styles 65/183",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "065/163",
+    "set": "Battle Styles 065/163",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh5/65.png"
   },
   {
-    "set": "Lost Origin 20/217",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "020/196",
+    "set": "Lost Origin 020/196",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh11/20.png"
   },
   {
+    "code": "TG12/30",
     "set": "Lost Origin Trainer Gallery TG12/30",
-    "cost": "Not PSA Graded: $3.85",
+    "cost": "UnGraded: $3.85",
     "img": "https://images.pokemontcg.io/swsh11tg/TG12.png"
   },
   {
+    "code": "TG13/30",
     "set": "Lost Origin Trainer Gallery TG13/30",
-    "cost": "Not PSA Graded: $8.18",
+    "cost": "UnGraded: $8.18",
     "img": "https://images.pokemontcg.io/swsh11tg/TG13.png"
   },
   {
-    "set": "Paradox Rift 12/266",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "012/182",
+    "set": "Paradox Rift 012/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv4/12.png"
   },
   {
-    "set": "Destined Rivals 89/244",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "089/182",
+    "set": "Destined Rivals 089/182",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv10/89.png"
   },
   {
-    "set": "Destined Rivals 198/244",
-    "cost": "Not PSA Graded: $2.54",
+    "code": "198/182",
+    "set": "Destined Rivals 198/182",
+    "cost": "UnGraded: $2.54",
     "img": "https://images.pokemontcg.io/sv10/198.png"
   }
 ]

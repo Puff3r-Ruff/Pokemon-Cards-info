@@ -1,72 +1,86 @@
 [
   {
+    "code": "SV43/94",
     "set": "Hidden Fates Shiny Vault SV43/94",
-    "cost": "Not PSA Graded: $3.02",
+    "cost": "UnGraded: $3.02",
     "img": "https://images.pokemontcg.io/sma/SV43.png"
   },
   {
-    "set": "Furious Fists 87/114",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "087/111",
+    "set": "Furious Fists 087/111",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy3/87.png"
   },
   {
-    "set": "Forbidden Light 100/150",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "100/131",
+    "set": "Forbidden Light 100/131",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm6/100.png"
   },
   {
-    "set": "Burning Shadows 109/177",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "109/147",
+    "set": "Burning Shadows 109/147",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm3/109.png"
   },
   {
-    "set": "BREAKthrough 131/165",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "131/162",
+    "set": "BREAKthrough 131/162",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy8/131.png"
   },
   {
-    "set": "BREAKthrough 132/165",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "132/162",
+    "set": "BREAKthrough 132/162",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy8/132.png"
   },
   {
-    "set": "Unified Minds 158/260",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "158/236",
+    "set": "Unified Minds 158/236",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm11/158.png"
   },
   {
-    "set": "Silver Tempest 132/215",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "132/195",
+    "set": "Silver Tempest 132/195",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/swsh12/132.png"
   },
   {
-    "set": "Paldea Evolved 152/279",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "152/193",
+    "set": "Paldea Evolved 152/193",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv2/152.png"
   },
   {
-    "set": "Paldean Fates 68/245",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "068/91",
+    "set": "Paldean Fates 068/91",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4pt5/68.png"
   },
   {
-    "set": "Paldean Fates 194/245",
-    "cost": "Not PSA Graded: $3.57",
+    "code": "194/91",
+    "set": "Paldean Fates 194/91",
+    "cost": "UnGraded: $3.57",
     "img": "https://images.pokemontcg.io/sv4pt5/194.png"
   },
   {
-    "set": "Prismatic Evolutions 90/180",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "090/131",
+    "set": "Prismatic Evolutions 090/131",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8pt5/90.png"
   },
   {
-    "set": "Journey Together 127/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "127/159",
+    "set": "Journey Together 127/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/127.png"
   },
   {
-    "set": "Journey Together 169/190",
-    "cost": "Not PSA Graded: $3.16",
+    "code": "169/159",
+    "set": "Journey Together 169/159",
+    "cost": "UnGraded: $3.16",
     "img": "https://images.pokemontcg.io/sv9/169.png"
   }
 ]

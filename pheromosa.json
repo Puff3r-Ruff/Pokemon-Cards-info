@@ -1,52 +1,62 @@
 [
   {
-    "set": "Unbroken Bonds 1/234",
-    "cost": "Not PSA Graded: $10.77",
+    "code": "001/214",
+    "set": "Unbroken Bonds 001/214",
+    "cost": "UnGraded: $10.77",
     "img": "https://images.pokemontcg.io/sm10/1.png"
   },
   {
+    "code": "SV5/94",
     "set": "Hidden Fates Shiny Vault SV5/94",
-    "cost": "Not PSA Graded: $7.57",
+    "cost": "UnGraded: $7.57",
     "img": "https://images.pokemontcg.io/sma/SV5.png"
   },
   {
-    "set": "Forbidden Light 11/150",
-    "cost": "Not PSA Graded: $7.1",
+    "code": "011/131",
+    "set": "Forbidden Light 011/131",
+    "cost": "UnGraded: $7.1",
     "img": "https://images.pokemontcg.io/sm6/11.png"
   },
   {
-    "set": "SM Black Star Promos SM66/250",
-    "cost": "Not PSA Graded: $10.94",
+    "code": "SM66/248",
+    "set": "SM Black Star Promos SM66/248",
+    "cost": "UnGraded: $10.94",
     "img": "https://images.pokemontcg.io/smp/SM66.png"
   },
   {
-    "set": "SM Black Star Promos SM115/250",
-    "cost": "Not PSA Graded: $7.27",
+    "code": "SM115/248",
+    "set": "SM Black Star Promos SM115/248",
+    "cost": "UnGraded: $7.27",
     "img": "https://images.pokemontcg.io/smp/SM115.png"
   },
   {
-    "set": "Ultra Prism 140/178",
-    "cost": "Not PSA Graded: $16.95",
+    "code": "140/156",
+    "set": "Ultra Prism 140/156",
+    "cost": "UnGraded: $16.95",
     "img": "https://images.pokemontcg.io/sm5/140.png"
   },
   {
-    "set": "Ultra Prism 158/178",
-    "cost": "Not PSA Graded: $14.34",
+    "code": "158/156",
+    "set": "Ultra Prism 158/156",
+    "cost": "UnGraded: $14.34",
     "img": "https://images.pokemontcg.io/sm5/158.png"
   },
   {
-    "set": "Unbroken Bonds 191/234",
-    "cost": "Not PSA Graded: $22.06",
+    "code": "191/214",
+    "set": "Unbroken Bonds 191/214",
+    "cost": "UnGraded: $22.06",
     "img": "https://images.pokemontcg.io/sm10/191.png"
   },
   {
-    "set": "Unbroken Bonds 192/234",
-    "cost": "Not PSA Graded: $85.46",
+    "code": "192/214",
+    "set": "Unbroken Bonds 192/214",
+    "cost": "UnGraded: $85.46",
     "img": "https://images.pokemontcg.io/sm10/192.png"
   },
   {
-    "set": "Unbroken Bonds 215/234",
-    "cost": "Not PSA Graded: $30.7",
+    "code": "215/214",
+    "set": "Unbroken Bonds 215/214",
+    "cost": "UnGraded: $30.7",
     "img": "https://images.pokemontcg.io/sm10/215.png"
   }
 ]

@@ -1,82 +1,98 @@
 [
   {
-    "set": "Base 22/102",
-    "cost": "Not PSA Graded: $9.33",
+    "code": "022/102",
+    "set": "Base 022/102",
+    "cost": "UnGraded: $9.33",
     "img": "https://images.pokemontcg.io/base1/22.png"
   },
   {
-    "set": "Gym Challenge 27/132",
+    "code": "027/132",
+    "set": "Gym Challenge 027/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/27.png"
   },
   {
-    "set": "Base Set 2 28/130",
-    "cost": "Not PSA Graded: $3.84",
+    "code": "028/130",
+    "set": "Base Set 2 028/130",
+    "cost": "UnGraded: $3.84",
     "img": "https://images.pokemontcg.io/base4/28.png"
   },
   {
-    "set": "Legendary Collection 34/110",
-    "cost": "Not PSA Graded: $6.66",
+    "code": "034/110",
+    "set": "Legendary Collection 034/110",
+    "cost": "UnGraded: $6.66",
     "img": "https://images.pokemontcg.io/base6/34.png"
   },
   {
-    "set": "HS—Triumphant 47/103",
-    "cost": "Not PSA Graded: $0.89",
+    "code": "047/102",
+    "set": "HS—Triumphant 047/102",
+    "cost": "UnGraded: $0.89",
     "img": "https://images.pokemontcg.io/hgss4/47.png"
   },
   {
-    "set": "Call of Legends 48/106",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "048/95",
+    "set": "Call of Legends 048/95",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/col1/48.png"
   },
   {
-    "set": "FireRed & LeafGreen 45/116",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "045/112",
+    "set": "FireRed & LeafGreen 045/112",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/ex6/45.png"
   },
   {
-    "set": "Holon Phantoms 49/111",
-    "cost": "Not PSA Graded: $2.58",
+    "code": "049/110",
+    "set": "Holon Phantoms 049/110",
+    "cost": "UnGraded: $2.58",
     "img": "https://images.pokemontcg.io/ex13/49.png"
   },
   {
-    "set": "Secret Wonders 58/132",
-    "cost": "Not PSA Graded: $1.09",
+    "code": "058/132",
+    "set": "Secret Wonders 058/132",
+    "cost": "UnGraded: $1.09",
     "img": "https://images.pokemontcg.io/dp3/58.png"
   },
   {
-    "set": "Flashfire 76/110",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "076/106",
+    "set": "Flashfire 076/106",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/xy2/76.png"
   },
   {
-    "set": "Expedition Base Set 88/165",
-    "cost": "Not PSA Graded: $5.96",
+    "code": "088/165",
+    "set": "Expedition Base Set 088/165",
+    "cost": "UnGraded: $5.96",
     "img": "https://images.pokemontcg.io/ecard1/88.png"
   },
   {
-    "set": "Team Up 123/198",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "123/181",
+    "set": "Team Up 123/181",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm9/123.png"
   },
   {
-    "set": "Obsidian Flames 163/230",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "163/197",
+    "set": "Obsidian Flames 163/197",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv3/163.png"
   },
   {
-    "set": "Obsidian Flames 208/230",
-    "cost": "Not PSA Graded: $5.89",
+    "code": "208/197",
+    "set": "Obsidian Flames 208/197",
+    "cost": "UnGraded: $5.89",
     "img": "https://images.pokemontcg.io/sv3/208.png"
   },
   {
-    "set": "151 17/207",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "017/165",
+    "set": "151 017/165",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sv3pt5/17.png"
   },
   {
-    "set": "Paldean Fates 197/245",
-    "cost": "Not PSA Graded: $7.24",
+    "code": "197/91",
+    "set": "Paldean Fates 197/91",
+    "cost": "UnGraded: $7.24",
     "img": "https://images.pokemontcg.io/sv4pt5/197.png"
   }
 ]

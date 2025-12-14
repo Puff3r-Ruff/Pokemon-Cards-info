@@ -1,82 +1,98 @@
 [
   {
-    "set": "Team Rocket Returns 13/111",
-    "cost": "Not PSA Graded: $15",
+    "code": "013/109",
+    "set": "Team Rocket Returns 013/109",
+    "cost": "UnGraded: $15",
     "img": "https://images.pokemontcg.io/ex7/13.png"
   },
   {
-    "set": "Skyridge H22/182",
-    "cost": "Not PSA Graded: $199.99",
+    "code": "H22/144",
+    "set": "Skyridge H22/144",
+    "cost": "UnGraded: $199.99",
     "img": "https://images.pokemontcg.io/ecard3/H22.png"
   },
   {
-    "set": "Neo Destiny 26/113",
+    "code": "026/105",
+    "set": "Neo Destiny 026/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/26.png"
   },
   {
-    "set": "Crimson Invasion 20/126",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "020/111",
+    "set": "Crimson Invasion 020/111",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm4/20.png"
   },
   {
-    "set": "Plasma Storm 27/138",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "027/135",
+    "set": "Plasma Storm 027/135",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/bw8/27.png"
   },
   {
-    "set": "Neo Revelation 36/66",
+    "code": "036/64",
+    "set": "Neo Revelation 036/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/36.png"
   },
   {
-    "set": "HS—Triumphant 48/103",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "048/102",
+    "set": "HS—Triumphant 048/102",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/hgss4/48.png"
   },
   {
-    "set": "Neo Genesis 44/111",
+    "code": "044/111",
+    "set": "Neo Genesis 044/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/44.png"
   },
   {
-    "set": "Stormfront 46/106",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "046/100",
+    "set": "Stormfront 046/100",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/dp7/46.png"
   },
   {
-    "set": "Skyridge 24/182",
+    "code": "024/144",
+    "set": "Skyridge 024/144",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard3/24.png"
   },
   {
-    "set": "Legends Awakened 69/146",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "069/146",
+    "set": "Legends Awakened 069/146",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/dp6/69.png"
   },
   {
-    "set": "Skyridge 43/182",
-    "cost": "Not PSA Graded: $5.39",
+    "code": "043/144",
+    "set": "Skyridge 043/144",
+    "cost": "UnGraded: $5.39",
     "img": "https://images.pokemontcg.io/ecard3/43.png"
   },
   {
-    "set": "BREAKthrough 81/165",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "081/162",
+    "set": "BREAKthrough 081/162",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy8/81.png"
   },
   {
-    "set": "Astral Radiance 32/216",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "032/189",
+    "set": "Astral Radiance 032/189",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh10/32.png"
   },
   {
-    "set": "Journey Together 78/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "078/159",
+    "set": "Journey Together 078/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/78.png"
   },
   {
-    "set": "Phantasmal Flames 24/130",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "024/94",
+    "set": "Phantasmal Flames 024/94",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/me2/24.png"
   }
 ]

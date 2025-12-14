@@ -1,87 +1,104 @@
 [
   {
-    "set": "BREAKthrough 2/165",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "002/162",
+    "set": "BREAKthrough 002/162",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/xy8/2.png"
   },
   {
-    "set": "Team Up 7/198",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "007/181",
+    "set": "Team Up 007/181",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/sm9/7.png"
   },
   {
-    "set": "Sun & Moon 5/173",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "005/149",
+    "set": "Sun & Moon 005/149",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm1/5.png"
   },
   {
-    "set": "Darkness Ablaze 4/201",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "004/189",
+    "set": "Darkness Ablaze 004/189",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh3/4.png"
   },
   {
-    "set": "Generations 7/117",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "007/83",
+    "set": "Generations 007/83",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/g1/7.png"
   },
   {
-    "set": "Neo Revelation 35/66",
+    "code": "035/64",
+    "set": "Neo Revelation 035/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/35.png"
   },
   {
-    "set": "Supreme Victors 38/153",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "038/147",
+    "set": "Supreme Victors 038/147",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/pl3/38.png"
   },
   {
-    "set": "HeartGold & SoulSilver 48/124",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "048/123",
+    "set": "HeartGold & SoulSilver 048/123",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/hgss1/48.png"
   },
   {
-    "set": "FireRed & LeafGreen 43/116",
-    "cost": "Not PSA Graded: $6.24",
+    "code": "043/112",
+    "set": "FireRed & LeafGreen 043/112",
+    "cost": "UnGraded: $6.24",
     "img": "https://images.pokemontcg.io/ex6/43.png"
   },
   {
-    "set": "Jungle 41/64",
+    "code": "041/64",
+    "set": "Jungle 041/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/41.png"
   },
   {
-    "set": "Aquapolis 27/182",
-    "cost": "Not PSA Graded: $7.77",
+    "code": "027/147",
+    "set": "Aquapolis 027/147",
+    "cost": "UnGraded: $7.77",
     "img": "https://images.pokemontcg.io/ecard2/27.png"
   },
   {
-    "set": "Base Set 2 55/130",
-    "cost": "Not PSA Graded: $1.11",
+    "code": "055/130",
+    "set": "Base Set 2 055/130",
+    "cost": "UnGraded: $1.11",
     "img": "https://images.pokemontcg.io/base4/55.png"
   },
   {
-    "set": "Mysterious Treasures 58/124",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "058/123",
+    "set": "Mysterious Treasures 058/123",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/dp2/58.png"
   },
   {
-    "set": "Lost Origin 5/217",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "005/196",
+    "set": "Lost Origin 005/196",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh11/5.png"
   },
   {
+    "code": "TG01/30",
     "set": "Lost Origin Trainer Gallery TG01/30",
-    "cost": "Not PSA Graded: $1.61",
+    "cost": "UnGraded: $1.61",
     "img": "https://images.pokemontcg.io/swsh11tg/TG01.png"
   },
   {
-    "set": "151 47/207",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "047/165",
+    "set": "151 047/165",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3pt5/47.png"
   },
   {
-    "set": "Journey Together 5/190",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "005/159",
+    "set": "Journey Together 005/159",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv9/5.png"
   }
 ]

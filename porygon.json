@@ -1,122 +1,254 @@
 [
   {
-    "set": "Wizards Black Star Promos 15/53",
-    "cost": "Not PSA Graded: $52.7",
+    "code": "007/102",
+    "set": "HS—Triumphant 007/102",
+    "cost": "UnGraded: $4.43",
+    "img": "https://images.pokemontcg.io/hgss4/7.png"
+  },
+  {
+    "code": "006/106",
+    "set": "Great Encounters 006/106",
+    "cost": "UnGraded: $6.36",
+    "img": "https://images.pokemontcg.io/dp4/6.png"
+  },
+  {
+    "code": "015/53",
+    "set": "Wizards Black Star Promos 015/53",
+    "cost": "UnGraded: $52.7",
     "img": "https://images.pokemontcg.io/basep/15.png"
   },
   {
+    "code": "026/99",
+    "set": "Arceus 026/99",
+    "cost": "UnGraded: $1.31",
+    "img": "https://images.pokemontcg.io/pl4/26.png"
+  },
+  {
+    "code": "HGSS22/25",
     "set": "HGSS Black Star Promos HGSS22/25",
-    "cost": "Not PSA Graded: $12.68",
+    "cost": "UnGraded: $12.68",
     "img": "https://images.pokemontcg.io/hsp/HGSS22.png"
   },
   {
-    "set": "Base 39/102",
-    "cost": "Not PSA Graded: $3.63",
+    "code": "DP35/56",
+    "set": "DP Black Star Promos DP35/56",
+    "cost": "UnGraded: $4.8",
+    "img": "https://images.pokemontcg.io/dpp/DP35.png"
+  },
+  {
+    "code": "039/102",
+    "set": "Base 039/102",
+    "cost": "UnGraded: $3.63",
     "img": "https://images.pokemontcg.io/base1/39.png"
   },
   {
-    "set": "Team Rocket 48/83",
+    "code": "048/82",
+    "set": "Team Rocket 048/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/48.png"
   },
   {
-    "set": "FireRed & LeafGreen 47/116",
-    "cost": "Not PSA Graded: $4.66",
+    "code": "047/112",
+    "set": "FireRed & LeafGreen 047/112",
+    "cost": "UnGraded: $4.66",
     "img": "https://images.pokemontcg.io/ex6/47.png"
   },
   {
-    "set": "Ancient Origins 64/100",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "064/98",
+    "set": "Ancient Origins 064/98",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy7/64.png"
   },
   {
-    "set": "Plasma Blast 72/105",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "066/98",
+    "set": "Ancient Origins 066/98",
+    "cost": "UnGraded: $0.29",
+    "img": "https://images.pokemontcg.io/xy7/66.png"
+  },
+  {
+    "code": "067/98",
+    "set": "Ancient Origins 067/98",
+    "cost": "UnGraded: $1.71",
+    "img": "https://images.pokemontcg.io/xy7/67.png"
+  },
+  {
+    "code": "072/101",
+    "set": "Plasma Blast 072/101",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/bw10/72.png"
   },
   {
-    "set": "Unseen Forces 69/145",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "074/101",
+    "set": "Plasma Blast 074/101",
+    "cost": "UnGraded: $1.74",
+    "img": "https://images.pokemontcg.io/bw10/74.png"
+  },
+  {
+    "code": "069/115",
+    "set": "Unseen Forces 069/115",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/ex10/69.png"
   },
   {
-    "set": "Evolutions 71/113",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "071/108",
+    "set": "Evolutions 071/108",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy12/71.png"
   },
   {
-    "set": "HS—Triumphant 73/103",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "073/102",
+    "set": "HS—Triumphant 073/102",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/hgss4/73.png"
   },
   {
-    "set": "Neo Destiny 78/113",
+    "code": "078/105",
+    "set": "Neo Destiny 078/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/78.png"
   },
   {
-    "set": "Delta Species 80/114",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "080/113",
+    "set": "Delta Species 080/113",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/ex11/80.png"
   },
   {
-    "set": "Great Encounters 81/106",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "081/106",
+    "set": "Great Encounters 081/106",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/dp4/81.png"
   },
   {
-    "set": "Gym Challenge 98/132",
+    "code": "098/132",
+    "set": "Gym Challenge 098/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/98.png"
   },
   {
-    "set": "Burning Shadows 103/177",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "BW84/101",
+    "set": "BW Black Star Promos BW84/101",
+    "cost": "UnGraded: $10.4",
+    "img": "https://images.pokemontcg.io/bwp/BW84.png"
+  },
+  {
+    "code": "100/100",
+    "set": "Majestic Dawn 100/100",
+    "cost": "UnGraded: $75",
+    "img": "https://images.pokemontcg.io/dp5/100.png"
+  },
+  {
+    "code": "103/147",
+    "set": "Burning Shadows 103/147",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm3/103.png"
   },
   {
-    "set": "Aquapolis 103/182",
+    "code": "105/147",
+    "set": "Burning Shadows 105/147",
+    "cost": "UnGraded: $0.37",
+    "img": "https://images.pokemontcg.io/sm3/105.png"
+  },
+  {
+    "code": "105a/147",
+    "set": "Burning Shadows 105a/147",
+    "cost": null,
+    "img": "https://images.pokemontcg.io/sm3/105a.png"
+  },
+  {
+    "code": "103/147",
+    "set": "Aquapolis 103/147",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard2/103.png"
   },
   {
-    "set": "Unbroken Bonds 154/234",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "154/214",
+    "set": "Unbroken Bonds 154/214",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm10/154.png"
   },
   {
-    "set": "Unbroken Bonds 155/234",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "155/214",
+    "set": "Unbroken Bonds 155/214",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm10/155.png"
   },
   {
-    "set": "Chilling Reign 116/233",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "157/214",
+    "set": "Unbroken Bonds 157/214",
+    "cost": "UnGraded: $1.34",
+    "img": "https://images.pokemontcg.io/sm10/157.png"
+  },
+  {
+    "code": "SM216/248",
+    "set": "SM Black Star Promos SM216/248",
+    "cost": "UnGraded: $3.02",
+    "img": "https://images.pokemontcg.io/smp/SM216.png"
+  },
+  {
+    "code": "116/198",
+    "set": "Chilling Reign 116/198",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh6/116.png"
   },
   {
-    "set": "McDonald's Collection 2018 12/12",
+    "code": "118/198",
+    "set": "Chilling Reign 118/198",
+    "cost": "UnGraded: $0.46",
+    "img": "https://images.pokemontcg.io/swsh6/118.png"
+  },
+  {
+    "code": "012/12",
+    "set": "McDonald's Collection 2018 012/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd18/12.png"
   },
   {
-    "set": "Lost Origin 140/217",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "140/196",
+    "set": "Lost Origin 140/196",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh11/140.png"
   },
   {
-    "set": "151 137/207",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "142/196",
+    "set": "Lost Origin 142/196",
+    "cost": "UnGraded: $0.13",
+    "img": "https://images.pokemontcg.io/swsh11/142.png"
+  },
+  {
+    "code": "137/165",
+    "set": "151 137/165",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3pt5/137.png"
   },
   {
-    "set": "Paradox Rift 142/266",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "142/182",
+    "set": "Paradox Rift 142/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv4/142.png"
   },
   {
-    "set": "Destined Rivals 153/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "144/182",
+    "set": "Paradox Rift 144/182",
+    "cost": "UnGraded: $0.12",
+    "img": "https://images.pokemontcg.io/sv4/144.png"
+  },
+  {
+    "code": "214/182",
+    "set": "Paradox Rift 214/182",
+    "cost": "UnGraded: $8.19",
+    "img": "https://images.pokemontcg.io/sv4/214.png"
+  },
+  {
+    "code": "153/182",
+    "set": "Destined Rivals 153/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv10/153.png"
+  },
+  {
+    "code": "155/182",
+    "set": "Destined Rivals 155/182",
+    "cost": "UnGraded: $0.07",
+    "img": "https://images.pokemontcg.io/sv10/155.png"
   }
 ]

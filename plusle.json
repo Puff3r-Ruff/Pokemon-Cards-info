@@ -1,102 +1,122 @@
 [
   {
-    "set": "POP Series 3 5/17",
-    "cost": "Not PSA Graded: $9.07",
+    "code": "005/17",
+    "set": "POP Series 3 005/17",
+    "cost": "UnGraded: $9.07",
     "img": "https://images.pokemontcg.io/pop3/5.png"
   },
   {
-    "set": "Dragon 8/100",
-    "cost": "Not PSA Graded: $83.65",
+    "code": "008/97",
+    "set": "Dragon 008/97",
+    "cost": "UnGraded: $83.65",
     "img": "https://images.pokemontcg.io/ex3/8.png"
   },
   {
-    "set": "POP Series 1 13/17",
-    "cost": "Not PSA Graded: $1.16",
+    "code": "013/17",
+    "set": "POP Series 1 013/17",
+    "cost": "UnGraded: $1.16",
     "img": "https://images.pokemontcg.io/pop1/13.png"
   },
   {
+    "code": "HGSS16/25",
     "set": "HGSS Black Star Promos HGSS16/25",
-    "cost": "Not PSA Graded: $12.47",
+    "cost": "UnGraded: $12.47",
     "img": "https://images.pokemontcg.io/hsp/HGSS16.png"
   },
   {
-    "set": "Secret Wonders 36/132",
-    "cost": "Not PSA Graded: $1.92",
+    "code": "036/132",
+    "set": "Secret Wonders 036/132",
+    "cost": "UnGraded: $1.92",
     "img": "https://images.pokemontcg.io/dp3/36.png"
   },
   {
-    "set": "Majestic Dawn 28/100",
-    "cost": "Not PSA Graded: $1.66",
+    "code": "028/100",
+    "set": "Majestic Dawn 028/100",
+    "cost": "UnGraded: $1.66",
     "img": "https://images.pokemontcg.io/dp5/28.png"
   },
   {
-    "set": "HS—Unleashed 36/96",
-    "cost": "Not PSA Graded: $0.86",
+    "code": "036/95",
+    "set": "HS—Unleashed 036/95",
+    "cost": "UnGraded: $0.86",
     "img": "https://images.pokemontcg.io/hgss2/36.png"
   },
   {
-    "set": "Emerald 39/107",
-    "cost": "Not PSA Graded: $3.15",
+    "code": "039/106",
+    "set": "Emerald 039/106",
+    "cost": "UnGraded: $3.15",
     "img": "https://images.pokemontcg.io/ex9/39.png"
   },
   {
-    "set": "Shining Legends 33/81",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "033/73",
+    "set": "Shining Legends 033/73",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/sm35/33.png"
   },
   {
-    "set": "Furious Fists 31/114",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "031/111",
+    "set": "Furious Fists 031/111",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/xy3/31.png"
   },
   {
-    "set": "Legendary Treasures 47/140",
-    "cost": "Not PSA Graded: $1.03",
+    "code": "047/113",
+    "set": "Legendary Treasures 047/113",
+    "cost": "UnGraded: $1.03",
     "img": "https://images.pokemontcg.io/bw11/47.png"
   },
   {
-    "set": "Deoxys 44/108",
-    "cost": "Not PSA Graded: $5.59",
+    "code": "044/107",
+    "set": "Deoxys 044/107",
+    "cost": "UnGraded: $5.59",
     "img": "https://images.pokemontcg.io/ex8/44.png"
   },
   {
-    "set": "Dark Explorers 39/111",
-    "cost": "Not PSA Graded: $2.58",
+    "code": "039/108",
+    "set": "Dark Explorers 039/108",
+    "cost": "UnGraded: $2.58",
     "img": "https://images.pokemontcg.io/bw5/39.png"
   },
   {
-    "set": "Celestial Storm 53/187",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "053/168",
+    "set": "Celestial Storm 053/168",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/sm7/53.png"
   },
   {
-    "set": "Hidden Legends 69/102",
-    "cost": "Not PSA Graded: $22.74",
+    "code": "069/101",
+    "set": "Hidden Legends 069/101",
+    "cost": "UnGraded: $22.74",
     "img": "https://images.pokemontcg.io/ex5/69.png"
   },
   {
-    "set": "Supreme Victors 76/153",
-    "cost": "Not PSA Graded: $5.84",
+    "code": "076/147",
+    "set": "Supreme Victors 076/147",
+    "cost": "UnGraded: $5.84",
     "img": "https://images.pokemontcg.io/pl3/76.png"
   },
   {
-    "set": "Fusion Strike 89/284",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "089/264",
+    "set": "Fusion Strike 089/264",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh8/89.png"
   },
   {
-    "set": "EX Trainer Kit 2 Plusle 6/12",
+    "code": "006/12",
+    "set": "EX Trainer Kit 2 Plusle 006/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/tk2a/6.png"
   },
   {
-    "set": "Paradox Rift 60/266",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "060/182",
+    "set": "Paradox Rift 060/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv4/60.png"
   },
   {
-    "set": "Paradox Rift 193/266",
-    "cost": "Not PSA Graded: $25.41",
+    "code": "193/182",
+    "set": "Paradox Rift 193/182",
+    "cost": "UnGraded: $25.41",
     "img": "https://images.pokemontcg.io/sv4/193.png"
   }
 ]

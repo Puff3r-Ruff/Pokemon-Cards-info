@@ -1,77 +1,92 @@
 [
   {
-    "set": "Gym Challenge 44/132",
+    "code": "044/132",
+    "set": "Gym Challenge 044/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/44.png"
   },
   {
-    "set": "Plasma Freeze 41/122",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "041/116",
+    "set": "Plasma Freeze 041/116",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/bw9/41.png"
   },
   {
-    "set": "HS—Triumphant 45/103",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "045/102",
+    "set": "HS—Triumphant 045/102",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/hgss4/45.png"
   },
   {
-    "set": "FireRed & LeafGreen 40/116",
-    "cost": "Not PSA Graded: $1.99",
+    "code": "040/112",
+    "set": "FireRed & LeafGreen 040/112",
+    "cost": "UnGraded: $1.99",
     "img": "https://images.pokemontcg.io/ex6/40.png"
   },
   {
-    "set": "Dragon Frontiers 34/101",
-    "cost": "Not PSA Graded: $1.55",
+    "code": "034/101",
+    "set": "Dragon Frontiers 034/101",
+    "cost": "UnGraded: $1.55",
     "img": "https://images.pokemontcg.io/ex15/34.png"
   },
   {
-    "set": "Jungle 40/64",
+    "code": "040/64",
+    "set": "Jungle 040/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/40.png"
   },
   {
-    "set": "Team Up 55/198",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "055/181",
+    "set": "Team Up 055/181",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm9/55.png"
   },
   {
-    "set": "Base Set 2 53/130",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "053/130",
+    "set": "Base Set 2 053/130",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/base4/53.png"
   },
   {
-    "set": "Legendary Collection 55/110",
-    "cost": "Not PSA Graded: $1.62",
+    "code": "055/110",
+    "set": "Legendary Collection 055/110",
+    "cost": "UnGraded: $1.62",
     "img": "https://images.pokemontcg.io/base6/55.png"
   },
   {
-    "set": "Mysterious Treasures 56/124",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "056/123",
+    "set": "Mysterious Treasures 056/123",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/dp2/56.png"
   },
   {
-    "set": "Primal Clash 67/164",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "067/160",
+    "set": "Primal Clash 067/160",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/xy5/67.png"
   },
   {
-    "set": "Rising Rivals 73/120",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "073/111",
+    "set": "Rising Rivals 073/111",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/pl2/73.png"
   },
   {
-    "set": "Skyridge 83/182",
-    "cost": "Not PSA Graded: $6.86",
+    "code": "083/144",
+    "set": "Skyridge 083/144",
+    "cost": "UnGraded: $6.86",
     "img": "https://images.pokemontcg.io/ecard3/83.png"
   },
   {
-    "set": "151 30/207",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "030/165",
+    "set": "151 030/165",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3pt5/30.png"
   },
   {
-    "set": "Destined Rivals 115/244",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "115/182",
+    "set": "Destined Rivals 115/182",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv10/115.png"
   }
 ]

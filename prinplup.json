@@ -1,52 +1,62 @@
 [
   {
-    "set": "Legendary Treasures 34/140",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "034/113",
+    "set": "Legendary Treasures 034/113",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/bw11/34.png"
   },
   {
-    "set": "Ultra Prism 33/178",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "033/156",
+    "set": "Ultra Prism 033/156",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm5/33.png"
   },
   {
-    "set": "Dark Explorers 28/111",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "028/108",
+    "set": "Dark Explorers 028/108",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/bw5/28.png"
   },
   {
-    "set": "BREAKthrough 37/165",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "037/162",
+    "set": "BREAKthrough 037/162",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy8/37.png"
   },
   {
-    "set": "Majestic Dawn 44/100",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "044/100",
+    "set": "Majestic Dawn 044/100",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/dp5/44.png"
   },
   {
-    "set": "Cosmic Eclipse 55/272",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "055/236",
+    "set": "Cosmic Eclipse 055/236",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm12/55.png"
   },
   {
-    "set": "Diamond & Pearl 58/130",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "058/130",
+    "set": "Diamond & Pearl 058/130",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/dp1/58.png"
   },
   {
-    "set": "Platinum 59/133",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "059/127",
+    "set": "Platinum 059/127",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/pl1/59.png"
   },
   {
-    "set": "Brilliant Stars 36/186",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "036/172",
+    "set": "Brilliant Stars 036/172",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh9/36.png"
   },
   {
-    "set": "Phantasmal Flames 28/130",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "028/94",
+    "set": "Phantasmal Flames 028/94",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/me2/28.png"
   }
 ]

@@ -1,47 +1,56 @@
 [
   {
-    "set": "Guardians Rising 6/180",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "006/145",
+    "set": "Guardians Rising 006/145",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm2/6.png"
   },
   {
-    "set": "Rebel Clash 14/209",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "014/192",
+    "set": "Rebel Clash 014/192",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh2/14.png"
   },
   {
-    "set": "XY 54/146",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "054/146",
+    "set": "XY 054/146",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/xy1/54.png"
   },
   {
-    "set": "BREAKpoint 64/126",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "064/122",
+    "set": "BREAKpoint 064/122",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy9/64.png"
   },
   {
-    "set": "Cosmic Eclipse 93/272",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "093/236",
+    "set": "Cosmic Eclipse 093/236",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm12/93.png"
   },
   {
-    "set": "Fusion Strike 16/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "016/264",
+    "set": "Fusion Strike 016/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/16.png"
   },
   {
-    "set": "Lost Origin 16/217",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "016/196",
+    "set": "Lost Origin 016/196",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh11/16.png"
   },
   {
-    "set": "Obsidian Flames 11/230",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "011/197",
+    "set": "Obsidian Flames 011/197",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv3/11.png"
   },
   {
-    "set": "Twilight Masquerade 12/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "012/167",
+    "set": "Twilight Masquerade 012/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/12.png"
   }
 ]

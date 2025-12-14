@@ -1,87 +1,104 @@
 [
   {
-    "set": "Emerald 17/107",
-    "cost": "Not PSA Graded: $1.33",
+    "code": "017/106",
+    "set": "Emerald 017/106",
+    "cost": "UnGraded: $1.33",
     "img": "https://images.pokemontcg.io/ex9/17.png"
   },
   {
-    "set": "Ruby & Sapphire 18/109",
-    "cost": "Not PSA Graded: $1.15",
+    "code": "018/109",
+    "set": "Ruby & Sapphire 018/109",
+    "cost": "UnGraded: $1.15",
     "img": "https://images.pokemontcg.io/ex1/18.png"
   },
   {
-    "set": "Holon Phantoms 25/111",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "025/110",
+    "set": "Holon Phantoms 025/110",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/ex13/25.png"
   },
   {
-    "set": "Deoxys 42/108",
-    "cost": "Not PSA Graded: $1.58",
+    "code": "042/107",
+    "set": "Deoxys 042/107",
+    "cost": "UnGraded: $1.58",
     "img": "https://images.pokemontcg.io/ex8/42.png"
   },
   {
-    "set": "Steam Siege 54/116",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "054/114",
+    "set": "Steam Siege 054/114",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/xy11/54.png"
   },
   {
-    "set": "Dragons Exalted 62/128",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "062/124",
+    "set": "Dragons Exalted 062/124",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw6/62.png"
   },
   {
-    "set": "Arceus 69/111",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "069/99",
+    "set": "Arceus 069/99",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/pl4/69.png"
   },
   {
-    "set": "Guardians Rising 69/180",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "069/145",
+    "set": "Guardians Rising 069/145",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm2/69.png"
   },
   {
-    "set": "Primal Clash 78/164",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "078/160",
+    "set": "Primal Clash 078/160",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy5/78.png"
   },
   {
-    "set": "Platinum 84/133",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "084/127",
+    "set": "Platinum 084/127",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/pl1/84.png"
   },
   {
-    "set": "Rebel Clash 96/209",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "096/192",
+    "set": "Rebel Clash 096/192",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh2/96.png"
   },
   {
-    "set": "Cosmic Eclipse 106/272",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "106/236",
+    "set": "Cosmic Eclipse 106/236",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm12/106.png"
   },
   {
+    "code": "109/146",
     "set": "Legends Awakened 109/146",
-    "cost": "Not PSA Graded: $0.23",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/dp6/109.png"
   },
   {
-    "set": "Brilliant Stars 73/186",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "073/172",
+    "set": "Brilliant Stars 073/172",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh9/73.png"
   },
   {
-    "set": "Obsidian Flames 107/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "107/197",
+    "set": "Obsidian Flames 107/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/107.png"
   },
   {
-    "set": "Twilight Masquerade 101/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "101/167",
+    "set": "Twilight Masquerade 101/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/101.png"
   },
   {
-    "set": "Destined Rivals 97/244",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "097/182",
+    "set": "Destined Rivals 097/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv10/97.png"
   }
 ]

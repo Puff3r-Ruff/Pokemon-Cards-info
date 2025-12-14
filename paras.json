@@ -1,97 +1,116 @@
 [
   {
-    "set": "Hidden Fates 4/69",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "004/68",
+    "set": "Hidden Fates 004/68",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sm115/4.png"
   },
   {
-    "set": "Team Up 6/198",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "006/181",
+    "set": "Team Up 006/181",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm9/6.png"
   },
   {
-    "set": "Sun & Moon 4/173",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "004/149",
+    "set": "Sun & Moon 004/149",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sm1/4.png"
   },
   {
-    "set": "BREAKthrough 1/165",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "001/162",
+    "set": "BREAKthrough 001/162",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy8/1.png"
   },
   {
-    "set": "Darkness Ablaze 3/201",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "003/189",
+    "set": "Darkness Ablaze 003/189",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh3/3.png"
   },
   {
-    "set": "Generations 6/117",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "006/83",
+    "set": "Generations 006/83",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/g1/6.png"
   },
   {
-    "set": "Neo Revelation 47/66",
+    "code": "047/64",
+    "set": "Neo Revelation 047/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/47.png"
   },
   {
-    "set": "Gym Challenge 71/132",
+    "code": "071/132",
+    "set": "Gym Challenge 071/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/71.png"
   },
   {
-    "set": "Jungle 59/64",
+    "code": "059/64",
+    "set": "Jungle 059/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/59.png"
   },
   {
-    "set": "HeartGold & SoulSilver 76/124",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "076/123",
+    "set": "HeartGold & SoulSilver 076/123",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/hgss1/76.png"
   },
   {
-    "set": "FireRed & LeafGreen 72/116",
-    "cost": "Not PSA Graded: $1.03",
+    "code": "072/112",
+    "set": "FireRed & LeafGreen 072/112",
+    "cost": "UnGraded: $1.03",
     "img": "https://images.pokemontcg.io/ex6/72.png"
   },
   {
-    "set": "Base Set 2 85/130",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "085/130",
+    "set": "Base Set 2 085/130",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/base4/85.png"
   },
   {
-    "set": "Mysterious Treasures 92/124",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "092/123",
+    "set": "Mysterious Treasures 092/123",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/dp2/92.png"
   },
   {
-    "set": "Supreme Victors 119/153",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "119/147",
+    "set": "Supreme Victors 119/147",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/pl3/119.png"
   },
   {
-    "set": "Aquapolis 99/182",
-    "cost": "Not PSA Graded: $2.51",
+    "code": "099/147",
+    "set": "Aquapolis 099/147",
+    "cost": "UnGraded: $2.51",
     "img": "https://images.pokemontcg.io/ecard2/99.png"
   },
   {
-    "set": "Lost Origin 4/217",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "004/196",
+    "set": "Lost Origin 004/196",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh11/4.png"
   },
   {
+    "code": "GG32/70",
     "set": "Crown Zenith Galarian Gallery GG32/70",
-    "cost": "Not PSA Graded: $3.12",
+    "cost": "UnGraded: $3.12",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG32.png"
   },
   {
-    "set": "151 46/207",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "046/165",
+    "set": "151 046/165",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3pt5/46.png"
   },
   {
-    "set": "Journey Together 4/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "004/159",
+    "set": "Journey Together 004/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/4.png"
   }
 ]

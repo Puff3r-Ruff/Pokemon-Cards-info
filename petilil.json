@@ -1,62 +1,74 @@
 [
   {
-    "set": "Guardians Rising 4/180",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "004/145",
+    "set": "Guardians Rising 004/145",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm2/4.png"
   },
   {
-    "set": "Black & White 9/115",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "009/114",
+    "set": "Black & White 009/114",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/bw1/9.png"
   },
   {
-    "set": "Noble Victories 4/102",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "004/101",
+    "set": "Noble Victories 004/101",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/bw3/4.png"
   },
   {
-    "set": "BREAKpoint 7/126",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "007/122",
+    "set": "BREAKpoint 007/122",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/xy9/7.png"
   },
   {
-    "set": "Boundaries Crossed 16/153",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "016/149",
+    "set": "Boundaries Crossed 016/149",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/bw7/16.png"
   },
   {
-    "set": "Emerging Powers 13/98",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "013/98",
+    "set": "Emerging Powers 013/98",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/bw2/13.png"
   },
   {
-    "set": "Evolving Skies 9/237",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "009/203",
+    "set": "Evolving Skies 009/203",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh7/9.png"
   },
   {
-    "set": "Astral Radiance 15/216",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "015/189",
+    "set": "Astral Radiance 015/189",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh10/15.png"
   },
   {
-    "set": "Silver Tempest 9/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "009/195",
+    "set": "Silver Tempest 009/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/9.png"
   },
   {
-    "set": "Journey Together 6/190",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "006/159",
+    "set": "Journey Together 006/159",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv9/6.png"
   },
   {
-    "set": "Black Bolt 6/172",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "006/86",
+    "set": "Black Bolt 006/86",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/zsv10pt5/6.png"
   },
   {
-    "set": "Black Bolt 91/172",
-    "cost": "Not PSA Graded: $10.36",
+    "code": "091/86",
+    "set": "Black Bolt 091/86",
+    "cost": "UnGraded: $10.36",
     "img": "https://images.pokemontcg.io/zsv10pt5/91.png"
   }
 ]

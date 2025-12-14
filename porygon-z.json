@@ -1,92 +1,110 @@
 [
   {
-    "set": "HS—Triumphant 7/103",
-    "cost": "Not PSA Graded: $4.43",
+    "code": "007/102",
+    "set": "HS—Triumphant 007/102",
+    "cost": "UnGraded: $4.43",
     "img": "https://images.pokemontcg.io/hgss4/7.png"
   },
   {
-    "set": "Great Encounters 6/106",
-    "cost": "Not PSA Graded: $6.36",
+    "code": "006/106",
+    "set": "Great Encounters 006/106",
+    "cost": "UnGraded: $6.36",
     "img": "https://images.pokemontcg.io/dp4/6.png"
   },
   {
-    "set": "Arceus 26/111",
-    "cost": "Not PSA Graded: $1.31",
+    "code": "026/99",
+    "set": "Arceus 026/99",
+    "cost": "UnGraded: $1.31",
     "img": "https://images.pokemontcg.io/pl4/26.png"
   },
   {
+    "code": "DP35/56",
     "set": "DP Black Star Promos DP35/56",
-    "cost": "Not PSA Graded: $4.8",
+    "cost": "UnGraded: $4.8",
     "img": "https://images.pokemontcg.io/dpp/DP35.png"
   },
   {
-    "set": "Ancient Origins 66/100",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "066/98",
+    "set": "Ancient Origins 066/98",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/xy7/66.png"
   },
   {
-    "set": "Ancient Origins 67/100",
-    "cost": "Not PSA Graded: $1.71",
+    "code": "067/98",
+    "set": "Ancient Origins 067/98",
+    "cost": "UnGraded: $1.71",
     "img": "https://images.pokemontcg.io/xy7/67.png"
   },
   {
-    "set": "Plasma Blast 74/105",
-    "cost": "Not PSA Graded: $1.74",
+    "code": "074/101",
+    "set": "Plasma Blast 074/101",
+    "cost": "UnGraded: $1.74",
     "img": "https://images.pokemontcg.io/bw10/74.png"
   },
   {
+    "code": "BW84/101",
     "set": "BW Black Star Promos BW84/101",
-    "cost": "Not PSA Graded: $10.4",
+    "cost": "UnGraded: $10.4",
     "img": "https://images.pokemontcg.io/bwp/BW84.png"
   },
   {
+    "code": "100/100",
     "set": "Majestic Dawn 100/100",
-    "cost": "Not PSA Graded: $75",
+    "cost": "UnGraded: $75",
     "img": "https://images.pokemontcg.io/dp5/100.png"
   },
   {
-    "set": "Burning Shadows 105/177",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "105/147",
+    "set": "Burning Shadows 105/147",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/sm3/105.png"
   },
   {
-    "set": "Burning Shadows 105a/177",
+    "code": "105a/147",
+    "set": "Burning Shadows 105a/147",
     "cost": null,
     "img": "https://images.pokemontcg.io/sm3/105a.png"
   },
   {
-    "set": "Unbroken Bonds 157/234",
-    "cost": "Not PSA Graded: $1.34",
+    "code": "157/214",
+    "set": "Unbroken Bonds 157/214",
+    "cost": "UnGraded: $1.34",
     "img": "https://images.pokemontcg.io/sm10/157.png"
   },
   {
-    "set": "SM Black Star Promos SM216/250",
-    "cost": "Not PSA Graded: $3.02",
+    "code": "SM216/248",
+    "set": "SM Black Star Promos SM216/248",
+    "cost": "UnGraded: $3.02",
     "img": "https://images.pokemontcg.io/smp/SM216.png"
   },
   {
-    "set": "Chilling Reign 118/233",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "118/198",
+    "set": "Chilling Reign 118/198",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/swsh6/118.png"
   },
   {
-    "set": "Lost Origin 142/217",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "142/196",
+    "set": "Lost Origin 142/196",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh11/142.png"
   },
   {
-    "set": "Paradox Rift 144/266",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "144/182",
+    "set": "Paradox Rift 144/182",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv4/144.png"
   },
   {
-    "set": "Paradox Rift 214/266",
-    "cost": "Not PSA Graded: $8.19",
+    "code": "214/182",
+    "set": "Paradox Rift 214/182",
+    "cost": "UnGraded: $8.19",
     "img": "https://images.pokemontcg.io/sv4/214.png"
   },
   {
-    "set": "Destined Rivals 155/244",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "155/182",
+    "set": "Destined Rivals 155/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv10/155.png"
   }
 ]

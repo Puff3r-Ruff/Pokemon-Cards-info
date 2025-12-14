@@ -1,122 +1,146 @@
 [
   {
-    "set": "Next Destinies 1/103",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "001/99",
+    "set": "Next Destinies 001/99",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/bw4/1.png"
   },
   {
-    "set": "Lost Thunder 4/240",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "004/214",
+    "set": "Lost Thunder 004/214",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm8/4.png"
   },
   {
-    "set": "Hidden Fates 6/69",
-    "cost": "Not PSA Graded: $1.13",
+    "code": "006/68",
+    "set": "Hidden Fates 006/68",
+    "cost": "UnGraded: $1.13",
     "img": "https://images.pokemontcg.io/sm115/6.png"
   },
   {
-    "set": "BREAKthrough 3/165",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "003/162",
+    "set": "BREAKthrough 003/162",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy8/3.png"
   },
   {
-    "set": "Sun & Moon 6/173",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "006/149",
+    "set": "Sun & Moon 006/149",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm1/6.png"
   },
   {
-    "set": "Team Up 9/198",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "009/181",
+    "set": "Team Up 009/181",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/sm9/9.png"
   },
   {
-    "set": "Jungle 9/64",
+    "code": "009/64",
+    "set": "Jungle 009/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/9.png"
   },
   {
-    "set": "Dragon Frontiers 9/101",
-    "cost": "Not PSA Graded: $10.98",
+    "code": "009/101",
+    "set": "Dragon Frontiers 009/101",
+    "cost": "UnGraded: $10.98",
     "img": "https://images.pokemontcg.io/ex15/9.png"
   },
   {
-    "set": "Generations 9/117",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "009/83",
+    "set": "Generations 009/83",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/g1/9.png"
   },
   {
-    "set": "Hidden Legends 13/102",
-    "cost": "Not PSA Graded: $14.36",
+    "code": "013/101",
+    "set": "Hidden Legends 013/101",
+    "cost": "UnGraded: $14.36",
     "img": "https://images.pokemontcg.io/ex5/13.png"
   },
   {
-    "set": "Gym Challenge 24/132",
+    "code": "024/132",
+    "set": "Gym Challenge 024/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/24.png"
   },
   {
-    "set": "Legend Maker 24/93",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "024/92",
+    "set": "Legend Maker 024/92",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/ex12/24.png"
   },
   {
-    "set": "Base Set 2 29/130",
-    "cost": "Not PSA Graded: $3.81",
+    "code": "029/130",
+    "set": "Base Set 2 029/130",
+    "cost": "UnGraded: $3.82",
     "img": "https://images.pokemontcg.io/base4/29.png"
   },
   {
-    "set": "Jungle 25/64",
+    "code": "025/64",
+    "set": "Jungle 025/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/25.png"
   },
   {
-    "set": "HS—Undaunted 32/91",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "032/90",
+    "set": "HS—Undaunted 032/90",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/hgss3/32.png"
   },
   {
-    "set": "Secret Wonders 59/132",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "059/132",
+    "set": "Secret Wonders 059/132",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/dp3/59.png"
   },
   {
-    "set": "Supreme Victors 75/153",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "075/147",
+    "set": "Supreme Victors 075/147",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/pl3/75.png"
   },
   {
-    "set": "Aquapolis 101/182",
-    "cost": "Not PSA Graded: $2.98",
+    "code": "101/147",
+    "set": "Aquapolis 101/147",
+    "cost": "UnGraded: $2.98",
     "img": "https://images.pokemontcg.io/ecard2/101.png"
   },
   {
-    "set": "Evolving Skies 1/237",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "001/203",
+    "set": "Evolving Skies 001/203",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh7/1.png"
   },
   {
-    "set": "151 127/207",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "127/165",
+    "set": "151 127/165",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3pt5/127.png"
   },
   {
-    "set": "Twilight Masquerade 3/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "003/167",
+    "set": "Twilight Masquerade 003/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/3.png"
   },
   {
-    "set": "Twilight Masquerade 168/226",
-    "cost": "Not PSA Graded: $9.31",
+    "code": "168/167",
+    "set": "Twilight Masquerade 168/167",
+    "cost": "UnGraded: $8.95",
     "img": "https://images.pokemontcg.io/sv6/168.png"
   },
   {
-    "set": "Prismatic Evolutions 3/180",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "003/131",
+    "set": "Prismatic Evolutions 003/131",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv8pt5/3.png"
   },
   {
-    "set": "Destined Rivals 1/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "001/182",
+    "set": "Destined Rivals 001/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/1.png"
   }
 ]

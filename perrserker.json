@@ -1,57 +1,68 @@
 [
   {
-    "set": "SWSH Black Star Promos SWSH008/304",
-    "cost": "Not PSA Graded: $5.14",
+    "code": "SWSH008/307",
+    "set": "SWSH Black Star Promos SWSH008/307",
+    "cost": "UnGraded: $5.14",
     "img": "https://images.pokemontcg.io/swshp/SWSH008.png"
   },
   {
-    "set": "Vivid Voltage 113/203",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "113/185",
+    "set": "Vivid Voltage 113/185",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh4/113.png"
   },
   {
-    "set": "Rebel Clash 127/209",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "127/192",
+    "set": "Rebel Clash 127/192",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh2/127.png"
   },
   {
-    "set": "Sword & Shield 128/216",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "128/202",
+    "set": "Sword & Shield 128/202",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/swsh1/128.png"
   },
   {
-    "set": "Rebel Clash 205/209",
-    "cost": "Not PSA Graded: $8.14",
+    "code": "205/192",
+    "set": "Rebel Clash 205/192",
+    "cost": "UnGraded: $8.14",
     "img": "https://images.pokemontcg.io/swsh2/205.png"
   },
   {
+    "code": "SV087/122",
     "set": "Shining Fates Shiny Vault SV087/122",
-    "cost": "Not PSA Graded: $2.19",
+    "cost": "UnGraded: $2.19",
     "img": "https://images.pokemontcg.io/swsh45sv/SV087.png"
   },
   {
-    "set": "Fusion Strike 181/284",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "181/264",
+    "set": "Fusion Strike 181/264",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh8/181.png"
   },
   {
-    "set": "Lost Origin 129/217",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "129/196",
+    "set": "Lost Origin 129/196",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/swsh11/129.png"
   },
   {
-    "set": "Lost Origin 183/217",
-    "cost": "Not PSA Graded: $1.36",
+    "code": "183/196",
+    "set": "Lost Origin 183/196",
+    "cost": "UnGraded: $1.36",
     "img": "https://images.pokemontcg.io/swsh11/183.png"
   },
   {
-    "set": "Lost Origin 184/217",
-    "cost": "Not PSA Graded: $16.76",
+    "code": "184/196",
+    "set": "Lost Origin 184/196",
+    "cost": "UnGraded: $16.76",
     "img": "https://images.pokemontcg.io/swsh11/184.png"
   },
   {
-    "set": "Crown Zenith 85/160",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "085/159",
+    "set": "Crown Zenith 085/159",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh12pt5/85.png"
   }
 ]

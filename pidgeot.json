@@ -1,132 +1,158 @@
 [
   {
-    "set": "Southern Islands 2/18",
-    "cost": "Not PSA Graded: $27.85",
+    "code": "002/18",
+    "set": "Southern Islands 002/18",
+    "cost": "UnGraded: $27.85",
     "img": "https://images.pokemontcg.io/si1/2.png"
   },
   {
-    "set": "POP Series 2 2/17",
-    "cost": "Not PSA Graded: $4.91",
+    "code": "002/17",
+    "set": "POP Series 2 002/17",
+    "cost": "UnGraded: $4.91",
     "img": "https://images.pokemontcg.io/pop2/2.png"
   },
   {
-    "set": "Base Set 2 14/130",
-    "cost": "Not PSA Graded: $27.58",
+    "code": "014/130",
+    "set": "Base Set 2 014/130",
+    "cost": "UnGraded: $27.58",
     "img": "https://images.pokemontcg.io/base4/14.png"
   },
   {
-    "set": "FireRed & LeafGreen 10/116",
-    "cost": "Not PSA Graded: $13.4",
+    "code": "010/112",
+    "set": "FireRed & LeafGreen 010/112",
+    "cost": "UnGraded: $13.4",
     "img": "https://images.pokemontcg.io/ex6/10.png"
   },
   {
-    "set": "Holon Phantoms 14/111",
-    "cost": "Not PSA Graded: $17.53",
+    "code": "014/110",
+    "set": "Holon Phantoms 014/110",
+    "cost": "UnGraded: $17.53",
     "img": "https://images.pokemontcg.io/ex13/14.png"
   },
   {
-    "set": "Jungle 8/64",
+    "code": "008/64",
+    "set": "Jungle 008/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/8.png"
   },
   {
-    "set": "HS—Triumphant 29/103",
-    "cost": "Not PSA Graded: $4.49",
+    "code": "029/102",
+    "set": "HS—Triumphant 029/102",
+    "cost": "UnGraded: $4.49",
     "img": "https://images.pokemontcg.io/hgss4/29.png"
   },
   {
-    "set": "Call of Legends 30/106",
-    "cost": "Not PSA Graded: $3.86",
+    "code": "030/95",
+    "set": "Call of Legends 030/95",
+    "cost": "UnGraded: $3.86",
     "img": "https://images.pokemontcg.io/col1/30.png"
   },
   {
-    "set": "Secret Wonders 35/132",
-    "cost": "Not PSA Graded: $1.72",
+    "code": "035/132",
+    "set": "Secret Wonders 035/132",
+    "cost": "UnGraded: $1.72",
     "img": "https://images.pokemontcg.io/dp3/35.png"
   },
   {
-    "set": "Expedition Base Set 23/165",
-    "cost": "Not PSA Graded: $78.41",
+    "code": "023/165",
+    "set": "Expedition Base Set 023/165",
+    "cost": "UnGraded: $78.41",
     "img": "https://images.pokemontcg.io/ecard1/23.png"
   },
   {
-    "set": "Jungle 24/64",
+    "code": "024/64",
+    "set": "Jungle 024/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/24.png"
   },
   {
-    "set": "Legendary Collection 33/110",
-    "cost": "Not PSA Graded: $5.57",
+    "code": "033/110",
+    "set": "Legendary Collection 033/110",
+    "cost": "UnGraded: $5.57",
     "img": "https://images.pokemontcg.io/base6/33.png"
   },
   {
-    "set": "Expedition Base Set 59/165",
-    "cost": "Not PSA Graded: $14.95",
+    "code": "059/165",
+    "set": "Expedition Base Set 059/165",
+    "cost": "UnGraded: $14.95",
     "img": "https://images.pokemontcg.io/ecard1/59.png"
   },
   {
-    "set": "Flashfire 77/110",
-    "cost": "Not PSA Graded: $1.07",
+    "code": "077/106",
+    "set": "Flashfire 077/106",
+    "cost": "UnGraded: $1.07",
     "img": "https://images.pokemontcg.io/xy2/77.png"
   },
   {
-    "set": "Evolutions 64/113",
-    "cost": "Not PSA Graded: $1.12",
+    "code": "064/108",
+    "set": "Evolutions 064/108",
+    "cost": "UnGraded: $1.1",
     "img": "https://images.pokemontcg.io/xy12/64.png"
   },
   {
-    "set": "Evolutions 65/113",
-    "cost": "Not PSA Graded: $5.12",
+    "code": "065/108",
+    "set": "Evolutions 065/108",
+    "cost": "UnGraded: $5.12",
     "img": "https://images.pokemontcg.io/xy12/65.png"
   },
   {
-    "set": "Evolutions 104/113",
-    "cost": "Not PSA Graded: $7.12",
+    "code": "104/108",
+    "set": "Evolutions 104/108",
+    "cost": "UnGraded: $7.12",
     "img": "https://images.pokemontcg.io/xy12/104.png"
   },
   {
-    "set": "Evolutions 105/113",
-    "cost": "Not PSA Graded: $14.1",
+    "code": "105/108",
+    "set": "Evolutions 105/108",
+    "cost": "UnGraded: $14.1",
     "img": "https://images.pokemontcg.io/xy12/105.png"
   },
   {
-    "set": "Team Up 124/198",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "124/181",
+    "set": "Team Up 124/181",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/sm9/124.png"
   },
   {
-    "set": "Lost Origin 137/217",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "137/196",
+    "set": "Lost Origin 137/196",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/swsh11/137.png"
   },
   {
-    "set": "Lost Origin 188/217",
-    "cost": "Not PSA Graded: $2.09",
+    "code": "188/196",
+    "set": "Lost Origin 188/196",
+    "cost": "UnGraded: $2.08",
     "img": "https://images.pokemontcg.io/swsh11/188.png"
   },
   {
-    "set": "Obsidian Flames 164/230",
-    "cost": "Not PSA Graded: $3.67",
+    "code": "164/197",
+    "set": "Obsidian Flames 164/197",
+    "cost": "UnGraded: $3.83",
     "img": "https://images.pokemontcg.io/sv3/164.png"
   },
   {
-    "set": "Obsidian Flames 217/230",
-    "cost": "Not PSA Graded: $2.9",
+    "code": "217/197",
+    "set": "Obsidian Flames 217/197",
+    "cost": "UnGraded: $2.99",
     "img": "https://images.pokemontcg.io/sv3/217.png"
   },
   {
-    "set": "Obsidian Flames 225/230",
-    "cost": "Not PSA Graded: $13.32",
+    "code": "225/197",
+    "set": "Obsidian Flames 225/197",
+    "cost": "UnGraded: $13.32",
     "img": "https://images.pokemontcg.io/sv3/225.png"
   },
   {
-    "set": "151 18/207",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "018/165",
+    "set": "151 018/165",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3pt5/18.png"
   },
   {
-    "set": "Paldean Fates 221/245",
-    "cost": "Not PSA Graded: $3.66",
+    "code": "221/91",
+    "set": "Paldean Fates 221/91",
+    "cost": "UnGraded: $3.52",
     "img": "https://images.pokemontcg.io/sv4pt5/221.png"
   }
 ]

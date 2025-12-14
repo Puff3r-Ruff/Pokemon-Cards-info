@@ -1,42 +1,50 @@
 [
   {
-    "set": "Scarlet & Violet 74/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "074/198",
+    "set": "Scarlet & Violet 074/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/74.png"
   },
   {
-    "set": "Scarlet & Violet 73/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "073/198",
+    "set": "Scarlet & Violet 073/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/73.png"
   },
   {
-    "set": "Paldea Evolved 74/279",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "074/193",
+    "set": "Paldea Evolved 074/193",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv2/74.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 40/196",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "040/215",
+    "set": "Scarlet & Violet Black Star Promos 040/215",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/svp/40.png"
   },
   {
-    "set": "Paldean Fates 142/245",
-    "cost": "Not PSA Graded: $2.59",
+    "code": "142/91",
+    "set": "Paldean Fates 142/91",
+    "cost": "UnGraded: $2.59",
     "img": "https://images.pokemontcg.io/sv4pt5/142.png"
   },
   {
-    "set": "Paldean Fates 226/245",
-    "cost": "Not PSA Graded: $1.28",
+    "code": "226/91",
+    "set": "Paldean Fates 226/91",
+    "cost": "UnGraded: $1.28",
     "img": "https://images.pokemontcg.io/sv4pt5/226.png"
   },
   {
-    "set": "Stellar Crown 56/175",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "056/142",
+    "set": "Stellar Crown 056/142",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv7/56.png"
   },
   {
-    "set": "Phantasmal Flames 32/130",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "032/94",
+    "set": "Phantasmal Flames 032/94",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/me2/32.png"
   }
 ]

@@ -1,82 +1,98 @@
 [
   {
-    "set": "POP Series 5 14/17",
-    "cost": "Not PSA Graded: $4.75",
+    "code": "014/17",
+    "set": "POP Series 5 014/17",
+    "cost": "UnGraded: $4.75",
     "img": "https://images.pokemontcg.io/pop5/14.png"
   },
   {
-    "set": "Roaring Skies 19/112",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "019/108",
+    "set": "Roaring Skies 019/108",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/xy6/19.png"
   },
   {
-    "set": "Deoxys 21/108",
-    "cost": "Not PSA Graded: $2.31",
+    "code": "021/107",
+    "set": "Deoxys 021/107",
+    "cost": "UnGraded: $2.31",
     "img": "https://images.pokemontcg.io/ex8/21.png"
   },
   {
-    "set": "Arceus 24/111",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "024/99",
+    "set": "Arceus 024/99",
+    "cost": "UnGraded: $0.84",
     "img": "https://images.pokemontcg.io/pl4/24.png"
   },
   {
-    "set": "Ruby & Sapphire 19/109",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "019/109",
+    "set": "Ruby & Sapphire 019/109",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/ex1/19.png"
   },
   {
-    "set": "Crystal Guardians 26/100",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "026/100",
+    "set": "Crystal Guardians 026/100",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/ex14/26.png"
   },
   {
-    "set": "Sun & Moon 38/173",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "038/149",
+    "set": "Sun & Moon 038/149",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sm1/38.png"
   },
   {
-    "set": "Arceus 45/111",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "045/99",
+    "set": "Arceus 045/99",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/pl4/45.png"
   },
   {
-    "set": "Rebel Clash 42/209",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "042/192",
+    "set": "Rebel Clash 042/192",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh2/42.png"
   },
   {
-    "set": "Great Encounters 48/106",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "048/106",
+    "set": "Great Encounters 048/106",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/dp4/48.png"
   },
   {
-    "set": "Sandstorm 50/100",
-    "cost": "Not PSA Graded: $1",
+    "code": "050/100",
+    "set": "Sandstorm 050/100",
+    "cost": "UnGraded: $1",
     "img": "https://images.pokemontcg.io/ex2/50.png"
   },
   {
-    "set": "Celestial Storm 112/187",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "112/168",
+    "set": "Celestial Storm 112/168",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm7/112.png"
   },
   {
-    "set": "Paldea Evolved 159/279",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "159/193",
+    "set": "Paldea Evolved 159/193",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv2/159.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 22/196",
-    "cost": "Not PSA Graded: $1.52",
+    "code": "022/215",
+    "set": "Scarlet & Violet Black Star Promos 022/215",
+    "cost": "UnGraded: $1.52",
     "img": "https://images.pokemontcg.io/svp/22.png"
   },
   {
-    "set": "Paldean Fates 204/245",
-    "cost": "Not PSA Graded: $1.99",
+    "code": "204/91",
+    "set": "Paldean Fates 204/91",
+    "cost": "UnGraded: $1.99",
     "img": "https://images.pokemontcg.io/sv4pt5/204.png"
   },
   {
-    "set": "Journey Together 39/190",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "039/159",
+    "set": "Journey Together 039/159",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv9/39.png"
   }
 ]

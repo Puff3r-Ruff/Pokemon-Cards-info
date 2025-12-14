@@ -1,27 +1,32 @@
 [
   {
-    "set": "Crimson Invasion 49/126",
-    "cost": "Not PSA Graded: $7.26",
+    "code": "049/111",
+    "set": "Crimson Invasion 049/111",
+    "cost": "UnGraded: $7.26",
     "img": "https://images.pokemontcg.io/sm4/49.png"
   },
   {
+    "code": "SV62/94",
     "set": "Hidden Fates Shiny Vault SV62/94",
-    "cost": "Not PSA Graded: $14.21",
+    "cost": "UnGraded: $14.21",
     "img": "https://images.pokemontcg.io/sma/SV62.png"
   },
   {
-    "set": "Lost Thunder 106/240",
-    "cost": "Not PSA Graded: $11.83",
+    "code": "106/214",
+    "set": "Lost Thunder 106/214",
+    "cost": "UnGraded: $11.83",
     "img": "https://images.pokemontcg.io/sm8/106.png"
   },
   {
-    "set": "Crimson Invasion 103/126",
-    "cost": "Not PSA Graded: $7.07",
+    "code": "103/111",
+    "set": "Crimson Invasion 103/111",
+    "cost": "UnGraded: $7.07",
     "img": "https://images.pokemontcg.io/sm4/103.png"
   },
   {
-    "set": "Crimson Invasion 114/126",
-    "cost": "Not PSA Graded: $12.31",
+    "code": "114/111",
+    "set": "Crimson Invasion 114/111",
+    "cost": "UnGraded: $12.31",
     "img": "https://images.pokemontcg.io/sm4/114.png"
   }
 ]

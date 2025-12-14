@@ -1,42 +1,50 @@
 [
   {
-    "set": "Vivid Voltage 62/203",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "062/185",
+    "set": "Vivid Voltage 062/185",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh4/62.png"
   },
   {
-    "set": "Darkness Ablaze 64/201",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "064/189",
+    "set": "Darkness Ablaze 064/189",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh3/64.png"
   },
   {
-    "set": "Rebel Clash 72/209",
-    "cost": "Not PSA Graded: $0.94",
+    "code": "072/192",
+    "set": "Rebel Clash 072/192",
+    "cost": "UnGraded: $0.94",
     "img": "https://images.pokemontcg.io/swsh2/72.png"
   },
   {
-    "set": "Sword & Shield 77/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "077/202",
+    "set": "Sword & Shield 077/202",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh1/77.png"
   },
   {
+    "code": "SV043/122",
     "set": "Shining Fates Shiny Vault SV043/122",
-    "cost": "Not PSA Graded: $1.79",
+    "cost": "UnGraded: $1.79",
     "img": "https://images.pokemontcg.io/swsh45sv/SV043.png"
   },
   {
-    "set": "Crown Zenith 56/160",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "056/159",
+    "set": "Crown Zenith 056/159",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12pt5/56.png"
   },
   {
-    "set": "Paldea Evolved 73/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "073/193",
+    "set": "Paldea Evolved 073/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/73.png"
   },
   {
-    "set": "Paldea Evolved 72/279",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "072/193",
+    "set": "Paldea Evolved 072/193",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv2/72.png"
   }
 ]

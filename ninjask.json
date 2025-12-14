@@ -1,57 +1,68 @@
 [
   {
-    "set": "Dragons Exalted 11/128",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "011/124",
+    "set": "Dragons Exalted 011/124",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/bw6/11.png"
   },
   {
-    "set": "Roaring Skies 10/112",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "010/108",
+    "set": "Roaring Skies 010/108",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy6/10.png"
   },
   {
-    "set": "Deoxys 13/108",
-    "cost": "Not PSA Graded: $10.28",
+    "code": "013/107",
+    "set": "Deoxys 013/107",
+    "cost": "UnGraded: $10.28",
     "img": "https://images.pokemontcg.io/ex8/13.png"
   },
   {
-    "set": "Vivid Voltage 14/203",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "014/185",
+    "set": "Vivid Voltage 014/185",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/swsh4/14.png"
   },
   {
-    "set": "Dragon 18/100",
-    "cost": "Not PSA Graded: $0.92",
+    "code": "018/97",
+    "set": "Dragon 018/97",
+    "cost": "UnGraded: $0.92",
     "img": "https://images.pokemontcg.io/ex3/18.png"
   },
   {
-    "set": "Lost Thunder 30/240",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "030/214",
+    "set": "Lost Thunder 030/214",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm8/30.png"
   },
   {
-    "set": "Dragon 38/100",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "038/97",
+    "set": "Dragon 038/97",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/ex3/38.png"
   },
   {
-    "set": "Legends Awakened 67/146",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "067/146",
+    "set": "Legends Awakened 067/146",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/dp6/67.png"
   },
   {
-    "set": "Supreme Victors 73/153",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "073/147",
+    "set": "Supreme Victors 073/147",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/pl3/73.png"
   },
   {
-    "set": "Mega Evolution 17/188",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "017/132",
+    "set": "Mega Evolution 017/132",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/me1/17.png"
   },
   {
-    "set": "Mega Evolution 137/188",
-    "cost": "Not PSA Graded: $3.18",
+    "code": "137/132",
+    "set": "Mega Evolution 137/132",
+    "cost": "UnGraded: $3.18",
     "img": "https://images.pokemontcg.io/me1/137.png"
   }
 ]

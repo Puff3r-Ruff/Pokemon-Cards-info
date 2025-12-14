@@ -1,77 +1,92 @@
 [
   {
-    "set": "Fates Collide 17/129",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "017/124",
+    "set": "Fates Collide 017/124",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy10/17.png"
   },
   {
-    "set": "Neo Destiny 37/113",
+    "code": "037/105",
+    "set": "Neo Destiny 037/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/37.png"
   },
   {
-    "set": "Fossil 52/62",
+    "code": "052/62",
+    "set": "Fossil 052/62",
     "cost": null,
     "img": "https://images.pokemontcg.io/base3/52.png"
   },
   {
-    "set": "Legend Maker 60/93",
-    "cost": "Not PSA Graded: $4.61",
+    "code": "060/92",
+    "set": "Legend Maker 060/92",
+    "cost": "UnGraded: $4.61",
     "img": "https://images.pokemontcg.io/ex12/60.png"
   },
   {
-    "set": "Legendary Collection 57/110",
-    "cost": "Not PSA Graded: $1.38",
+    "code": "057/110",
+    "set": "Legendary Collection 057/110",
+    "cost": "UnGraded: $1.44",
     "img": "https://images.pokemontcg.io/base6/57.png"
   },
   {
-    "set": "Power Keepers 56/108",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "056/108",
+    "set": "Power Keepers 056/108",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/ex16/56.png"
   },
   {
-    "set": "Neo Discovery 60/75",
+    "code": "060/75",
+    "set": "Neo Discovery 060/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/60.png"
   },
   {
-    "set": "Arceus 70/111",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "070/99",
+    "set": "Arceus 070/99",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/pl4/70.png"
   },
   {
-    "set": "Majestic Dawn 69/100",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "069/100",
+    "set": "Majestic Dawn 069/100",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/dp5/69.png"
   },
   {
-    "set": "Team Up 75/198",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "075/181",
+    "set": "Team Up 075/181",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm9/75.png"
   },
   {
-    "set": "Holon Phantoms 74/111",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "074/110",
+    "set": "Holon Phantoms 074/110",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/ex13/74.png"
   },
   {
-    "set": "Skyridge 41/182",
-    "cost": "Not PSA Graded: $14.65",
+    "code": "041/144",
+    "set": "Skyridge 041/144",
+    "cost": "UnGraded: $14.65",
     "img": "https://images.pokemontcg.io/ecard3/41.png"
   },
   {
-    "set": "Sandstorm 70/100",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "070/100",
+    "set": "Sandstorm 070/100",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/ex2/70.png"
   },
   {
-    "set": "151 138/207",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "138/165",
+    "set": "151 138/165",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3pt5/138.png"
   },
   {
-    "set": "151 180/207",
-    "cost": "Not PSA Graded: $6.67",
+    "code": "180/165",
+    "set": "151 180/165",
+    "cost": "UnGraded: $6.75",
     "img": "https://images.pokemontcg.io/sv3pt5/180.png"
   }
 ]

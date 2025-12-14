@@ -1,87 +1,104 @@
 [
   {
-    "set": "Neo Destiny 8/113",
+    "code": "008/105",
+    "set": "Neo Destiny 008/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/8.png"
   },
   {
-    "set": "Unseen Forces 12/145",
-    "cost": "Not PSA Graded: $18.19",
+    "code": "012/115",
+    "set": "Unseen Forces 012/115",
+    "cost": "UnGraded: $18.19",
     "img": "https://images.pokemontcg.io/ex10/12.png"
   },
   {
-    "set": "Neo Revelation 12/66",
+    "code": "012/64",
+    "set": "Neo Revelation 012/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/12.png"
   },
   {
-    "set": "Delta Species 25/114",
-    "cost": "Not PSA Graded: $2.83",
+    "code": "025/113",
+    "set": "Delta Species 025/113",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/ex11/25.png"
   },
   {
+    "code": "HGSS23/25",
     "set": "HGSS Black Star Promos HGSS23/25",
-    "cost": "Not PSA Graded: $9.44",
+    "cost": "UnGraded: $9.44",
     "img": "https://images.pokemontcg.io/hsp/HGSS23.png"
   },
   {
-    "set": "HS—Triumphant 49/103",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "049/102",
+    "set": "HS—Triumphant 049/102",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/hgss4/49.png"
   },
   {
-    "set": "Aquapolis 28/182",
-    "cost": "Not PSA Graded: $6.67",
+    "code": "028/147",
+    "set": "Aquapolis 028/147",
+    "cost": "UnGraded: $6.67",
     "img": "https://images.pokemontcg.io/ecard2/28.png"
   },
   {
-    "set": "Great Encounters 49/106",
-    "cost": "Not PSA Graded: $1.42",
+    "code": "049/106",
+    "set": "Great Encounters 049/106",
+    "cost": "UnGraded: $1.42",
     "img": "https://images.pokemontcg.io/dp4/49.png"
   },
   {
-    "set": "Ancient Origins 65/100",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "065/98",
+    "set": "Ancient Origins 065/98",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy7/65.png"
   },
   {
-    "set": "Plasma Blast 73/105",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "073/101",
+    "set": "Plasma Blast 073/101",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/bw10/73.png"
   },
   {
-    "set": "Burning Shadows 104/177",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "104/147",
+    "set": "Burning Shadows 104/147",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm3/104.png"
   },
   {
-    "set": "Unbroken Bonds 156/234",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "156/214",
+    "set": "Unbroken Bonds 156/214",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/sm10/156.png"
   },
   {
-    "set": "Chilling Reign 117/233",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "117/198",
+    "set": "Chilling Reign 117/198",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh6/117.png"
   },
   {
-    "set": "Lost Origin 141/217",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "141/196",
+    "set": "Lost Origin 141/196",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh11/141.png"
   },
   {
-    "set": "Paradox Rift 143/266",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "143/182",
+    "set": "Paradox Rift 143/182",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv4/143.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 138/196",
-    "cost": "Not PSA Graded: $1.06",
+    "code": "138/215",
+    "set": "Scarlet & Violet Black Star Promos 138/215",
+    "cost": "UnGraded: $1.06",
     "img": "https://images.pokemontcg.io/svp/138.png"
   },
   {
-    "set": "Destined Rivals 154/244",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "154/182",
+    "set": "Destined Rivals 154/182",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv10/154.png"
   }
 ]

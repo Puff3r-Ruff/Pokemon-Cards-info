@@ -1,92 +1,110 @@
 [
   {
-    "set": "Team Rocket Returns 8/111",
-    "cost": "Not PSA Graded: $18.25",
+    "code": "008/109",
+    "set": "Team Rocket Returns 008/109",
+    "cost": "UnGraded: $18.25",
     "img": "https://images.pokemontcg.io/ex7/8.png"
   },
   {
-    "set": "HS—Unleashed 6/96",
-    "cost": "Not PSA Graded: $3.51",
+    "code": "006/95",
+    "set": "HS—Unleashed 006/95",
+    "cost": "UnGraded: $3.51",
     "img": "https://images.pokemontcg.io/hgss2/6.png"
   },
   {
-    "set": "Unseen Forces 10/145",
-    "cost": "Not PSA Graded: $8.15",
+    "code": "010/115",
+    "set": "Unseen Forces 010/115",
+    "cost": "UnGraded: $8.15",
     "img": "https://images.pokemontcg.io/ex10/10.png"
   },
   {
-    "set": "Aquapolis H20/182",
-    "cost": "Not PSA Graded: $71.77",
+    "code": "H20/147",
+    "set": "Aquapolis H20/147",
+    "cost": "UnGraded: $71.77",
     "img": "https://images.pokemontcg.io/ecard2/H20.png"
   },
   {
-    "set": "Plasma Blast 19/105",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "019/101",
+    "set": "Plasma Blast 019/101",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/bw10/19.png"
   },
   {
-    "set": "Crimson Invasion 23/126",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "023/111",
+    "set": "Crimson Invasion 023/111",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm4/23.png"
   },
   {
-    "set": "BREAKthrough 33/165",
-    "cost": "Not PSA Graded: $4.57",
+    "code": "033/162",
+    "set": "BREAKthrough 033/162",
+    "cost": "UnGraded: $4.57",
     "img": "https://images.pokemontcg.io/xy8/33.png"
   },
   {
-    "set": "Neo Revelation 34/66",
+    "code": "034/64",
+    "set": "Neo Revelation 034/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/34.png"
   },
   {
-    "set": "Aquapolis 26/182",
-    "cost": "Not PSA Graded: $7.5",
+    "code": "026/147",
+    "set": "Aquapolis 026/147",
+    "cost": "UnGraded: $7.5",
     "img": "https://images.pokemontcg.io/ecard2/26.png"
   },
   {
-    "set": "Platinum 58/133",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "058/127",
+    "set": "Platinum 058/127",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/pl1/58.png"
   },
   {
-    "set": "Neo Destiny 62/113",
+    "code": "062/105",
+    "set": "Neo Destiny 062/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/62.png"
   },
   {
-    "set": "Mysterious Treasures 57/124",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "057/123",
+    "set": "Mysterious Treasures 057/123",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/dp2/57.png"
   },
   {
-    "set": "Battle Styles 37/183",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "037/163",
+    "set": "Battle Styles 037/163",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh5/37.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH089/304",
-    "cost": "Not PSA Graded: $3.94",
+    "code": "SWSH089/307",
+    "set": "SWSH Black Star Promos SWSH089/307",
+    "cost": "UnGraded: $3.94",
     "img": "https://images.pokemontcg.io/swshp/SWSH089.png"
   },
   {
-    "set": "Battle Styles 178/183",
-    "cost": "Not PSA Graded: $6.09",
+    "code": "178/163",
+    "set": "Battle Styles 178/163",
+    "cost": "UnGraded: $6.09",
     "img": "https://images.pokemontcg.io/swsh5/178.png"
   },
   {
+    "code": "TG03/30",
     "set": "Brilliant Stars Trainer Gallery TG03/30",
-    "cost": "Not PSA Graded: $1.95",
+    "cost": "UnGraded: $1.95",
     "img": "https://images.pokemontcg.io/swsh9tg/TG03.png"
   },
   {
-    "set": "Paradox Rift 34/266",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "034/182",
+    "set": "Paradox Rift 034/182",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv4/34.png"
   },
   {
-    "set": "Journey Together 34/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "034/159",
+    "set": "Journey Together 034/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/34.png"
   }
 ]

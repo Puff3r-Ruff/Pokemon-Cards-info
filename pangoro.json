@@ -1,62 +1,74 @@
 [
   {
-    "set": "XY Black Star Promos XY50/216",
-    "cost": "Not PSA Graded: $1.31",
+    "code": "XY50/211",
+    "set": "XY Black Star Promos XY50/211",
+    "cost": "UnGraded: $1.31",
     "img": "https://images.pokemontcg.io/xyp/XY50.png"
   },
   {
-    "set": "Furious Fists 68/114",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "068/111",
+    "set": "Furious Fists 068/111",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/xy3/68.png"
   },
   {
-    "set": "BREAKpoint 75/126",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "075/122",
+    "set": "BREAKpoint 075/122",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/xy9/75.png"
   },
   {
-    "set": "Guardians Rising 82/180",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "082/145",
+    "set": "Guardians Rising 082/145",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm2/82.png"
   },
   {
-    "set": "Forbidden Light 78/150",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "078/131",
+    "set": "Forbidden Light 078/131",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/sm6/78.png"
   },
   {
-    "set": "Team Up 94/198",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "094/181",
+    "set": "Team Up 094/181",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm9/94.png"
   },
   {
-    "set": "Cosmic Eclipse 120/272",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "120/236",
+    "set": "Cosmic Eclipse 120/236",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm12/120.png"
   },
   {
-    "set": "Fusion Strike 174/284",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "174/264",
+    "set": "Fusion Strike 174/264",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh8/174.png"
   },
   {
-    "set": "McDonald's Collection 2022 13/15",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "013/15",
+    "set": "McDonald's Collection 2022 013/15",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/mcd22/13.png"
   },
   {
-    "set": "Crown Zenith 80/160",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "080/159",
+    "set": "Crown Zenith 080/159",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12pt5/80.png"
   },
   {
-    "set": "Stellar Crown 93/175",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "093/142",
+    "set": "Stellar Crown 093/142",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv7/93.png"
   },
   {
-    "set": "Journey Together 99/190",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "099/159",
+    "set": "Journey Together 099/159",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv9/99.png"
   }
 ]

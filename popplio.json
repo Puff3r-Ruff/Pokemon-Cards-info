@@ -1,37 +1,44 @@
 [
   {
-    "set": "SM Black Star Promos SM03/250",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "SM03/248",
+    "set": "SM Black Star Promos SM03/248",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/smp/SM03.png"
   },
   {
-    "set": "SM Black Star Promos SM24/250",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "SM24/248",
+    "set": "SM Black Star Promos SM24/248",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/smp/SM24.png"
   },
   {
-    "set": "Sun & Moon 39/173",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "039/149",
+    "set": "Sun & Moon 039/149",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm1/39.png"
   },
   {
-    "set": "Lost Thunder 64/240",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "064/214",
+    "set": "Lost Thunder 064/214",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm8/64.png"
   },
   {
-    "set": "Lost Thunder 65/240",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "065/214",
+    "set": "Lost Thunder 065/214",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm8/65.png"
   },
   {
-    "set": "McDonald's Collection 2017 4/12",
+    "code": "004/12",
+    "set": "McDonald's Collection 2017 004/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd17/4.png"
   },
   {
-    "set": "McDonald's Collection 2021 23/25",
-    "cost": "Not PSA Graded: $2.09",
+    "code": "023/25",
+    "set": "McDonald's Collection 2021 023/25",
+    "cost": "UnGraded: $2.09",
     "img": "https://images.pokemontcg.io/mcd21/23.png"
   }
 ]

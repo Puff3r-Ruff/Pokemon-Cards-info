@@ -1,87 +1,104 @@
 [
   {
-    "set": "Kalos Starter Set 7/39",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "007/39",
+    "set": "Kalos Starter Set 007/39",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/xy0/7.png"
   },
   {
-    "set": "Next Destinies 15/103",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "015/99",
+    "set": "Next Destinies 015/99",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/bw4/15.png"
   },
   {
-    "set": "Plasma Storm 19/138",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "019/135",
+    "set": "Plasma Storm 019/135",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/bw8/19.png"
   },
   {
-    "set": "XY 22/146",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "022/146",
+    "set": "XY 022/146",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/xy1/22.png"
   },
   {
-    "set": "Noble Victories 16/102",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "016/101",
+    "set": "Noble Victories 016/101",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw3/16.png"
   },
   {
-    "set": "Black & White 21/115",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "021/114",
+    "set": "Black & White 021/114",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/bw1/21.png"
   },
   {
-    "set": "Burning Shadows 22/177",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "022/147",
+    "set": "Burning Shadows 022/147",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sm3/22.png"
   },
   {
-    "set": "Emerging Powers 18/98",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "018/98",
+    "set": "Emerging Powers 018/98",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/bw2/18.png"
   },
   {
-    "set": "BREAKthrough 23/165",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "023/162",
+    "set": "BREAKthrough 023/162",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/xy8/23.png"
   },
   {
-    "set": "Darkness Ablaze 26/201",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "026/189",
+    "set": "Darkness Ablaze 026/189",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh3/26.png"
   },
   {
-    "set": "XY Black Star Promos XY131/216",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "XY131/211",
+    "set": "XY Black Star Promos XY131/211",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/xyp/XY131.png"
   },
   {
-    "set": "Fusion Strike 37/284",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "037/264",
+    "set": "Fusion Strike 037/264",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/swsh8/37.png"
   },
   {
-    "set": "Paradox Rift 20/266",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "020/182",
+    "set": "Paradox Rift 020/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4/20.png"
   },
   {
-    "set": "Stellar Crown 21/175",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "021/142",
+    "set": "Stellar Crown 021/142",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv7/21.png"
   },
   {
-    "set": "Surging Sparks 22/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "022/191",
+    "set": "Surging Sparks 022/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/22.png"
   },
   {
-    "set": "White Flare 14/173",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "014/86",
+    "set": "White Flare 014/86",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/rsv10pt5/14.png"
   },
   {
-    "set": "White Flare 99/173",
-    "cost": "Not PSA Graded: $8.04",
+    "code": "099/86",
+    "set": "White Flare 099/86",
+    "cost": "UnGraded: $8.04",
     "img": "https://images.pokemontcg.io/rsv10pt5/99.png"
   }
 ]
