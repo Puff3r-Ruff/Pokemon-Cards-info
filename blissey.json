@@ -1,112 +1,134 @@
 [
   {
-    "set": "Neo Revelation 2/66",
+    "code": "002/64",
+    "set": "Neo Revelation 002/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/2.png"
   },
   {
-    "set": "Aquapolis H6/182",
+    "code": "0H6/147",
+    "set": "Aquapolis 0H6/147",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard2/H6.png"
   },
   {
-    "set": "Mysterious Treasures 5/124",
-    "cost": "Not PSA Graded: $4.42",
+    "code": "005/123",
+    "set": "Mysterious Treasures 005/123",
+    "cost": "UnGraded: $4.42",
     "img": "https://images.pokemontcg.io/dp2/5.png"
   },
   {
-    "set": "Platinum 22/133",
-    "cost": "Not PSA Graded: $2.81",
+    "code": "022/127",
+    "set": "Platinum 022/127",
+    "cost": "UnGraded: $2.79",
     "img": "https://images.pokemontcg.io/pl1/22.png"
   },
   {
-    "set": "HeartGold & SoulSilver 36/124",
-    "cost": "Not PSA Graded: $1.29",
+    "code": "036/123",
+    "set": "HeartGold & SoulSilver 036/123",
+    "cost": "UnGraded: $1.29",
     "img": "https://images.pokemontcg.io/hgss1/36.png"
   },
   {
-    "set": "Aquapolis 6/182",
-    "cost": "Not PSA Graded: $4.75",
+    "code": "006/147",
+    "set": "Aquapolis 006/147",
+    "cost": "UnGraded: $4.75",
     "img": "https://images.pokemontcg.io/ecard2/6.png"
   },
   {
-    "set": "XY Black Star Promos XY56/216",
-    "cost": "Not PSA Graded: $2.71",
+    "code": "XY56/211",
+    "set": "XY Black Star Promos XY56/211",
+    "cost": "UnGraded: $3.08",
     "img": "https://images.pokemontcg.io/xyp/XY56.png"
   },
   {
-    "set": "Dark Explorers 82/111",
-    "cost": "Not PSA Graded: $1.11",
+    "code": "082/108",
+    "set": "Dark Explorers 082/108",
+    "cost": "UnGraded: $1.11",
     "img": "https://images.pokemontcg.io/bw5/82.png"
   },
   {
-    "set": "Phantom Forces 81/124",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "081/119",
+    "set": "Phantom Forces 081/119",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/xy4/81.png"
   },
   {
-    "set": "HeartGold & SoulSilver 106/124",
-    "cost": "Not PSA Graded: $29.23",
+    "code": "106/123",
+    "set": "HeartGold & SoulSilver 106/123",
+    "cost": "UnGraded: $29.23",
     "img": "https://images.pokemontcg.io/hgss1/106.png"
   },
   {
-    "set": "Unseen Forces 101/145",
-    "cost": "Not PSA Graded: $75.14",
+    "code": "101/115",
+    "set": "Unseen Forces 101/115",
+    "cost": "UnGraded: $75.14",
     "img": "https://images.pokemontcg.io/ex10/101.png"
   },
   {
-    "set": "Guardians Rising 102/180",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "102/145",
+    "set": "Guardians Rising 102/145",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/sm2/102.png"
   },
   {
-    "set": "Lost Thunder 153/240",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "153/214",
+    "set": "Lost Thunder 153/214",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/sm8/153.png"
   },
   {
-    "set": "Chilling Reign 119/233",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "119/198",
+    "set": "Chilling Reign 119/198",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/swsh6/119.png"
   },
   {
-    "set": "Chilling Reign 182/233",
-    "cost": "Not PSA Graded: $3.97",
+    "code": "182/198",
+    "set": "Chilling Reign 182/198",
+    "cost": "UnGraded: $4",
     "img": "https://images.pokemontcg.io/swsh6/182.png"
   },
   {
-    "set": "Chilling Reign 183/233",
-    "cost": "Not PSA Graded: $41.26",
+    "code": "183/198",
+    "set": "Chilling Reign 183/198",
+    "cost": "UnGraded: $41.26",
     "img": "https://images.pokemontcg.io/swsh6/183.png"
   },
   {
-    "set": "Fusion Strike 203/284",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "203/264",
+    "set": "Fusion Strike 203/264",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/swsh8/203.png"
   },
   {
-    "set": "Pokémon GO 52/88",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "052/78",
+    "set": "Pokémon GO 052/78",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/pgo/52.png"
   },
   {
+    "code": "TG22/30",
     "set": "Silver Tempest Trainer Gallery TG22/30",
-    "cost": "Not PSA Graded: $13.26",
+    "cost": "UnGraded: $13.28",
     "img": "https://images.pokemontcg.io/swsh12tg/TG22.png"
   },
   {
-    "set": "Scarlet & Violet 145/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "145/198",
+    "set": "Scarlet & Violet 145/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/145.png"
   },
   {
-    "set": "Twilight Masquerade 134/226",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "134/167",
+    "set": "Twilight Masquerade 134/167",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/sv6/134.png"
   },
   {
-    "set": "Twilight Masquerade 201/226",
-    "cost": "Not PSA Graded: $3.72",
+    "code": "201/167",
+    "set": "Twilight Masquerade 201/167",
+    "cost": "UnGraded: $3.79",
     "img": "https://images.pokemontcg.io/sv6/201.png"
   }
 ]

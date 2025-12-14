@@ -1,32 +1,38 @@
 [
   {
-    "set": "Unbroken Bonds 32/234",
-    "cost": "Not PSA Graded: $3.67",
+    "code": "032/214",
+    "set": "Unbroken Bonds 032/214",
+    "cost": "UnGraded: $3.67",
     "img": "https://images.pokemontcg.io/sm10/32.png"
   },
   {
-    "set": "Lost Thunder 52/240",
-    "cost": "Not PSA Graded: $8.48",
+    "code": "052/214",
+    "set": "Lost Thunder 052/214",
+    "cost": "UnGraded: $8.48",
     "img": "https://images.pokemontcg.io/sm8/52.png"
   },
   {
-    "set": "Cosmic Eclipse 104/272",
-    "cost": "Not PSA Graded: $5.17",
+    "code": "104/236",
+    "set": "Cosmic Eclipse 104/236",
+    "cost": "UnGraded: $5.17",
     "img": "https://images.pokemontcg.io/sm12/104.png"
   },
   {
-    "set": "Lost Thunder 199/240",
-    "cost": "Not PSA Graded: $19.37",
+    "code": "199/214",
+    "set": "Lost Thunder 199/214",
+    "cost": "UnGraded: $19.37",
     "img": "https://images.pokemontcg.io/sm8/199.png"
   },
   {
-    "set": "SM Black Star Promos SM221/250",
-    "cost": "Not PSA Graded: $6.93",
+    "code": "SM221/248",
+    "set": "SM Black Star Promos SM221/248",
+    "cost": "UnGraded: $6.93",
     "img": "https://images.pokemontcg.io/smp/SM221.png"
   },
   {
-    "set": "Lost Thunder 219/240",
-    "cost": "Not PSA Graded: $48.74",
+    "code": "219/214",
+    "set": "Lost Thunder 219/214",
+    "cost": "UnGraded: $48.74",
     "img": "https://images.pokemontcg.io/sm8/219.png"
   }
 ]

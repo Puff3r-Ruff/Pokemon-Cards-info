@@ -1,12 +1,14 @@
 [
   {
-    "set": "Forbidden Light 27/150",
-    "cost": "Not PSA Graded: $2.04",
+    "code": "027/131",
+    "set": "Forbidden Light 027/131",
+    "cost": "UnGraded: $2.04",
     "img": "https://images.pokemontcg.io/sm6/27.png"
   },
   {
-    "set": "Furious Fists 25/114",
-    "cost": "Not PSA Graded: $1.76",
+    "code": "025/111",
+    "set": "Furious Fists 025/111",
+    "cost": "UnGraded: $1.76",
     "img": "https://images.pokemontcg.io/xy3/25.png"
   }
 ]

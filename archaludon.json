@@ -1,37 +1,44 @@
 [
   {
-    "set": "Stellar Crown 107/175",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "107/142",
+    "set": "Stellar Crown 107/142",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv7/107.png"
   },
   {
-    "set": "Stellar Crown 155/175",
-    "cost": "Not PSA Graded: $2.29",
+    "code": "155/142",
+    "set": "Stellar Crown 155/142",
+    "cost": "UnGraded: $2.29",
     "img": "https://images.pokemontcg.io/sv7/155.png"
   },
   {
-    "set": "Surging Sparks 130/252",
-    "cost": "Not PSA Graded: $0.55",
+    "code": "130/191",
+    "set": "Surging Sparks 130/191",
+    "cost": "UnGraded: $0.55",
     "img": "https://images.pokemontcg.io/sv8/130.png"
   },
   {
-    "set": "Surging Sparks 224/252",
-    "cost": "Not PSA Graded: $0.89",
+    "code": "224/191",
+    "set": "Surging Sparks 224/191",
+    "cost": "UnGraded: $0.89",
     "img": "https://images.pokemontcg.io/sv8/224.png"
   },
   {
-    "set": "Surging Sparks 241/252",
-    "cost": "Not PSA Graded: $11.08",
+    "code": "241/191",
+    "set": "Surging Sparks 241/191",
+    "cost": "UnGraded: $11.08",
     "img": "https://images.pokemontcg.io/sv8/241.png"
   },
   {
-    "set": "Prismatic Evolutions 70/180",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "070/131",
+    "set": "Prismatic Evolutions 070/131",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv8pt5/70.png"
   },
   {
-    "set": "Phantasmal Flames 75/130",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "075/94",
+    "set": "Phantasmal Flames 075/94",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/me2/75.png"
   }
 ]

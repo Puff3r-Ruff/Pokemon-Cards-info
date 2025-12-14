@@ -1,57 +1,68 @@
 [
   {
-    "set": "Furious Fists 22/114",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "022/111",
+    "set": "Furious Fists 022/111",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/xy3/22.png"
   },
   {
-    "set": "Next Destinies 37/103",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "037/99",
+    "set": "Next Destinies 037/99",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/bw4/37.png"
   },
   {
-    "set": "Emerging Powers 30/98",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "030/98",
+    "set": "Emerging Powers 030/98",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/bw2/30.png"
   },
   {
-    "set": "Emerging Powers 31/98",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "031/98",
+    "set": "Emerging Powers 031/98",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/bw2/31.png"
   },
   {
-    "set": "Plasma Storm 41/138",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "041/135",
+    "set": "Plasma Storm 041/135",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/bw8/41.png"
   },
   {
-    "set": "Darkness Ablaze 49/201",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "049/189",
+    "set": "Darkness Ablaze 049/189",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh3/49.png"
   },
   {
-    "set": "Lost Thunder 62/240",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "062/214",
+    "set": "Lost Thunder 062/214",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/sm8/62.png"
   },
   {
-    "set": "Brilliant Stars 43/186",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "043/172",
+    "set": "Brilliant Stars 043/172",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh9/43.png"
   },
   {
-    "set": "Obsidian Flames 54/230",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "054/197",
+    "set": "Obsidian Flames 054/197",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv3/54.png"
   },
   {
-    "set": "Black Bolt 26/172",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "026/86",
+    "set": "Black Bolt 026/86",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/zsv10pt5/26.png"
   },
   {
-    "set": "Black Bolt 110/172",
-    "cost": "Not PSA Graded: $6.03",
+    "code": "110/86",
+    "set": "Black Bolt 110/86",
+    "cost": "UnGraded: $6.03",
     "img": "https://images.pokemontcg.io/zsv10pt5/110.png"
   }
 ]

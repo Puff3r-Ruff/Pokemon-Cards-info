@@ -1,57 +1,68 @@
 [
   {
-    "set": "Rebel Clash 20/209",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "020/192",
+    "set": "Rebel Clash 020/192",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh2/20.png"
   },
   {
-    "set": "Rebel Clash 21/209",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "021/192",
+    "set": "Rebel Clash 021/192",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh2/21.png"
   },
   {
+    "code": "SV012/122",
     "set": "Shining Fates Shiny Vault SV012/122",
-    "cost": "Not PSA Graded: $5.15",
+    "cost": "UnGraded: $5.15",
     "img": "https://images.pokemontcg.io/swsh45sv/SV012.png"
   },
   {
-    "set": "Evolving Skies 17/237",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "017/203",
+    "set": "Evolving Skies 017/203",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh7/17.png"
   },
   {
-    "set": "Twilight Masquerade 17/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "017/167",
+    "set": "Twilight Masquerade 017/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/17.png"
   },
   {
-    "set": "Twilight Masquerade 126/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "126/167",
+    "set": "Twilight Masquerade 126/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/126.png"
   },
   {
-    "set": "Twilight Masquerade 185/226",
-    "cost": "Not PSA Graded: $5.58",
+    "code": "185/167",
+    "set": "Twilight Masquerade 185/167",
+    "cost": "UnGraded: $5.58",
     "img": "https://images.pokemontcg.io/sv6/185.png"
   },
   {
-    "set": "Stellar Crown 12/175",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "012/142",
+    "set": "Stellar Crown 012/142",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv7/12.png"
   },
   {
-    "set": "Surging Sparks 138/252",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "138/191",
+    "set": "Surging Sparks 138/191",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv8/138.png"
   },
   {
-    "set": "Prismatic Evolutions 9/180",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "009/131",
+    "set": "Prismatic Evolutions 009/131",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8pt5/9.png"
   },
   {
-    "set": "Destined Rivals 16/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "016/182",
+    "set": "Destined Rivals 016/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/16.png"
   }
 ]

@@ -1,27 +1,32 @@
 [
   {
-    "set": "Fates Collide 23/129",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "023/124",
+    "set": "Fates Collide 023/124",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/xy10/23.png"
   },
   {
-    "set": "Flashfire 49/110",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "049/106",
+    "set": "Flashfire 049/106",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/xy2/49.png"
   },
   {
-    "set": "Forbidden Light 67/150",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "067/131",
+    "set": "Forbidden Light 067/131",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/sm6/67.png"
   },
   {
-    "set": "Rebel Clash 104/209",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "104/192",
+    "set": "Rebel Clash 104/192",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/swsh2/104.png"
   },
   {
-    "set": "Lost Origin 107/217",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "107/196",
+    "set": "Lost Origin 107/196",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh11/107.png"
   }
 ]

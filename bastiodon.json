@@ -1,42 +1,50 @@
 [
   {
-    "set": "POP Series 6 1/17",
-    "cost": "Not PSA Graded: $1.63",
+    "code": "001/17",
+    "set": "POP Series 6 001/17",
+    "cost": "UnGraded: $1.63",
     "img": "https://images.pokemontcg.io/pop6/1.png"
   },
   {
-    "set": "Rising Rivals 2/120",
-    "cost": "Not PSA Graded: $4.63",
+    "code": "002/111",
+    "set": "Rising Rivals 002/111",
+    "cost": "UnGraded: $4.63",
     "img": "https://images.pokemontcg.io/pl2/2.png"
   },
   {
-    "set": "Pokémon Rumble 14/16",
-    "cost": "Not PSA Graded: $44.37",
+    "code": "014/16",
+    "set": "Pokémon Rumble 014/16",
+    "cost": "UnGraded: $44.37",
     "img": "https://images.pokemontcg.io/ru1/14.png"
   },
   {
-    "set": "Platinum 20/133",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "020/127",
+    "set": "Platinum 020/127",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/pl1/20.png"
   },
   {
-    "set": "Mysterious Treasures 21/124",
-    "cost": "Not PSA Graded: $0.81",
+    "code": "021/123",
+    "set": "Mysterious Treasures 021/123",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/dp2/21.png"
   },
   {
-    "set": "Steam Siege 70/116",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "070/114",
+    "set": "Steam Siege 070/114",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/xy11/70.png"
   },
   {
-    "set": "Ultra Prism 85/178",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "085/156",
+    "set": "Ultra Prism 085/156",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/sm5/85.png"
   },
   {
-    "set": "Astral Radiance 110/216",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "110/189",
+    "set": "Astral Radiance 110/189",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/swsh10/110.png"
   }
 ]

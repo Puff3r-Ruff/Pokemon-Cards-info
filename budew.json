@@ -1,17 +1,20 @@
 [
   {
-    "set": "Stormfront 33/106",
-    "cost": "Not PSA Graded: $5.83",
+    "code": "033/100",
+    "set": "Stormfront 033/100",
+    "cost": "UnGraded: $5.83",
     "img": "https://images.pokemontcg.io/dp7/33.png"
   },
   {
-    "set": "Diamond & Pearl 43/130",
-    "cost": "Not PSA Graded: $5.84",
+    "code": "043/130",
+    "set": "Diamond & Pearl 043/130",
+    "cost": "UnGraded: $5.84",
     "img": "https://images.pokemontcg.io/dp1/43.png"
   },
   {
-    "set": "Prismatic Evolutions 4/180",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "004/131",
+    "set": "Prismatic Evolutions 004/131",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv8pt5/4.png"
   }
 ]

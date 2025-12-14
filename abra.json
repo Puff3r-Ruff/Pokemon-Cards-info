@@ -1,77 +1,92 @@
 [
   {
-    "set": "Wizards Black Star Promos 19/53",
-    "cost": "Not PSA Graded: $42.57",
+    "code": "019/53",
+    "set": "Wizards Black Star Promos 019/53",
+    "cost": "UnGraded: $42.57",
     "img": "https://images.pokemontcg.io/basep/19.png"
   },
   {
-    "set": "Base 43/102",
-    "cost": "Not PSA Graded: $0.94",
+    "code": "043/102",
+    "set": "Base 043/102",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/base1/43.png"
   },
   {
-    "set": "Team Rocket 49/83",
+    "code": "049/82",
+    "set": "Team Rocket 049/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/49.png"
   },
   {
-    "set": "Base Set 2 65/130",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "065/130",
+    "set": "Base Set 2 065/130",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/base4/65.png"
   },
   {
-    "set": "Legendary Collection 67/110",
-    "cost": "Not PSA Graded: $1.04",
+    "code": "067/110",
+    "set": "Legendary Collection 067/110",
+    "cost": "UnGraded: $1.04",
     "img": "https://images.pokemontcg.io/base6/67.png"
   },
   {
-    "set": "Mysterious Treasures 69/124",
-    "cost": "Not PSA Graded: $1.57",
+    "code": "069/123",
+    "set": "Mysterious Treasures 069/123",
+    "cost": "UnGraded: $1.57",
     "img": "https://images.pokemontcg.io/dp2/69.png"
   },
   {
-    "set": "Skyridge 46/182",
-    "cost": "Not PSA Graded: $15.93",
+    "code": "046/144",
+    "set": "Skyridge 046/144",
+    "cost": "UnGraded: $15.93",
     "img": "https://images.pokemontcg.io/ecard3/46.png"
   },
   {
-    "set": "Gym Challenge 93/132",
+    "code": "093/132",
+    "set": "Gym Challenge 093/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/93.png"
   },
   {
-    "set": "Gym Heroes 91/132",
+    "code": "091/132",
+    "set": "Gym Heroes 091/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/91.png"
   },
   {
-    "set": "Gym Challenge 94/132",
+    "code": "094/132",
+    "set": "Gym Challenge 094/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/94.png"
   },
   {
-    "set": "Expedition Base Set 93/165",
-    "cost": "Not PSA Graded: $1.96",
+    "code": "093/165",
+    "set": "Expedition Base Set 093/165",
+    "cost": "UnGraded: $1.97",
     "img": "https://images.pokemontcg.io/ecard1/93.png"
   },
   {
-    "set": "151 63/207",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "063/165",
+    "set": "151 063/165",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv3pt5/63.png"
   },
   {
-    "set": "Paldean Fates 148/245",
-    "cost": "Not PSA Graded: $5.81",
+    "code": "148/91",
+    "set": "Paldean Fates 148/91",
+    "cost": "UnGraded: $5.81",
     "img": "https://images.pokemontcg.io/sv4pt5/148.png"
   },
   {
-    "set": "Twilight Masquerade 80/226",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "080/167",
+    "set": "Twilight Masquerade 080/167",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv6/80.png"
   },
   {
-    "set": "Mega Evolution 54/188",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "054/132",
+    "set": "Mega Evolution 054/132",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/me1/54.png"
   }
 ]

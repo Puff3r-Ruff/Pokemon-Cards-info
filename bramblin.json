@@ -1,27 +1,32 @@
 [
   {
-    "set": "Paldea Evolved 23/279",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "023/193",
+    "set": "Paldea Evolved 023/193",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv2/23.png"
   },
   {
-    "set": "Paldea Evolved 22/279",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "022/193",
+    "set": "Paldea Evolved 022/193",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv2/22.png"
   },
   {
-    "set": "Paldea Evolved 198/279",
-    "cost": "Not PSA Graded: $6.33",
+    "code": "198/193",
+    "set": "Paldea Evolved 198/193",
+    "cost": "UnGraded: $6.33",
     "img": "https://images.pokemontcg.io/sv2/198.png"
   },
   {
-    "set": "Temporal Forces 20/218",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "020/162",
+    "set": "Temporal Forces 020/162",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv5/20.png"
   },
   {
-    "set": "Phantasmal Flames 46/130",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "046/94",
+    "set": "Phantasmal Flames 046/94",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me2/46.png"
   }
 ]

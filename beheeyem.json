@@ -1,52 +1,62 @@
 [
   {
-    "set": "Next Destinies 62/103",
-    "cost": "Not PSA Graded: $0.55",
+    "code": "062/99",
+    "set": "Next Destinies 062/99",
+    "cost": "UnGraded: $0.55",
     "img": "https://images.pokemontcg.io/bw4/62.png"
   },
   {
-    "set": "Noble Victories 56/102",
-    "cost": "Not PSA Graded: $3.27",
+    "code": "056/101",
+    "set": "Noble Victories 056/101",
+    "cost": "UnGraded: $3.27",
     "img": "https://images.pokemontcg.io/bw3/56.png"
   },
   {
-    "set": "Plasma Storm 70/138",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "070/135",
+    "set": "Plasma Storm 070/135",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/bw8/70.png"
   },
   {
-    "set": "BREAKthrough 74/165",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "074/162",
+    "set": "BREAKthrough 074/162",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy8/74.png"
   },
   {
-    "set": "Unified Minds 91/260",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "091/236",
+    "set": "Unified Minds 091/236",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm11/91.png"
   },
   {
-    "set": "XY Black Star Promos XY135/216",
-    "cost": "Not PSA Graded: $7.97",
+    "code": "XY135/211",
+    "set": "XY Black Star Promos XY135/211",
+    "cost": "UnGraded: $7.97",
     "img": "https://images.pokemontcg.io/xyp/XY135.png"
   },
   {
-    "set": "Silver Tempest 80/215",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "080/195",
+    "set": "Silver Tempest 080/195",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12/80.png"
   },
   {
-    "set": "Temporal Forces 74/218",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "074/162",
+    "set": "Temporal Forces 074/162",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv5/74.png"
   },
   {
-    "set": "Black Bolt 41/172",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "041/86",
+    "set": "Black Bolt 041/86",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/zsv10pt5/41.png"
   },
   {
-    "set": "Black Bolt 121/172",
-    "cost": "Not PSA Graded: $4.77",
+    "code": "121/86",
+    "set": "Black Bolt 121/86",
+    "cost": "UnGraded: $4.77",
     "img": "https://images.pokemontcg.io/zsv10pt5/121.png"
   }
 ]

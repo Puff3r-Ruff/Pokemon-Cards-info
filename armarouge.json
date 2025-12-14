@@ -1,52 +1,62 @@
 [
   {
-    "set": "Scarlet & Violet 41/258",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "041/198",
+    "set": "Scarlet & Violet 041/198",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv1/41.png"
   },
   {
-    "set": "Scarlet & Violet 203/258",
-    "cost": "Not PSA Graded: $11.31",
+    "code": "203/198",
+    "set": "Scarlet & Violet 203/198",
+    "cost": "UnGraded: $11.31",
     "img": "https://images.pokemontcg.io/sv1/203.png"
   },
   {
-    "set": "Obsidian Flames 44/230",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "044/197",
+    "set": "Obsidian Flames 044/197",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv3/44.png"
   },
   {
-    "set": "Paradox Rift 27/266",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "027/182",
+    "set": "Paradox Rift 027/182",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/sv4/27.png"
   },
   {
-    "set": "Paradox Rift 218/266",
-    "cost": "Not PSA Graded: $1.51",
+    "code": "218/182",
+    "set": "Paradox Rift 218/182",
+    "cost": "UnGraded: $1.51",
     "img": "https://images.pokemontcg.io/sv4/218.png"
   },
   {
-    "set": "Paldean Fates 15/245",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "015/91",
+    "set": "Paldean Fates 015/91",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv4pt5/15.png"
   },
   {
-    "set": "Paldean Fates 115/245",
-    "cost": "Not PSA Graded: $4.05",
+    "code": "115/91",
+    "set": "Paldean Fates 115/91",
+    "cost": "UnGraded: $4.05",
     "img": "https://images.pokemontcg.io/sv4pt5/115.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 105/196",
+    "code": "105/215",
+    "set": "Scarlet & Violet Black Star Promos 105/215",
     "cost": null,
     "img": "https://images.pokemontcg.io/svp/105.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 125/196",
-    "cost": "Not PSA Graded: $0.83",
+    "code": "125/215",
+    "set": "Scarlet & Violet Black Star Promos 125/215",
+    "cost": "UnGraded: $0.83",
     "img": "https://images.pokemontcg.io/svp/125.png"
   },
   {
-    "set": "Surging Sparks 34/252",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "034/191",
+    "set": "Surging Sparks 034/191",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8/34.png"
   }
 ]

@@ -1,77 +1,92 @@
 [
   {
-    "set": "Dragon Vault 12/21",
-    "cost": "Not PSA Graded: $1.27",
+    "code": "012/20",
+    "set": "Dragon Vault 012/20",
+    "cost": "UnGraded: $1.27",
     "img": "https://images.pokemontcg.io/dv1/12.png"
   },
   {
-    "set": "Dragon Vault 13/21",
-    "cost": "Not PSA Graded: $1.43",
+    "code": "013/20",
+    "set": "Dragon Vault 013/20",
+    "cost": "UnGraded: $1.43",
     "img": "https://images.pokemontcg.io/dv1/13.png"
   },
   {
+    "code": "BW10/101",
     "set": "BW Black Star Promos BW10/101",
-    "cost": "Not PSA Graded: $1.99",
+    "cost": "UnGraded: $1.99",
     "img": "https://images.pokemontcg.io/bwp/BW10.png"
   },
   {
+    "code": "BW16/101",
     "set": "BW Black Star Promos BW16/101",
-    "cost": "Not PSA Graded: $73.75",
+    "cost": "UnGraded: $73.75",
     "img": "https://images.pokemontcg.io/bwp/BW16.png"
   },
   {
-    "set": "McDonald's Collection 2012 12/12",
-    "cost": "Not PSA Graded: $5.32",
+    "code": "012/12",
+    "set": "McDonald's Collection 2012 012/12",
+    "cost": "UnGraded: $5.32",
     "img": "https://images.pokemontcg.io/mcd12/12.png"
   },
   {
+    "code": "BW26/101",
     "set": "BW Black Star Promos BW26/101",
-    "cost": "Not PSA Graded: $4.57",
+    "cost": "UnGraded: $4.57",
     "img": "https://images.pokemontcg.io/bwp/BW26.png"
   },
   {
-    "set": "Plasma Blast 67/105",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "067/101",
+    "set": "Plasma Blast 067/101",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw10/67.png"
   },
   {
-    "set": "Noble Victories 86/102",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "086/101",
+    "set": "Noble Victories 086/101",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/bw3/86.png"
   },
   {
-    "set": "BREAKthrough 108/165",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "108/162",
+    "set": "BREAKthrough 108/162",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/xy8/108.png"
   },
   {
-    "set": "BREAKthrough 109/165",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "109/162",
+    "set": "BREAKthrough 109/162",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/xy8/109.png"
   },
   {
-    "set": "Unified Minds 154/260",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "154/236",
+    "set": "Unified Minds 154/236",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm11/154.png"
   },
   {
-    "set": "Brilliant Stars 110/186",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "110/172",
+    "set": "Brilliant Stars 110/172",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh9/110.png"
   },
   {
-    "set": "Shrouded Fable 44/99",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "044/64",
+    "set": "Shrouded Fable 044/64",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6pt5/44.png"
   },
   {
-    "set": "Black Bolt 68/172",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "068/86",
+    "set": "Black Bolt 068/86",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/zsv10pt5/68.png"
   },
   {
-    "set": "Black Bolt 145/172",
-    "cost": "Not PSA Graded: $12.28",
+    "code": "145/86",
+    "set": "Black Bolt 145/86",
+    "cost": "UnGraded: $12.28",
     "img": "https://images.pokemontcg.io/zsv10pt5/145.png"
   }
 ]

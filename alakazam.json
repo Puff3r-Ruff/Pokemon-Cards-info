@@ -1,148 +1,176 @@
 [
   {
-    "set": "Base Set 2 1/130",
-    "cost": "Not PSA Graded: $41.8",
+    "code": "001/130",
+    "set": "Base Set 2 001/130",
+    "cost": "UnGraded: $41.8",
     "img": "https://images.pokemontcg.io/base4/1.png"
   },
   {
-    "set": "Team Rocket 1/83",
+    "code": "001/82",
+    "set": "Team Rocket 001/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/1.png"
   },
   {
-    "set": "Base 1/102",
-    "cost": "Not PSA Graded: $49.81",
-    "img": "https://images.pokemontcg.io/base1/1.png",
-    "link": "https://gymleadertcg.com/the-fifth-most-valuable-pokemon-card-in-the-base-set-alakazam/"
+    "code": "001/102",
+    "set": "Base 001/102",
+    "cost": "UnGraded: $49.81",
+    "img": "https://images.pokemontcg.io/base1/1.png"
   },
   {
-    "set": "Legendary Collection 1/110",
-    "cost": "Not PSA Graded: $59.72",
+    "code": "001/110",
+    "set": "Legendary Collection 001/110",
+    "cost": "UnGraded: $59.72",
     "img": "https://images.pokemontcg.io/base6/1.png"
   },
   {
-    "set": "Skyridge H1/182",
+    "code": "0H1/144",
+    "set": "Skyridge 0H1/144",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard3/H1.png"
   },
   {
-    "set": "Mysterious Treasures 2/124",
-    "cost": "Not PSA Graded: $33.33",
+    "code": "002/123",
+    "set": "Mysterious Treasures 002/123",
+    "cost": "UnGraded: $33.33",
     "img": "https://images.pokemontcg.io/dp2/2.png"
   },
   {
-    "set": "Expedition Base Set 1/165",
-    "cost": "Not PSA Graded: $221.49",
+    "code": "001/165",
+    "set": "Expedition Base Set 001/165",
+    "cost": "UnGraded: $221.49",
     "img": "https://images.pokemontcg.io/ecard1/1.png"
   },
   {
-    "set": "Gym Challenge 16/132",
+    "code": "016/132",
+    "set": "Gym Challenge 016/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/16.png"
   },
   {
-    "set": "Team Rocket 18/83",
+    "code": "018/82",
+    "set": "Team Rocket 018/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/18.png"
   },
   {
-    "set": "Fates Collide 25/129",
-    "cost": "Not PSA Graded: $5.14",
+    "code": "025/124",
+    "set": "Fates Collide 025/124",
+    "cost": "UnGraded: $5.14",
     "img": "https://images.pokemontcg.io/xy10/25.png"
   },
   {
-    "set": "Fates Collide 26/129",
-    "cost": "Not PSA Graded: $20.03",
+    "code": "026/124",
+    "set": "Fates Collide 026/124",
+    "cost": "UnGraded: $20.19",
     "img": "https://images.pokemontcg.io/xy10/26.png"
   },
   {
-    "set": "Skyridge 2/182",
-    "cost": "Not PSA Graded: $93.96",
+    "code": "002/144",
+    "set": "Skyridge 002/144",
+    "cost": "UnGraded: $93.96",
     "img": "https://images.pokemontcg.io/ecard3/2.png"
   },
   {
-    "set": "Expedition Base Set 33/165",
-    "cost": "Not PSA Graded: $10.39",
+    "code": "033/165",
+    "set": "Expedition Base Set 033/165",
+    "cost": "UnGraded: $10.39",
     "img": "https://images.pokemontcg.io/ecard1/33.png"
   },
   {
-    "set": "Rising Rivals 38/120",
-    "cost": "Not PSA Graded: $2.15",
+    "code": "038/111",
+    "set": "Rising Rivals 038/111",
+    "cost": "UnGraded: $2.15",
     "img": "https://images.pokemontcg.io/pl2/38.png"
   },
   {
-    "set": "Rising Rivals 103/120",
-    "cost": "Not PSA Graded: $105.83",
+    "code": "103/111",
+    "set": "Rising Rivals 103/111",
+    "cost": "UnGraded: $105.83",
     "img": "https://images.pokemontcg.io/pl2/103.png"
   },
   {
-    "set": "Crystal Guardians 99/100",
-    "cost": "Not PSA Graded: $1000",
+    "code": "099/100",
+    "set": "Crystal Guardians 099/100",
+    "cost": "UnGraded: $1000",
     "img": "https://images.pokemontcg.io/ex14/99.png"
   },
   {
-    "set": "Fates Collide 117/129",
-    "cost": "Not PSA Graded: $24.81",
+    "code": "117/124",
+    "set": "Fates Collide 117/124",
+    "cost": "UnGraded: $24.81",
     "img": "https://images.pokemontcg.io/xy10/117.png"
   },
   {
-    "set": "Fates Collide 118/129",
-    "cost": "Not PSA Graded: $92.68",
+    "code": "118/124",
+    "set": "Fates Collide 118/124",
+    "cost": "UnGraded: $92.68",
     "img": "https://images.pokemontcg.io/xy10/118.png"
   },
   {
-    "set": "Fates Collide 125/129",
-    "cost": "Not PSA Graded: $121.78",
+    "code": "125/124",
+    "set": "Fates Collide 125/124",
+    "cost": "UnGraded: $120.8",
     "img": "https://images.pokemontcg.io/xy10/125.png"
   },
   {
-    "set": "Vivid Voltage 172/203",
-    "cost": "Not PSA Graded: $3.28",
+    "code": "172/185",
+    "set": "Vivid Voltage 172/185",
+    "cost": "UnGraded: $3.15",
     "img": "https://images.pokemontcg.io/swsh4/172.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH083/304",
-    "cost": "Not PSA Graded: $1.41",
+    "code": "SWSH083/307",
+    "set": "SWSH Black Star Promos SWSH083/307",
+    "cost": "UnGraded: $1.41",
     "img": "https://images.pokemontcg.io/swshp/SWSH083.png"
   },
   {
-    "set": "Silver Tempest 59/215",
-    "cost": "Not PSA Graded: $0.89",
+    "code": "059/195",
+    "set": "Silver Tempest 059/195",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/swsh12/59.png"
   },
   {
-    "set": "151 65/207",
-    "cost": "Not PSA Graded: $1.28",
+    "code": "065/165",
+    "set": "151 065/165",
+    "cost": "UnGraded: $1.44",
     "img": "https://images.pokemontcg.io/sv3pt5/65.png"
   },
   {
-    "set": "151 188/207",
-    "cost": "Not PSA Graded: $7.86",
+    "code": "188/165",
+    "set": "151 188/165",
+    "cost": "UnGraded: $7.78",
     "img": "https://images.pokemontcg.io/sv3pt5/188.png"
   },
   {
-    "set": "151 201/207",
-    "cost": "Not PSA Graded: $43.44",
+    "code": "201/165",
+    "set": "151 201/165",
+    "cost": "UnGraded: $44.05",
     "img": "https://images.pokemontcg.io/sv3pt5/201.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 50/196",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "050/215",
+    "set": "Scarlet & Violet Black Star Promos 050/215",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/svp/50.png"
   },
   {
-    "set": "Paldean Fates 215/245",
-    "cost": "Not PSA Graded: $3.61",
+    "code": "215/91",
+    "set": "Paldean Fates 215/91",
+    "cost": "UnGraded: $3.51",
     "img": "https://images.pokemontcg.io/sv4pt5/215.png"
   },
   {
-    "set": "Twilight Masquerade 82/226",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "082/167",
+    "set": "Twilight Masquerade 082/167",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sv6/82.png"
   },
   {
-    "set": "Mega Evolution 56/188",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "056/132",
+    "set": "Mega Evolution 056/132",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/me1/56.png"
   }
 ]

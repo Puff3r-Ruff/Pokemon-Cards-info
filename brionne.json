@@ -1,12 +1,14 @@
 [
   {
-    "set": "Sun & Moon 40/173",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "040/149",
+    "set": "Sun & Moon 040/149",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm1/40.png"
   },
   {
-    "set": "Lost Thunder 66/240",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "066/214",
+    "set": "Lost Thunder 066/214",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/sm8/66.png"
   }
 ]

@@ -1,52 +1,62 @@
 [
   {
-    "set": "Primal Clash 39/164",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "039/160",
+    "set": "Primal Clash 039/160",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy5/39.png"
   },
   {
-    "set": "Dragon 51/100",
-    "cost": "Not PSA Graded: $1.94",
+    "code": "051/97",
+    "set": "Dragon 051/97",
+    "cost": "UnGraded: $1.94",
     "img": "https://images.pokemontcg.io/ex3/51.png"
   },
   {
-    "set": "Deoxys 54/108",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "054/107",
+    "set": "Deoxys 054/107",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/ex8/54.png"
   },
   {
-    "set": "Holon Phantoms 60/111",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "060/110",
+    "set": "Holon Phantoms 060/110",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/ex13/60.png"
   },
   {
-    "set": "Guardians Rising 70/180",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "070/145",
+    "set": "Guardians Rising 070/145",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm2/70.png"
   },
   {
-    "set": "Mysterious Treasures 72/124",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "072/123",
+    "set": "Mysterious Treasures 072/123",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/dp2/72.png"
   },
   {
-    "set": "Rebel Clash 99/209",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "099/192",
+    "set": "Rebel Clash 099/192",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh2/99.png"
   },
   {
-    "set": "Astral Radiance 35/216",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "035/189",
+    "set": "Astral Radiance 035/189",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/swsh10/35.png"
   },
   {
-    "set": "Obsidian Flames 108/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "108/197",
+    "set": "Obsidian Flames 108/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/108.png"
   },
   {
-    "set": "Paldean Fates 50/245",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "050/91",
+    "set": "Paldean Fates 050/91",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv4pt5/50.png"
   }
 ]

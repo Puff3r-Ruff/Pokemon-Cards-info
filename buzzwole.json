@@ -1,67 +1,80 @@
 [
   {
-    "set": "Unbroken Bonds 1/234",
-    "cost": "Not PSA Graded: $10.77",
+    "code": "001/214",
+    "set": "Unbroken Bonds 001/214",
+    "cost": "UnGraded: $10.77",
     "img": "https://images.pokemontcg.io/sm10/1.png"
   },
   {
-    "set": "Cosmic Eclipse 21/272",
-    "cost": "Not PSA Graded: $2.05",
+    "code": "021/236",
+    "set": "Cosmic Eclipse 021/236",
+    "cost": "UnGraded: $2.05",
     "img": "https://images.pokemontcg.io/sm12/21.png"
   },
   {
+    "code": "SV24/94",
     "set": "Hidden Fates Shiny Vault SV24/94",
-    "cost": "Not PSA Graded: $3.15",
+    "cost": "UnGraded: $3.15",
     "img": "https://images.pokemontcg.io/sma/SV24.png"
   },
   {
-    "set": "Crimson Invasion 57/126",
-    "cost": "Not PSA Graded: $2.83",
+    "code": "057/111",
+    "set": "Crimson Invasion 057/111",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/sm4/57.png"
   },
   {
+    "code": "SV68/94",
     "set": "Hidden Fates Shiny Vault SV68/94",
-    "cost": "Not PSA Graded: $9.29",
+    "cost": "UnGraded: $9.29",
     "img": "https://images.pokemontcg.io/sma/SV68.png"
   },
   {
-    "set": "SM Black Star Promos SM69/250",
-    "cost": "Not PSA Graded: $3.16",
+    "code": "SM69/248",
+    "set": "SM Black Star Promos SM69/248",
+    "cost": "UnGraded: $3.16",
     "img": "https://images.pokemontcg.io/smp/SM69.png"
   },
   {
-    "set": "Forbidden Light 77/150",
-    "cost": "Not PSA Graded: $2.08",
+    "code": "077/131",
+    "set": "Forbidden Light 077/131",
+    "cost": "UnGraded: $2.08",
     "img": "https://images.pokemontcg.io/sm6/77.png"
   },
   {
-    "set": "Crimson Invasion 104/126",
-    "cost": "Not PSA Graded: $6.42",
+    "code": "104/111",
+    "set": "Crimson Invasion 104/111",
+    "cost": "UnGraded: $6.42",
     "img": "https://images.pokemontcg.io/sm4/104.png"
   },
   {
-    "set": "Crimson Invasion 115/126",
-    "cost": "Not PSA Graded: $13.72",
+    "code": "115/111",
+    "set": "Crimson Invasion 115/111",
+    "cost": "UnGraded: $13.72",
     "img": "https://images.pokemontcg.io/sm4/115.png"
   },
   {
-    "set": "Unbroken Bonds 191/234",
-    "cost": "Not PSA Graded: $22.06",
+    "code": "191/214",
+    "set": "Unbroken Bonds 191/214",
+    "cost": "UnGraded: $22.06",
     "img": "https://images.pokemontcg.io/sm10/191.png"
   },
   {
-    "set": "Unbroken Bonds 192/234",
-    "cost": "Not PSA Graded: $85.46",
+    "code": "192/214",
+    "set": "Unbroken Bonds 192/214",
+    "cost": "UnGraded: $85.46",
     "img": "https://images.pokemontcg.io/sm10/192.png"
   },
   {
-    "set": "SM Black Star Promos SM218/250",
-    "cost": "Not PSA Graded: $4.15",
+    "code": "SM218/248",
+    "set": "SM Black Star Promos SM218/248",
+    "cost": "UnGraded: $4.15",
     "img": "https://images.pokemontcg.io/smp/SM218.png"
   },
   {
-    "set": "Unbroken Bonds 215/234",
-    "cost": "Not PSA Graded: $30.7",
+    "code": "215/214",
+    "set": "Unbroken Bonds 215/214",
+    "cost": "UnGraded: $30.7",
     "img": "https://images.pokemontcg.io/sm10/215.png"
   }
 ]

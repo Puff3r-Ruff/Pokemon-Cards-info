@@ -1,57 +1,68 @@
 [
   {
-    "set": "Lost Thunder 7/240",
-    "cost": "Not PSA Graded: $1.39",
+    "code": "007/214",
+    "set": "Lost Thunder 007/214",
+    "cost": "UnGraded: $1.38",
     "img": "https://images.pokemontcg.io/sm8/7.png"
   },
   {
-    "set": "BREAKpoint 2/126",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "002/122",
+    "set": "BREAKpoint 002/122",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/xy9/2.png"
   },
   {
-    "set": "HeartGold & SoulSilver 35/124",
-    "cost": "Not PSA Graded: $1.29",
+    "code": "035/123",
+    "set": "HeartGold & SoulSilver 035/123",
+    "cost": "UnGraded: $1.29",
     "img": "https://images.pokemontcg.io/hgss1/35.png"
   },
   {
-    "set": "Neo Genesis 28/111",
+    "code": "028/111",
+    "set": "Neo Genesis 028/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/28.png"
   },
   {
-    "set": "Neo Genesis 29/111",
+    "code": "029/111",
+    "set": "Neo Genesis 029/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/29.png"
   },
   {
-    "set": "Unseen Forces 35/145",
-    "cost": "Not PSA Graded: $0.95",
+    "code": "035/115",
+    "set": "Unseen Forces 035/115",
+    "cost": "UnGraded: $0.89",
     "img": "https://images.pokemontcg.io/ex10/35.png"
   },
   {
-    "set": "Dragon Frontiers 26/101",
-    "cost": "Not PSA Graded: $1.64",
+    "code": "026/101",
+    "set": "Dragon Frontiers 026/101",
+    "cost": "UnGraded: $1.64",
     "img": "https://images.pokemontcg.io/ex15/26.png"
   },
   {
-    "set": "Call of Legends 40/106",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "040/95",
+    "set": "Call of Legends 040/95",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/col1/40.png"
   },
   {
-    "set": "Mysterious Treasures 41/124",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "041/123",
+    "set": "Mysterious Treasures 041/123",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/dp2/41.png"
   },
   {
-    "set": "Expedition Base Set 71/165",
-    "cost": "Not PSA Graded: $5.09",
+    "code": "071/165",
+    "set": "Expedition Base Set 071/165",
+    "cost": "UnGraded: $5.09",
     "img": "https://images.pokemontcg.io/ecard1/71.png"
   },
   {
-    "set": "Mega Evolution 9/188",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "009/132",
+    "set": "Mega Evolution 009/132",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/me1/9.png"
   }
 ]

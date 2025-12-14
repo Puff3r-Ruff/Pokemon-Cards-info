@@ -1,42 +1,50 @@
 [
   {
-    "set": "SM Black Star Promos SM11/250",
-    "cost": "Not PSA Graded: $8.94",
+    "code": "SM11/248",
+    "set": "SM Black Star Promos SM11/248",
+    "cost": "UnGraded: $8.94",
     "img": "https://images.pokemontcg.io/smp/SM11.png"
   },
   {
-    "set": "Burning Shadows 38/177",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "038/147",
+    "set": "Burning Shadows 038/147",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm3/38.png"
   },
   {
-    "set": "Sun & Moon 48/173",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "048/149",
+    "set": "Sun & Moon 048/149",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm1/48.png"
   },
   {
-    "set": "Lost Thunder 70/240",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "070/214",
+    "set": "Lost Thunder 070/214",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm8/70.png"
   },
   {
-    "set": "Battle Styles 43/183",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "043/163",
+    "set": "Battle Styles 043/163",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh5/43.png"
   },
   {
-    "set": "Scarlet & Violet 51/258",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "051/198",
+    "set": "Scarlet & Violet 051/198",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv1/51.png"
   },
   {
-    "set": "Surging Sparks 49/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "049/191",
+    "set": "Surging Sparks 049/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/49.png"
   },
   {
-    "set": "Surging Sparks 200/252",
-    "cost": "Not PSA Graded: $1.68",
+    "code": "200/191",
+    "set": "Surging Sparks 200/191",
+    "cost": "UnGraded: $1.68",
     "img": "https://images.pokemontcg.io/sv8/200.png"
   }
 ]

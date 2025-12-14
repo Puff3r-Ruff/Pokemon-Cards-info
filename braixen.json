@@ -1,62 +1,74 @@
 [
   {
-    "set": "Fates Collide 12/129",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "012/124",
+    "set": "Fates Collide 012/124",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy10/12.png"
   },
   {
-    "set": "Kalos Starter Set 9/39",
-    "cost": "Not PSA Graded: $0.91",
+    "code": "009/39",
+    "set": "Kalos Starter Set 009/39",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/xy0/9.png"
   },
   {
-    "set": "Cosmic Eclipse 22/272",
-    "cost": "Not PSA Graded: $25.87",
+    "code": "022/236",
+    "set": "Cosmic Eclipse 022/236",
+    "cost": "UnGraded: $25.87",
     "img": "https://images.pokemontcg.io/sm12/22.png"
   },
   {
-    "set": "Forbidden Light 16/150",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "016/131",
+    "set": "Forbidden Light 016/131",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm6/16.png"
   },
   {
-    "set": "XY 25/146",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "025/146",
+    "set": "XY 025/146",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/xy1/25.png"
   },
   {
-    "set": "BREAKthrough 26/165",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "026/162",
+    "set": "BREAKthrough 026/162",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy8/26.png"
   },
   {
-    "set": "XY Black Star Promos XY161/216",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "XY161/211",
+    "set": "XY Black Star Promos XY161/211",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/xyp/XY161.png"
   },
   {
-    "set": "Cosmic Eclipse 212/272",
-    "cost": "Not PSA Graded: $81.98",
+    "code": "212/236",
+    "set": "Cosmic Eclipse 212/236",
+    "cost": "UnGraded: $81.98",
     "img": "https://images.pokemontcg.io/sm12/212.png"
   },
   {
-    "set": "SM Black Star Promos SM230/250",
-    "cost": "Not PSA Graded: $87.33",
+    "code": "SM230/248",
+    "set": "SM Black Star Promos SM230/248",
+    "cost": "UnGraded: $87.33",
     "img": "https://images.pokemontcg.io/smp/SM230.png"
   },
   {
-    "set": "Cosmic Eclipse 251/272",
-    "cost": "Not PSA Graded: $94.57",
+    "code": "251/236",
+    "set": "Cosmic Eclipse 251/236",
+    "cost": "UnGraded: $94.57",
     "img": "https://images.pokemontcg.io/sm12/251.png"
   },
   {
-    "set": "Silver Tempest 26/215",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "026/195",
+    "set": "Silver Tempest 026/195",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12/26.png"
   },
   {
+    "code": "TG01/30",
     "set": "Silver Tempest Trainer Gallery TG01/30",
-    "cost": "Not PSA Graded: $2.79",
+    "cost": "UnGraded: $2.79",
     "img": "https://images.pokemontcg.io/swsh12tg/TG01.png"
   }
 ]

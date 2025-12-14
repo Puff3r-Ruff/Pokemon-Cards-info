@@ -1,62 +1,74 @@
 [
   {
-    "set": "Aquapolis H5/182",
+    "code": "0H5/147",
+    "set": "Aquapolis 0H5/147",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard2/H5.png"
   },
   {
-    "set": "Ancient Origins 4/100",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "004/98",
+    "set": "Ancient Origins 004/98",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/xy7/4.png"
   },
   {
-    "set": "Unseen Forces 3/145",
-    "cost": "Not PSA Graded: $15.27",
+    "code": "003/115",
+    "set": "Unseen Forces 003/115",
+    "cost": "UnGraded: $15.27",
     "img": "https://images.pokemontcg.io/ex10/3.png"
   },
   {
-    "set": "Boundaries Crossed 4/153",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "004/149",
+    "set": "Boundaries Crossed 004/149",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/bw7/4.png"
   },
   {
-    "set": "HS—Undaunted 1/91",
-    "cost": "Not PSA Graded: $2.74",
+    "code": "001/90",
+    "set": "HS—Undaunted 001/90",
+    "cost": "UnGraded: $2.74",
     "img": "https://images.pokemontcg.io/hgss3/1.png"
   },
   {
-    "set": "Neo Genesis 3/111",
+    "code": "003/111",
+    "set": "Neo Genesis 003/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/3.png"
   },
   {
-    "set": "Holon Phantoms 19/111",
-    "cost": "Not PSA Graded: $2.91",
+    "code": "019/110",
+    "set": "Holon Phantoms 019/110",
+    "cost": "UnGraded: $2.91",
     "img": "https://images.pokemontcg.io/ex13/19.png"
   },
   {
-    "set": "Hidden Legends 16/102",
-    "cost": "Not PSA Graded: $2.35",
+    "code": "016/101",
+    "set": "Hidden Legends 016/101",
+    "cost": "UnGraded: $2.35",
     "img": "https://images.pokemontcg.io/ex5/16.png"
   },
   {
-    "set": "Legends Awakened 20/146",
-    "cost": "Not PSA Graded: $1.81",
+    "code": "020/146",
+    "set": "Legends Awakened 020/146",
+    "cost": "UnGraded: $1.81",
     "img": "https://images.pokemontcg.io/dp6/20.png"
   },
   {
-    "set": "Aquapolis 5/182",
-    "cost": "Not PSA Graded: $9.9",
+    "code": "005/147",
+    "set": "Aquapolis 005/147",
+    "cost": "UnGraded: $9.9",
     "img": "https://images.pokemontcg.io/ecard2/5.png"
   },
   {
-    "set": "Crown Zenith 3/160",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "003/159",
+    "set": "Crown Zenith 003/159",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh12pt5/3.png"
   },
   {
-    "set": "Obsidian Flames 3/230",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "003/197",
+    "set": "Obsidian Flames 003/197",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv3/3.png"
   }
 ]

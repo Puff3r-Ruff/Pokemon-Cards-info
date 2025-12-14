@@ -1,12 +1,14 @@
 [
   {
-    "set": "Diamond & Pearl 71/130",
-    "cost": "Not PSA Graded: $13.16",
+    "code": "071/130",
+    "set": "Diamond & Pearl 071/130",
+    "cost": "UnGraded: $13.16",
     "img": "https://images.pokemontcg.io/dp1/71.png"
   },
   {
-    "set": "Obsidian Flames 110/230",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "110/197",
+    "set": "Obsidian Flames 110/197",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv3/110.png"
   }
 ]

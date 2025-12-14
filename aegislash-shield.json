@@ -1,107 +1,128 @@
 [
   {
-    "set": "Forbidden Light 49/150",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "049/131",
+    "set": "Forbidden Light 049/131",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/sm6/49.png"
   },
   {
-    "set": "BREAKpoint 62/126",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "062/122",
+    "set": "BREAKpoint 062/122",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/xy9/62.png"
   },
   {
-    "set": "Phantom Forces 65/124",
-    "cost": "Not PSA Graded: $2.86",
+    "code": "065/119",
+    "set": "Phantom Forces 065/119",
+    "cost": "UnGraded: $2.86",
     "img": "https://images.pokemontcg.io/xy4/65.png"
   },
   {
-    "set": "Phantom Forces 65a/124",
+    "code": "65a/119",
+    "set": "Phantom Forces 65a/119",
     "cost": null,
     "img": "https://images.pokemontcg.io/xy4/65a.png"
   },
   {
-    "set": "XY 85/146",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "085/146",
+    "set": "XY 085/146",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/xy1/85.png"
   },
   {
-    "set": "XY 86/146",
-    "cost": "Not PSA Graded: $1.97",
+    "code": "086/146",
+    "set": "XY 086/146",
+    "cost": "UnGraded: $1.97",
     "img": "https://images.pokemontcg.io/xy1/86.png"
   },
   {
-    "set": "Primal Clash 100/164",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "100/160",
+    "set": "Primal Clash 100/160",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/xy5/100.png"
   },
   {
-    "set": "Unified Minds 95/260",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "095/236",
+    "set": "Unified Minds 095/236",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/sm11/95.png"
   },
   {
-    "set": "Team Up 109/198",
-    "cost": "Not PSA Graded: $0.55",
+    "code": "109/181",
+    "set": "Team Up 109/181",
+    "cost": "UnGraded: $0.55",
     "img": "https://images.pokemontcg.io/sm9/109.png"
   },
   {
-    "set": "Vivid Voltage 126/203",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "126/185",
+    "set": "Vivid Voltage 126/185",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/swsh4/126.png"
   },
   {
-    "set": "Vivid Voltage 127/203",
-    "cost": "Not PSA Graded: $1.28",
+    "code": "127/185",
+    "set": "Vivid Voltage 127/185",
+    "cost": "UnGraded: $1.28",
     "img": "https://images.pokemontcg.io/swsh4/127.png"
   },
   {
-    "set": "Rebel Clash 135/209",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "135/192",
+    "set": "Rebel Clash 135/192",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/swsh2/135.png"
   },
   {
-    "set": "Vivid Voltage 177/203",
-    "cost": "Not PSA Graded: $2.97",
+    "code": "177/185",
+    "set": "Vivid Voltage 177/185",
+    "cost": "UnGraded: $2.97",
     "img": "https://images.pokemontcg.io/swsh4/177.png"
   },
   {
-    "set": "Vivid Voltage 190/203",
-    "cost": "Not PSA Graded: $6.62",
+    "code": "190/185",
+    "set": "Vivid Voltage 190/185",
+    "cost": "UnGraded: $6.62",
     "img": "https://images.pokemontcg.io/swsh4/190.png"
   },
   {
-    "set": "Battle Styles 107/183",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "107/163",
+    "set": "Battle Styles 107/163",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/swsh5/107.png"
   },
   {
-    "set": "Battle Styles 108/183",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "108/163",
+    "set": "Battle Styles 108/163",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh5/108.png"
   },
   {
-    "set": "Paradox Rift 134/266",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "134/182",
+    "set": "Paradox Rift 134/182",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sv4/134.png"
   },
   {
-    "set": "Paradox Rift 135/266",
-    "cost": "Not PSA Graded: $0.81",
+    "code": "135/182",
+    "set": "Paradox Rift 135/182",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/sv4/135.png"
   },
   {
-    "set": "Paradox Rift 210/266",
-    "cost": "Not PSA Graded: $6.29",
+    "code": "210/182",
+    "set": "Paradox Rift 210/182",
+    "cost": "UnGraded: $6.29",
     "img": "https://images.pokemontcg.io/sv4/210.png"
   },
   {
-    "set": "Paradox Rift 230/266",
-    "cost": "Not PSA Graded: $1.54",
+    "code": "230/182",
+    "set": "Paradox Rift 230/182",
+    "cost": "UnGraded: $1.54",
     "img": "https://images.pokemontcg.io/sv4/230.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 60/196",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "060/215",
+    "set": "Scarlet & Violet Black Star Promos 060/215",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/svp/60.png"
   }
 ]

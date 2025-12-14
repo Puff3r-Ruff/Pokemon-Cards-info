@@ -1,87 +1,104 @@
 [
   {
-    "set": "Aquapolis H3/182",
+    "code": "0H3/147",
+    "set": "Aquapolis 0H3/147",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard2/H3.png"
   },
   {
-    "set": "Unseen Forces 2/145",
-    "cost": "Not PSA Graded: $9.4",
+    "code": "002/115",
+    "set": "Unseen Forces 002/115",
+    "cost": "UnGraded: $9.4",
     "img": "https://images.pokemontcg.io/ex10/2.png"
   },
   {
-    "set": "Ancient Origins 6/100",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "006/98",
+    "set": "Ancient Origins 006/98",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy7/6.png"
   },
   {
-    "set": "Celestial Storm 6/187",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "006/168",
+    "set": "Celestial Storm 006/168",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/sm7/6.png"
   },
   {
-    "set": "Lost Thunder 10/240",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "010/214",
+    "set": "Lost Thunder 010/214",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm8/10.png"
   },
   {
-    "set": "HeartGold & SoulSilver 15/124",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "015/123",
+    "set": "HeartGold & SoulSilver 015/123",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/hgss1/15.png"
   },
   {
-    "set": "Neo Destiny 17/113",
+    "code": "017/105",
+    "set": "Neo Destiny 017/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/17.png"
   },
   {
-    "set": "Mysterious Treasures 20/124",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "020/123",
+    "set": "Mysterious Treasures 020/123",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/dp2/20.png"
   },
   {
-    "set": "Aquapolis 3/182",
-    "cost": "Not PSA Graded: $5.07",
+    "code": "003/147",
+    "set": "Aquapolis 003/147",
+    "cost": "UnGraded: $5.07",
     "img": "https://images.pokemontcg.io/ecard2/3.png"
   },
   {
-    "set": "Team Rocket Returns 30/111",
-    "cost": "Not PSA Graded: $2.61",
+    "code": "030/109",
+    "set": "Team Rocket Returns 030/109",
+    "cost": "UnGraded: $2.61",
     "img": "https://images.pokemontcg.io/ex7/30.png"
   },
   {
-    "set": "Neo Genesis 27/111",
+    "code": "027/111",
+    "set": "Neo Genesis 027/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/27.png"
   },
   {
-    "set": "Darkness Ablaze 103/201",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "103/189",
+    "set": "Darkness Ablaze 103/189",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh3/103.png"
   },
   {
+    "code": "TG09/30",
     "set": "Brilliant Stars Trainer Gallery TG09/30",
-    "cost": "Not PSA Graded: $1.69",
+    "cost": "UnGraded: $1.66",
     "img": "https://images.pokemontcg.io/swsh9tg/TG09.png"
   },
   {
-    "set": "Pokémon GO 7/88",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "007/78",
+    "set": "Pokémon GO 007/78",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/pgo/7.png"
   },
   {
-    "set": "Lost Origin 113/217",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "113/196",
+    "set": "Lost Origin 113/196",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh11/113.png"
   },
   {
-    "set": "Silver Tempest 4/215",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "004/195",
+    "set": "Silver Tempest 004/195",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/swsh12/4.png"
   },
   {
-    "set": "Twilight Masquerade 5/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "005/167",
+    "set": "Twilight Masquerade 005/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/5.png"
   }
 ]

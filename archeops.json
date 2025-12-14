@@ -1,42 +1,50 @@
 [
   {
-    "set": "Plasma Blast 54/105",
-    "cost": "Not PSA Graded: $1.73",
+    "code": "054/101",
+    "set": "Plasma Blast 054/101",
+    "cost": "UnGraded: $1.73",
     "img": "https://images.pokemontcg.io/bw10/54.png"
   },
   {
-    "set": "Noble Victories 67/102",
-    "cost": "Not PSA Graded: $12.31",
+    "code": "067/101",
+    "set": "Noble Victories 067/101",
+    "cost": "UnGraded: $12.31",
     "img": "https://images.pokemontcg.io/bw3/67.png"
   },
   {
-    "set": "Dark Explorers 110/111",
-    "cost": "Not PSA Graded: $71.99",
+    "code": "110/108",
+    "set": "Dark Explorers 110/108",
+    "cost": "UnGraded: $71.99",
     "img": "https://images.pokemontcg.io/bw5/110.png"
   },
   {
-    "set": "Unified Minds 121/260",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "121/236",
+    "set": "Unified Minds 121/236",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/sm11/121.png"
   },
   {
-    "set": "Silver Tempest 147/215",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "147/195",
+    "set": "Silver Tempest 147/195",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/swsh12/147.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH272/304",
-    "cost": "Not PSA Graded: $20.75",
+    "code": "SWSH272/307",
+    "set": "SWSH Black Star Promos SWSH272/307",
+    "cost": "UnGraded: $20.75",
     "img": "https://images.pokemontcg.io/swshp/SWSH272.png"
   },
   {
-    "set": "White Flare 51/173",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "051/86",
+    "set": "White Flare 051/86",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/rsv10pt5/51.png"
   },
   {
-    "set": "White Flare 132/173",
-    "cost": "Not PSA Graded: $6.63",
+    "code": "132/86",
+    "set": "White Flare 132/86",
+    "cost": "UnGraded: $6.63",
     "img": "https://images.pokemontcg.io/rsv10pt5/132.png"
   }
 ]

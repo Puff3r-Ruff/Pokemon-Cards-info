@@ -1,67 +1,80 @@
 [
   {
-    "set": "Champion's Path 22/80",
-    "cost": "Not PSA Graded: $1.41",
+    "code": "022/73",
+    "set": "Champion's Path 022/73",
+    "cost": "UnGraded: $1.41",
     "img": "https://images.pokemontcg.io/swsh35/22.png"
   },
   {
-    "set": "Champion's Path 23/80",
-    "cost": "Not PSA Graded: $5.21",
+    "code": "023/73",
+    "set": "Champion's Path 023/73",
+    "cost": "UnGraded: $5.21",
     "img": "https://images.pokemontcg.io/swsh35/23.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH058/304",
-    "cost": "Not PSA Graded: $5.32",
+    "code": "SWSH058/307",
+    "set": "SWSH Black Star Promos SWSH058/307",
+    "cost": "UnGraded: $5.32",
     "img": "https://images.pokemontcg.io/swshp/SWSH058.png"
   },
   {
-    "set": "Vivid Voltage 81/203",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "081/185",
+    "set": "Vivid Voltage 081/185",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh4/81.png"
   },
   {
-    "set": "Rebel Clash 87/209",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "087/192",
+    "set": "Rebel Clash 087/192",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh2/87.png"
   },
   {
+    "code": "SV058/122",
     "set": "Shining Fates Shiny Vault SV058/122",
-    "cost": "Not PSA Graded: $4.18",
+    "cost": "UnGraded: $4.18",
     "img": "https://images.pokemontcg.io/swsh45sv/SV058.png"
   },
   {
-    "set": "Shining Fates 64/73",
-    "cost": "Not PSA Graded: $3.72",
+    "code": "064/72",
+    "set": "Shining Fates 064/72",
+    "cost": "UnGraded: $3.72",
     "img": "https://images.pokemontcg.io/swsh45/64.png"
   },
   {
-    "set": "Shining Fates 73/73",
-    "cost": "Not PSA Graded: $5.06",
+    "code": "073/72",
+    "set": "Shining Fates 073/72",
+    "cost": "UnGraded: $5.06",
     "img": "https://images.pokemontcg.io/swsh45/73.png"
   },
   {
-    "set": "Brilliant Stars 71/186",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "071/172",
+    "set": "Brilliant Stars 071/172",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh9/71.png"
   },
   {
+    "code": "TG08/30",
     "set": "Brilliant Stars Trainer Gallery TG08/30",
-    "cost": "Not PSA Graded: $1.75",
+    "cost": "UnGraded: $1.75",
     "img": "https://images.pokemontcg.io/swsh9tg/TG08.png"
   },
   {
-    "set": "Stellar Crown 65/175",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "065/142",
+    "set": "Stellar Crown 065/142",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sv7/65.png"
   },
   {
-    "set": "Journey Together 75/190",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "075/159",
+    "set": "Journey Together 075/159",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/sv9/75.png"
   },
   {
-    "set": "Phantasmal Flames 44/130",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "044/94",
+    "set": "Phantasmal Flames 044/94",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me2/44.png"
   }
 ]

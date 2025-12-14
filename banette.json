@@ -1,107 +1,128 @@
 [
   {
-    "set": "Crystal Guardians 1/100",
-    "cost": "Not PSA Graded: $7.25",
+    "code": "001/100",
+    "set": "Crystal Guardians 001/100",
+    "cost": "UnGraded: $7.25",
     "img": "https://images.pokemontcg.io/ex14/1.png"
   },
   {
-    "set": "Hidden Legends 1/102",
-    "cost": "Not PSA Graded: $22.58",
+    "code": "001/101",
+    "set": "Hidden Legends 001/101",
+    "cost": "UnGraded: $22.58",
     "img": "https://images.pokemontcg.io/ex5/1.png"
   },
   {
-    "set": "HS—Triumphant 14/103",
-    "cost": "Not PSA Graded: $0.98",
+    "code": "014/102",
+    "set": "HS—Triumphant 014/102",
+    "cost": "UnGraded: $0.98",
     "img": "https://images.pokemontcg.io/hgss4/14.png"
   },
   {
-    "set": "Power Keepers 4/108",
-    "cost": "Not PSA Graded: $6.69",
+    "code": "004/108",
+    "set": "Power Keepers 004/108",
+    "cost": "UnGraded: $6.69",
     "img": "https://images.pokemontcg.io/ex16/4.png"
   },
   {
-    "set": "Platinum 19/133",
-    "cost": "Not PSA Graded: $4.47",
+    "code": "019/127",
+    "set": "Platinum 019/127",
+    "cost": "UnGraded: $4.47",
     "img": "https://images.pokemontcg.io/pl1/19.png"
   },
   {
-    "set": "Secret Wonders 23/132",
-    "cost": "Not PSA Graded: $1.75",
+    "code": "023/132",
+    "set": "Secret Wonders 023/132",
+    "cost": "UnGraded: $1.75",
     "img": "https://images.pokemontcg.io/dp3/23.png"
   },
   {
-    "set": "Roaring Skies 31/112",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "031/108",
+    "set": "Roaring Skies 031/108",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/xy6/31.png"
   },
   {
-    "set": "Roaring Skies 32/112",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "032/108",
+    "set": "Roaring Skies 032/108",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/xy6/32.png"
   },
   {
-    "set": "Celestial Storm 65/187",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "065/168",
+    "set": "Celestial Storm 065/168",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/sm7/65.png"
   },
   {
-    "set": "Celestial Storm 66/187",
-    "cost": "Not PSA Graded: $2.15",
+    "code": "066/168",
+    "set": "Celestial Storm 066/168",
+    "cost": "UnGraded: $2.15",
     "img": "https://images.pokemontcg.io/sm7/66.png"
   },
   {
+    "code": "SV61/94",
     "set": "Hidden Fates Shiny Vault SV61/94",
-    "cost": "Not PSA Graded: $10.67",
+    "cost": "UnGraded: $10.67",
     "img": "https://images.pokemontcg.io/sma/SV61.png"
   },
   {
-    "set": "Vivid Voltage 68/203",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "068/185",
+    "set": "Vivid Voltage 068/185",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh4/68.png"
   },
   {
-    "set": "Legend Maker 85/93",
-    "cost": "Not PSA Graded: $98.65",
+    "code": "085/92",
+    "set": "Legend Maker 085/92",
+    "cost": "UnGraded: $98.65",
     "img": "https://images.pokemontcg.io/ex12/85.png"
   },
   {
-    "set": "Celestial Storm 157/187",
-    "cost": "Not PSA Graded: $7.08",
+    "code": "157/168",
+    "set": "Celestial Storm 157/168",
+    "cost": "UnGraded: $7.08",
     "img": "https://images.pokemontcg.io/sm7/157.png"
   },
   {
-    "set": "Celestial Storm 174/187",
-    "cost": "Not PSA Graded: $34.31",
+    "code": "174/168",
+    "set": "Celestial Storm 174/168",
+    "cost": "UnGraded: $34.31",
     "img": "https://images.pokemontcg.io/sm7/174.png"
   },
   {
-    "set": "Chilling Reign 63/233",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "063/198",
+    "set": "Chilling Reign 063/198",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh6/63.png"
   },
   {
-    "set": "Lost Origin 73/217",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "073/196",
+    "set": "Lost Origin 073/196",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh11/73.png"
   },
   {
+    "code": "TG07/30",
     "set": "Lost Origin Trainer Gallery TG07/30",
-    "cost": "Not PSA Graded: $1.83",
+    "cost": "UnGraded: $1.83",
     "img": "https://images.pokemontcg.io/swsh11tg/TG07.png"
   },
   {
-    "set": "Scarlet & Violet 88/258",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "088/198",
+    "set": "Scarlet & Violet 088/198",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/sv1/88.png"
   },
   {
-    "set": "Scarlet & Violet 229/258",
-    "cost": "Not PSA Graded: $1.65",
+    "code": "229/198",
+    "set": "Scarlet & Violet 229/198",
+    "cost": "UnGraded: $1.65",
     "img": "https://images.pokemontcg.io/sv1/229.png"
   },
   {
-    "set": "Journey Together 60/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "060/159",
+    "set": "Journey Together 060/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/60.png"
   }
 ]

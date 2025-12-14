@@ -1,182 +1,218 @@
 [
   {
-    "set": "Platinum 1/133",
-    "cost": "Not PSA Graded: $25.67",
+    "code": "001/127",
+    "set": "Platinum 001/127",
+    "cost": "UnGraded: $25.67",
     "img": "https://images.pokemontcg.io/pl1/1.png"
   },
   {
-    "set": "Secret Wonders 1/132",
-    "cost": "Not PSA Graded: $23.69",
+    "code": "001/132",
+    "set": "Secret Wonders 001/132",
+    "cost": "UnGraded: $23.69",
     "img": "https://images.pokemontcg.io/dp3/1.png"
   },
   {
-    "set": "Aquapolis H1/182",
+    "code": "0H1/147",
+    "set": "Aquapolis 0H1/147",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard2/H1.png"
   },
   {
-    "set": "Team Rocket Returns 2/111",
-    "cost": "Not PSA Graded: $84.57",
+    "code": "002/109",
+    "set": "Team Rocket Returns 002/109",
+    "cost": "UnGraded: $84.57",
     "img": "https://images.pokemontcg.io/ex7/2.png"
   },
   {
-    "set": "POP Series 7 1/17",
-    "cost": "Not PSA Graded: $9.96",
+    "code": "001/17",
+    "set": "POP Series 7 001/17",
+    "cost": "UnGraded: $9.96",
     "img": "https://images.pokemontcg.io/pop7/1.png"
   },
   {
-    "set": "Neo Destiny 1/113",
+    "code": "001/105",
+    "set": "Neo Destiny 001/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/1.png"
   },
   {
-    "set": "Neo Revelation 1/66",
+    "code": "001/64",
+    "set": "Neo Revelation 001/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/1.png"
   },
   {
-    "set": "Unseen Forces 1/145",
-    "cost": "Not PSA Graded: $44.99",
+    "code": "001/115",
+    "set": "Unseen Forces 001/115",
+    "cost": "UnGraded: $44.99",
     "img": "https://images.pokemontcg.io/ex10/1.png"
   },
   {
-    "set": "Neo Genesis 1/111",
+    "code": "001/111",
+    "set": "Neo Genesis 001/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/1.png"
   },
   {
-    "set": "Expedition Base Set 2/165",
-    "cost": "Not PSA Graded: $139.06",
+    "code": "002/165",
+    "set": "Expedition Base Set 002/165",
+    "cost": "UnGraded: $139.06",
     "img": "https://images.pokemontcg.io/ecard1/2.png"
   },
   {
-    "set": "Dragon Frontiers 1/101",
-    "cost": "Not PSA Graded: $28.58",
+    "code": "001/101",
+    "set": "Dragon Frontiers 001/101",
+    "cost": "UnGraded: $28.58",
     "img": "https://images.pokemontcg.io/ex15/1.png"
   },
   {
-    "set": "HeartGold & SoulSilver 14/124",
-    "cost": "Not PSA Graded: $3.73",
+    "code": "014/123",
+    "set": "HeartGold & SoulSilver 014/123",
+    "cost": "UnGraded: $3.73",
     "img": "https://images.pokemontcg.io/hgss1/14.png"
   },
   {
-    "set": "Call of Legends 23/106",
-    "cost": "Not PSA Graded: $1.58",
+    "code": "023/95",
+    "set": "Call of Legends 023/95",
+    "cost": "UnGraded: $1.59",
     "img": "https://images.pokemontcg.io/col1/23.png"
   },
   {
-    "set": "Ancient Origins 27/100",
-    "cost": "Not PSA Graded: $2.95",
+    "code": "027/98",
+    "set": "Ancient Origins 027/98",
+    "cost": "UnGraded: $2.93",
     "img": "https://images.pokemontcg.io/xy7/27.png"
   },
   {
-    "set": "Ancient Origins 28/100",
-    "cost": "Not PSA Graded: $19.85",
+    "code": "028/98",
+    "set": "Ancient Origins 028/98",
+    "cost": "UnGraded: $19.85",
     "img": "https://images.pokemontcg.io/xy7/28.png"
   },
   {
-    "set": "Aquapolis 1/182",
-    "cost": "Not PSA Graded: $23.7",
+    "code": "001/147",
+    "set": "Aquapolis 001/147",
+    "cost": "UnGraded: $23.7",
     "img": "https://images.pokemontcg.io/ecard2/1.png"
   },
   {
-    "set": "Dragons Exalted 40/128",
-    "cost": "Not PSA Graded: $3.18",
+    "code": "040/124",
+    "set": "Dragons Exalted 040/124",
+    "cost": "UnGraded: $3.23",
     "img": "https://images.pokemontcg.io/bw6/40.png"
   },
   {
-    "set": "Steam Siege 40/116",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "040/114",
+    "set": "Steam Siege 040/114",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/xy11/40.png"
   },
   {
-    "set": "Team Up 43/198",
-    "cost": "Not PSA Graded: $4.31",
+    "code": "043/181",
+    "set": "Team Up 043/181",
+    "cost": "UnGraded: $4.31",
     "img": "https://images.pokemontcg.io/sm9/43.png"
   },
   {
-    "set": "Expedition Base Set 34/165",
-    "cost": "Not PSA Graded: $10.79",
+    "code": "034/165",
+    "set": "Expedition Base Set 034/165",
+    "cost": "UnGraded: $11.1",
     "img": "https://images.pokemontcg.io/ecard1/34.png"
   },
   {
-    "set": "Vivid Voltage 49/203",
-    "cost": "Not PSA Graded: $0.86",
+    "code": "049/185",
+    "set": "Vivid Voltage 049/185",
+    "cost": "UnGraded: $0.89",
     "img": "https://images.pokemontcg.io/swsh4/49.png"
   },
   {
-    "set": "Darkness Ablaze 57/201",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "057/189",
+    "set": "Darkness Ablaze 057/189",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh3/57.png"
   },
   {
+    "code": "BW67/101",
     "set": "BW Black Star Promos BW67/101",
-    "cost": "Not PSA Graded: $13.97",
+    "cost": "UnGraded: $13.97",
     "img": "https://images.pokemontcg.io/bwp/BW67.png"
   },
   {
-    "set": "Lost Thunder 78/240",
-    "cost": "Not PSA Graded: $1.06",
+    "code": "078/214",
+    "set": "Lost Thunder 078/214",
+    "cost": "UnGraded: $1.06",
     "img": "https://images.pokemontcg.io/sm8/78.png"
   },
   {
-    "set": "Ancient Origins 87/100",
-    "cost": "Not PSA Graded: $30.93",
+    "code": "087/98",
+    "set": "Ancient Origins 087/98",
+    "cost": "UnGraded: $30.93",
     "img": "https://images.pokemontcg.io/xy7/87.png"
   },
   {
-    "set": "Ancient Origins 88/100",
-    "cost": "Not PSA Graded: $76.9",
+    "code": "088/98",
+    "set": "Ancient Origins 088/98",
+    "cost": "UnGraded: $76.9",
     "img": "https://images.pokemontcg.io/xy7/88.png"
   },
   {
-    "set": "Dragon 89/100",
-    "cost": "Not PSA Graded: $102.03",
+    "code": "089/97",
+    "set": "Dragon 089/97",
+    "cost": "UnGraded: $102.03",
     "img": "https://images.pokemontcg.io/ex3/89.png"
   },
   {
-    "set": "HeartGold & SoulSilver 105/124",
-    "cost": "Not PSA Graded: $41.34",
+    "code": "105/123",
+    "set": "HeartGold & SoulSilver 105/123",
+    "cost": "UnGraded: $44.39",
     "img": "https://images.pokemontcg.io/hgss1/105.png"
   },
   {
-    "set": "Team Up 163/198",
-    "cost": "Not PSA Graded: $20.85",
+    "code": "163/181",
+    "set": "Team Up 163/181",
+    "cost": "UnGraded: $20.85",
     "img": "https://images.pokemontcg.io/sm9/163.png"
   },
   {
-    "set": "Team Up 185/198",
-    "cost": "Not PSA Graded: $40.32",
+    "code": "185/181",
+    "set": "Team Up 185/181",
+    "cost": "UnGraded: $40.11",
     "img": "https://images.pokemontcg.io/sm9/185.png"
   },
   {
-    "set": "Vivid Voltage 171/203",
-    "cost": "Not PSA Graded: $4.77",
+    "code": "171/185",
+    "set": "Vivid Voltage 171/185",
+    "cost": "UnGraded: $4.77",
     "img": "https://images.pokemontcg.io/swsh4/171.png"
   },
   {
-    "set": "Chilling Reign 49/233",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "049/198",
+    "set": "Chilling Reign 049/198",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh6/49.png"
   },
   {
-    "set": "Evolving Skies 56/237",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "056/203",
+    "set": "Evolving Skies 056/203",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh7/56.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 16/196",
-    "cost": "Not PSA Graded: $4.75",
+    "code": "016/215",
+    "set": "Scarlet & Violet Black Star Promos 016/215",
+    "cost": "UnGraded: $4.75",
     "img": "https://images.pokemontcg.io/svp/16.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 109/196",
+    "code": "109/215",
+    "set": "Scarlet & Violet Black Star Promos 109/215",
     "cost": null,
     "img": "https://images.pokemontcg.io/svp/109.png"
   },
   {
-    "set": "Destined Rivals 74/244",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "074/182",
+    "set": "Destined Rivals 074/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv10/74.png"
   }
 ]

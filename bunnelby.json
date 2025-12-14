@@ -1,72 +1,86 @@
 [
   {
-    "set": "Kalos Starter Set 30/39",
-    "cost": "Not PSA Graded: $1.01",
+    "code": "030/39",
+    "set": "Kalos Starter Set 030/39",
+    "cost": "UnGraded: $1.01",
     "img": "https://images.pokemontcg.io/xy0/30.png"
   },
   {
-    "set": "Phantom Forces 87/124",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "087/119",
+    "set": "Phantom Forces 087/119",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy4/87.png"
   },
   {
-    "set": "Crimson Invasion 87/126",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "087/111",
+    "set": "Crimson Invasion 087/111",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm4/87.png"
   },
   {
-    "set": "Forbidden Light 97/150",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "097/131",
+    "set": "Forbidden Light 097/131",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm6/97.png"
   },
   {
+    "code": "111/146",
     "set": "XY 111/146",
-    "cost": "Not PSA Graded: $0.18",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy1/111.png"
   },
   {
-    "set": "Primal Clash 120/164",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "120/160",
+    "set": "Primal Clash 120/160",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/xy5/120.png"
   },
   {
-    "set": "Primal Clash 121/164",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "121/160",
+    "set": "Primal Clash 121/160",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/xy5/121.png"
   },
   {
-    "set": "Rebel Clash 146/209",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "146/192",
+    "set": "Rebel Clash 146/192",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh2/146.png"
   },
   {
-    "set": "Darkness Ablaze 150/201",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "150/189",
+    "set": "Darkness Ablaze 150/189",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh3/150.png"
   },
   {
+    "code": "SV097/122",
     "set": "Shining Fates Shiny Vault SV097/122",
-    "cost": "Not PSA Graded: $0.88",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/swsh45sv/SV097.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH082/304",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "SWSH082/307",
+    "set": "SWSH Black Star Promos SWSH082/307",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/swshp/SWSH082.png"
   },
   {
-    "set": "McDonald's Collection 2014 10/12",
+    "code": "010/12",
+    "set": "McDonald's Collection 2014 010/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd14/10.png"
   },
   {
-    "set": "Fusion Strike 214/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "214/264",
+    "set": "Fusion Strike 214/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/214.png"
   },
   {
-    "set": "Obsidian Flames 175/230",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "175/197",
+    "set": "Obsidian Flames 175/197",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3/175.png"
   }
 ]

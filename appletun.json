@@ -1,32 +1,38 @@
 [
   {
-    "set": "Rebel Clash 23/209",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "023/192",
+    "set": "Rebel Clash 023/192",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/swsh2/23.png"
   },
   {
+    "code": "SV014/122",
     "set": "Shining Fates Shiny Vault SV014/122",
-    "cost": "Not PSA Graded: $4.44",
+    "cost": "UnGraded: $4.44",
     "img": "https://images.pokemontcg.io/swsh45sv/SV014.png"
   },
   {
-    "set": "Evolving Skies 121/237",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "121/203",
+    "set": "Evolving Skies 121/203",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh7/121.png"
   },
   {
-    "set": "Fusion Strike 26/284",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "026/264",
+    "set": "Fusion Strike 026/264",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/swsh8/26.png"
   },
   {
-    "set": "Surging Sparks 140/252",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "140/191",
+    "set": "Surging Sparks 140/191",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8/140.png"
   },
   {
-    "set": "Surging Sparks 211/252",
-    "cost": "Not PSA Graded: $3.64",
+    "code": "211/191",
+    "set": "Surging Sparks 211/191",
+    "cost": "UnGraded: $3.64",
     "img": "https://images.pokemontcg.io/sv8/211.png"
   }
 ]

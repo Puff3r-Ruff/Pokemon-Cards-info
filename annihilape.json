@@ -1,37 +1,44 @@
 [
   {
-    "set": "Scarlet & Violet 109/258",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "109/198",
+    "set": "Scarlet & Violet 109/198",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv1/109.png"
   },
   {
-    "set": "Paldea Evolved 242/279",
-    "cost": "Not PSA Graded: $4.06",
+    "code": "242/193",
+    "set": "Paldea Evolved 242/193",
+    "cost": "UnGraded: $4.06",
     "img": "https://images.pokemontcg.io/sv2/242.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 32/196",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "032/215",
+    "set": "Scarlet & Violet Black Star Promos 032/215",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/svp/32.png"
   },
   {
-    "set": "Paldean Fates 47/245",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "047/91",
+    "set": "Paldean Fates 047/91",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv4pt5/47.png"
   },
   {
-    "set": "Paldean Fates 171/245",
-    "cost": "Not PSA Graded: $3.09",
+    "code": "171/91",
+    "set": "Paldean Fates 171/91",
+    "cost": "UnGraded: $3.09",
     "img": "https://images.pokemontcg.io/sv4pt5/171.png"
   },
   {
-    "set": "Surging Sparks 100/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "100/191",
+    "set": "Surging Sparks 100/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/100.png"
   },
   {
-    "set": "Destined Rivals 92/244",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "092/182",
+    "set": "Destined Rivals 092/182",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv10/92.png"
   }
 ]

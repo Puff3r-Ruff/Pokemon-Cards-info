@@ -1,112 +1,134 @@
 [
   {
-    "set": "Dragon Vault 6/21",
-    "cost": "Not PSA Graded: $1.34",
+    "code": "006/20",
+    "set": "Dragon Vault 006/20",
+    "cost": "UnGraded: $1.34",
     "img": "https://images.pokemontcg.io/dv1/6.png"
   },
   {
-    "set": "Dragon 23/100",
-    "cost": "Not PSA Graded: $1.83",
+    "code": "023/97",
+    "set": "Dragon 023/97",
+    "cost": "UnGraded: $1.83",
     "img": "https://images.pokemontcg.io/ex3/23.png"
   },
   {
-    "set": "Dragon Majesty 42/80",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "042/70",
+    "set": "Dragon Majesty 042/70",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm75/42.png"
   },
   {
-    "set": "Power Keepers 43/108",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "043/108",
+    "set": "Power Keepers 043/108",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/ex16/43.png"
   },
   {
-    "set": "Arceus 52/111",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "052/99",
+    "set": "Arceus 052/99",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/pl4/52.png"
   },
   {
-    "set": "Dragon 49/100",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "049/97",
+    "set": "Dragon 049/97",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/ex3/49.png"
   },
   {
-    "set": "Dragon 50/100",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "050/97",
+    "set": "Dragon 050/97",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/ex3/50.png"
   },
   {
-    "set": "Deoxys 52/108",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "052/107",
+    "set": "Deoxys 052/107",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/ex8/52.png"
   },
   {
-    "set": "Dragon Frontiers 43/101",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "043/101",
+    "set": "Dragon Frontiers 043/101",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/ex15/43.png"
   },
   {
-    "set": "Roaring Skies 54/112",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "054/108",
+    "set": "Roaring Skies 054/108",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/xy6/54.png"
   },
   {
-    "set": "Delta Species 57/114",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "057/113",
+    "set": "Delta Species 057/113",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/ex11/57.png"
   },
   {
-    "set": "Roaring Skies 55/112",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "055/108",
+    "set": "Roaring Skies 055/108",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy6/55.png"
   },
   {
-    "set": "Plasma Blast 62/105",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "062/101",
+    "set": "Plasma Blast 062/101",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw10/62.png"
   },
   {
-    "set": "Delta Species 58/114",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "058/113",
+    "set": "Delta Species 058/113",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/ex11/58.png"
   },
   {
-    "set": "Stormfront 53/106",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "053/100",
+    "set": "Stormfront 053/100",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/dp7/53.png"
   },
   {
-    "set": "Secret Wonders 76/132",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "076/132",
+    "set": "Secret Wonders 076/132",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/dp3/76.png"
   },
   {
-    "set": "Arceus SH10/111",
+    "code": "SH10/99",
+    "set": "Arceus SH10/99",
     "cost": null,
     "img": "https://images.pokemontcg.io/pl4/SH10.png"
   },
   {
-    "set": "Celestial Storm 103/187",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "103/168",
+    "set": "Celestial Storm 103/168",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm7/103.png"
   },
   {
-    "set": "Celestial Storm 104/187",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "104/168",
+    "set": "Celestial Storm 104/168",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm7/104.png"
   },
   {
-    "set": "Evolving Skies 107/237",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "107/203",
+    "set": "Evolving Skies 107/203",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh7/107.png"
   },
   {
-    "set": "EX Trainer Kit Latias 1/10",
+    "code": "001/10",
+    "set": "EX Trainer Kit Latias 001/10",
     "cost": null,
     "img": "https://images.pokemontcg.io/tk1a/1.png"
   },
   {
-    "set": "Journey Together 112/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "112/159",
+    "set": "Journey Together 112/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/112.png"
   }
 ]

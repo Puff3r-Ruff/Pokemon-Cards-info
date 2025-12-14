@@ -1,62 +1,74 @@
 [
   {
-    "set": "Paldea Evolved 79/279",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "079/193",
+    "set": "Paldea Evolved 079/193",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/sv2/79.png"
   },
   {
-    "set": "Paldea Evolved 237/279",
-    "cost": "Not PSA Graded: $2.59",
+    "code": "237/193",
+    "set": "Paldea Evolved 237/193",
+    "cost": "UnGraded: $2.59",
     "img": "https://images.pokemontcg.io/sv2/237.png"
   },
   {
-    "set": "Obsidian Flames 77/230",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "077/197",
+    "set": "Obsidian Flames 077/197",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv3/77.png"
   },
   {
-    "set": "Obsidian Flames 78/230",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "078/197",
+    "set": "Obsidian Flames 078/197",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv3/78.png"
   },
   {
-    "set": "Obsidian Flames 201/230",
-    "cost": "Not PSA Graded: $3.22",
+    "code": "201/197",
+    "set": "Obsidian Flames 201/197",
+    "cost": "UnGraded: $3.22",
     "img": "https://images.pokemontcg.io/sv3/201.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 94/196",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "094/215",
+    "set": "Scarlet & Violet Black Star Promos 094/215",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/svp/94.png"
   },
   {
-    "set": "Twilight Masquerade 74/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "074/167",
+    "set": "Twilight Masquerade 074/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/74.png"
   },
   {
-    "set": "Journey Together 53/190",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "053/159",
+    "set": "Journey Together 053/159",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/sv9/53.png"
   },
   {
-    "set": "Journey Together 172/190",
-    "cost": "Not PSA Graded: $1.36",
+    "code": "172/159",
+    "set": "Journey Together 172/159",
+    "cost": "UnGraded: $1.36",
     "img": "https://images.pokemontcg.io/sv9/172.png"
   },
   {
-    "set": "Journey Together 183/190",
-    "cost": "Not PSA Graded: $41.06",
+    "code": "183/159",
+    "set": "Journey Together 183/159",
+    "cost": "UnGraded: $41.06",
     "img": "https://images.pokemontcg.io/sv9/183.png"
   },
   {
-    "set": "Journey Together 188/190",
-    "cost": "Not PSA Graded: $11.6",
+    "code": "188/159",
+    "set": "Journey Together 188/159",
+    "cost": "UnGraded: $11.6",
     "img": "https://images.pokemontcg.io/sv9/188.png"
   },
   {
-    "set": "Scarlet & Violet Promos 194/148",
-    "cost": "Not PSA Graded: $1.76",
+    "code": "194/150",
+    "set": "Scarlet & Violet Promos 194/150",
+    "cost": "UnGraded: $1.76",
     "img": "https://images.pokemontcg.io/svp/194.png"
   }
 ]

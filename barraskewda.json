@@ -1,27 +1,32 @@
 [
   {
-    "set": "Vivid Voltage 42/203",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "042/185",
+    "set": "Vivid Voltage 042/185",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh4/42.png"
   },
   {
-    "set": "Rebel Clash 53/209",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "053/192",
+    "set": "Rebel Clash 053/192",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh2/53.png"
   },
   {
+    "code": "SV032/122",
     "set": "Shining Fates Shiny Vault SV032/122",
-    "cost": "Not PSA Graded: $1.41",
+    "cost": "UnGraded: $1.41",
     "img": "https://images.pokemontcg.io/swsh45sv/SV032.png"
   },
   {
-    "set": "Fusion Strike 83/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "083/264",
+    "set": "Fusion Strike 083/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/83.png"
   },
   {
-    "set": "Destined Rivals 63/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "063/182",
+    "set": "Destined Rivals 063/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/63.png"
   }
 ]

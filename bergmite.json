@@ -1,27 +1,32 @@
 [
   {
-    "set": "Flashfire 30/110",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "030/106",
+    "set": "Flashfire 030/106",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy2/30.png"
   },
   {
-    "set": "Forbidden Light 29/150",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "029/131",
+    "set": "Forbidden Light 029/131",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm6/29.png"
   },
   {
-    "set": "Steam Siege 36/116",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "036/114",
+    "set": "Steam Siege 036/114",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/xy11/36.png"
   },
   {
-    "set": "Evolving Skies 44/237",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "044/203",
+    "set": "Evolving Skies 044/203",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh7/44.png"
   },
   {
-    "set": "Astral Radiance 47/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "047/189",
+    "set": "Astral Radiance 047/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh10/47.png"
   }
 ]

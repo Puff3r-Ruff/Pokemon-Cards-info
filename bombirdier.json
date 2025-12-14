@@ -1,37 +1,44 @@
 [
   {
-    "set": "Scarlet & Violet 138/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "138/198",
+    "set": "Scarlet & Violet 138/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/138.png"
   },
   {
-    "set": "Scarlet & Violet 219/258",
-    "cost": "Not PSA Graded: $3.53",
+    "code": "219/198",
+    "set": "Scarlet & Violet 219/198",
+    "cost": "UnGraded: $3.53",
     "img": "https://images.pokemontcg.io/sv1/219.png"
   },
   {
-    "set": "Paldea Evolved 147/279",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "147/193",
+    "set": "Paldea Evolved 147/193",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv2/147.png"
   },
   {
-    "set": "Paradox Rift 156/266",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "156/182",
+    "set": "Paradox Rift 156/182",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/sv4/156.png"
   },
   {
-    "set": "Paradox Rift 234/266",
-    "cost": "Not PSA Graded: $1.41",
+    "code": "234/182",
+    "set": "Paradox Rift 234/182",
+    "cost": "UnGraded: $1.41",
     "img": "https://images.pokemontcg.io/sv4/234.png"
   },
   {
-    "set": "Stellar Crown 97/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "097/142",
+    "set": "Stellar Crown 097/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/97.png"
   },
   {
-    "set": "Journey Together 101/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "101/159",
+    "set": "Journey Together 101/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/101.png"
   }
 ]

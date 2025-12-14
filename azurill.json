@@ -1,22 +1,26 @@
 [
   {
-    "set": "Delta Species 20/114",
-    "cost": "Not PSA Graded: $5.94",
+    "code": "020/113",
+    "set": "Delta Species 020/113",
+    "cost": "UnGraded: $5.94",
     "img": "https://images.pokemontcg.io/ex11/20.png"
   },
   {
-    "set": "Sandstorm 31/100",
-    "cost": "Not PSA Graded: $4.61",
+    "code": "031/100",
+    "set": "Sandstorm 031/100",
+    "cost": "UnGraded: $4.61",
     "img": "https://images.pokemontcg.io/ex2/31.png"
   },
   {
-    "set": "Diamond & Pearl 69/130",
-    "cost": "Not PSA Graded: $5.27",
+    "code": "069/130",
+    "set": "Diamond & Pearl 069/130",
+    "cost": "UnGraded: $5.27",
     "img": "https://images.pokemontcg.io/dp1/69.png"
   },
   {
-    "set": "Cosmic Eclipse 146/272",
-    "cost": "Not PSA Graded: $4.5",
+    "code": "146/236",
+    "set": "Cosmic Eclipse 146/236",
+    "cost": "UnGraded: $4.5",
     "img": "https://images.pokemontcg.io/sm12/146.png"
   }
 ]

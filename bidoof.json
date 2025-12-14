@@ -1,82 +1,98 @@
 [
   {
-    "set": "POP Series 6 11/17",
-    "cost": "Not PSA Graded: $12.78",
+    "code": "011/17",
+    "set": "POP Series 6 011/17",
+    "cost": "UnGraded: $12.78",
     "img": "https://images.pokemontcg.io/pop6/11.png"
   },
   {
-    "set": "Kalos Starter Set 29/39",
-    "cost": "Not PSA Graded: $9.12",
+    "code": "029/39",
+    "set": "Kalos Starter Set 029/39",
+    "cost": "UnGraded: $9.12",
     "img": "https://images.pokemontcg.io/xy0/29.png"
   },
   {
-    "set": "Stormfront 54/106",
-    "cost": "Not PSA Graded: $1.39",
+    "code": "054/100",
+    "set": "Stormfront 054/100",
+    "cost": "UnGraded: $1.39",
     "img": "https://images.pokemontcg.io/dp7/54.png"
   },
   {
-    "set": "Diamond & Pearl 70/130",
-    "cost": "Not PSA Graded: $1.09",
+    "code": "070/130",
+    "set": "Diamond & Pearl 070/130",
+    "cost": "UnGraded: $1.09",
     "img": "https://images.pokemontcg.io/dp1/70.png"
   },
   {
-    "set": "Mysterious Treasures 73/124",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "073/123",
+    "set": "Mysterious Treasures 073/123",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/dp2/73.png"
   },
   {
-    "set": "Supreme Victors 91/153",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "091/147",
+    "set": "Supreme Victors 091/147",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/pl3/91.png"
   },
   {
+    "code": "106/146",
     "set": "XY 106/146",
-    "cost": "Not PSA Graded: $0.19",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy1/106.png"
   },
   {
-    "set": "Dragons Exalted 106/128",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "106/124",
+    "set": "Dragons Exalted 106/124",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/bw6/106.png"
   },
   {
-    "set": "Primal Clash 116/164",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "116/160",
+    "set": "Primal Clash 116/160",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy5/116.png"
   },
   {
-    "set": "Primal Clash 117/164",
-    "cost": "Not PSA Graded: $1.62",
+    "code": "117/160",
+    "set": "Primal Clash 117/160",
+    "cost": "UnGraded: $1.62",
     "img": "https://images.pokemontcg.io/xy5/117.png"
   },
   {
-    "set": "Unified Minds 171/260",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "171/236",
+    "set": "Unified Minds 171/236",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm11/171.png"
   },
   {
-    "set": "Brilliant Stars 120/186",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "120/172",
+    "set": "Brilliant Stars 120/172",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh9/120.png"
   },
   {
-    "set": "Pokémon GO 59/88",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "059/78",
+    "set": "Pokémon GO 059/78",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/pgo/59.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH177/304",
-    "cost": "Not PSA Graded: $383.59",
+    "code": "SWSH177/307",
+    "set": "SWSH Black Star Promos SWSH177/307",
+    "cost": "UnGraded: $383.59",
     "img": "https://images.pokemontcg.io/swshp/SWSH177.png"
   },
   {
-    "set": "Crown Zenith 111/160",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "111/159",
+    "set": "Crown Zenith 111/159",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh12pt5/111.png"
   },
   {
+    "code": "GG29/70",
     "set": "Crown Zenith Galarian Gallery GG29/70",
-    "cost": "Not PSA Graded: $3.53",
+    "cost": "UnGraded: $3.53",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG29.png"
   }
 ]

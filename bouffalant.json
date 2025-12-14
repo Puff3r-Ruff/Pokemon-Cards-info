@@ -1,82 +1,98 @@
 [
   {
-    "set": "Black & White 90/115",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "090/114",
+    "set": "Black & White 090/114",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/bw1/90.png"
   },
   {
-    "set": "Black & White 91/115",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "091/114",
+    "set": "Black & White 091/114",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/bw1/91.png"
   },
   {
-    "set": "Legendary Treasures 107/140",
-    "cost": "Not PSA Graded: $1.83",
+    "code": "107/113",
+    "set": "Legendary Treasures 107/113",
+    "cost": "UnGraded: $1.83",
     "img": "https://images.pokemontcg.io/bw11/107.png"
   },
   {
-    "set": "Primal Clash 119/164",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "119/160",
+    "set": "Primal Clash 119/160",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy5/119.png"
   },
   {
-    "set": "Dragons Exalted 110/128",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "110/124",
+    "set": "Dragons Exalted 110/124",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/bw6/110.png"
   },
   {
-    "set": "Burning Shadows 108/177",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "108/147",
+    "set": "Burning Shadows 108/147",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm3/108.png"
   },
   {
-    "set": "Plasma Storm 114/138",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "114/135",
+    "set": "Plasma Storm 114/135",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/bw8/114.png"
   },
   {
-    "set": "Battle Styles 118/183",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "118/163",
+    "set": "Battle Styles 118/163",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh5/118.png"
   },
   {
-    "set": "Lost Origin 148/217",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "148/196",
+    "set": "Lost Origin 148/196",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh11/148.png"
   },
   {
-    "set": "Obsidian Flames 174/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "174/197",
+    "set": "Obsidian Flames 174/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/174.png"
   },
   {
-    "set": "Stellar Crown 119/175",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "119/142",
+    "set": "Stellar Crown 119/142",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv7/119.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 136/196",
-    "cost": "Not PSA Graded: $4.4",
+    "code": "136/215",
+    "set": "Scarlet & Violet Black Star Promos 136/215",
+    "cost": "UnGraded: $4.4",
     "img": "https://images.pokemontcg.io/svp/136.png"
   },
   {
-    "set": "Surging Sparks 151/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "151/191",
+    "set": "Surging Sparks 151/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/151.png"
   },
   {
-    "set": "White Flare 77/173",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "077/86",
+    "set": "White Flare 077/86",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/rsv10pt5/77.png"
   },
   {
-    "set": "White Flare 162/173",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "162/86",
+    "set": "White Flare 162/86",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/rsv10pt5/162.png"
   },
   {
-    "set": "White Flare 170/173",
-    "cost": "Not PSA Graded: $14.94",
+    "code": "170/86",
+    "set": "White Flare 170/86",
+    "cost": "UnGraded: $14.94",
     "img": "https://images.pokemontcg.io/rsv10pt5/170.png"
   }
 ]

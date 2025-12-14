@@ -1,67 +1,80 @@
 [
   {
-    "set": "Mysterious Treasures 3/124",
-    "cost": "Not PSA Graded: $2.96",
+    "code": "003/123",
+    "set": "Mysterious Treasures 003/123",
+    "cost": "UnGraded: $2.96",
     "img": "https://images.pokemontcg.io/dp2/3.png"
   },
   {
-    "set": "HS—Triumphant 13/103",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "013/102",
+    "set": "HS—Triumphant 013/102",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/hgss4/13.png"
   },
   {
-    "set": "Majestic Dawn 35/100",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "035/100",
+    "set": "Majestic Dawn 035/100",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/dp5/35.png"
   },
   {
-    "set": "Rising Rivals 56/120",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "056/111",
+    "set": "Rising Rivals 056/111",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/pl2/56.png"
   },
   {
-    "set": "Steam Siege 91/116",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "091/114",
+    "set": "Steam Siege 091/114",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/xy11/91.png"
   },
   {
-    "set": "Dragons Exalted 100/128",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "100/124",
+    "set": "Dragons Exalted 100/124",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/bw6/100.png"
   },
   {
-    "set": "Cosmic Eclipse 170/272",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "170/236",
+    "set": "Cosmic Eclipse 170/236",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm12/170.png"
   },
   {
-    "set": "Pokémon GO 57/88",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "057/78",
+    "set": "Pokémon GO 057/78",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/pgo/57.png"
   },
   {
-    "set": "Lost Origin 145/217",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "145/196",
+    "set": "Lost Origin 145/196",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh11/145.png"
   },
   {
-    "set": "Paradox Rift 146/266",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "146/182",
+    "set": "Paradox Rift 146/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv4/146.png"
   },
   {
-    "set": "Twilight Masquerade 138/226",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "138/167",
+    "set": "Twilight Masquerade 138/167",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv6/138.png"
   },
   {
-    "set": "Phantasmal Flames 79/130",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "079/94",
+    "set": "Phantasmal Flames 079/94",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me2/79.png"
   },
   {
-    "set": "Phantasmal Flames 107/130",
-    "cost": "Not PSA Graded: $2.09",
+    "code": "107/94",
+    "set": "Phantasmal Flames 107/94",
+    "cost": "UnGraded: $2.09",
     "img": "https://images.pokemontcg.io/me2/107.png"
   }
 ]

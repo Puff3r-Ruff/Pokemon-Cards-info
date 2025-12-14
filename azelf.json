@@ -1,47 +1,56 @@
 [
   {
-    "set": "Mysterious Treasures 4/124",
-    "cost": "Not PSA Graded: $13.47",
+    "code": "004/123",
+    "set": "Mysterious Treasures 004/123",
+    "cost": "UnGraded: $13.47",
     "img": "https://images.pokemontcg.io/dp2/4.png"
   },
   {
-    "set": "Legends Awakened 19/146",
-    "cost": "Not PSA Graded: $10.83",
+    "code": "019/146",
+    "set": "Legends Awakened 019/146",
+    "cost": "UnGraded: $10.83",
     "img": "https://images.pokemontcg.io/dp6/19.png"
   },
   {
-    "set": "Plasma Blast 38/105",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "038/101",
+    "set": "Plasma Blast 038/101",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/bw10/38.png"
   },
   {
-    "set": "Forbidden Light 43/150",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "043/131",
+    "set": "Forbidden Light 043/131",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm6/43.png"
   },
   {
-    "set": "Unified Minds 85/260",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "085/236",
+    "set": "Unified Minds 085/236",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm11/85.png"
   },
   {
+    "code": "140/146",
     "set": "Legends Awakened 140/146",
-    "cost": "Not PSA Graded: $110.75",
+    "cost": "UnGraded: $110.75",
     "img": "https://images.pokemontcg.io/dp6/140.png"
   },
   {
-    "set": "XY Black Star Promos XY142/216",
-    "cost": "Not PSA Graded: $3.79",
+    "code": "XY142/211",
+    "set": "XY Black Star Promos XY142/211",
+    "cost": "UnGraded: $3.79",
     "img": "https://images.pokemontcg.io/xyp/XY142.png"
   },
   {
-    "set": "Astral Radiance 67/216",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "067/189",
+    "set": "Astral Radiance 067/189",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh10/67.png"
   },
   {
-    "set": "Surging Sparks 80/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "080/191",
+    "set": "Surging Sparks 080/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/80.png"
   }
 ]

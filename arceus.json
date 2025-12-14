@@ -1,172 +1,206 @@
 [
   {
+    "code": "DP50/56",
     "set": "DP Black Star Promos DP50/56",
-    "cost": "Not PSA Graded: $22.27",
+    "cost": "UnGraded: $22.27",
     "img": "https://images.pokemontcg.io/dpp/DP50.png"
   },
   {
+    "code": "DP53/56",
     "set": "DP Black Star Promos DP53/56",
-    "cost": "Not PSA Graded: $31.07",
+    "cost": "UnGraded: $31.07",
     "img": "https://images.pokemontcg.io/dpp/DP53.png"
   },
   {
+    "code": "DP56/56",
     "set": "DP Black Star Promos DP56/56",
-    "cost": "Not PSA Graded: $51.63",
+    "cost": "UnGraded: $51.63",
     "img": "https://images.pokemontcg.io/dpp/DP56.png"
   },
   {
-    "set": "Shining Legends 57/81",
-    "cost": "Not PSA Graded: $25.15",
+    "code": "057/73",
+    "set": "Shining Legends 057/73",
+    "cost": "UnGraded: $25.15",
     "img": "https://images.pokemontcg.io/sm35/57.png"
   },
   {
-    "set": "XY Black Star Promos XY83/216",
-    "cost": "Not PSA Graded: $42.94",
+    "code": "XY83/211",
+    "set": "XY Black Star Promos XY83/211",
+    "cost": "UnGraded: $42.94",
     "img": "https://images.pokemontcg.io/xyp/XY83.png"
   },
   {
-    "set": "Arceus 94/111",
-    "cost": "Not PSA Graded: $33.84",
+    "code": "094/99",
+    "set": "Arceus 094/99",
+    "cost": "UnGraded: $33.84",
     "img": "https://images.pokemontcg.io/pl4/94.png"
   },
   {
-    "set": "Arceus 95/111",
-    "cost": "Not PSA Graded: $59.83",
+    "code": "095/99",
+    "set": "Arceus 095/99",
+    "cost": "UnGraded: $59.83",
     "img": "https://images.pokemontcg.io/pl4/95.png"
   },
   {
-    "set": "Arceus 96/111",
-    "cost": "Not PSA Graded: $37.57",
+    "code": "096/99",
+    "set": "Arceus 096/99",
+    "cost": "UnGraded: $37.57",
     "img": "https://images.pokemontcg.io/pl4/96.png"
   },
   {
-    "set": "Arceus AR1/111",
-    "cost": "Not PSA Graded: $29.55",
+    "code": "AR1/99",
+    "set": "Arceus AR1/99",
+    "cost": "UnGraded: $29.55",
     "img": "https://images.pokemontcg.io/pl4/AR1.png"
   },
   {
-    "set": "Arceus AR2/111",
-    "cost": "Not PSA Graded: $24",
+    "code": "AR2/99",
+    "set": "Arceus AR2/99",
+    "cost": "UnGraded: $24",
     "img": "https://images.pokemontcg.io/pl4/AR2.png"
   },
   {
-    "set": "Arceus AR3/111",
-    "cost": "Not PSA Graded: $20.83",
+    "code": "AR3/99",
+    "set": "Arceus AR3/99",
+    "cost": "UnGraded: $20.83",
     "img": "https://images.pokemontcg.io/pl4/AR3.png"
   },
   {
-    "set": "Arceus AR4/111",
-    "cost": "Not PSA Graded: $36.87",
+    "code": "AR4/99",
+    "set": "Arceus AR4/99",
+    "cost": "UnGraded: $36.87",
     "img": "https://images.pokemontcg.io/pl4/AR4.png"
   },
   {
-    "set": "Arceus AR5/111",
-    "cost": "Not PSA Graded: $30.92",
+    "code": "AR5/99",
+    "set": "Arceus AR5/99",
+    "cost": "UnGraded: $30.92",
     "img": "https://images.pokemontcg.io/pl4/AR5.png"
   },
   {
-    "set": "Forbidden Light 96/150",
-    "cost": "Not PSA Graded: $13.4",
+    "code": "096/131",
+    "set": "Forbidden Light 096/131",
+    "cost": "UnGraded: $13.4",
     "img": "https://images.pokemontcg.io/sm6/96.png"
   },
   {
-    "set": "Arceus AR6/111",
-    "cost": "Not PSA Graded: $16.3",
+    "code": "AR6/99",
+    "set": "Arceus AR6/99",
+    "cost": "UnGraded: $16.3",
     "img": "https://images.pokemontcg.io/pl4/AR6.png"
   },
   {
-    "set": "Arceus AR7/111",
-    "cost": "Not PSA Graded: $26.11",
+    "code": "AR7/99",
+    "set": "Arceus AR7/99",
+    "cost": "UnGraded: $26.11",
     "img": "https://images.pokemontcg.io/pl4/AR7.png"
   },
   {
-    "set": "Arceus AR8/111",
-    "cost": "Not PSA Graded: $27.49",
+    "code": "AR8/99",
+    "set": "Arceus AR8/99",
+    "cost": "UnGraded: $27.49",
     "img": "https://images.pokemontcg.io/pl4/AR8.png"
   },
   {
-    "set": "Arceus AR9/111",
-    "cost": "Not PSA Graded: $27.09",
+    "code": "AR9/99",
+    "set": "Arceus AR9/99",
+    "cost": "UnGraded: $27.09",
     "img": "https://images.pokemontcg.io/pl4/AR9.png"
   },
   {
-    "set": "XY Black Star Promos XY116/216",
-    "cost": "Not PSA Graded: $31.96",
+    "code": "XY116/211",
+    "set": "XY Black Star Promos XY116/211",
+    "cost": "UnGraded: $31.96",
     "img": "https://images.pokemontcg.io/xyp/XY116.png"
   },
   {
-    "set": "Cosmic Eclipse 156/272",
-    "cost": "Not PSA Graded: $25.98",
+    "code": "156/236",
+    "set": "Cosmic Eclipse 156/236",
+    "cost": "UnGraded: $25.98",
     "img": "https://images.pokemontcg.io/sm12/156.png"
   },
   {
-    "set": "XY Black Star Promos XY197/216",
-    "cost": "Not PSA Graded: $11.69",
+    "code": "XY197/211",
+    "set": "XY Black Star Promos XY197/211",
+    "cost": "UnGraded: $11.69",
     "img": "https://images.pokemontcg.io/xyp/XY197.png"
   },
   {
-    "set": "Cosmic Eclipse 220/272",
-    "cost": "Not PSA Graded: $56.26",
+    "code": "220/236",
+    "set": "Cosmic Eclipse 220/236",
+    "cost": "UnGraded: $56.26",
     "img": "https://images.pokemontcg.io/sm12/220.png"
   },
   {
-    "set": "Cosmic Eclipse 221/272",
-    "cost": "Not PSA Graded: $452.79",
+    "code": "221/236",
+    "set": "Cosmic Eclipse 221/236",
+    "cost": "UnGraded: $452.79",
     "img": "https://images.pokemontcg.io/sm12/221.png"
   },
   {
-    "set": "Cosmic Eclipse 258/272",
-    "cost": "Not PSA Graded: $72.25",
+    "code": "258/236",
+    "set": "Cosmic Eclipse 258/236",
+    "cost": "UnGraded: $72.25",
     "img": "https://images.pokemontcg.io/sm12/258.png"
   },
   {
-    "set": "Brilliant Stars 122/186",
-    "cost": "Not PSA Graded: $2.53",
+    "code": "122/172",
+    "set": "Brilliant Stars 122/172",
+    "cost": "UnGraded: $2.53",
     "img": "https://images.pokemontcg.io/swsh9/122.png"
   },
   {
-    "set": "Brilliant Stars 123/186",
-    "cost": "Not PSA Graded: $4.61",
+    "code": "123/172",
+    "set": "Brilliant Stars 123/172",
+    "cost": "UnGraded: $4.61",
     "img": "https://images.pokemontcg.io/swsh9/123.png"
   },
   {
-    "set": "Brilliant Stars 165/186",
-    "cost": "Not PSA Graded: $6",
+    "code": "165/172",
+    "set": "Brilliant Stars 165/172",
+    "cost": "UnGraded: $6",
     "img": "https://images.pokemontcg.io/swsh9/165.png"
   },
   {
-    "set": "Brilliant Stars 166/186",
-    "cost": "Not PSA Graded: $53.88",
+    "code": "166/172",
+    "set": "Brilliant Stars 166/172",
+    "cost": "UnGraded: $53.88",
     "img": "https://images.pokemontcg.io/swsh9/166.png"
   },
   {
-    "set": "Brilliant Stars 176/186",
-    "cost": "Not PSA Graded: $13.32",
+    "code": "176/172",
+    "set": "Brilliant Stars 176/172",
+    "cost": "UnGraded: $13.32",
     "img": "https://images.pokemontcg.io/swsh9/176.png"
   },
   {
-    "set": "Brilliant Stars 184/186",
-    "cost": "Not PSA Graded: $13.85",
+    "code": "184/172",
+    "set": "Brilliant Stars 184/172",
+    "cost": "UnGraded: $13.85",
     "img": "https://images.pokemontcg.io/swsh9/184.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH204/304",
-    "cost": "Not PSA Graded: $19.29",
+    "code": "SWSH204/307",
+    "set": "SWSH Black Star Promos SWSH204/307",
+    "cost": "UnGraded: $19.29",
     "img": "https://images.pokemontcg.io/swshp/SWSH204.png"
   },
   {
+    "code": "GG70/70",
     "set": "Crown Zenith Galarian Gallery GG70/70",
-    "cost": "Not PSA Graded: $119.13",
+    "cost": "UnGraded: $119.13",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG70.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH306/304",
-    "cost": "Not PSA Graded: $3.02",
+    "code": "SWSH306/307",
+    "set": "SWSH Black Star Promos SWSH306/307",
+    "cost": "UnGraded: $3.02",
     "img": "https://images.pokemontcg.io/swshp/SWSH306.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH307/304",
-    "cost": "Not PSA Graded: $4.89",
+    "code": "SWSH307/307",
+    "set": "SWSH Black Star Promos SWSH307/307",
+    "cost": "UnGraded: $4.89",
     "img": "https://images.pokemontcg.io/swshp/SWSH307.png"
   }
 ]

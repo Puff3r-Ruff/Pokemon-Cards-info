@@ -1,102 +1,122 @@
 [
   {
-    "set": "Team Rocket 2/83",
+    "code": "002/82",
+    "set": "Team Rocket 002/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/2.png"
   },
   {
-    "set": "Expedition Base Set 3/165",
-    "cost": "Not PSA Graded: $46.29",
+    "code": "003/165",
+    "set": "Expedition Base Set 003/165",
+    "cost": "UnGraded: $46.29",
     "img": "https://images.pokemontcg.io/ecard1/3.png"
   },
   {
-    "set": "Team Rocket 19/83",
+    "code": "019/82",
+    "set": "Team Rocket 019/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/19.png"
   },
   {
-    "set": "Gym Challenge 25/132",
+    "code": "025/132",
+    "set": "Gym Challenge 025/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/25.png"
   },
   {
-    "set": "Dragon Frontiers 13/101",
-    "cost": "Not PSA Graded: $1.73",
+    "code": "013/101",
+    "set": "Dragon Frontiers 013/101",
+    "cost": "UnGraded: $1.75",
     "img": "https://images.pokemontcg.io/ex15/13.png"
   },
   {
-    "set": "Hidden Fates 27/69",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "027/68",
+    "set": "Hidden Fates 027/68",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm115/27.png"
   },
   {
-    "set": "Fossil 31/62",
+    "code": "031/62",
+    "set": "Fossil 031/62",
     "cost": null,
     "img": "https://images.pokemontcg.io/base3/31.png"
   },
   {
-    "set": "Team Rocket Returns 29/111",
-    "cost": "Not PSA Graded: $4.1",
+    "code": "029/109",
+    "set": "Team Rocket Returns 029/109",
+    "cost": "UnGraded: $4.1",
     "img": "https://images.pokemontcg.io/ex7/29.png"
   },
   {
-    "set": "Champion's Path 34/80",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "034/73",
+    "set": "Champion's Path 034/73",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh35/34.png"
   },
   {
-    "set": "Sandstorm 29/100",
-    "cost": "Not PSA Graded: $1.65",
+    "code": "029/100",
+    "set": "Sandstorm 029/100",
+    "cost": "UnGraded: $1.65",
     "img": "https://images.pokemontcg.io/ex2/29.png"
   },
   {
-    "set": "Great Encounters 33/106",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "033/106",
+    "set": "Great Encounters 033/106",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/dp4/33.png"
   },
   {
-    "set": "Expedition Base Set 35/165",
-    "cost": "Not PSA Graded: $7.71",
+    "code": "035/165",
+    "set": "Expedition Base Set 035/165",
+    "cost": "UnGraded: $7.71",
     "img": "https://images.pokemontcg.io/ecard1/35.png"
   },
   {
-    "set": "Shining Legends 37/81",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "037/73",
+    "set": "Shining Legends 037/73",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm35/37.png"
   },
   {
-    "set": "XY 48/146",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "048/146",
+    "set": "XY 048/146",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/xy1/48.png"
   },
   {
-    "set": "Unbroken Bonds 63/234",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "063/214",
+    "set": "Unbroken Bonds 063/214",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/sm10/63.png"
   },
   {
-    "set": "151 24/207",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "024/165",
+    "set": "151 024/165",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/sv3pt5/24.png"
   },
   {
-    "set": "151 185/207",
-    "cost": "Not PSA Graded: $5.1",
+    "code": "185/165",
+    "set": "151 185/165",
+    "cost": "UnGraded: $5.19",
     "img": "https://images.pokemontcg.io/sv3pt5/185.png"
   },
   {
-    "set": "Temporal Forces 101/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "101/162",
+    "set": "Temporal Forces 101/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/101.png"
   },
   {
-    "set": "Temporal Forces 176/218",
-    "cost": "Not PSA Graded: $13.53",
+    "code": "176/162",
+    "set": "Temporal Forces 176/162",
+    "cost": "UnGraded: $13.48",
     "img": "https://images.pokemontcg.io/sv5/176.png"
   },
   {
-    "set": "Destined Rivals 113/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "113/182",
+    "set": "Destined Rivals 113/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/113.png"
   }
 ]
