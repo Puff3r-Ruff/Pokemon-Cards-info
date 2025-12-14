@@ -1,72 +1,86 @@
 [
   {
-    "set": "Legend Maker 16/93",
-    "cost": "Not PSA Graded: $2.76",
+    "code": "016/92",
+    "set": "Legend Maker 016/92",
+    "cost": "UnGraded: $2.76",
     "img": "https://images.pokemontcg.io/ex12/16.png"
   },
   {
-    "set": "Dragon 16/100",
-    "cost": "Not PSA Graded: $1.02",
+    "code": "016/97",
+    "set": "Dragon 016/97",
+    "cost": "UnGraded: $1.02",
     "img": "https://images.pokemontcg.io/ex3/16.png"
   },
   {
-    "set": "Mysterious Treasures 49/124",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "049/123",
+    "set": "Mysterious Treasures 049/123",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/dp2/49.png"
   },
   {
-    "set": "HeartGold & SoulSilver 64/124",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "064/123",
+    "set": "HeartGold & SoulSilver 064/123",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/hgss1/64.png"
   },
   {
-    "set": "Neo Genesis 58/111",
+    "code": "058/111",
+    "set": "Neo Genesis 058/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/58.png"
   },
   {
-    "set": "Neo Destiny 66/113",
+    "code": "066/105",
+    "set": "Neo Destiny 066/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/66.png"
   },
   {
-    "set": "Vivid Voltage 65/203",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "065/185",
+    "set": "Vivid Voltage 065/185",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh4/65.png"
   },
   {
-    "set": "Phantom Forces 82/124",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "082/119",
+    "set": "Phantom Forces 082/119",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/xy4/82.png"
   },
   {
-    "set": "Skyridge 58/182",
-    "cost": "Not PSA Graded: $7.3",
+    "code": "058/144",
+    "set": "Skyridge 058/144",
+    "cost": "UnGraded: $7.3",
     "img": "https://images.pokemontcg.io/ecard3/58.png"
   },
   {
-    "set": "Lost Thunder 94/240",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "094/214",
+    "set": "Lost Thunder 094/214",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/sm8/94.png"
   },
   {
-    "set": "Crown Zenith 61/160",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "061/159",
+    "set": "Crown Zenith 061/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/swsh12pt5/61.png"
   },
   {
-    "set": "Paldea Evolved 154/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "154/193",
+    "set": "Paldea Evolved 154/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/154.png"
   },
   {
-    "set": "Temporal Forces 66/218",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "066/162",
+    "set": "Temporal Forces 066/162",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv5/66.png"
   },
   {
-    "set": "Twilight Masquerade 83/226",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "083/167",
+    "set": "Twilight Masquerade 083/167",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv6/83.png"
   }
 ]

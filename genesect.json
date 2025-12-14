@@ -1,127 +1,152 @@
 [
   {
-    "set": "Plasma Blast 10/105",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "010/101",
+    "set": "Plasma Blast 010/101",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/bw10/10.png"
   },
   {
-    "set": "Plasma Blast 11/105",
-    "cost": "Not PSA Graded: $18.57",
+    "code": "011/101",
+    "set": "Plasma Blast 011/101",
+    "cost": "UnGraded: $18.57",
     "img": "https://images.pokemontcg.io/bw10/11.png"
   },
   {
-    "set": "Legendary Treasures 16/140",
-    "cost": "Not PSA Graded: $1.88",
+    "code": "016/113",
+    "set": "Legendary Treasures 016/113",
+    "cost": "UnGraded: $1.88",
     "img": "https://images.pokemontcg.io/bw11/16.png"
   },
   {
-    "set": "Shining Legends 9/81",
-    "cost": "Not PSA Graded: $11.62",
+    "code": "009/73",
+    "set": "Shining Legends 009/73",
+    "cost": "UnGraded: $11.62",
     "img": "https://images.pokemontcg.io/sm35/9.png"
   },
   {
-    "set": "Vivid Voltage 16/203",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "016/185",
+    "set": "Vivid Voltage 016/185",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh4/16.png"
   },
   {
-    "set": "Fates Collide 64/129",
-    "cost": "Not PSA Graded: $1.6",
+    "code": "064/124",
+    "set": "Fates Collide 064/124",
+    "cost": "UnGraded: $1.6",
     "img": "https://images.pokemontcg.io/xy10/64.png"
   },
   {
-    "set": "Plasma Blast 97/105",
-    "cost": "Not PSA Graded: $266.5",
+    "code": "097/101",
+    "set": "Plasma Blast 097/101",
+    "cost": "UnGraded: $266.5",
     "img": "https://images.pokemontcg.io/bw10/97.png"
   },
   {
+    "code": "BW86/101",
     "set": "BW Black Star Promos BW86/101",
-    "cost": "Not PSA Graded: $143.65",
+    "cost": "UnGraded: $143.65",
     "img": "https://images.pokemontcg.io/bwp/BW86.png"
   },
   {
+    "code": "BW99/101",
     "set": "BW Black Star Promos BW99/101",
-    "cost": "Not PSA Graded: $3.54",
+    "cost": "UnGraded: $3.54",
     "img": "https://images.pokemontcg.io/bwp/BW99.png"
   },
   {
+    "code": "BW101/101",
     "set": "BW Black Star Promos BW101/101",
-    "cost": "Not PSA Graded: $66.59",
+    "cost": "UnGraded: $66.59",
     "img": "https://images.pokemontcg.io/bwp/BW101.png"
   },
   {
-    "set": "XY Black Star Promos XY119/216",
-    "cost": "Not PSA Graded: $19.27",
+    "code": "XY119/211",
+    "set": "XY Black Star Promos XY119/211",
+    "cost": "UnGraded: $19.27",
     "img": "https://images.pokemontcg.io/xyp/XY119.png"
   },
   {
-    "set": "Fates Collide 120/129",
-    "cost": "Not PSA Graded: $12.3",
+    "code": "120/124",
+    "set": "Fates Collide 120/124",
+    "cost": "UnGraded: $12.3",
     "img": "https://images.pokemontcg.io/xy10/120.png"
   },
   {
-    "set": "Lost Thunder 130/240",
-    "cost": "Not PSA Graded: $2.17",
+    "code": "130/214",
+    "set": "Lost Thunder 130/214",
+    "cost": "UnGraded: $2.17",
     "img": "https://images.pokemontcg.io/sm8/130.png"
   },
   {
-    "set": "Unbroken Bonds 127/234",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "127/214",
+    "set": "Unbroken Bonds 127/214",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/sm10/127.png"
   },
   {
-    "set": "XY Black Star Promos XY196/216",
-    "cost": "Not PSA Graded: $1.68",
+    "code": "XY196/211",
+    "set": "XY Black Star Promos XY196/211",
+    "cost": "UnGraded: $1.68",
     "img": "https://images.pokemontcg.io/xyp/XY196.png"
   },
   {
-    "set": "Lost Thunder 204/240",
-    "cost": "Not PSA Graded: $6.7",
+    "code": "204/214",
+    "set": "Lost Thunder 204/214",
+    "cost": "UnGraded: $6.7",
     "img": "https://images.pokemontcg.io/sm8/204.png"
   },
   {
-    "set": "Lost Thunder 224/240",
-    "cost": "Not PSA Graded: $20.19",
+    "code": "224/214",
+    "set": "Lost Thunder 224/214",
+    "cost": "UnGraded: $20.19",
     "img": "https://images.pokemontcg.io/sm8/224.png"
   },
   {
-    "set": "Fusion Strike 185/284",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "185/264",
+    "set": "Fusion Strike 185/264",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/swsh8/185.png"
   },
   {
-    "set": "Fusion Strike 254/284",
-    "cost": "Not PSA Graded: $2.65",
+    "code": "254/264",
+    "set": "Fusion Strike 254/264",
+    "cost": "UnGraded: $2.65",
     "img": "https://images.pokemontcg.io/swsh8/254.png"
   },
   {
-    "set": "Fusion Strike 255/284",
-    "cost": "Not PSA Graded: $26.82",
+    "code": "255/264",
+    "set": "Fusion Strike 255/264",
+    "cost": "UnGraded: $26.82",
     "img": "https://images.pokemontcg.io/swsh8/255.png"
   },
   {
-    "set": "Shrouded Fable 40/99",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "040/64",
+    "set": "Shrouded Fable 040/64",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv6pt5/40.png"
   },
   {
-    "set": "Black Bolt 67/172",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "067/86",
+    "set": "Black Bolt 067/86",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/zsv10pt5/67.png"
   },
   {
-    "set": "Black Bolt 161/172",
-    "cost": "Not PSA Graded: $1.78",
+    "code": "161/86",
+    "set": "Black Bolt 161/86",
+    "cost": "UnGraded: $1.78",
     "img": "https://images.pokemontcg.io/zsv10pt5/161.png"
   },
   {
-    "set": "Black Bolt 169/172",
-    "cost": "Not PSA Graded: $50.47",
+    "code": "169/86",
+    "set": "Black Bolt 169/86",
+    "cost": "UnGraded: $50.47",
     "img": "https://images.pokemontcg.io/zsv10pt5/169.png"
   },
   {
-    "set": "Phantasmal Flames 8/130",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "008/94",
+    "set": "Phantasmal Flames 008/94",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/me2/8.png"
   }
 ]

@@ -1,82 +1,98 @@
 [
   {
-    "set": "Dragon 6/100",
-    "cost": "Not PSA Graded: $15.89",
+    "code": "006/97",
+    "set": "Dragon 006/97",
+    "cost": "UnGraded: $15.89",
     "img": "https://images.pokemontcg.io/ex3/6.png"
   },
   {
-    "set": "HS—Triumphant 23/103",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "023/102",
+    "set": "HS—Triumphant 023/102",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/hgss4/23.png"
   },
   {
-    "set": "Crystal Guardians 20/100",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "020/100",
+    "set": "Crystal Guardians 020/100",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/ex14/20.png"
   },
   {
-    "set": "Emerald 29/107",
-    "cost": "Not PSA Graded: $0.99",
+    "code": "029/106",
+    "set": "Emerald 029/106",
+    "cost": "UnGraded: $0.99",
     "img": "https://images.pokemontcg.io/ex9/29.png"
   },
   {
-    "set": "Emerald 30/107",
-    "cost": "Not PSA Graded: $0.99",
+    "code": "030/106",
+    "set": "Emerald 030/106",
+    "cost": "UnGraded: $0.99",
     "img": "https://images.pokemontcg.io/ex9/30.png"
   },
   {
-    "set": "Deoxys 32/108",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "032/107",
+    "set": "Deoxys 032/107",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/ex8/32.png"
   },
   {
-    "set": "Fates Collide 31/129",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "031/124",
+    "set": "Fates Collide 031/124",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy10/31.png"
   },
   {
-    "set": "XY 50/146",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "050/146",
+    "set": "XY 050/146",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/xy1/50.png"
   },
   {
-    "set": "Crimson Invasion 42/126",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "042/111",
+    "set": "Crimson Invasion 042/111",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm4/42.png"
   },
   {
-    "set": "Boundaries Crossed 60/153",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "060/149",
+    "set": "Boundaries Crossed 060/149",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/bw7/60.png"
   },
   {
-    "set": "Celestial Storm 60/187",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "060/168",
+    "set": "Celestial Storm 060/168",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm7/60.png"
   },
   {
-    "set": "Legends Awakened 56/146",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "056/146",
+    "set": "Legends Awakened 056/146",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/dp6/56.png"
   },
   {
-    "set": "Battle Styles 56/183",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "056/163",
+    "set": "Battle Styles 056/163",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh5/56.png"
   },
   {
-    "set": "EX Trainer Kit 2 Plusle 3/12",
+    "code": "003/12",
+    "set": "EX Trainer Kit 2 Plusle 003/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/tk2a/3.png"
   },
   {
-    "set": "Obsidian Flames 91/230",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "091/197",
+    "set": "Obsidian Flames 091/197",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv3/91.png"
   },
   {
-    "set": "Mega Evolution 63/188",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "063/132",
+    "set": "Mega Evolution 063/132",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me1/63.png"
   }
 ]

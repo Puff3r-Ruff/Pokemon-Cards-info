@@ -1,77 +1,92 @@
 [
   {
-    "set": "XY Black Star Promos XY03/216",
-    "cost": "Not PSA Graded: $7.11",
+    "code": "XY03/211",
+    "set": "XY Black Star Promos XY03/211",
+    "cost": "UnGraded: $7.11",
     "img": "https://images.pokemontcg.io/xyp/XY03.png"
   },
   {
-    "set": "Kalos Starter Set 12/39",
-    "cost": "Not PSA Graded: $1.08",
+    "code": "012/39",
+    "set": "Kalos Starter Set 012/39",
+    "cost": "UnGraded: $1.08",
     "img": "https://images.pokemontcg.io/xy0/12.png"
   },
   {
+    "code": "SV11/94",
     "set": "Hidden Fates Shiny Vault SV11/94",
-    "cost": "Not PSA Graded: $3.89",
+    "cost": "UnGraded: $3.89",
     "img": "https://images.pokemontcg.io/sma/SV11.png"
   },
   {
-    "set": "Forbidden Light 21/150",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "021/131",
+    "set": "Forbidden Light 021/131",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm6/21.png"
   },
   {
-    "set": "Forbidden Light 22/150",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "022/131",
+    "set": "Forbidden Light 022/131",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm6/22.png"
   },
   {
-    "set": "XY 39/146",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "039/146",
+    "set": "XY 039/146",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy1/39.png"
   },
   {
-    "set": "BREAKpoint 38/126",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "038/122",
+    "set": "BREAKpoint 038/122",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy9/38.png"
   },
   {
-    "set": "BREAKthrough 46/165",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "046/162",
+    "set": "BREAKthrough 046/162",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy8/46.png"
   },
   {
-    "set": "Unbroken Bonds 51/234",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "051/214",
+    "set": "Unbroken Bonds 051/214",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm10/51.png"
   },
   {
-    "set": "XY Black Star Promos XY138/216",
-    "cost": "Not PSA Graded: $2.14",
+    "code": "XY138/211",
+    "set": "XY Black Star Promos XY138/211",
+    "cost": "UnGraded: $2.14",
     "img": "https://images.pokemontcg.io/xyp/XY138.png"
   },
   {
-    "set": "McDonald's Collection 2014 4/12",
+    "code": "004/12",
+    "set": "McDonald's Collection 2014 004/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd14/4.png"
   },
   {
-    "set": "McDonald's Collection 2021 22/25",
-    "cost": "Not PSA Graded: $1.38",
+    "code": "022/25",
+    "set": "McDonald's Collection 2021 022/25",
+    "cost": "UnGraded: $1.38",
     "img": "https://images.pokemontcg.io/mcd21/22.png"
   },
   {
-    "set": "Obsidian Flames 56/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "056/197",
+    "set": "Obsidian Flames 056/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/56.png"
   },
   {
-    "set": "Twilight Masquerade 56/226",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "056/167",
+    "set": "Twilight Masquerade 056/167",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv6/56.png"
   },
   {
-    "set": "Stellar Crown 39/175",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "039/142",
+    "set": "Stellar Crown 039/142",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv7/39.png"
   }
 ]

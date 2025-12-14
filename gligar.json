@@ -1,92 +1,110 @@
 [
   {
-    "set": "Dragon Frontiers 16/101",
-    "cost": "Not PSA Graded: $1.66",
+    "code": "016/101",
+    "set": "Dragon Frontiers 016/101",
+    "cost": "UnGraded: $1.66",
     "img": "https://images.pokemontcg.io/ex15/16.png"
   },
   {
-    "set": "Roaring Skies 36/112",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "036/108",
+    "set": "Roaring Skies 036/108",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/xy6/36.png"
   },
   {
-    "set": "Phantom Forces 46/124",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "046/119",
+    "set": "Phantom Forces 046/119",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy4/46.png"
   },
   {
-    "set": "HS—Undaunted 49/91",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "049/90",
+    "set": "HS—Undaunted 049/90",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/hgss3/49.png"
   },
   {
-    "set": "Unseen Forces 57/145",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "057/115",
+    "set": "Unseen Forces 057/115",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/ex10/57.png"
   },
   {
-    "set": "Neo Genesis 59/111",
+    "code": "059/111",
+    "set": "Neo Genesis 059/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/59.png"
   },
   {
-    "set": "Neo Destiny 67/113",
+    "code": "067/105",
+    "set": "Neo Destiny 067/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/67.png"
   },
   {
-    "set": "Guardians Rising 67/180",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "067/145",
+    "set": "Guardians Rising 067/145",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm2/67.png"
   },
   {
-    "set": "Boundaries Crossed 80/153",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "080/149",
+    "set": "Boundaries Crossed 080/149",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw7/80.png"
   },
   {
-    "set": "Skyridge 59/182",
-    "cost": "Not PSA Graded: $4.61",
+    "code": "059/144",
+    "set": "Skyridge 059/144",
+    "cost": "UnGraded: $4.61",
     "img": "https://images.pokemontcg.io/ecard3/59.png"
   },
   {
-    "set": "Legends Awakened 94/146",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "094/146",
+    "set": "Legends Awakened 094/146",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/dp6/94.png"
   },
   {
-    "set": "Legends Awakened 95/146",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "095/146",
+    "set": "Legends Awakened 095/146",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/dp6/95.png"
   },
   {
-    "set": "Unbroken Bonds 98/234",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "098/214",
+    "set": "Unbroken Bonds 098/214",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm10/98.png"
   },
   {
-    "set": "Battle Styles 71/183",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "071/163",
+    "set": "Battle Styles 071/163",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh5/71.png"
   },
   {
-    "set": "Fusion Strike 140/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "140/264",
+    "set": "Fusion Strike 140/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/140.png"
   },
   {
-    "set": "Lost Origin 95/217",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "095/196",
+    "set": "Lost Origin 095/196",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh11/95.png"
   },
   {
-    "set": "Paradox Rift 91/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "091/182",
+    "set": "Paradox Rift 091/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/91.png"
   },
   {
-    "set": "Phantasmal Flames 49/130",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "049/94",
+    "set": "Phantasmal Flames 049/94",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/me2/49.png"
   }
 ]

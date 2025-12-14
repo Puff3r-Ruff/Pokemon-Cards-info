@@ -1,37 +1,44 @@
 [
   {
-    "set": "Paldea Evolved 124/279",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "124/193",
+    "set": "Paldea Evolved 124/193",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv2/124.png"
   },
   {
-    "set": "Paldea Evolved 125/279",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "125/193",
+    "set": "Paldea Evolved 125/193",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv2/125.png"
   },
   {
-    "set": "Obsidian Flames 121/230",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "121/197",
+    "set": "Obsidian Flames 121/197",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3/121.png"
   },
   {
-    "set": "Obsidian Flames 122/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "122/197",
+    "set": "Obsidian Flames 122/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/122.png"
   },
   {
-    "set": "Paldean Fates 179/245",
-    "cost": "Not PSA Graded: $1.86",
+    "code": "179/91",
+    "set": "Paldean Fates 179/91",
+    "cost": "UnGraded: $1.86",
     "img": "https://images.pokemontcg.io/sv4pt5/179.png"
   },
   {
-    "set": "Twilight Masquerade 108/226",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "108/167",
+    "set": "Twilight Masquerade 108/167",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv6/108.png"
   },
   {
-    "set": "Surging Sparks 114/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "114/191",
+    "set": "Surging Sparks 114/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/114.png"
   }
 ]

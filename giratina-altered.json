@@ -1,152 +1,182 @@
 [
   {
-    "set": "Platinum 9/133",
-    "cost": "Not PSA Graded: $29",
+    "code": "009/127",
+    "set": "Platinum 009/127",
+    "cost": "UnGraded: $29",
     "img": "https://images.pokemontcg.io/pl1/9.png"
   },
   {
-    "set": "Platinum 10/133",
-    "cost": "Not PSA Graded: $53.42",
+    "code": "010/127",
+    "set": "Platinum 010/127",
+    "cost": "UnGraded: $53.42",
     "img": "https://images.pokemontcg.io/pl1/10.png"
   },
   {
-    "set": "Legends Awakened 4/146",
-    "cost": "Not PSA Graded: $21.93",
+    "code": "004/146",
+    "set": "Legends Awakened 004/146",
+    "cost": "UnGraded: $21.93",
     "img": "https://images.pokemontcg.io/dp6/4.png"
   },
   {
-    "set": "Platinum 27/133",
-    "cost": "Not PSA Graded: $6.51",
+    "code": "027/127",
+    "set": "Platinum 027/127",
+    "cost": "UnGraded: $6.51",
     "img": "https://images.pokemontcg.io/pl1/27.png"
   },
   {
-    "set": "Platinum 28/133",
-    "cost": "Not PSA Graded: $4.27",
+    "code": "028/127",
+    "set": "Platinum 028/127",
+    "cost": "UnGraded: $4.27",
     "img": "https://images.pokemontcg.io/pl1/28.png"
   },
   {
+    "code": "DP38/56",
     "set": "DP Black Star Promos DP38/56",
-    "cost": "Not PSA Graded: $65.74",
+    "cost": "UnGraded: $65.74",
     "img": "https://images.pokemontcg.io/dpp/DP38.png"
   },
   {
-    "set": "Ancient Origins 57/100",
-    "cost": "Not PSA Graded: $16.45",
+    "code": "057/98",
+    "set": "Ancient Origins 057/98",
+    "cost": "UnGraded: $16.45",
     "img": "https://images.pokemontcg.io/xy7/57.png"
   },
   {
-    "set": "Ultra Prism 58/178",
-    "cost": "Not PSA Graded: $18.49",
+    "code": "058/156",
+    "set": "Ultra Prism 058/156",
+    "cost": "UnGraded: $18.49",
     "img": "https://images.pokemontcg.io/sm5/58.png"
   },
   {
-    "set": "Plasma Storm 62/138",
-    "cost": "Not PSA Graded: $4.67",
+    "code": "062/135",
+    "set": "Plasma Storm 062/135",
+    "cost": "UnGraded: $4.67",
     "img": "https://images.pokemontcg.io/bw8/62.png"
   },
   {
+    "code": "BW74/101",
     "set": "BW Black Star Promos BW74/101",
-    "cost": "Not PSA Graded: $499.99",
+    "cost": "UnGraded: $499.99",
     "img": "https://images.pokemontcg.io/bwp/BW74.png"
   },
   {
-    "set": "Unified Minds 86/260",
-    "cost": "Not PSA Graded: $6.05",
+    "code": "086/236",
+    "set": "Unified Minds 086/236",
+    "cost": "UnGraded: $6.05",
     "img": "https://images.pokemontcg.io/sm11/86.png"
   },
   {
-    "set": "Ancient Origins 93/100",
-    "cost": "Not PSA Graded: $116.28",
+    "code": "093/98",
+    "set": "Ancient Origins 093/98",
+    "cost": "UnGraded: $116.28",
     "img": "https://images.pokemontcg.io/xy7/93.png"
   },
   {
-    "set": "Dragons Exalted 92/128",
-    "cost": "Not PSA Graded: $23.18",
+    "code": "092/124",
+    "set": "Dragons Exalted 092/124",
+    "cost": "UnGraded: $23.18",
     "img": "https://images.pokemontcg.io/bw6/92.png"
   },
   {
-    "set": "Lost Thunder 97/240",
-    "cost": "Not PSA Graded: $8.11",
+    "code": "097/214",
+    "set": "Lost Thunder 097/214",
+    "cost": "UnGraded: $8.11",
     "img": "https://images.pokemontcg.io/sm8/97.png"
   },
   {
-    "set": "Platinum 124/133",
-    "cost": "Not PSA Graded: $88.99",
+    "code": "124/127",
+    "set": "Platinum 124/127",
+    "cost": "UnGraded: $88.99",
     "img": "https://images.pokemontcg.io/pl1/124.png"
   },
   {
-    "set": "Dragons Exalted 124/128",
-    "cost": "Not PSA Graded: $248.12",
+    "code": "124/124",
+    "set": "Dragons Exalted 124/124",
+    "cost": "UnGraded: $248.12",
     "img": "https://images.pokemontcg.io/bw6/124.png"
   },
   {
-    "set": "SM Black Star Promos SM151/250",
-    "cost": "Not PSA Graded: $14.85",
+    "code": "SM151/248",
+    "set": "SM Black Star Promos SM151/248",
+    "cost": "UnGraded: $14.85",
     "img": "https://images.pokemontcg.io/smp/SM151.png"
   },
   {
-    "set": "Unified Minds 146/260",
-    "cost": "Not PSA Graded: $39.4",
+    "code": "146/236",
+    "set": "Unified Minds 146/236",
+    "cost": "UnGraded: $39.4",
     "img": "https://images.pokemontcg.io/sm11/146.png"
   },
   {
-    "set": "SM Black Star Promos SM193/250",
-    "cost": "Not PSA Graded: $83.58",
+    "code": "SM193/248",
+    "set": "SM Black Star Promos SM193/248",
+    "cost": "UnGraded: $83.58",
     "img": "https://images.pokemontcg.io/smp/SM193.png"
   },
   {
-    "set": "XY Black Star Promos XY184/216",
-    "cost": "Not PSA Graded: $8.34",
+    "code": "XY184/211",
+    "set": "XY Black Star Promos XY184/211",
+    "cost": "UnGraded: $8.34",
     "img": "https://images.pokemontcg.io/xyp/XY184.png"
   },
   {
-    "set": "Unified Minds 228/260",
-    "cost": "Not PSA Graded: $66.39",
+    "code": "228/236",
+    "set": "Unified Minds 228/236",
+    "cost": "UnGraded: $66.39",
     "img": "https://images.pokemontcg.io/sm11/228.png"
   },
   {
-    "set": "Unified Minds 247/260",
-    "cost": "Not PSA Graded: $110.08",
+    "code": "247/236",
+    "set": "Unified Minds 247/236",
+    "cost": "UnGraded: $110.08",
     "img": "https://images.pokemontcg.io/sm11/247.png"
   },
   {
-    "set": "Lost Origin 130/217",
-    "cost": "Not PSA Graded: $1.09",
+    "code": "130/196",
+    "set": "Lost Origin 130/196",
+    "cost": "UnGraded: $1.09",
     "img": "https://images.pokemontcg.io/swsh11/130.png"
   },
   {
-    "set": "Lost Origin 131/217",
-    "cost": "Not PSA Graded: $2.14",
+    "code": "131/196",
+    "set": "Lost Origin 131/196",
+    "cost": "UnGraded: $2.14",
     "img": "https://images.pokemontcg.io/swsh11/131.png"
   },
   {
-    "set": "Lost Origin 185/217",
-    "cost": "Not PSA Graded: $12.21",
+    "code": "185/196",
+    "set": "Lost Origin 185/196",
+    "cost": "UnGraded: $12.21",
     "img": "https://images.pokemontcg.io/swsh11/185.png"
   },
   {
-    "set": "Lost Origin 186/217",
-    "cost": "Not PSA Graded: $580.63",
+    "code": "186/196",
+    "set": "Lost Origin 186/196",
+    "cost": "UnGraded: $580.63",
     "img": "https://images.pokemontcg.io/swsh11/186.png"
   },
   {
-    "set": "Lost Origin 201/217",
-    "cost": "Not PSA Graded: $22.03",
+    "code": "201/196",
+    "set": "Lost Origin 201/196",
+    "cost": "UnGraded: $22.03",
     "img": "https://images.pokemontcg.io/swsh11/201.png"
   },
   {
-    "set": "Lost Origin 212/217",
-    "cost": "Not PSA Graded: $13.55",
+    "code": "212/196",
+    "set": "Lost Origin 212/196",
+    "cost": "UnGraded: $13.55",
     "img": "https://images.pokemontcg.io/swsh11/212.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH259/304",
-    "cost": "Not PSA Graded: $3.62",
+    "code": "SWSH259/307",
+    "set": "SWSH Black Star Promos SWSH259/307",
+    "cost": "UnGraded: $3.62",
     "img": "https://images.pokemontcg.io/swshp/SWSH259.png"
   },
   {
+    "code": "GG69/70",
     "set": "Crown Zenith Galarian Gallery GG69/70",
-    "cost": "Not PSA Graded: $191.32",
+    "cost": "UnGraded: $191.32",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG69.png"
   }
 ]

@@ -1,37 +1,44 @@
 [
   {
-    "set": "Paradox Rift 139/266",
-    "cost": "Not PSA Graded: $9.15",
+    "code": "139/182",
+    "set": "Paradox Rift 139/182",
+    "cost": "UnGraded: $9.15",
     "img": "https://images.pokemontcg.io/sv4/139.png"
   },
   {
-    "set": "Paradox Rift 231/266",
-    "cost": "Not PSA Graded: $8.51",
+    "code": "231/182",
+    "set": "Paradox Rift 231/182",
+    "cost": "UnGraded: $8.51",
     "img": "https://images.pokemontcg.io/sv4/231.png"
   },
   {
-    "set": "Paradox Rift 252/266",
-    "cost": "Not PSA Graded: $27.07",
+    "code": "252/182",
+    "set": "Paradox Rift 252/182",
+    "cost": "UnGraded: $27.07",
     "img": "https://images.pokemontcg.io/sv4/252.png"
   },
   {
-    "set": "Paldean Fates 67/245",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "067/91",
+    "set": "Paldean Fates 067/91",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv4pt5/67.png"
   },
   {
-    "set": "Surging Sparks 131/252",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "131/191",
+    "set": "Surging Sparks 131/191",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8/131.png"
   },
   {
-    "set": "Prismatic Evolutions 164/180",
-    "cost": "Not PSA Graded: $58.38",
+    "code": "164/131",
+    "set": "Prismatic Evolutions 164/131",
+    "cost": "UnGraded: $58.38",
     "img": "https://images.pokemontcg.io/sv8pt5/164.png"
   },
   {
-    "set": "Mega Evolution 99/188",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "099/132",
+    "set": "Mega Evolution 099/132",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/me1/99.png"
   }
 ]

@@ -1,67 +1,80 @@
 [
   {
-    "set": "HeartGold & SoulSilver 5/124",
-    "cost": "Not PSA Graded: $4.15",
+    "code": "005/123",
+    "set": "HeartGold & SoulSilver 005/123",
+    "cost": "UnGraded: $4.15",
     "img": "https://images.pokemontcg.io/hgss1/5.png"
   },
   {
-    "set": "Call of Legends 8/106",
-    "cost": "Not PSA Graded: $2.9",
+    "code": "008/95",
+    "set": "Call of Legends 008/95",
+    "cost": "UnGraded: $2.9",
     "img": "https://images.pokemontcg.io/col1/8.png"
   },
   {
-    "set": "Neo Discovery 3/75",
+    "code": "003/75",
+    "set": "Neo Discovery 003/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/3.png"
   },
   {
-    "set": "Unseen Forces 26/145",
-    "cost": "Not PSA Graded: $1.34",
+    "code": "026/115",
+    "set": "Unseen Forces 026/115",
+    "cost": "UnGraded: $1.34",
     "img": "https://images.pokemontcg.io/ex10/26.png"
   },
   {
-    "set": "Neo Discovery 22/75",
+    "code": "022/75",
+    "set": "Neo Discovery 022/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/22.png"
   },
   {
-    "set": "Wizards Black Star Promos 37/53",
-    "cost": "Not PSA Graded: $5.8",
+    "code": "037/53",
+    "set": "Wizards Black Star Promos 037/53",
+    "cost": "UnGraded: $5.8",
     "img": "https://images.pokemontcg.io/basep/37.png"
   },
   {
-    "set": "Furious Fists 49/114",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "049/111",
+    "set": "Furious Fists 049/111",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/xy3/49.png"
   },
   {
-    "set": "Vivid Voltage 88/203",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "088/185",
+    "set": "Vivid Voltage 088/185",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh4/88.png"
   },
   {
+    "code": "101/146",
     "set": "Legends Awakened 101/146",
-    "cost": "Not PSA Graded: $0.53",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/dp6/101.png"
   },
   {
-    "set": "Aquapolis 82/182",
-    "cost": "Not PSA Graded: $4.3",
+    "code": "082/147",
+    "set": "Aquapolis 082/147",
+    "cost": "UnGraded: $4.3",
     "img": "https://images.pokemontcg.io/ecard2/82.png"
   },
   {
-    "set": "Unbroken Bonds 101/234",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "101/214",
+    "set": "Unbroken Bonds 101/214",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/sm10/101.png"
   },
   {
-    "set": "Lost Thunder 113/240",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "113/214",
+    "set": "Lost Thunder 113/214",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/sm8/113.png"
   },
   {
-    "set": "Brilliant Stars 72/186",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "072/172",
+    "set": "Brilliant Stars 072/172",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh9/72.png"
   }
 ]

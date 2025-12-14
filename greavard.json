@@ -1,47 +1,56 @@
 [
   {
-    "set": "Scarlet & Violet 105/258",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "105/198",
+    "set": "Scarlet & Violet 105/198",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv1/105.png"
   },
   {
-    "set": "Scarlet & Violet 104/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "104/198",
+    "set": "Scarlet & Violet 104/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/104.png"
   },
   {
-    "set": "Scarlet & Violet 214/258",
-    "cost": "Not PSA Graded: $17.81",
+    "code": "214/198",
+    "set": "Scarlet & Violet 214/198",
+    "cost": "UnGraded: $17.81",
     "img": "https://images.pokemontcg.io/sv1/214.png"
   },
   {
-    "set": "Obsidian Flames 100/230",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "100/197",
+    "set": "Obsidian Flames 100/197",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3/100.png"
   },
   {
-    "set": "Obsidian Flames 99/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "099/197",
+    "set": "Obsidian Flames 099/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/99.png"
   },
   {
-    "set": "Paldean Fates 42/245",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "042/91",
+    "set": "Paldean Fates 042/91",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv4pt5/42.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 70/196",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "070/215",
+    "set": "Scarlet & Violet Black Star Promos 070/215",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/svp/70.png"
   },
   {
-    "set": "Stellar Crown 70/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "070/142",
+    "set": "Stellar Crown 070/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/70.png"
   },
   {
-    "set": "Mega Evolution 65/188",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "065/132",
+    "set": "Mega Evolution 065/132",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/me1/65.png"
   }
 ]

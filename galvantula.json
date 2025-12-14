@@ -1,87 +1,104 @@
 [
   {
-    "set": "Phantom Forces 27/124",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "027/119",
+    "set": "Phantom Forces 027/119",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/xy4/27.png"
   },
   {
-    "set": "Steam Siege 42/116",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "042/114",
+    "set": "Steam Siege 042/114",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/xy11/42.png"
   },
   {
-    "set": "Emerging Powers 34/98",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "034/98",
+    "set": "Emerging Powers 034/98",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/bw2/34.png"
   },
   {
-    "set": "Team Up 48/198",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "048/181",
+    "set": "Team Up 048/181",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/sm9/48.png"
   },
   {
-    "set": "Black & White 46/115",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "046/114",
+    "set": "Black & White 046/114",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/bw1/46.png"
   },
   {
-    "set": "Plasma Storm 51/138",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "051/135",
+    "set": "Plasma Storm 051/135",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/bw8/51.png"
   },
   {
-    "set": "Dark Explorers 43/111",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "043/108",
+    "set": "Dark Explorers 043/108",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/bw5/43.png"
   },
   {
-    "set": "Vivid Voltage 56/203",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "056/185",
+    "set": "Vivid Voltage 056/185",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh4/56.png"
   },
   {
-    "set": "Unified Minds 62/260",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "062/236",
+    "set": "Unified Minds 062/236",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/sm11/62.png"
   },
   {
-    "set": "Sword & Shield 71/216",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "071/202",
+    "set": "Sword & Shield 071/202",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh1/71.png"
   },
   {
-    "set": "Paradox Rift 65/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "065/182",
+    "set": "Paradox Rift 065/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/65.png"
   },
   {
-    "set": "Shrouded Fable 2/99",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "002/64",
+    "set": "Shrouded Fable 002/64",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv6pt5/2.png"
   },
   {
-    "set": "Stellar Crown 51/175",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "051/142",
+    "set": "Stellar Crown 051/142",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/sv7/51.png"
   },
   {
-    "set": "Stellar Crown 159/175",
-    "cost": "Not PSA Graded: $1.74",
+    "code": "159/142",
+    "set": "Stellar Crown 159/142",
+    "cost": "UnGraded: $1.74",
     "img": "https://images.pokemontcg.io/sv7/159.png"
   },
   {
-    "set": "Stellar Crown 168/175",
-    "cost": "Not PSA Graded: $15.36",
+    "code": "168/142",
+    "set": "Stellar Crown 168/142",
+    "cost": "UnGraded: $15.36",
     "img": "https://images.pokemontcg.io/sv7/168.png"
   },
   {
-    "set": "White Flare 34/173",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "034/86",
+    "set": "White Flare 034/86",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/rsv10pt5/34.png"
   },
   {
-    "set": "White Flare 117/173",
-    "cost": "Not PSA Graded: $14.6",
+    "code": "117/86",
+    "set": "White Flare 117/86",
+    "cost": "UnGraded: $14.6",
     "img": "https://images.pokemontcg.io/rsv10pt5/117.png"
   }
 ]

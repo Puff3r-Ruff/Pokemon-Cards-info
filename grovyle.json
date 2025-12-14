@@ -1,82 +1,98 @@
 [
   {
-    "set": "Primal Clash 7/164",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "007/160",
+    "set": "Primal Clash 007/160",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/xy5/7.png"
   },
   {
-    "set": "POP Series 4 7/17",
-    "cost": "Not PSA Graded: $16.08",
+    "code": "007/17",
+    "set": "POP Series 4 007/17",
+    "cost": "UnGraded: $16.08",
     "img": "https://images.pokemontcg.io/pop4/7.png"
   },
   {
-    "set": "Plasma Freeze 7/122",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "007/116",
+    "set": "Plasma Freeze 007/116",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/bw9/7.png"
   },
   {
-    "set": "Celestial Storm 9/187",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "009/168",
+    "set": "Celestial Storm 009/168",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/sm7/9.png"
   },
   {
-    "set": "Nintendo Black Star Promos 4/40",
-    "cost": null,
+    "code": "004/40",
+    "set": "Nintendo Black Star Promos 004/40",
+    "cost": "UnGraded: $66.32",
     "img": "https://images.pokemontcg.io/np/4.png"
   },
   {
-    "set": "Crystal Guardians 19/100",
-    "cost": "Not PSA Graded: $3.02",
+    "code": "019/100",
+    "set": "Crystal Guardians 019/100",
+    "cost": "UnGraded: $3.02",
     "img": "https://images.pokemontcg.io/ex14/19.png"
   },
   {
-    "set": "Lost Thunder 21/240",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "021/214",
+    "set": "Lost Thunder 021/214",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/sm8/21.png"
   },
   {
-    "set": "Emerald 28/107",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "028/106",
+    "set": "Emerald 028/106",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/ex9/28.png"
   },
   {
-    "set": "Dragon 31/100",
-    "cost": "Not PSA Graded: $1.65",
+    "code": "031/97",
+    "set": "Dragon 031/97",
+    "cost": "UnGraded: $1.65",
     "img": "https://images.pokemontcg.io/ex3/31.png"
   },
   {
-    "set": "Crystal Guardians 32/100",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "032/100",
+    "set": "Crystal Guardians 032/100",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/ex14/32.png"
   },
   {
-    "set": "Arceus 38/111",
-    "cost": "Not PSA Graded: $0.77",
+    "code": "038/99",
+    "set": "Arceus 038/99",
+    "cost": "UnGraded: $0.77",
     "img": "https://images.pokemontcg.io/pl4/38.png"
   },
   {
-    "set": "Arceus 39/111",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "039/99",
+    "set": "Arceus 039/99",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/pl4/39.png"
   },
   {
-    "set": "Ruby & Sapphire 31/109",
-    "cost": "Not PSA Graded: $1.24",
+    "code": "031/109",
+    "set": "Ruby & Sapphire 031/109",
+    "cost": "UnGraded: $1.24",
     "img": "https://images.pokemontcg.io/ex1/31.png"
   },
   {
-    "set": "Ruby & Sapphire 32/109",
-    "cost": "Not PSA Graded: $2.71",
+    "code": "032/109",
+    "set": "Ruby & Sapphire 032/109",
+    "cost": "UnGraded: $2.75",
     "img": "https://images.pokemontcg.io/ex1/32.png"
   },
   {
-    "set": "Great Encounters 40/106",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "040/106",
+    "set": "Great Encounters 040/106",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/dp4/40.png"
   },
   {
-    "set": "Stormfront 39/106",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "039/100",
+    "set": "Stormfront 039/100",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/dp7/39.png"
   }
 ]

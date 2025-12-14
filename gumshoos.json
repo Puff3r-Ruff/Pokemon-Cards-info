@@ -1,52 +1,62 @@
 [
   {
-    "set": "SM Black Star Promos SM97/250",
-    "cost": "Not PSA Graded: $3.03",
+    "code": "SM97/248",
+    "set": "SM Black Star Promos SM97/248",
+    "cost": "UnGraded: $3.03",
     "img": "https://images.pokemontcg.io/smp/SM97.png"
   },
   {
-    "set": "Sun & Moon 110/173",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "110/149",
+    "set": "Sun & Moon 110/149",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/sm1/110.png"
   },
   {
-    "set": "Ultra Prism 113/178",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "113/156",
+    "set": "Ultra Prism 113/156",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm5/113.png"
   },
   {
-    "set": "Sun & Moon 145/173",
-    "cost": "Not PSA Graded: $2.29",
+    "code": "145/149",
+    "set": "Sun & Moon 145/149",
+    "cost": "UnGraded: $2.29",
     "img": "https://images.pokemontcg.io/sm1/145.png"
   },
   {
-    "set": "Sun & Moon 157/173",
-    "cost": "Not PSA Graded: $6.02",
+    "code": "157/149",
+    "set": "Sun & Moon 157/149",
+    "cost": "UnGraded: $6.02",
     "img": "https://images.pokemontcg.io/sm1/157.png"
   },
   {
-    "set": "Unified Minds 181/260",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "181/236",
+    "set": "Unified Minds 181/236",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm11/181.png"
   },
   {
-    "set": "Crown Zenith 118/160",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "118/159",
+    "set": "Crown Zenith 118/159",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12pt5/118.png"
   },
   {
-    "set": "Obsidian Flames 177/230",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "177/197",
+    "set": "Obsidian Flames 177/197",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv3/177.png"
   },
   {
-    "set": "Mega Evolution 110/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "110/132",
+    "set": "Mega Evolution 110/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/110.png"
   },
   {
-    "set": "Mega Evolution 153/188",
-    "cost": "Not PSA Graded: $2.27",
+    "code": "153/132",
+    "set": "Mega Evolution 153/132",
+    "cost": "UnGraded: $2.27",
     "img": "https://images.pokemontcg.io/me1/153.png"
   }
 ]

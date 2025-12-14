@@ -1,97 +1,116 @@
 [
   {
-    "set": "POP Series 7 2/17",
-    "cost": "Not PSA Graded: $15.33",
+    "code": "002/17",
+    "set": "POP Series 7 002/17",
+    "cost": "UnGraded: $15.33",
     "img": "https://images.pokemontcg.io/pop7/2.png"
   },
   {
-    "set": "Secret Wonders 6/132",
-    "cost": "Not PSA Graded: $8.03",
+    "code": "006/132",
+    "set": "Secret Wonders 006/132",
+    "cost": "UnGraded: $8.03",
     "img": "https://images.pokemontcg.io/dp3/6.png"
   },
   {
-    "set": "Rising Rivals 20/120",
-    "cost": "Not PSA Graded: $2.59",
+    "code": "020/111",
+    "set": "Rising Rivals 020/111",
+    "cost": "UnGraded: $2.59",
     "img": "https://images.pokemontcg.io/pl2/20.png"
   },
   {
-    "set": "Roaring Skies 34/112",
-    "cost": "Not PSA Graded: $2.11",
+    "code": "034/108",
+    "set": "Roaring Skies 034/108",
+    "cost": "UnGraded: $2.11",
     "img": "https://images.pokemontcg.io/xy6/34.png"
   },
   {
-    "set": "Roaring Skies 35/112",
-    "cost": "Not PSA Graded: $16.42",
+    "code": "035/108",
+    "set": "Roaring Skies 035/108",
+    "cost": "UnGraded: $16.42",
     "img": "https://images.pokemontcg.io/xy6/35.png"
   },
   {
-    "set": "XY Black Star Promos XY45/216",
-    "cost": "Not PSA Graded: $2.73",
+    "code": "XY45/211",
+    "set": "XY Black Star Promos XY45/211",
+    "cost": "UnGraded: $2.73",
     "img": "https://images.pokemontcg.io/xyp/XY45.png"
   },
   {
-    "set": "Plasma Storm 61/138",
-    "cost": "Not PSA Graded: $2.02",
+    "code": "061/135",
+    "set": "Plasma Storm 061/135",
+    "cost": "UnGraded: $2.02",
     "img": "https://images.pokemontcg.io/bw8/61.png"
   },
   {
-    "set": "Legendary Treasures 81/140",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "081/113",
+    "set": "Legendary Treasures 081/113",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/bw11/81.png"
   },
   {
-    "set": "Cosmic Eclipse 82/272",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "082/236",
+    "set": "Cosmic Eclipse 082/236",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/sm12/82.png"
   },
   {
-    "set": "BREAKthrough 84/165",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "084/162",
+    "set": "BREAKthrough 084/162",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/xy8/84.png"
   },
   {
-    "set": "Rising Rivals 106/120",
-    "cost": "Not PSA Graded: $56.55",
+    "code": "106/111",
+    "set": "Rising Rivals 106/111",
+    "cost": "UnGraded: $56.55",
     "img": "https://images.pokemontcg.io/pl2/106.png"
   },
   {
-    "set": "Roaring Skies 99/112",
-    "cost": "Not PSA Graded: $17",
+    "code": "099/108",
+    "set": "Roaring Skies 099/108",
+    "cost": "UnGraded: $17",
     "img": "https://images.pokemontcg.io/xy6/99.png"
   },
   {
-    "set": "Roaring Skies 100/112",
-    "cost": "Not PSA Graded: $62.5",
+    "code": "100/108",
+    "set": "Roaring Skies 100/108",
+    "cost": "UnGraded: $62.5",
     "img": "https://images.pokemontcg.io/xy6/100.png"
   },
   {
-    "set": "Cosmic Eclipse 244/272",
-    "cost": "Not PSA Graded: $8.52",
+    "code": "244/236",
+    "set": "Cosmic Eclipse 244/236",
+    "cost": "UnGraded: $8.52",
     "img": "https://images.pokemontcg.io/sm12/244.png"
   },
   {
-    "set": "Chilling Reign 81/233",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "081/198",
+    "set": "Chilling Reign 081/198",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh6/81.png"
   },
   {
-    "set": "Astral Radiance 62/216",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "062/189",
+    "set": "Astral Radiance 062/189",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/swsh10/62.png"
   },
   {
-    "set": "Lost Origin 181/217",
-    "cost": "Not PSA Graded: $2.31",
+    "code": "181/196",
+    "set": "Lost Origin 181/196",
+    "cost": "UnGraded: $2.31",
     "img": "https://images.pokemontcg.io/swsh11/181.png"
   },
   {
+    "code": "TG19/30",
     "set": "Lost Origin Trainer Gallery TG19/30",
-    "cost": "Not PSA Graded: $7.5",
+    "cost": "UnGraded: $7.5",
     "img": "https://images.pokemontcg.io/swsh11tg/TG19.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH258/304",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "SWSH258/307",
+    "set": "SWSH Black Star Promos SWSH258/307",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/swshp/SWSH258.png"
   }
 ]

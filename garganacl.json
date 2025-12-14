@@ -1,37 +1,44 @@
 [
   {
-    "set": "Paldea Evolved 123/279",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "123/193",
+    "set": "Paldea Evolved 123/193",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv2/123.png"
   },
   {
-    "set": "Paradox Rift 104/266",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "104/182",
+    "set": "Paradox Rift 104/182",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv4/104.png"
   },
   {
-    "set": "Paradox Rift 202/266",
-    "cost": "Not PSA Graded: $3.36",
+    "code": "202/182",
+    "set": "Paradox Rift 202/182",
+    "cost": "UnGraded: $3.36",
     "img": "https://images.pokemontcg.io/sv4/202.png"
   },
   {
-    "set": "Paldean Fates 178/245",
-    "cost": "Not PSA Graded: $1.65",
+    "code": "178/91",
+    "set": "Paldean Fates 178/91",
+    "cost": "UnGraded: $1.65",
     "img": "https://images.pokemontcg.io/sv4pt5/178.png"
   },
   {
-    "set": "Stellar Crown 89/175",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "089/142",
+    "set": "Stellar Crown 089/142",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/sv7/89.png"
   },
   {
-    "set": "Mega Evolution 84/188",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "084/132",
+    "set": "Mega Evolution 084/132",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me1/84.png"
   },
   {
-    "set": "Mega Evolution 147/188",
-    "cost": "Not PSA Graded: $1.2",
+    "code": "147/132",
+    "set": "Mega Evolution 147/132",
+    "cost": "UnGraded: $1.2",
     "img": "https://images.pokemontcg.io/me1/147.png"
   }
 ]

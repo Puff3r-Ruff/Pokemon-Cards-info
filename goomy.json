@@ -1,42 +1,50 @@
 [
   {
-    "set": "Ancient Origins 58/100",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "058/98",
+    "set": "Ancient Origins 058/98",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy7/58.png"
   },
   {
-    "set": "Flashfire 72/110",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "072/106",
+    "set": "Flashfire 072/106",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy2/72.png"
   },
   {
-    "set": "Phantom Forces 75/124",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "075/119",
+    "set": "Phantom Forces 075/119",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy4/75.png"
   },
   {
-    "set": "Guardians Rising 94/180",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "094/145",
+    "set": "Guardians Rising 094/145",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/sm2/94.png"
   },
   {
-    "set": "Forbidden Light 91/150",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "091/131",
+    "set": "Forbidden Light 091/131",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm6/91.png"
   },
   {
-    "set": "Forbidden Light 92/150",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "092/131",
+    "set": "Forbidden Light 092/131",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm6/92.png"
   },
   {
-    "set": "Fusion Strike 195/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "195/264",
+    "set": "Fusion Strike 195/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/195.png"
   },
   {
-    "set": "Lost Origin 132/217",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "132/196",
+    "set": "Lost Origin 132/196",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh11/132.png"
   }
 ]

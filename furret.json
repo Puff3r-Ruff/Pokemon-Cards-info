@@ -1,52 +1,62 @@
 [
   {
-    "set": "HeartGold & SoulSilver 21/124",
-    "cost": "Not PSA Graded: $5.38",
+    "code": "021/123",
+    "set": "HeartGold & SoulSilver 021/123",
+    "cost": "UnGraded: $5.38",
     "img": "https://images.pokemontcg.io/hgss1/21.png"
   },
   {
-    "set": "Team Rocket Returns 22/111",
-    "cost": "Not PSA Graded: $14.54",
+    "code": "022/109",
+    "set": "Team Rocket Returns 022/109",
+    "cost": "UnGraded: $14.54",
     "img": "https://images.pokemontcg.io/ex7/22.png"
   },
   {
-    "set": "Secret Wonders 27/132",
-    "cost": "Not PSA Graded: $2.46",
+    "code": "027/132",
+    "set": "Secret Wonders 027/132",
+    "cost": "UnGraded: $2.46",
     "img": "https://images.pokemontcg.io/dp3/27.png"
   },
   {
-    "set": "Legend Maker 33/93",
-    "cost": "Not PSA Graded: $2.34",
+    "code": "033/92",
+    "set": "Legend Maker 033/92",
+    "cost": "UnGraded: $2.34",
     "img": "https://images.pokemontcg.io/ex12/33.png"
   },
   {
-    "set": "Neo Genesis 35/111",
+    "code": "035/111",
+    "set": "Neo Genesis 035/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/35.png"
   },
   {
-    "set": "Flashfire 82/110",
-    "cost": "Not PSA Graded: $0.75",
+    "code": "082/106",
+    "set": "Flashfire 082/106",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/xy2/82.png"
   },
   {
-    "set": "Aquapolis 48/182",
-    "cost": "Not PSA Graded: $35.05",
+    "code": "048/147",
+    "set": "Aquapolis 048/147",
+    "cost": "UnGraded: $34.79",
     "img": "https://images.pokemontcg.io/ecard2/48.png"
   },
   {
-    "set": "Darkness Ablaze 136/201",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "136/189",
+    "set": "Darkness Ablaze 136/189",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh3/136.png"
   },
   {
-    "set": "Journey Together 119/190",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "119/159",
+    "set": "Journey Together 119/159",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv9/119.png"
   },
   {
-    "set": "Journey Together 168/190",
-    "cost": "Not PSA Graded: $5.42",
+    "code": "168/159",
+    "set": "Journey Together 168/159",
+    "cost": "UnGraded: $4.25",
     "img": "https://images.pokemontcg.io/sv9/168.png"
   }
 ]

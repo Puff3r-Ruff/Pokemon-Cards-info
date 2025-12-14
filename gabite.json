@@ -1,72 +1,86 @@
 [
   {
-    "set": "POP Series 9 8/17",
-    "cost": "Not PSA Graded: $2.67",
+    "code": "008/17",
+    "set": "POP Series 9 008/17",
+    "cost": "UnGraded: $2.67",
     "img": "https://images.pokemontcg.io/pop9/8.png"
   },
   {
+    "code": "SV39/94",
     "set": "Hidden Fates Shiny Vault SV39/94",
-    "cost": "Not PSA Graded: $3.73",
+    "cost": "UnGraded: $3.73",
     "img": "https://images.pokemontcg.io/sma/SV39.png"
   },
   {
-    "set": "Mysterious Treasures 48/124",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "048/123",
+    "set": "Mysterious Treasures 048/123",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/dp2/48.png"
   },
   {
-    "set": "Supreme Victors 59/153",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "059/147",
+    "set": "Supreme Victors 059/147",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/pl3/59.png"
   },
   {
-    "set": "Forbidden Light 61/150",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "061/131",
+    "set": "Forbidden Light 061/131",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/sm6/61.png"
   },
   {
-    "set": "BREAKpoint 69/126",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "069/122",
+    "set": "BREAKpoint 069/122",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy9/69.png"
   },
   {
-    "set": "Dragons Exalted 88/128",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "088/124",
+    "set": "Dragons Exalted 088/124",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/bw6/88.png"
   },
   {
-    "set": "Dragons Exalted 89/128",
-    "cost": "Not PSA Graded: $4.79",
+    "code": "089/124",
+    "set": "Dragons Exalted 089/124",
+    "cost": "UnGraded: $4.79",
     "img": "https://images.pokemontcg.io/bw6/89.png"
   },
   {
-    "set": "Legendary Treasures 95/140",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "095/113",
+    "set": "Legendary Treasures 095/113",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/bw11/95.png"
   },
   {
-    "set": "Ultra Prism 98/178",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "098/156",
+    "set": "Ultra Prism 098/156",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm5/98.png"
   },
   {
-    "set": "Unified Minds 113/260",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "113/236",
+    "set": "Unified Minds 113/236",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm11/113.png"
   },
   {
-    "set": "Brilliant Stars 108/186",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "108/172",
+    "set": "Brilliant Stars 108/172",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh9/108.png"
   },
   {
-    "set": "Paradox Rift 95/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "095/182",
+    "set": "Paradox Rift 095/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/95.png"
   },
   {
-    "set": "Destined Rivals 103/244",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "103/182",
+    "set": "Destined Rivals 103/182",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sv10/103.png"
   }
 ]

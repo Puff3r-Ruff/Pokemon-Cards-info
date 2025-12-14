@@ -1,87 +1,104 @@
 [
   {
-    "set": "Roaring Skies 39/112",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "039/108",
+    "set": "Roaring Skies 039/108",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/xy6/39.png"
   },
   {
-    "set": "Fates Collide 48/129",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "048/124",
+    "set": "Fates Collide 048/124",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy10/48.png"
   },
   {
-    "set": "Furious Fists 63/114",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "063/111",
+    "set": "Furious Fists 063/111",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/xy3/63.png"
   },
   {
-    "set": "Forbidden Light 70/150",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "070/131",
+    "set": "Forbidden Light 070/131",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm6/70.png"
   },
   {
-    "set": "Furious Fists 64/114",
-    "cost": "Not PSA Graded: $8.05",
+    "code": "064/111",
+    "set": "Furious Fists 064/111",
+    "cost": "UnGraded: $8.05",
     "img": "https://images.pokemontcg.io/xy3/64.png"
   },
   {
-    "set": "BREAKthrough 87/165",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "087/162",
+    "set": "BREAKthrough 087/162",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/xy8/87.png"
   },
   {
-    "set": "Steam Siege 97/116",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "097/114",
+    "set": "Steam Siege 097/114",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy11/97.png"
   },
   {
-    "set": "Rebel Clash 148/209",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "148/192",
+    "set": "Rebel Clash 148/192",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh2/148.png"
   },
   {
-    "set": "Fusion Strike 216/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "216/264",
+    "set": "Fusion Strike 216/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/216.png"
   },
   {
-    "set": "Brilliant Stars 127/186",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "127/172",
+    "set": "Brilliant Stars 127/172",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/swsh9/127.png"
   },
   {
-    "set": "Astral Radiance 81/216",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "081/189",
+    "set": "Astral Radiance 081/189",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/swsh10/81.png"
   },
   {
-    "set": "Silver Tempest 98/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "098/195",
+    "set": "Silver Tempest 098/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/98.png"
   },
   {
-    "set": "Scarlet & Violet 118/258",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "118/198",
+    "set": "Scarlet & Violet 118/198",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sv1/118.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 7/196",
-    "cost": "Not PSA Graded: $3.99",
+    "code": "007/215",
+    "set": "Scarlet & Violet Black Star Promos 007/215",
+    "cost": "UnGraded: $3.99",
     "img": "https://images.pokemontcg.io/svp/7.png"
   },
   {
-    "set": "Paldean Fates 175/245",
-    "cost": "Not PSA Graded: $7.38",
+    "code": "175/91",
+    "set": "Paldean Fates 175/91",
+    "cost": "UnGraded: $7.38",
     "img": "https://images.pokemontcg.io/sv4pt5/175.png"
   },
   {
-    "set": "Twilight Masquerade 107/226",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "107/167",
+    "set": "Twilight Masquerade 107/167",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv6/107.png"
   },
   {
-    "set": "Prismatic Evolutions 89/180",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "089/131",
+    "set": "Prismatic Evolutions 089/131",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8pt5/89.png"
   }
 ]

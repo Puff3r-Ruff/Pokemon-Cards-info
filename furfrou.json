@@ -1,57 +1,68 @@
 [
   {
-    "set": "Kalos Starter Set 32/39",
-    "cost": "Not PSA Graded: $2.17",
+    "code": "032/39",
+    "set": "Kalos Starter Set 032/39",
+    "cost": "UnGraded: $2.17",
     "img": "https://images.pokemontcg.io/xy0/32.png"
   },
   {
-    "set": "Kalos Starter Set 33/39",
-    "cost": "Not PSA Graded: $2.71",
+    "code": "033/39",
+    "set": "Kalos Starter Set 033/39",
+    "cost": "UnGraded: $2.71",
     "img": "https://images.pokemontcg.io/xy0/33.png"
   },
   {
-    "set": "Flashfire 87/110",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "087/106",
+    "set": "Flashfire 087/106",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy2/87.png"
   },
   {
-    "set": "Phantom Forces 90/124",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "090/119",
+    "set": "Phantom Forces 090/119",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/xy4/90.png"
   },
   {
-    "set": "BREAKpoint 95/126",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "095/122",
+    "set": "BREAKpoint 095/122",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/xy9/95.png"
   },
   {
-    "set": "Forbidden Light 99/150",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "099/131",
+    "set": "Forbidden Light 099/131",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm6/99.png"
   },
   {
+    "code": "114/146",
     "set": "XY 114/146",
-    "cost": "Not PSA Graded: $0.63",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/xy1/114.png"
   },
   {
-    "set": "Chilling Reign 126/233",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "126/198",
+    "set": "Chilling Reign 126/198",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh6/126.png"
   },
   {
-    "set": "McDonald's Collection 2014 12/12",
+    "code": "012/12",
+    "set": "McDonald's Collection 2014 012/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd14/12.png"
   },
   {
-    "set": "Shrouded Fable 51/99",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "051/64",
+    "set": "Shrouded Fable 051/64",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv6pt5/51.png"
   },
   {
-    "set": "Prismatic Evolutions 88/180",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "088/131",
+    "set": "Prismatic Evolutions 088/131",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8pt5/88.png"
   }
 ]

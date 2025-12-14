@@ -1,72 +1,86 @@
 [
   {
-    "set": "Flashfire 37/110",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "037/106",
+    "set": "Flashfire 037/106",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/xy2/37.png"
   },
   {
-    "set": "Phantom Forces 30/124",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "030/119",
+    "set": "Phantom Forces 030/119",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/xy4/30.png"
   },
   {
-    "set": "Forbidden Light 38/150",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "038/131",
+    "set": "Forbidden Light 038/131",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm6/38.png"
   },
   {
-    "set": "Guardians Rising 44/180",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "044/145",
+    "set": "Guardians Rising 044/145",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm2/44.png"
   },
   {
-    "set": "Team Up 50/198",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "050/181",
+    "set": "Team Up 050/181",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm9/50.png"
   },
   {
-    "set": "XY Black Star Promos XY47/216",
-    "cost": "Not PSA Graded: $1.32",
+    "code": "XY47/211",
+    "set": "XY Black Star Promos XY47/211",
+    "cost": "UnGraded: $1.32",
     "img": "https://images.pokemontcg.io/xyp/XY47.png"
   },
   {
-    "set": "Rebel Clash 64/209",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "064/192",
+    "set": "Rebel Clash 064/192",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh2/64.png"
   },
   {
-    "set": "Cosmic Eclipse 180/272",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "180/236",
+    "set": "Cosmic Eclipse 180/236",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm12/180.png"
   },
   {
-    "set": "Fusion Strike 99/284",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "099/264",
+    "set": "Fusion Strike 099/264",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh8/99.png"
   },
   {
-    "set": "Crown Zenith 50/160",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "050/159",
+    "set": "Crown Zenith 050/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12pt5/50.png"
   },
   {
-    "set": "Twilight Masquerade 71/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "071/167",
+    "set": "Twilight Masquerade 071/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/71.png"
   },
   {
-    "set": "Twilight Masquerade 177/226",
-    "cost": "Not PSA Graded: $2.95",
+    "code": "177/167",
+    "set": "Twilight Masquerade 177/167",
+    "cost": "UnGraded: $2.95",
     "img": "https://images.pokemontcg.io/sv6/177.png"
   },
   {
-    "set": "Surging Sparks 155/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "155/191",
+    "set": "Surging Sparks 155/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/155.png"
   },
   {
-    "set": "Mega Evolution 53/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "053/132",
+    "set": "Mega Evolution 053/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/53.png"
   }
 ]

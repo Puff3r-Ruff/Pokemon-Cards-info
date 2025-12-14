@@ -1,42 +1,50 @@
 [
   {
-    "set": "SWSH Black Star Promos SWSH010/304",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "SWSH010/307",
+    "set": "SWSH Black Star Promos SWSH010/307",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/swshp/SWSH010.png"
   },
   {
-    "set": "Sword & Shield 20/216",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "020/202",
+    "set": "Sword & Shield 020/202",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh1/20.png"
   },
   {
+    "code": "SV010/122",
     "set": "Shining Fates Shiny Vault SV010/122",
-    "cost": "Not PSA Graded: $1.64",
+    "cost": "UnGraded: $1.64",
     "img": "https://images.pokemontcg.io/swsh45sv/SV010.png"
   },
   {
-    "set": "Shining Fates 14/73",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "014/72",
+    "set": "Shining Fates 014/72",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh45/14.png"
   },
   {
-    "set": "Evolving Skies 15/237",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "015/203",
+    "set": "Evolving Skies 015/203",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh7/15.png"
   },
   {
-    "set": "Fusion Strike 24/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "024/264",
+    "set": "Fusion Strike 024/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/24.png"
   },
   {
-    "set": "McDonald's Collection 2022 3/15",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "003/15",
+    "set": "McDonald's Collection 2022 003/15",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/mcd22/3.png"
   },
   {
-    "set": "Stellar Crown 10/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "010/142",
+    "set": "Stellar Crown 010/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/10.png"
   }
 ]

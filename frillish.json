@@ -1,42 +1,50 @@
 [
   {
-    "set": "Phantom Forces 20/124",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "020/119",
+    "set": "Phantom Forces 020/119",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy4/20.png"
   },
   {
-    "set": "Next Destinies 34/103",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "034/99",
+    "set": "Next Destinies 034/99",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw4/34.png"
   },
   {
-    "set": "Noble Victories 30/102",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "030/101",
+    "set": "Noble Victories 030/101",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/bw3/30.png"
   },
   {
-    "set": "Plasma Storm 38/138",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "038/135",
+    "set": "Plasma Storm 038/135",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/bw8/38.png"
   },
   {
-    "set": "Boundaries Crossed 44/153",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "044/149",
+    "set": "Boundaries Crossed 044/149",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw7/44.png"
   },
   {
-    "set": "Battle Styles 41/183",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "041/163",
+    "set": "Battle Styles 041/163",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh5/41.png"
   },
   {
-    "set": "White Flare 44/173",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "044/86",
+    "set": "White Flare 044/86",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/rsv10pt5/44.png"
   },
   {
-    "set": "White Flare 126/173",
-    "cost": "Not PSA Graded: $12.16",
+    "code": "126/86",
+    "set": "White Flare 126/86",
+    "cost": "UnGraded: $12.16",
     "img": "https://images.pokemontcg.io/rsv10pt5/126.png"
   }
 ]

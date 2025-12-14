@@ -1,168 +1,200 @@
 [
   {
-    "set": "Detective Pikachu 9/18",
-    "cost": "Not PSA Graded: $4.82",
+    "code": "009/18",
+    "set": "Detective Pikachu 009/18",
+    "cost": "UnGraded: $4.82",
     "img": "https://images.pokemontcg.io/det1/9.png"
   },
   {
-    "set": "Kalos Starter Set 14/39",
-    "cost": "Not PSA Graded: $8",
+    "code": "014/39",
+    "set": "Kalos Starter Set 014/39",
+    "cost": "UnGraded: $8",
     "img": "https://images.pokemontcg.io/xy0/14.png"
   },
   {
-    "set": "XY Black Star Promos XY20/216",
-    "cost": "Not PSA Graded: $17.64",
+    "code": "XY20/211",
+    "set": "XY Black Star Promos XY20/211",
+    "cost": "UnGraded: $17.64",
     "img": "https://images.pokemontcg.io/xyp/XY20.png"
   },
   {
-    "set": "Forbidden Light 24/150",
-    "cost": "Not PSA Graded: $15.01",
+    "code": "024/131",
+    "set": "Forbidden Light 024/131",
+    "cost": "UnGraded: $15.01",
     "img": "https://images.pokemontcg.io/sm6/24.png"
   },
   {
-    "set": "XY Black Star Promos XY24/216",
-    "cost": "Not PSA Graded: $23.87",
+    "code": "XY24/211",
+    "set": "XY Black Star Promos XY24/211",
+    "cost": "UnGraded: $23.87",
     "img": "https://images.pokemontcg.io/xyp/XY24.png"
   },
   {
-    "set": "XY 41/146",
-    "cost": "Not PSA Graded: $5.43",
+    "code": "041/146",
+    "set": "XY 041/146",
+    "cost": "UnGraded: $5.43",
     "img": "https://images.pokemontcg.io/xy1/41.png"
   },
   {
-    "set": "BREAKpoint 40/126",
-    "cost": "Not PSA Graded: $1.42",
+    "code": "040/122",
+    "set": "BREAKpoint 040/122",
+    "cost": "UnGraded: $1.42",
     "img": "https://images.pokemontcg.io/xy9/40.png"
   },
   {
-    "set": "BREAKpoint 41/126",
-    "cost": "Not PSA Graded: $16.51",
+    "code": "041/122",
+    "set": "BREAKpoint 041/122",
+    "cost": "UnGraded: $16.51",
     "img": "https://images.pokemontcg.io/xy9/41.png"
   },
   {
+    "code": "SV56/94",
     "set": "Hidden Fates Shiny Vault SV56/94",
-    "cost": "Not PSA Graded: $82.34",
+    "cost": "UnGraded: $82.34",
     "img": "https://images.pokemontcg.io/sma/SV56.png"
   },
   {
-    "set": "Unbroken Bonds 107/234",
-    "cost": "Not PSA Graded: $45.97",
+    "code": "107/214",
+    "set": "Unbroken Bonds 107/214",
+    "cost": "UnGraded: $45.97",
     "img": "https://images.pokemontcg.io/sm10/107.png"
   },
   {
-    "set": "Unbroken Bonds 117/234",
-    "cost": "Not PSA Graded: $19.4",
+    "code": "117/214",
+    "set": "Unbroken Bonds 117/214",
+    "cost": "UnGraded: $19.4",
     "img": "https://images.pokemontcg.io/sm10/117.png"
   },
   {
-    "set": "Forbidden Light 120/150",
-    "cost": "Not PSA Graded: $53.66",
+    "code": "120/131",
+    "set": "Forbidden Light 120/131",
+    "cost": "UnGraded: $53.66",
     "img": "https://images.pokemontcg.io/sm6/120.png"
   },
   {
-    "set": "XY Black Star Promos XY133/216",
-    "cost": "Not PSA Graded: $57.77",
+    "code": "XY133/211",
+    "set": "XY Black Star Promos XY133/211",
+    "cost": "UnGraded: $57.77",
     "img": "https://images.pokemontcg.io/xyp/XY133.png"
   },
   {
-    "set": "Forbidden Light 133/150",
-    "cost": "Not PSA Graded: $97.15",
+    "code": "133/131",
+    "set": "Forbidden Light 133/131",
+    "cost": "UnGraded: $97.15",
     "img": "https://images.pokemontcg.io/sm6/133.png"
   },
   {
-    "set": "XY Black Star Promos XY162/216",
-    "cost": "Not PSA Graded: $5.13",
+    "code": "XY162/211",
+    "set": "XY Black Star Promos XY162/211",
+    "cost": "UnGraded: $5.13",
     "img": "https://images.pokemontcg.io/xyp/XY162.png"
   },
   {
-    "set": "SM Black Star Promos SM197/250",
-    "cost": "Not PSA Graded: $24.11",
+    "code": "SM197/248",
+    "set": "SM Black Star Promos SM197/248",
+    "cost": "UnGraded: $24.11",
     "img": "https://images.pokemontcg.io/smp/SM197.png"
   },
   {
-    "set": "Unbroken Bonds 200/234",
-    "cost": "Not PSA Graded: $67.68",
+    "code": "200/214",
+    "set": "Unbroken Bonds 200/214",
+    "cost": "UnGraded: $67.68",
     "img": "https://images.pokemontcg.io/sm10/200.png"
   },
   {
-    "set": "Unbroken Bonds 201/234",
-    "cost": "Not PSA Graded: $285.54",
+    "code": "201/214",
+    "set": "Unbroken Bonds 201/214",
+    "cost": "UnGraded: $285.54",
     "img": "https://images.pokemontcg.io/sm10/201.png"
   },
   {
-    "set": "Unbroken Bonds 222/234",
-    "cost": "Not PSA Graded: $78.96",
+    "code": "222/214",
+    "set": "Unbroken Bonds 222/214",
+    "cost": "UnGraded: $78.96",
     "img": "https://images.pokemontcg.io/sm10/222.png"
   },
   {
-    "set": "Fusion Strike 73/284",
-    "cost": "Not PSA Graded: $1.67",
+    "code": "073/264",
+    "set": "Fusion Strike 073/264",
+    "cost": "UnGraded: $1.67",
     "img": "https://images.pokemontcg.io/swsh8/73.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH144/304",
-    "cost": "Not PSA Graded: $13.85",
+    "code": "SWSH144/307",
+    "set": "SWSH Black Star Promos SWSH144/307",
+    "cost": "UnGraded: $13.85",
     "img": "https://images.pokemontcg.io/swshp/SWSH144.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH155/304",
-    "cost": "Not PSA Graded: $3.24",
+    "code": "SWSH155/307",
+    "set": "SWSH Black Star Promos SWSH155/307",
+    "cost": "UnGraded: $3.24",
     "img": "https://images.pokemontcg.io/swshp/SWSH155.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH156/304",
-    "cost": "Not PSA Graded: $3.64",
+    "code": "SWSH156/307",
+    "set": "SWSH Black Star Promos SWSH156/307",
+    "cost": "UnGraded: $3.64",
     "img": "https://images.pokemontcg.io/swshp/SWSH156.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH157/304",
-    "cost": "Not PSA Graded: $4.74",
+    "code": "SWSH157/307",
+    "set": "SWSH Black Star Promos SWSH157/307",
+    "cost": "UnGraded: $4.74",
     "img": "https://images.pokemontcg.io/swshp/SWSH157.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH158/304",
-    "cost": "Not PSA Graded: $3.67",
+    "code": "SWSH158/307",
+    "set": "SWSH Black Star Promos SWSH158/307",
+    "cost": "UnGraded: $3.67",
     "img": "https://images.pokemontcg.io/swshp/SWSH158.png"
   },
   {
-    "set": "Astral Radiance 46/216",
-    "cost": "Not PSA Graded: $1.98",
+    "code": "046/189",
+    "set": "Astral Radiance 046/189",
+    "cost": "UnGraded: $1.98",
     "img": "https://images.pokemontcg.io/swsh10/46.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH305/304",
-    "cost": "Not PSA Graded: $42.02",
+    "code": "SWSH305/307",
+    "set": "SWSH Black Star Promos SWSH305/307",
+    "cost": "UnGraded: $42.02",
     "img": "https://images.pokemontcg.io/swshp/SWSH305.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 54/196",
-    "cost": "Not PSA Graded: $5.08",
+    "code": "054/215",
+    "set": "Scarlet & Violet Black Star Promos 054/215",
+    "cost": "UnGraded: $5.08",
     "img": "https://images.pokemontcg.io/svp/54.png"
   },
   {
-    "set": "Twilight Masquerade 106/226",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "106/167",
+    "set": "Twilight Masquerade 106/167",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/sv6/106.png"
   },
   {
-    "set": "Twilight Masquerade 198/226",
-    "cost": "Not PSA Graded: $6.64",
+    "code": "198/167",
+    "set": "Twilight Masquerade 198/167",
+    "cost": "UnGraded: $6.64",
     "img": "https://images.pokemontcg.io/sv6/198.png"
   },
   {
-    "set": "Twilight Masquerade 214/226",
-    "cost": "Not PSA Graded: $309.34",
-    "img": "https://images.pokemontcg.io/sv6/214.png",
-    "link": "https://gymleadertcg.com/%F0%9F%90%B8-greninja-ex-illustration-rare-twilight-masquerades-stealth-icon"
+    "code": "214/167",
+    "set": "Twilight Masquerade 214/167",
+    "cost": "UnGraded: $309.34",
+    "img": "https://images.pokemontcg.io/sv6/214.png"
   },
   {
-    "set": "Stellar Crown 41/175",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "041/142",
+    "set": "Stellar Crown 041/142",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/sv7/41.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 132/196",
-    "cost": "Not PSA Graded: $49.59",
+    "code": "132/215",
+    "set": "Scarlet & Violet Black Star Promos 132/215",
+    "cost": "UnGraded: $49.59",
     "img": "https://images.pokemontcg.io/svp/132.png"
   }
 ]

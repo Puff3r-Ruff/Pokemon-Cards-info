@@ -1,47 +1,56 @@
 [
   {
-    "set": "Black & White 60/115",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "060/114",
+    "set": "Black & White 060/114",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/bw1/60.png"
   },
   {
-    "set": "XY 66/146",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "066/146",
+    "set": "XY 066/146",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy1/66.png"
   },
   {
-    "set": "Dark Explorers 59/111",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "059/108",
+    "set": "Dark Explorers 059/108",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/bw5/59.png"
   },
   {
-    "set": "Noble Victories 63/102",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "063/101",
+    "set": "Noble Victories 063/101",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/bw3/63.png"
   },
   {
-    "set": "Plasma Storm 80/138",
-    "cost": "Not PSA Graded: $0.55",
+    "code": "080/135",
+    "set": "Plasma Storm 080/135",
+    "cost": "UnGraded: $0.55",
     "img": "https://images.pokemontcg.io/bw8/80.png"
   },
   {
-    "set": "Battle Styles 74/183",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "074/163",
+    "set": "Battle Styles 074/163",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh5/74.png"
   },
   {
-    "set": "Twilight Masquerade 104/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "104/167",
+    "set": "Twilight Masquerade 104/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/104.png"
   },
   {
-    "set": "Black Bolt 48/172",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "048/86",
+    "set": "Black Bolt 048/86",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/zsv10pt5/48.png"
   },
   {
-    "set": "Black Bolt 126/172",
-    "cost": "Not PSA Graded: $6.4",
+    "code": "126/86",
+    "set": "Black Bolt 126/86",
+    "cost": "UnGraded: $6.4",
     "img": "https://images.pokemontcg.io/zsv10pt5/126.png"
   }
 ]

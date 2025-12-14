@@ -1,42 +1,50 @@
 [
   {
-    "set": "Legend Maker 17/93",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "017/92",
+    "set": "Legend Maker 017/92",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/ex12/17.png"
   },
   {
-    "set": "Hidden Legends 18/102",
-    "cost": "Not PSA Graded: $2.71",
+    "code": "018/101",
+    "set": "Hidden Legends 018/101",
+    "cost": "UnGraded: $2.71",
     "img": "https://images.pokemontcg.io/ex5/18.png"
   },
   {
-    "set": "Celestial Storm 43/187",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "043/168",
+    "set": "Celestial Storm 043/168",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm7/43.png"
   },
   {
-    "set": "Great Encounters 38/106",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "038/106",
+    "set": "Great Encounters 038/106",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/dp4/38.png"
   },
   {
-    "set": "Primal Clash 51/164",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "051/160",
+    "set": "Primal Clash 051/160",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/xy5/51.png"
   },
   {
-    "set": "Primal Clash 52/164",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "052/160",
+    "set": "Primal Clash 052/160",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/xy5/52.png"
   },
   {
-    "set": "Fusion Strike 67/284",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "067/264",
+    "set": "Fusion Strike 067/264",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh8/67.png"
   },
   {
-    "set": "Destined Rivals 56/244",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "056/182",
+    "set": "Destined Rivals 056/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv10/56.png"
   }
 ]

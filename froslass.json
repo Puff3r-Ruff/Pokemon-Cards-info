@@ -1,72 +1,86 @@
 [
   {
-    "set": "Arceus 2/111",
-    "cost": "Not PSA Graded: $3.85",
+    "code": "002/99",
+    "set": "Arceus 002/99",
+    "cost": "UnGraded: $3.85",
     "img": "https://images.pokemontcg.io/pl4/2.png"
   },
   {
-    "set": "Rising Rivals 6/120",
-    "cost": "Not PSA Graded: $7.83",
+    "code": "006/111",
+    "set": "Rising Rivals 006/111",
+    "cost": "UnGraded: $7.83",
     "img": "https://images.pokemontcg.io/pl2/6.png"
   },
   {
-    "set": "Legends Awakened 3/146",
-    "cost": "Not PSA Graded: $6.61",
+    "code": "003/146",
+    "set": "Legends Awakened 003/146",
+    "cost": "UnGraded: $6.61",
     "img": "https://images.pokemontcg.io/dp6/3.png"
   },
   {
-    "set": "Plasma Blast 23/105",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "023/101",
+    "set": "Plasma Blast 023/101",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/bw10/23.png"
   },
   {
-    "set": "Unified Minds 38/260",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "038/236",
+    "set": "Unified Minds 038/236",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/sm11/38.png"
   },
   {
-    "set": "Generations RC8/117",
-    "cost": "Not PSA Graded: $2.59",
+    "code": "RC8/83",
+    "set": "Generations RC8/83",
+    "cost": "UnGraded: $2.59",
     "img": "https://images.pokemontcg.io/g1/RC8.png"
   },
   {
-    "set": "Chilling Reign 36/233",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "036/198",
+    "set": "Chilling Reign 036/198",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/swsh6/36.png"
   },
   {
-    "set": "Evolving Skies 226/237",
-    "cost": "Not PSA Graded: $7.46",
+    "code": "226/203",
+    "set": "Evolving Skies 226/203",
+    "cost": "UnGraded: $7.46",
     "img": "https://images.pokemontcg.io/swsh7/226.png"
   },
   {
-    "set": "Silver Tempest 43/215",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "043/195",
+    "set": "Silver Tempest 043/195",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh12/43.png"
   },
   {
-    "set": "Paradox Rift 3/266",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "003/182",
+    "set": "Paradox Rift 003/182",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/sv4/3.png"
   },
   {
-    "set": "Paradox Rift 217/266",
-    "cost": "Not PSA Graded: $1.68",
+    "code": "217/182",
+    "set": "Paradox Rift 217/182",
+    "cost": "UnGraded: $1.68",
     "img": "https://images.pokemontcg.io/sv4/217.png"
   },
   {
-    "set": "Twilight Masquerade 53/226",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "053/167",
+    "set": "Twilight Masquerade 053/167",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sv6/53.png"
   },
   {
-    "set": "Twilight Masquerade 174/226",
-    "cost": "Not PSA Graded: $5.51",
+    "code": "174/167",
+    "set": "Twilight Masquerade 174/167",
+    "cost": "UnGraded: $5.51",
     "img": "https://images.pokemontcg.io/sv6/174.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 117/196",
-    "cost": "Not PSA Graded: $5.07",
+    "code": "117/215",
+    "set": "Scarlet & Violet Black Star Promos 117/215",
+    "cost": "UnGraded: $5.07",
     "img": "https://images.pokemontcg.io/svp/117.png"
   }
 ]

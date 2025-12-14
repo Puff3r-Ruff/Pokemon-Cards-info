@@ -1,42 +1,50 @@
 [
   {
-    "set": "Phantom Forces 50/124",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "050/119",
+    "set": "Phantom Forces 050/119",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/xy4/50.png"
   },
   {
-    "set": "Emerging Powers 53/98",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "053/98",
+    "set": "Emerging Powers 053/98",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/bw2/53.png"
   },
   {
-    "set": "Noble Victories 61/102",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "061/101",
+    "set": "Noble Victories 061/101",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/bw3/61.png"
   },
   {
-    "set": "Dragons Exalted 67/128",
-    "cost": "Not PSA Graded: $0.83",
+    "code": "067/124",
+    "set": "Dragons Exalted 067/124",
+    "cost": "UnGraded: $0.83",
     "img": "https://images.pokemontcg.io/bw6/67.png"
   },
   {
-    "set": "Sun & Moon 71/173",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "071/149",
+    "set": "Sun & Moon 071/149",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/sm1/71.png"
   },
   {
-    "set": "Evolving Skies 88/237",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "088/203",
+    "set": "Evolving Skies 088/203",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/swsh7/88.png"
   },
   {
-    "set": "White Flare 48/173",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "048/86",
+    "set": "White Flare 048/86",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/rsv10pt5/48.png"
   },
   {
-    "set": "White Flare 129/173",
-    "cost": "Not PSA Graded: $17.26",
+    "code": "129/86",
+    "set": "White Flare 129/86",
+    "cost": "UnGraded: $17.26",
     "img": "https://images.pokemontcg.io/rsv10pt5/129.png"
   }
 ]

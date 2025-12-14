@@ -1,107 +1,128 @@
 [
   {
-    "set": "SWSH Black Star Promos SWSH025/304",
-    "cost": "Not PSA Graded: $37.38",
+    "code": "SWSH025/307",
+    "set": "SWSH Black Star Promos SWSH025/307",
+    "cost": "UnGraded: $37.38",
     "img": "https://images.pokemontcg.io/swshp/SWSH025.png"
   },
   {
-    "set": "Guardians Rising 51/180",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "051/145",
+    "set": "Guardians Rising 051/145",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/sm2/51.png"
   },
   {
-    "set": "Noble Victories 49/102",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "049/101",
+    "set": "Noble Victories 049/101",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/bw3/49.png"
   },
   {
-    "set": "Guardians Rising 51a/180",
+    "code": "51a/145",
+    "set": "Guardians Rising 51a/145",
     "cost": null,
     "img": "https://images.pokemontcg.io/sm2/51a.png"
   },
   {
-    "set": "Dragons Exalted 54/128",
-    "cost": "Not PSA Graded: $3.24",
+    "code": "054/124",
+    "set": "Dragons Exalted 054/124",
+    "cost": "UnGraded: $3.24",
     "img": "https://images.pokemontcg.io/bw6/54.png"
   },
   {
-    "set": "BREAKpoint 57/126",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "057/122",
+    "set": "BREAKpoint 057/122",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/xy9/57.png"
   },
   {
-    "set": "Legendary Treasures 68/140",
-    "cost": "Not PSA Graded: $2.32",
+    "code": "068/113",
+    "set": "Legendary Treasures 068/113",
+    "cost": "UnGraded: $2.32",
     "img": "https://images.pokemontcg.io/bw11/68.png"
   },
   {
-    "set": "Plasma Storm 66/138",
-    "cost": "Not PSA Graded: $1.59",
+    "code": "066/135",
+    "set": "Plasma Storm 066/135",
+    "cost": "UnGraded: $1.59",
     "img": "https://images.pokemontcg.io/bw8/66.png"
   },
   {
-    "set": "Plasma Storm 67/138",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "067/135",
+    "set": "Plasma Storm 067/135",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/bw8/67.png"
   },
   {
-    "set": "Vivid Voltage 111/203",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "111/185",
+    "set": "Vivid Voltage 111/185",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh4/111.png"
   },
   {
-    "set": "Rebel Clash 118/209",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "118/192",
+    "set": "Rebel Clash 118/192",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/swsh2/118.png"
   },
   {
-    "set": "Plasma Freeze 119/122",
-    "cost": "Not PSA Graded: $167.39",
+    "code": "119/116",
+    "set": "Plasma Freeze 119/116",
+    "cost": "UnGraded: $167.39",
     "img": "https://images.pokemontcg.io/bw9/119.png"
   },
   {
-    "set": "Evolving Skies 100/237",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "100/203",
+    "set": "Evolving Skies 100/203",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/swsh7/100.png"
   },
   {
-    "set": "Evolving Skies 101/237",
-    "cost": "Not PSA Graded: $1.83",
+    "code": "101/203",
+    "set": "Evolving Skies 101/203",
+    "cost": "UnGraded: $1.83",
     "img": "https://images.pokemontcg.io/swsh7/101.png"
   },
   {
-    "set": "Evolving Skies 190/237",
-    "cost": "Not PSA Graded: $3.5",
+    "code": "190/203",
+    "set": "Evolving Skies 190/203",
+    "cost": "UnGraded: $3.5",
     "img": "https://images.pokemontcg.io/swsh7/190.png"
   },
   {
-    "set": "Evolving Skies 216/237",
-    "cost": "Not PSA Graded: $7.39",
+    "code": "216/203",
+    "set": "Evolving Skies 216/203",
+    "cost": "UnGraded: $7.39",
     "img": "https://images.pokemontcg.io/swsh7/216.png"
   },
   {
-    "set": "Fusion Strike 169/284",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "169/264",
+    "set": "Fusion Strike 169/264",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh8/169.png"
   },
   {
-    "set": "Paradox Rift 117/266",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "117/182",
+    "set": "Paradox Rift 117/182",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv4/117.png"
   },
   {
-    "set": "Paradox Rift 204/266",
-    "cost": "Not PSA Graded: $9.74",
+    "code": "204/182",
+    "set": "Paradox Rift 204/182",
+    "cost": "UnGraded: $9.74",
     "img": "https://images.pokemontcg.io/sv4/204.png"
   },
   {
-    "set": "White Flare 60/173",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "060/86",
+    "set": "White Flare 060/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/rsv10pt5/60.png"
   },
   {
-    "set": "White Flare 141/173",
-    "cost": "Not PSA Graded: $13.83",
+    "code": "141/86",
+    "set": "White Flare 141/86",
+    "cost": "UnGraded: $13.83",
     "img": "https://images.pokemontcg.io/rsv10pt5/141.png"
   }
 ]

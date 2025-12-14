@@ -1,52 +1,62 @@
 [
   {
+    "code": "DP23/56",
     "set": "DP Black Star Promos DP23/56",
-    "cost": "Not PSA Graded: $4.87",
+    "cost": "UnGraded: $4.87",
     "img": "https://images.pokemontcg.io/dpp/DP23.png"
   },
   {
-    "set": "Majestic Dawn 65/100",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "065/100",
+    "set": "Majestic Dawn 065/100",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/dp5/65.png"
   },
   {
-    "set": "Great Encounters 68/106",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "068/106",
+    "set": "Great Encounters 068/106",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/dp4/68.png"
   },
   {
-    "set": "Diamond & Pearl 83/130",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "083/130",
+    "set": "Diamond & Pearl 083/130",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/dp1/83.png"
   },
   {
-    "set": "BREAKpoint 93/126",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "093/122",
+    "set": "BREAKpoint 093/122",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy9/93.png"
   },
   {
-    "set": "Ultra Prism 108/178",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "108/156",
+    "set": "Ultra Prism 108/156",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm5/108.png"
   },
   {
-    "set": "Unbroken Bonds 159/234",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "159/214",
+    "set": "Unbroken Bonds 159/214",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm10/159.png"
   },
   {
-    "set": "Battle Styles 115/183",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "115/163",
+    "set": "Battle Styles 115/163",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh5/115.png"
   },
   {
-    "set": "Astral Radiance 127/216",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "127/189",
+    "set": "Astral Radiance 127/189",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh10/127.png"
   },
   {
-    "set": "Stellar Crown 116/175",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "116/142",
+    "set": "Stellar Crown 116/142",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv7/116.png"
   }
 ]

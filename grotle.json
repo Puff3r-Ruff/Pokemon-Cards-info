@@ -1,47 +1,56 @@
 [
   {
-    "set": "Plasma Storm 2/138",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "002/135",
+    "set": "Plasma Storm 002/135",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/bw8/2.png"
   },
   {
-    "set": "Ultra Prism 8/178",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "008/156",
+    "set": "Ultra Prism 008/156",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm5/8.png"
   },
   {
-    "set": "HS—Unleashed 31/96",
-    "cost": "Not PSA Graded: $1.2",
+    "code": "031/95",
+    "set": "HS—Unleashed 031/95",
+    "cost": "UnGraded: $1.2",
     "img": "https://images.pokemontcg.io/hgss2/31.png"
   },
   {
-    "set": "Majestic Dawn 37/100",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "037/100",
+    "set": "Majestic Dawn 037/100",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/dp5/37.png"
   },
   {
-    "set": "Diamond & Pearl 49/130",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "049/130",
+    "set": "Diamond & Pearl 049/130",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/dp1/49.png"
   },
   {
-    "set": "Platinum 49/133",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "049/127",
+    "set": "Platinum 049/127",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/pl1/49.png"
   },
   {
-    "set": "Brilliant Stars 7/186",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "007/172",
+    "set": "Brilliant Stars 007/172",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh9/7.png"
   },
   {
-    "set": "Temporal Forces 11/218",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "011/162",
+    "set": "Temporal Forces 011/162",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv5/11.png"
   },
   {
-    "set": "Temporal Forces 164/218",
-    "cost": "Not PSA Graded: $9.37",
+    "code": "164/162",
+    "set": "Temporal Forces 164/162",
+    "cost": "UnGraded: $9.37",
     "img": "https://images.pokemontcg.io/sv5/164.png"
   }
 ]

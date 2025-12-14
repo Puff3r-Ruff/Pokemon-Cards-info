@@ -1,27 +1,32 @@
 [
   {
-    "set": "Champion's Path 18/80",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "018/73",
+    "set": "Champion's Path 018/73",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh35/18.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH040/304",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "SWSH040/307",
+    "set": "SWSH Black Star Promos SWSH040/307",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/swshp/SWSH040.png"
   },
   {
-    "set": "Rebel Clash 83/209",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "083/192",
+    "set": "Rebel Clash 083/192",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh2/83.png"
   },
   {
+    "code": "SV054/122",
     "set": "Shining Fates Shiny Vault SV054/122",
-    "cost": "Not PSA Graded: $1.91",
+    "cost": "UnGraded: $1.91",
     "img": "https://images.pokemontcg.io/swsh45sv/SV054.png"
   },
   {
-    "set": "Chilling Reign 71/233",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "071/198",
+    "set": "Chilling Reign 071/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh6/71.png"
   }
 ]
