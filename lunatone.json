@@ -1,82 +1,98 @@
 [
   {
-    "set": "Sandstorm 8/100",
-    "cost": "Not PSA Graded: $22.07",
+    "code": "008/100",
+    "set": "Sandstorm 008/100",
+    "cost": "UnGraded: $22.07",
     "img": "https://images.pokemontcg.io/ex2/8.png"
   },
   {
-    "set": "Legend Maker 20/93",
-    "cost": "Not PSA Graded: $1.99",
+    "code": "020/92",
+    "set": "Legend Maker 020/92",
+    "cost": "UnGraded: $1.99",
     "img": "https://images.pokemontcg.io/ex12/20.png"
   },
   {
-    "set": "HS—Triumphant 25/103",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "025/102",
+    "set": "HS—Triumphant 025/102",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/hgss4/25.png"
   },
   {
-    "set": "Supreme Victors 32/153",
-    "cost": "Not PSA Graded: $1.01",
+    "code": "032/147",
+    "set": "Supreme Victors 032/147",
+    "cost": "UnGraded: $1.01",
     "img": "https://images.pokemontcg.io/pl3/32.png"
   },
   {
-    "set": "Deoxys 36/108",
-    "cost": "Not PSA Graded: $1.84",
+    "code": "036/107",
+    "set": "Deoxys 036/107",
+    "cost": "UnGraded: $1.84",
     "img": "https://images.pokemontcg.io/ex8/36.png"
   },
   {
-    "set": "Celestial Storm 61/187",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "061/168",
+    "set": "Celestial Storm 061/168",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/sm7/61.png"
   },
   {
-    "set": "XY 63/146",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "063/146",
+    "set": "XY 063/146",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/xy1/63.png"
   },
   {
-    "set": "Burning Shadows 68/177",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "068/147",
+    "set": "Burning Shadows 068/147",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm3/68.png"
   },
   {
-    "set": "Plasma Storm 73/138",
-    "cost": "Not PSA Graded: $0.86",
+    "code": "073/135",
+    "set": "Plasma Storm 073/135",
+    "cost": "UnGraded: $0.86",
     "img": "https://images.pokemontcg.io/bw8/73.png"
   },
   {
-    "set": "Darkness Ablaze 72/201",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "072/189",
+    "set": "Darkness Ablaze 072/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh3/72.png"
   },
   {
-    "set": "Great Encounters 76/106",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "076/106",
+    "set": "Great Encounters 076/106",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/dp4/76.png"
   },
   {
-    "set": "Pokémon GO 34/88",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "034/78",
+    "set": "Pokémon GO 034/78",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/pgo/34.png"
   },
   {
-    "set": "Crown Zenith 62/160",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "062/159",
+    "set": "Crown Zenith 062/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12pt5/62.png"
   },
   {
+    "code": "GG11/70",
     "set": "Crown Zenith Galarian Gallery GG11/70",
-    "cost": "Not PSA Graded: $4.08",
+    "cost": "UnGraded: $4.08",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG11.png"
   },
   {
-    "set": "Obsidian Flames 92/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "092/197",
+    "set": "Obsidian Flames 092/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/92.png"
   },
   {
-    "set": "Mega Evolution 74/188",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "074/132",
+    "set": "Mega Evolution 074/132",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/me1/74.png"
   }
 ]

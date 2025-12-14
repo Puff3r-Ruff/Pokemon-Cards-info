@@ -1,117 +1,140 @@
 [
   {
-    "set": "Champion's Path 25/80",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "025/73",
+    "set": "Champion's Path 025/73",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh35/25.png"
   },
   {
-    "set": "Base 34/102",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "034/102",
+    "set": "Base 034/102",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/base1/34.png"
   },
   {
-    "set": "Legend Maker 39/93",
-    "cost": "Not PSA Graded: $0.9",
+    "code": "039/92",
+    "set": "Legend Maker 039/92",
+    "cost": "UnGraded: $0.9",
     "img": "https://images.pokemontcg.io/ex12/39.png"
   },
   {
-    "set": "HS—Triumphant 40/103",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "040/102",
+    "set": "HS—Triumphant 040/102",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/hgss4/40.png"
   },
   {
-    "set": "Gym Challenge 42/132",
+    "code": "042/132",
+    "set": "Gym Challenge 042/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/42.png"
   },
   {
-    "set": "Power Keepers 33/108",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "033/108",
+    "set": "Power Keepers 033/108",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/ex16/33.png"
   },
   {
-    "set": "Team Rocket 40/83",
+    "code": "040/82",
+    "set": "Team Rocket 040/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/40.png"
   },
   {
-    "set": "Plasma Blast 48/105",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "048/101",
+    "set": "Plasma Blast 048/101",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/bw10/48.png"
   },
   {
-    "set": "Hidden Legends 41/102",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "041/101",
+    "set": "Hidden Legends 041/101",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/ex5/41.png"
   },
   {
-    "set": "Stormfront 41/106",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "041/100",
+    "set": "Stormfront 041/100",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/dp7/41.png"
   },
   {
-    "set": "Neo Destiny 49/113",
+    "code": "049/105",
+    "set": "Neo Destiny 049/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/49.png"
   },
   {
-    "set": "Base Set 2 49/130",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "049/130",
+    "set": "Base Set 2 049/130",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/base4/49.png"
   },
   {
-    "set": "Diamond & Pearl 53/130",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "053/130",
+    "set": "Diamond & Pearl 053/130",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/dp1/53.png"
   },
   {
-    "set": "Generations 41/117",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "041/83",
+    "set": "Generations 041/83",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/g1/41.png"
   },
   {
-    "set": "Furious Fists 45/114",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "045/111",
+    "set": "Furious Fists 045/111",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/xy3/45.png"
   },
   {
-    "set": "Legendary Collection 51/110",
-    "cost": "Not PSA Graded: $1.73",
+    "code": "051/110",
+    "set": "Legendary Collection 051/110",
+    "cost": "UnGraded: $1.73",
     "img": "https://images.pokemontcg.io/base6/51.png"
   },
   {
-    "set": "Evolutions 58/113",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "058/108",
+    "set": "Evolutions 058/108",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy12/58.png"
   },
   {
-    "set": "Guardians Rising 64/180",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "064/145",
+    "set": "Guardians Rising 064/145",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm2/64.png"
   },
   {
-    "set": "Skyridge 38/182",
-    "cost": "Not PSA Graded: $10.49",
+    "code": "038/144",
+    "set": "Skyridge 038/144",
+    "cost": "UnGraded: $10.49",
     "img": "https://images.pokemontcg.io/ecard3/38.png"
   },
   {
-    "set": "Expedition Base Set 85/165",
-    "cost": "Not PSA Graded: $3.22",
+    "code": "085/165",
+    "set": "Expedition Base Set 085/165",
+    "cost": "UnGraded: $3.21",
     "img": "https://images.pokemontcg.io/ecard1/85.png"
   },
   {
-    "set": "Lost Origin 87/217",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "087/196",
+    "set": "Lost Origin 087/196",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh11/87.png"
   },
   {
-    "set": "151 67/207",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "067/165",
+    "set": "151 067/165",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv3pt5/67.png"
   },
   {
-    "set": "151 177/207",
-    "cost": "Not PSA Graded: $12.43",
+    "code": "177/165",
+    "set": "151 177/165",
+    "cost": "UnGraded: $12.62",
     "img": "https://images.pokemontcg.io/sv3pt5/177.png"
   }
 ]

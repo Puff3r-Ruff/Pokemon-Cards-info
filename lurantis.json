@@ -1,37 +1,44 @@
 [
   {
-    "set": "Sun & Moon 15/173",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "015/149",
+    "set": "Sun & Moon 015/149",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/sm1/15.png"
   },
   {
-    "set": "Unified Minds 16/260",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "016/236",
+    "set": "Unified Minds 016/236",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm11/16.png"
   },
   {
-    "set": "SM Black Star Promos SM25/250",
-    "cost": "Not PSA Graded: $1.6",
+    "code": "SM25/248",
+    "set": "SM Black Star Promos SM25/248",
+    "cost": "UnGraded: $1.6",
     "img": "https://images.pokemontcg.io/smp/SM25.png"
   },
   {
-    "set": "Sun & Moon 138/173",
-    "cost": "Not PSA Graded: $2.58",
+    "code": "138/149",
+    "set": "Sun & Moon 138/149",
+    "cost": "UnGraded: $2.58",
     "img": "https://images.pokemontcg.io/sm1/138.png"
   },
   {
-    "set": "Sun & Moon 150/173",
-    "cost": "Not PSA Graded: $8",
+    "code": "150/149",
+    "set": "Sun & Moon 150/149",
+    "cost": "UnGraded: $8",
     "img": "https://images.pokemontcg.io/sm1/150.png"
   },
   {
-    "set": "Battle Styles 15/183",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "015/163",
+    "set": "Battle Styles 015/163",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh5/15.png"
   },
   {
-    "set": "Destined Rivals 14/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "014/182",
+    "set": "Destined Rivals 014/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/14.png"
   }
 ]

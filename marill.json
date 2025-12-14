@@ -1,112 +1,134 @@
 [
   {
-    "set": "Southern Islands 11/18",
+    "code": "011/18",
+    "set": "Southern Islands 011/18",
     "cost": null,
     "img": "https://images.pokemontcg.io/si1/11.png"
   },
   {
-    "set": "Wizards Black Star Promos 29/53",
-    "cost": "Not PSA Graded: $4.13",
+    "code": "029/53",
+    "set": "Wizards Black Star Promos 029/53",
+    "cost": "UnGraded: $4.13",
     "img": "https://images.pokemontcg.io/basep/29.png"
   },
   {
-    "set": "Boundaries Crossed 36/153",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "036/149",
+    "set": "Boundaries Crossed 036/149",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/bw7/36.png"
   },
   {
-    "set": "Burning Shadows 34/177",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "034/147",
+    "set": "Burning Shadows 034/147",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm3/34.png"
   },
   {
-    "set": "HeartGold & SoulSilver 74/124",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "074/123",
+    "set": "HeartGold & SoulSilver 074/123",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/hgss1/74.png"
   },
   {
-    "set": "Team Rocket Returns 68/111",
-    "cost": "Not PSA Graded: $1.35",
+    "code": "068/109",
+    "set": "Team Rocket Returns 068/109",
+    "cost": "UnGraded: $1.35",
     "img": "https://images.pokemontcg.io/ex7/68.png"
   },
   {
-    "set": "Neo Genesis 66/111",
+    "code": "066/111",
+    "set": "Neo Genesis 066/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/66.png"
   },
   {
-    "set": "Steam Siege 76/116",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "076/114",
+    "set": "Steam Siege 076/114",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/xy11/76.png"
   },
   {
-    "set": "Sandstorm 68/100",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "068/100",
+    "set": "Sandstorm 068/100",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/ex2/68.png"
   },
   {
-    "set": "Delta Species 76/114",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "076/113",
+    "set": "Delta Species 076/113",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/ex11/76.png"
   },
   {
-    "set": "Aquapolis 53/182",
-    "cost": "Not PSA Graded: $13.52",
+    "code": "053/147",
+    "set": "Aquapolis 053/147",
+    "cost": "UnGraded: $13.56",
     "img": "https://images.pokemontcg.io/ecard2/53.png"
   },
   {
-    "set": "Diamond & Pearl 88/130",
-    "cost": "Not PSA Graded: $0.81",
+    "code": "088/130",
+    "set": "Diamond & Pearl 088/130",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/dp1/88.png"
   },
   {
-    "set": "Primal Clash 102/164",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "102/160",
+    "set": "Primal Clash 102/160",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy5/102.png"
   },
   {
+    "code": "120/165",
     "set": "Expedition Base Set 120/165",
-    "cost": "Not PSA Graded: $4.41",
+    "cost": "UnGraded: $4.41",
     "img": "https://images.pokemontcg.io/ecard1/120.png"
   },
   {
-    "set": "Lost Thunder 135/240",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "135/214",
+    "set": "Lost Thunder 135/214",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/sm8/135.png"
   },
   {
-    "set": "McDonald's Collection 2015 10/12",
+    "code": "010/12",
+    "set": "McDonald's Collection 2015 010/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd15/10.png"
   },
   {
-    "set": "Fusion Strike 58/284",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "058/264",
+    "set": "Fusion Strike 058/264",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh8/58.png"
   },
   {
-    "set": "Paldea Evolved 44/279",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "044/193",
+    "set": "Paldea Evolved 044/193",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv2/44.png"
   },
   {
-    "set": "Paldea Evolved 204/279",
-    "cost": "Not PSA Graded: $26.99",
+    "code": "204/193",
+    "set": "Paldea Evolved 204/193",
+    "cost": "UnGraded: $26.76",
     "img": "https://images.pokemontcg.io/sv2/204.png"
   },
   {
-    "set": "Temporal Forces 64/218",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "064/162",
+    "set": "Temporal Forces 064/162",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv5/64.png"
   },
   {
-    "set": "Stellar Crown 33/175",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "033/142",
+    "set": "Stellar Crown 033/142",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv7/33.png"
   },
   {
-    "set": "Surging Sparks 73/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "073/191",
+    "set": "Surging Sparks 073/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/73.png"
   }
 ]

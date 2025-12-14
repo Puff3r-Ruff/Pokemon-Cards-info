@@ -1,47 +1,56 @@
 [
   {
-    "set": "Mysterious Treasures 14/124",
-    "cost": "Not PSA Graded: $8.27",
+    "code": "014/123",
+    "set": "Mysterious Treasures 014/123",
+    "cost": "UnGraded: $8.27",
     "img": "https://images.pokemontcg.io/dp2/14.png"
   },
   {
-    "set": "Plasma Blast 37/105",
-    "cost": "Not PSA Graded: $1.12",
+    "code": "037/101",
+    "set": "Plasma Blast 037/101",
+    "cost": "UnGraded: $1.12",
     "img": "https://images.pokemontcg.io/bw10/37.png"
   },
   {
-    "set": "Legends Awakened 34/146",
-    "cost": "Not PSA Graded: $7.32",
+    "code": "034/146",
+    "set": "Legends Awakened 034/146",
+    "cost": "UnGraded: $7.32",
     "img": "https://images.pokemontcg.io/dp6/34.png"
   },
   {
-    "set": "Forbidden Light 42/150",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "042/131",
+    "set": "Forbidden Light 042/131",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/sm6/42.png"
   },
   {
-    "set": "Unified Minds 84/260",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "084/236",
+    "set": "Unified Minds 084/236",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm11/84.png"
   },
   {
+    "code": "143/146",
     "set": "Legends Awakened 143/146",
-    "cost": "Not PSA Graded: $57.09",
+    "cost": "UnGraded: $57.09",
     "img": "https://images.pokemontcg.io/dp6/143.png"
   },
   {
-    "set": "Astral Radiance 66/216",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "066/189",
+    "set": "Astral Radiance 066/189",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/swsh10/66.png"
   },
   {
-    "set": "Surging Sparks 79/252",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "079/191",
+    "set": "Surging Sparks 079/191",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv8/79.png"
   },
   {
-    "set": "Surging Sparks 204/252",
-    "cost": "Not PSA Graded: $7.67",
+    "code": "204/191",
+    "set": "Surging Sparks 204/191",
+    "cost": "UnGraded: $7.67",
     "img": "https://images.pokemontcg.io/sv8/204.png"
   }
 ]

@@ -1,32 +1,38 @@
 [
   {
-    "set": "POP Series 7 5/17",
-    "cost": "Not PSA Graded: $1.59",
+    "code": "005/17",
+    "set": "POP Series 7 005/17",
+    "cost": "UnGraded: $1.59",
     "img": "https://images.pokemontcg.io/pop7/5.png"
   },
   {
-    "set": "Fates Collide 4/129",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "004/124",
+    "set": "Fates Collide 004/124",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/xy10/4.png"
   },
   {
-    "set": "Arceus 6/111",
-    "cost": "Not PSA Graded: $2.35",
+    "code": "006/99",
+    "set": "Arceus 006/99",
+    "cost": "UnGraded: $2.35",
     "img": "https://images.pokemontcg.io/pl4/6.png"
   },
   {
-    "set": "Secret Wonders 33/132",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "033/132",
+    "set": "Secret Wonders 033/132",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/dp3/33.png"
   },
   {
-    "set": "Majestic Dawn 42/100",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "042/100",
+    "set": "Majestic Dawn 042/100",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/dp5/42.png"
   },
   {
-    "set": "Brilliant Stars 11/186",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "011/172",
+    "set": "Brilliant Stars 011/172",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh9/11.png"
   }
 ]

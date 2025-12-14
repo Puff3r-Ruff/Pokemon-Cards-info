@@ -1,87 +1,104 @@
 [
   {
-    "set": "Legendary Treasures 78/140",
-    "cost": "Not PSA Graded: $4.12",
+    "code": "078/113",
+    "set": "Legendary Treasures 078/113",
+    "cost": "UnGraded: $4.12",
     "img": "https://images.pokemontcg.io/bw11/78.png"
   },
   {
-    "set": "Boundaries Crossed 77/153",
-    "cost": "Not PSA Graded: $3.22",
+    "code": "077/149",
+    "set": "Boundaries Crossed 077/149",
+    "cost": "UnGraded: $3.22",
     "img": "https://images.pokemontcg.io/bw7/77.png"
   },
   {
+    "code": "BW68/101",
     "set": "BW Black Star Promos BW68/101",
-    "cost": "Not PSA Graded: $1.75",
+    "cost": "UnGraded: $1.75",
     "img": "https://images.pokemontcg.io/bwp/BW68.png"
   },
   {
+    "code": "BW69/101",
     "set": "BW Black Star Promos BW69/101",
-    "cost": "Not PSA Graded: $0.52",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/bwp/BW69.png"
   },
   {
-    "set": "Legendary Treasures 86/140",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "086/113",
+    "set": "Legendary Treasures 086/113",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/bw11/86.png"
   },
   {
-    "set": "BREAKthrough 85/165",
-    "cost": "Not PSA Graded: $1.27",
+    "code": "085/162",
+    "set": "BREAKthrough 085/162",
+    "cost": "UnGraded: $1.27",
     "img": "https://images.pokemontcg.io/xy8/85.png"
   },
   {
-    "set": "Lost Thunder 104/240",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "104/214",
+    "set": "Lost Thunder 104/214",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/sm8/104.png"
   },
   {
-    "set": "Legendary Treasures RC11/140",
-    "cost": "Not PSA Graded: $11.37",
+    "code": "RC11/113",
+    "set": "Legendary Treasures RC11/113",
+    "cost": "UnGraded: $11.37",
     "img": "https://images.pokemontcg.io/bw11/RC11.png"
   },
   {
-    "set": "XY Black Star Promos XY120/216",
-    "cost": "Not PSA Graded: $26.45",
+    "code": "XY120/211",
+    "set": "XY Black Star Promos XY120/211",
+    "cost": "UnGraded: $26.45",
     "img": "https://images.pokemontcg.io/xyp/XY120.png"
   },
   {
-    "set": "Unified Minds 123/260",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "123/236",
+    "set": "Unified Minds 123/236",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/sm11/123.png"
   },
   {
-    "set": "Legendary Treasures RC25/140",
-    "cost": "Not PSA Graded: $37.14",
+    "code": "RC25/113",
+    "set": "Legendary Treasures RC25/113",
+    "cost": "UnGraded: $37.14",
     "img": "https://images.pokemontcg.io/bw11/RC25.png"
   },
   {
-    "set": "XY Black Star Promos XY193/216",
-    "cost": "Not PSA Graded: $2.29",
+    "code": "XY193/211",
+    "set": "XY Black Star Promos XY193/211",
+    "cost": "UnGraded: $2.29",
     "img": "https://images.pokemontcg.io/xyp/XY193.png"
   },
   {
-    "set": "Fusion Strike 124/284",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "124/264",
+    "set": "Fusion Strike 124/264",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh8/124.png"
   },
   {
-    "set": "Black Bolt 44/172",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "044/86",
+    "set": "Black Bolt 044/86",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/zsv10pt5/44.png"
   },
   {
-    "set": "Black Bolt 159/172",
-    "cost": "Not PSA Graded: $1.22",
+    "code": "159/86",
+    "set": "Black Bolt 159/86",
+    "cost": "UnGraded: $1.22",
     "img": "https://images.pokemontcg.io/zsv10pt5/159.png"
   },
   {
-    "set": "Black Bolt 167/172",
-    "cost": "Not PSA Graded: $43.63",
+    "code": "167/86",
+    "set": "Black Bolt 167/86",
+    "cost": "UnGraded: $43.63",
     "img": "https://images.pokemontcg.io/zsv10pt5/167.png"
   },
   {
-    "set": "Phantasmal Flames 40/130",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "040/94",
+    "set": "Phantasmal Flames 040/94",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me2/40.png"
   }
 ]

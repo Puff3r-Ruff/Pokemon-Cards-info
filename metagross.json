@@ -1,162 +1,194 @@
 [
   {
-    "set": "POP Series 1 2/17",
-    "cost": "Not PSA Graded: $3.89",
+    "code": "002/17",
+    "set": "POP Series 1 002/17",
+    "cost": "UnGraded: $3.89",
     "img": "https://images.pokemontcg.io/pop1/2.png"
   },
   {
-    "set": "HS—Unleashed 4/96",
-    "cost": "Not PSA Graded: $5.16",
+    "code": "004/95",
+    "set": "HS—Unleashed 004/95",
+    "cost": "UnGraded: $5.16",
     "img": "https://images.pokemontcg.io/hgss2/4.png"
   },
   {
-    "set": "Supreme Victors 7/153",
-    "cost": "Not PSA Graded: $6.19",
+    "code": "007/147",
+    "set": "Supreme Victors 007/147",
+    "cost": "UnGraded: $6.19",
     "img": "https://images.pokemontcg.io/pl3/7.png"
   },
   {
-    "set": "Delta Species 11/114",
-    "cost": "Not PSA Graded: $43.39",
+    "code": "011/113",
+    "set": "Delta Species 011/113",
+    "cost": "UnGraded: $43.39",
     "img": "https://images.pokemontcg.io/ex11/11.png"
   },
   {
-    "set": "Deoxys 11/108",
-    "cost": "Not PSA Graded: $40.66",
+    "code": "011/107",
+    "set": "Deoxys 011/107",
+    "cost": "UnGraded: $40.66",
     "img": "https://images.pokemontcg.io/ex8/11.png"
   },
   {
-    "set": "Hidden Legends 11/102",
-    "cost": "Not PSA Graded: $40.68",
+    "code": "011/101",
+    "set": "Hidden Legends 011/101",
+    "cost": "UnGraded: $40.68",
     "img": "https://images.pokemontcg.io/ex5/11.png"
   },
   {
-    "set": "Legends Awakened 10/146",
-    "cost": "Not PSA Graded: $14.9",
+    "code": "010/146",
+    "set": "Legends Awakened 010/146",
+    "cost": "UnGraded: $14.9",
     "img": "https://images.pokemontcg.io/dp6/10.png"
   },
   {
-    "set": "HS—Undaunted 18/91",
-    "cost": "Not PSA Graded: $1.48",
+    "code": "018/90",
+    "set": "HS—Undaunted 018/90",
+    "cost": "UnGraded: $1.48",
     "img": "https://images.pokemontcg.io/hgss3/18.png"
   },
   {
-    "set": "XY Black Star Promos XY34/216",
-    "cost": "Not PSA Graded: $25.66",
+    "code": "XY34/211",
+    "set": "XY Black Star Promos XY34/211",
+    "cost": "UnGraded: $25.66",
     "img": "https://images.pokemontcg.io/xyp/XY34.png"
   },
   {
-    "set": "XY Black Star Promos XY35/216",
-    "cost": "Not PSA Graded: $68.35",
+    "code": "XY35/211",
+    "set": "XY Black Star Promos XY35/211",
+    "cost": "UnGraded: $68.35",
     "img": "https://images.pokemontcg.io/xyp/XY35.png"
   },
   {
-    "set": "Ancient Origins 49/100",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "049/98",
+    "set": "Ancient Origins 049/98",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/xy7/49.png"
   },
   {
-    "set": "Ancient Origins 50/100",
-    "cost": "Not PSA Graded: $2.11",
+    "code": "050/98",
+    "set": "Ancient Origins 050/98",
+    "cost": "UnGraded: $2.11",
     "img": "https://images.pokemontcg.io/xy7/50.png"
   },
   {
-    "set": "Plasma Freeze 52/122",
-    "cost": "Not PSA Graded: $5.99",
+    "code": "052/116",
+    "set": "Plasma Freeze 052/116",
+    "cost": "UnGraded: $5.99",
     "img": "https://images.pokemontcg.io/bw9/52.png"
   },
   {
+    "code": "BW75/101",
     "set": "BW Black Star Promos BW75/101",
-    "cost": "Not PSA Graded: $28.15",
+    "cost": "UnGraded: $28.15",
     "img": "https://images.pokemontcg.io/bwp/BW75.png"
   },
   {
-    "set": "Guardians Rising 85/180",
-    "cost": "Not PSA Graded: $2.27",
+    "code": "085/145",
+    "set": "Guardians Rising 085/145",
+    "cost": "UnGraded: $2.27",
     "img": "https://images.pokemontcg.io/sm2/85.png"
   },
   {
-    "set": "Celestial Storm 95/187",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "095/168",
+    "set": "Celestial Storm 095/168",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/sm7/95.png"
   },
   {
-    "set": "Power Keepers 95/108",
-    "cost": "Not PSA Graded: $60.65",
+    "code": "095/108",
+    "set": "Power Keepers 095/108",
+    "cost": "UnGraded: $60.65",
     "img": "https://images.pokemontcg.io/ex16/95.png"
   },
   {
-    "set": "Hidden Legends 95/102",
-    "cost": "Not PSA Graded: $98.42",
+    "code": "095/101",
+    "set": "Hidden Legends 095/101",
+    "cost": "UnGraded: $98.42",
     "img": "https://images.pokemontcg.io/ex5/95.png"
   },
   {
-    "set": "Delta Species 113/114",
-    "cost": "Not PSA Graded: $1381.24",
+    "code": "113/113",
+    "set": "Delta Species 113/113",
+    "cost": "UnGraded: $1381.24",
     "img": "https://images.pokemontcg.io/ex11/113.png"
   },
   {
-    "set": "Vivid Voltage 118/203",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "118/185",
+    "set": "Vivid Voltage 118/185",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh4/118.png"
   },
   {
-    "set": "Guardians Rising 139/180",
-    "cost": "Not PSA Graded: $7.39",
+    "code": "139/145",
+    "set": "Guardians Rising 139/145",
+    "cost": "UnGraded: $7.39",
     "img": "https://images.pokemontcg.io/sm2/139.png"
   },
   {
-    "set": "Guardians Rising 157/180",
-    "cost": "Not PSA Graded: $25.04",
+    "code": "157/145",
+    "set": "Guardians Rising 157/145",
+    "cost": "UnGraded: $25.04",
     "img": "https://images.pokemontcg.io/sm2/157.png"
   },
   {
-    "set": "Guardians Rising 157a/180",
+    "code": "157a/145",
+    "set": "Guardians Rising 157a/145",
     "cost": null,
     "img": "https://images.pokemontcg.io/sm2/157a.png"
   },
   {
-    "set": "Chilling Reign 112/233",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "112/198",
+    "set": "Chilling Reign 112/198",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/swsh6/112.png"
   },
   {
-    "set": "Chilling Reign 113/233",
-    "cost": "Not PSA Graded: $2.26",
+    "code": "113/198",
+    "set": "Chilling Reign 113/198",
+    "cost": "UnGraded: $2.26",
     "img": "https://images.pokemontcg.io/swsh6/113.png"
   },
   {
-    "set": "Chilling Reign 181/233",
-    "cost": "Not PSA Graded: $4.18",
+    "code": "181/198",
+    "set": "Chilling Reign 181/198",
+    "cost": "UnGraded: $4.18",
     "img": "https://images.pokemontcg.io/swsh6/181.png"
   },
   {
-    "set": "Chilling Reign 208/233",
-    "cost": "Not PSA Graded: $10.78",
+    "code": "208/198",
+    "set": "Chilling Reign 208/198",
+    "cost": "UnGraded: $10.78",
     "img": "https://images.pokemontcg.io/swsh6/208.png"
   },
   {
-    "set": "Silver Tempest 119/215",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "119/195",
+    "set": "Silver Tempest 119/195",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/swsh12/119.png"
   },
   {
-    "set": "Temporal Forces 115/218",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "115/162",
+    "set": "Temporal Forces 115/162",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv5/115.png"
   },
   {
-    "set": "Temporal Forces 178/218",
-    "cost": "Not PSA Graded: $21.61",
+    "code": "178/162",
+    "set": "Temporal Forces 178/162",
+    "cost": "UnGraded: $21.61",
     "img": "https://images.pokemontcg.io/sv5/178.png"
   },
   {
-    "set": "Journey Together 63/190",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "063/159",
+    "set": "Journey Together 063/159",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv9/63.png"
   },
   {
-    "set": "Destined Rivals 145/244",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "145/182",
+    "set": "Destined Rivals 145/182",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/sv10/145.png"
   }
 ]

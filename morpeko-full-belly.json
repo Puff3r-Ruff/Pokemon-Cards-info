@@ -1,167 +1,200 @@
 [
   {
-    "set": "SWSH Black Star Promos SWSH012/304",
-    "cost": "Not PSA Graded: $1.02",
+    "code": "SWSH012/307",
+    "set": "SWSH Black Star Promos SWSH012/307",
+    "cost": "UnGraded: $1.02",
     "img": "https://images.pokemontcg.io/swshp/SWSH012.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH031/304",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "SWSH031/307",
+    "set": "SWSH Black Star Promos SWSH031/307",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/swshp/SWSH031.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH056/304",
-    "cost": "Not PSA Graded: $1.21",
+    "code": "SWSH056/307",
+    "set": "SWSH Black Star Promos SWSH056/307",
+    "cost": "UnGraded: $1.21",
     "img": "https://images.pokemontcg.io/swshp/SWSH056.png"
   },
   {
-    "set": "Sword & Shield 78/216",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "078/202",
+    "set": "Sword & Shield 078/202",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/swsh1/78.png"
   },
   {
-    "set": "Rebel Clash 73/209",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "073/192",
+    "set": "Rebel Clash 073/192",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh2/73.png"
   },
   {
-    "set": "Sword & Shield 79/216",
-    "cost": "Not PSA Graded: $0.9",
+    "code": "079/202",
+    "set": "Sword & Shield 079/202",
+    "cost": "UnGraded: $0.9",
     "img": "https://images.pokemontcg.io/swsh1/79.png"
   },
   {
-    "set": "Sword & Shield 80/216",
-    "cost": "Not PSA Graded: $2.71",
+    "code": "080/202",
+    "set": "Sword & Shield 080/202",
+    "cost": "UnGraded: $2.71",
     "img": "https://images.pokemontcg.io/swsh1/80.png"
   },
   {
-    "set": "Sword & Shield 190/216",
-    "cost": "Not PSA Graded: $6",
+    "code": "190/202",
+    "set": "Sword & Shield 190/202",
+    "cost": "UnGraded: $6",
     "img": "https://images.pokemontcg.io/swsh1/190.png"
   },
   {
-    "set": "Sword & Shield 204/216",
-    "cost": "Not PSA Graded: $10.43",
+    "code": "204/202",
+    "set": "Sword & Shield 204/202",
+    "cost": "UnGraded: $10.43",
     "img": "https://images.pokemontcg.io/swsh1/204.png"
   },
   {
-    "set": "Shining Fates 35/73",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "035/72",
+    "set": "Shining Fates 035/72",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh45/35.png"
   },
   {
-    "set": "Shining Fates 36/73",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "036/72",
+    "set": "Shining Fates 036/72",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh45/36.png"
   },
   {
-    "set": "Shining Fates 37/73",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "037/72",
+    "set": "Shining Fates 037/72",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/swsh45/37.png"
   },
   {
-    "set": "Shining Fates 38/73",
-    "cost": "Not PSA Graded: $1.87",
+    "code": "038/72",
+    "set": "Shining Fates 038/72",
+    "cost": "UnGraded: $1.87",
     "img": "https://images.pokemontcg.io/swsh45/38.png"
   },
   {
+    "code": "SV044/122",
     "set": "Shining Fates Shiny Vault SV044/122",
-    "cost": "Not PSA Graded: $5.9",
+    "cost": "UnGraded: $5.9",
     "img": "https://images.pokemontcg.io/swsh45sv/SV044.png"
   },
   {
-    "set": "Battle Styles 98/183",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "098/163",
+    "set": "Battle Styles 098/163",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh5/98.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH116/304",
-    "cost": "Not PSA Graded: $1.41",
+    "code": "SWSH116/307",
+    "set": "SWSH Black Star Promos SWSH116/307",
+    "cost": "UnGraded: $1.41",
     "img": "https://images.pokemontcg.io/swshp/SWSH116.png"
   },
   {
-    "set": "Fusion Strike 109/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "109/264",
+    "set": "Fusion Strike 109/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/109.png"
   },
   {
-    "set": "Fusion Strike 179/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "179/264",
+    "set": "Fusion Strike 179/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/179.png"
   },
   {
-    "set": "Brilliant Stars 95/186",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "095/172",
+    "set": "Brilliant Stars 095/172",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/swsh9/95.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH215/304",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "SWSH215/307",
+    "set": "SWSH Black Star Promos SWSH215/307",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/swshp/SWSH215.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH216/304",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "SWSH216/307",
+    "set": "SWSH Black Star Promos SWSH216/307",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/swshp/SWSH216.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH217/304",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "SWSH217/307",
+    "set": "SWSH Black Star Promos SWSH217/307",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/swshp/SWSH217.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH218/304",
-    "cost": "Not PSA Graded: $0.77",
+    "code": "SWSH218/307",
+    "set": "SWSH Black Star Promos SWSH218/307",
+    "cost": "UnGraded: $0.77",
     "img": "https://images.pokemontcg.io/swshp/SWSH218.png"
   },
   {
-    "set": "Silver Tempest 116/215",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "116/195",
+    "set": "Silver Tempest 116/195",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh12/116.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH288/304",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "SWSH288/307",
+    "set": "SWSH Black Star Promos SWSH288/307",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/swshp/SWSH288.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH287/304",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "SWSH287/307",
+    "set": "SWSH Black Star Promos SWSH287/307",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/swshp/SWSH287.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH289/304",
-    "cost": "Not PSA Graded: $1.09",
+    "code": "SWSH289/307",
+    "set": "SWSH Black Star Promos SWSH289/307",
+    "cost": "UnGraded: $1.09",
     "img": "https://images.pokemontcg.io/swshp/SWSH289.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH290/304",
-    "cost": "Not PSA Graded: $1.97",
+    "code": "SWSH290/307",
+    "set": "SWSH Black Star Promos SWSH290/307",
+    "cost": "UnGraded: $1.97",
     "img": "https://images.pokemontcg.io/swshp/SWSH290.png"
   },
   {
-    "set": "Paradox Rift 121/266",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "121/182",
+    "set": "Paradox Rift 121/182",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sv4/121.png"
   },
   {
-    "set": "Paradox Rift 206/266",
-    "cost": "Not PSA Graded: $27.1",
+    "code": "206/182",
+    "set": "Paradox Rift 206/182",
+    "cost": "UnGraded: $27.1",
     "img": "https://images.pokemontcg.io/sv4/206.png"
   },
   {
-    "set": "Twilight Masquerade 72/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "072/167",
+    "set": "Twilight Masquerade 072/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/72.png"
   },
   {
-    "set": "Destined Rivals 137/244",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "137/182",
+    "set": "Destined Rivals 137/182",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv10/137.png"
   },
   {
-    "set": "Scarlet & Violet Promos 206/148",
-    "cost": "Not PSA Graded: $30.31",
+    "code": "206/150",
+    "set": "Scarlet & Violet Promos 206/150",
+    "cost": "UnGraded: $30.31",
     "img": "https://images.pokemontcg.io/svp/206.png"
   }
 ]

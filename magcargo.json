@@ -1,142 +1,170 @@
 [
   {
-    "set": "HS—Undaunted 6/91",
-    "cost": "Not PSA Graded: $10.96",
+    "code": "006/90",
+    "set": "HS—Undaunted 006/90",
+    "cost": "UnGraded: $10.96",
     "img": "https://images.pokemontcg.io/hgss3/6.png"
   },
   {
-    "set": "Neo Destiny 18/113",
+    "code": "018/105",
+    "set": "Neo Destiny 018/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/18.png"
   },
   {
-    "set": "Skyridge H16/182",
-    "cost": "Not PSA Graded: $219",
+    "code": "H16/144",
+    "set": "Skyridge H16/144",
+    "cost": "UnGraded: $219",
     "img": "https://images.pokemontcg.io/ecard3/H16.png"
   },
   {
-    "set": "Skyridge H17/182",
-    "cost": "Not PSA Graded: $130",
+    "code": "H17/144",
+    "set": "Skyridge H17/144",
+    "cost": "UnGraded: $130",
     "img": "https://images.pokemontcg.io/ecard3/H17.png"
   },
   {
-    "set": "Deoxys 20/108",
-    "cost": "Not PSA Graded: $2.08",
+    "code": "020/107",
+    "set": "Deoxys 020/107",
+    "cost": "UnGraded: $2.08",
     "img": "https://images.pokemontcg.io/ex8/20.png"
   },
   {
-    "set": "XY 21/146",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "021/146",
+    "set": "XY 021/146",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/xy1/21.png"
   },
   {
-    "set": "Primal Clash 23/164",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "023/160",
+    "set": "Primal Clash 023/160",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy5/23.png"
   },
   {
-    "set": "Primal Clash 24/164",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "024/160",
+    "set": "Primal Clash 024/160",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/xy5/24.png"
   },
   {
-    "set": "Cosmic Eclipse 27/272",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "027/236",
+    "set": "Cosmic Eclipse 027/236",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm12/27.png"
   },
   {
-    "set": "Celestial Storm 24/187",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "024/168",
+    "set": "Celestial Storm 024/168",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/sm7/24.png"
   },
   {
-    "set": "Vivid Voltage 28/203",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "028/185",
+    "set": "Vivid Voltage 028/185",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh4/28.png"
   },
   {
-    "set": "Deoxys 37/108",
-    "cost": "Not PSA Graded: $1.01",
+    "code": "037/107",
+    "set": "Deoxys 037/107",
+    "cost": "UnGraded: $1.01",
     "img": "https://images.pokemontcg.io/ex8/37.png"
   },
   {
-    "set": "Neo Revelation 33/66",
+    "code": "033/64",
+    "set": "Neo Revelation 033/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/33.png"
   },
   {
-    "set": "Team Rocket Returns 38/111",
-    "cost": "Not PSA Graded: $2.56",
+    "code": "038/109",
+    "set": "Team Rocket Returns 038/109",
+    "cost": "UnGraded: $2.56",
     "img": "https://images.pokemontcg.io/ex7/38.png"
   },
   {
-    "set": "Unseen Forces 41/145",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "041/115",
+    "set": "Unseen Forces 041/115",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/ex10/41.png"
   },
   {
-    "set": "Lost Thunder 44/240",
-    "cost": "Not PSA Graded: $1.67",
+    "code": "044/214",
+    "set": "Lost Thunder 044/214",
+    "cost": "UnGraded: $1.67",
     "img": "https://images.pokemontcg.io/sm8/44.png"
   },
   {
-    "set": "Skyridge 17/182",
-    "cost": "Not PSA Graded: $17.58",
+    "code": "017/144",
+    "set": "Skyridge 017/144",
+    "cost": "UnGraded: $17.58",
     "img": "https://images.pokemontcg.io/ecard3/17.png"
   },
   {
-    "set": "Great Encounters 45/106",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "045/106",
+    "set": "Great Encounters 045/106",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/dp4/45.png"
   },
   {
-    "set": "Skyridge 18/182",
-    "cost": "Not PSA Graded: $14.64",
+    "code": "018/144",
+    "set": "Skyridge 018/144",
+    "cost": "UnGraded: $14.64",
     "img": "https://images.pokemontcg.io/ecard3/18.png"
   },
   {
-    "set": "Dragon 95/100",
-    "cost": "Not PSA Graded: $83.73",
+    "code": "095/97",
+    "set": "Dragon 095/97",
+    "cost": "UnGraded: $83.73",
     "img": "https://images.pokemontcg.io/ex3/95.png"
   },
   {
-    "set": "Lost Thunder 198/240",
-    "cost": "Not PSA Graded: $5.57",
+    "code": "198/214",
+    "set": "Lost Thunder 198/214",
+    "cost": "UnGraded: $5.57",
     "img": "https://images.pokemontcg.io/sm8/198.png"
   },
   {
-    "set": "Lost Thunder 218/240",
-    "cost": "Not PSA Graded: $10.42",
+    "code": "218/214",
+    "set": "Lost Thunder 218/214",
+    "cost": "UnGraded: $10.42",
     "img": "https://images.pokemontcg.io/sm8/218.png"
   },
   {
-    "set": "Fusion Strike 35/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "035/264",
+    "set": "Fusion Strike 035/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/35.png"
   },
   {
-    "set": "Lost Origin 22/217",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "022/196",
+    "set": "Lost Origin 022/196",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh11/22.png"
   },
   {
-    "set": "Temporal Forces 29/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "029/162",
+    "set": "Temporal Forces 029/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/29.png"
   },
   {
-    "set": "Twilight Masquerade 29/226",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "029/167",
+    "set": "Twilight Masquerade 029/167",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/sv6/29.png"
   },
   {
-    "set": "Twilight Masquerade 191/226",
-    "cost": "Not PSA Graded: $1.41",
+    "code": "191/167",
+    "set": "Twilight Masquerade 191/167",
+    "cost": "UnGraded: $1.41",
     "img": "https://images.pokemontcg.io/sv6/191.png"
   },
   {
-    "set": "Destined Rivals 36/244",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "036/182",
+    "set": "Destined Rivals 036/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv10/36.png"
   }
 ]

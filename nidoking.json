@@ -1,112 +1,134 @@
 [
   {
-    "set": "HS—Triumphant 6/103",
-    "cost": "Not PSA Graded: $5.63",
+    "code": "006/102",
+    "set": "HS—Triumphant 006/102",
+    "cost": "UnGraded: $5.63",
     "img": "https://images.pokemontcg.io/hgss4/6.png"
   },
   {
-    "set": "Gym Challenge 7/132",
+    "code": "007/132",
+    "set": "Gym Challenge 007/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/7.png"
   },
   {
-    "set": "Base Set 2 11/130",
-    "cost": "Not PSA Graded: $25.17",
+    "code": "011/130",
+    "set": "Base Set 2 011/130",
+    "cost": "UnGraded: $24.18",
     "img": "https://images.pokemontcg.io/base4/11.png"
   },
   {
-    "set": "Base 11/102",
-    "cost": "Not PSA Graded: $28.62",
+    "code": "011/102",
+    "set": "Base 011/102",
+    "cost": "UnGraded: $28.62",
     "img": "https://images.pokemontcg.io/base1/11.png"
   },
   {
-    "set": "FireRed & LeafGreen 8/116",
-    "cost": "Not PSA Graded: $47.74",
+    "code": "008/112",
+    "set": "FireRed & LeafGreen 008/112",
+    "cost": "UnGraded: $47.74",
     "img": "https://images.pokemontcg.io/ex6/8.png"
   },
   {
-    "set": "Aquapolis H18/182",
-    "cost": "Not PSA Graded: $75.45",
+    "code": "H18/147",
+    "set": "Aquapolis H18/147",
+    "cost": "UnGraded: $75.45",
     "img": "https://images.pokemontcg.io/ecard2/H18.png"
   },
   {
-    "set": "Dragon Frontiers 6/101",
-    "cost": "Not PSA Graded: $22.39",
+    "code": "006/101",
+    "set": "Dragon Frontiers 006/101",
+    "cost": "UnGraded: $22.39",
     "img": "https://images.pokemontcg.io/ex15/6.png"
   },
   {
-    "set": "Secret Wonders 34/132",
-    "cost": "Not PSA Graded: $2.9",
+    "code": "034/132",
+    "set": "Secret Wonders 034/132",
+    "cost": "UnGraded: $2.9",
     "img": "https://images.pokemontcg.io/dp3/34.png"
   },
   {
-    "set": "Rising Rivals 29/120",
-    "cost": "Not PSA Graded: $5.41",
+    "code": "029/111",
+    "set": "Rising Rivals 029/111",
+    "cost": "UnGraded: $5.41",
     "img": "https://images.pokemontcg.io/pl2/29.png"
   },
   {
-    "set": "Legendary Collection 31/110",
-    "cost": "Not PSA Graded: $11.11",
+    "code": "031/110",
+    "set": "Legendary Collection 031/110",
+    "cost": "UnGraded: $11.11",
     "img": "https://images.pokemontcg.io/base6/31.png"
   },
   {
-    "set": "Steam Siege 45/116",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "045/114",
+    "set": "Steam Siege 045/114",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/xy11/45.png"
   },
   {
-    "set": "Aquapolis 24/182",
-    "cost": "Not PSA Graded: $8.74",
+    "code": "024/147",
+    "set": "Aquapolis 024/147",
+    "cost": "UnGraded: $8.75",
     "img": "https://images.pokemontcg.io/ecard2/24.png"
   },
   {
-    "set": "Evolutions 45/113",
-    "cost": "Not PSA Graded: $3.99",
+    "code": "045/108",
+    "set": "Evolutions 045/108",
+    "cost": "UnGraded: $3.99",
     "img": "https://images.pokemontcg.io/xy12/45.png"
   },
   {
-    "set": "Evolutions 46/113",
-    "cost": "Not PSA Graded: $2.37",
+    "code": "046/108",
+    "set": "Evolutions 046/108",
+    "cost": "UnGraded: $2.25",
     "img": "https://images.pokemontcg.io/xy12/46.png"
   },
   {
-    "set": "Team Up 59/198",
-    "cost": "Not PSA Graded: $1",
+    "code": "059/181",
+    "set": "Team Up 059/181",
+    "cost": "UnGraded: $1",
     "img": "https://images.pokemontcg.io/sm9/59.png"
   },
   {
-    "set": "Plasma Freeze 58/122",
-    "cost": "Not PSA Graded: $1.4",
+    "code": "058/116",
+    "set": "Plasma Freeze 058/116",
+    "cost": "UnGraded: $1.4",
     "img": "https://images.pokemontcg.io/bw9/58.png"
   },
   {
-    "set": "Aquapolis 150/182",
-    "cost": "Not PSA Graded: $500",
+    "code": "150/147",
+    "set": "Aquapolis 150/147",
+    "cost": "UnGraded: $500",
     "img": "https://images.pokemontcg.io/ecard2/150.png"
   },
   {
-    "set": "151 34/207",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "034/165",
+    "set": "151 034/165",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sv3pt5/34.png"
   },
   {
-    "set": "151 174/207",
-    "cost": "Not PSA Graded: $10.88",
+    "code": "174/165",
+    "set": "151 174/165",
+    "cost": "UnGraded: $10.79",
     "img": "https://images.pokemontcg.io/sv3pt5/174.png"
   },
   {
-    "set": "Destined Rivals 119/244",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "119/182",
+    "set": "Destined Rivals 119/182",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/sv10/119.png"
   },
   {
-    "set": "Destined Rivals 216/244",
-    "cost": "Not PSA Graded: $3.6",
+    "code": "216/182",
+    "set": "Destined Rivals 216/182",
+    "cost": "UnGraded: $3.33",
     "img": "https://images.pokemontcg.io/sv10/216.png"
   },
   {
-    "set": "Destined Rivals 233/244",
-    "cost": "Not PSA Graded: $103.16",
+    "code": "233/182",
+    "set": "Destined Rivals 233/182",
+    "cost": "UnGraded: $101.04",
     "img": "https://images.pokemontcg.io/sv10/233.png"
   }
 ]

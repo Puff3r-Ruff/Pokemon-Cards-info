@@ -1,47 +1,56 @@
 [
   {
-    "set": "Scarlet & Violet 137/258",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "137/198",
+    "set": "Scarlet & Violet 137/198",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv1/137.png"
   },
   {
-    "set": "Scarlet & Violet 218/258",
-    "cost": "Not PSA Graded: $4.87",
+    "code": "218/198",
+    "set": "Scarlet & Violet 218/198",
+    "cost": "UnGraded: $4.87",
     "img": "https://images.pokemontcg.io/sv1/218.png"
   },
   {
-    "set": "Paldea Evolved 143/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "143/193",
+    "set": "Paldea Evolved 143/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/143.png"
   },
   {
-    "set": "Paldean Fates 63/245",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "063/91",
+    "set": "Paldean Fates 063/91",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv4pt5/63.png"
   },
   {
-    "set": "Paldean Fates 188/245",
-    "cost": "Not PSA Graded: $1.65",
+    "code": "188/91",
+    "set": "Paldean Fates 188/91",
+    "cost": "UnGraded: $1.65",
     "img": "https://images.pokemontcg.io/sv4pt5/188.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 86/196",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "086/215",
+    "set": "Scarlet & Violet Black Star Promos 086/215",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/svp/86.png"
   },
   {
-    "set": "Destined Rivals 139/244",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "139/182",
+    "set": "Destined Rivals 139/182",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/sv10/139.png"
   },
   {
-    "set": "Destined Rivals 218/244",
-    "cost": "Not PSA Graded: $1.21",
+    "code": "218/182",
+    "set": "Destined Rivals 218/182",
+    "cost": "UnGraded: $1.21",
     "img": "https://images.pokemontcg.io/sv10/218.png"
   },
   {
-    "set": "Destined Rivals 235/244",
-    "cost": "Not PSA Graded: $28.38",
+    "code": "235/182",
+    "set": "Destined Rivals 235/182",
+    "cost": "UnGraded: $28.38",
     "img": "https://images.pokemontcg.io/sv10/235.png"
   }
 ]

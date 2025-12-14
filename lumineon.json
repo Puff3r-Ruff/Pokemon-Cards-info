@@ -1,57 +1,68 @@
 [
   {
-    "set": "Stormfront 4/106",
-    "cost": "Not PSA Graded: $3.3",
+    "code": "004/100",
+    "set": "Stormfront 004/100",
+    "cost": "UnGraded: $3.3",
     "img": "https://images.pokemontcg.io/dp7/4.png"
   },
   {
-    "set": "Mysterious Treasures 11/124",
-    "cost": "Not PSA Graded: $5.1",
+    "code": "011/123",
+    "set": "Mysterious Treasures 011/123",
+    "cost": "UnGraded: $5.1",
     "img": "https://images.pokemontcg.io/dp2/11.png"
   },
   {
-    "set": "Phantom Forces 19/124",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "019/119",
+    "set": "Phantom Forces 019/119",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/xy4/19.png"
   },
   {
-    "set": "Unified Minds 40/260",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "040/236",
+    "set": "Unified Minds 040/236",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm11/40.png"
   },
   {
-    "set": "Brilliant Stars 40/186",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "040/172",
+    "set": "Brilliant Stars 040/172",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/swsh9/40.png"
   },
   {
-    "set": "Brilliant Stars 155/186",
-    "cost": "Not PSA Graded: $2.12",
+    "code": "155/172",
+    "set": "Brilliant Stars 155/172",
+    "cost": "UnGraded: $2.12",
     "img": "https://images.pokemontcg.io/swsh9/155.png"
   },
   {
-    "set": "Brilliant Stars 156/186",
-    "cost": "Not PSA Graded: $11.73",
+    "code": "156/172",
+    "set": "Brilliant Stars 156/172",
+    "cost": "UnGraded: $11.73",
     "img": "https://images.pokemontcg.io/swsh9/156.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH250/304",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "SWSH250/307",
+    "set": "SWSH Black Star Promos SWSH250/307",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/swshp/SWSH250.png"
   },
   {
-    "set": "Lost Origin 41/217",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "041/196",
+    "set": "Lost Origin 041/196",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh11/41.png"
   },
   {
+    "code": "GG39/70",
     "set": "Crown Zenith Galarian Gallery GG39/70",
-    "cost": "Not PSA Graded: $14.27",
+    "cost": "UnGraded: $14.27",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG39.png"
   },
   {
-    "set": "Stellar Crown 36/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "036/142",
+    "set": "Stellar Crown 036/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/36.png"
   }
 ]

@@ -1,102 +1,122 @@
 [
   {
-    "set": "HS—Unleashed 5/96",
-    "cost": "Not PSA Graded: $4.46",
+    "code": "005/95",
+    "set": "HS—Unleashed 005/95",
+    "cost": "UnGraded: $4.46",
     "img": "https://images.pokemontcg.io/hgss2/5.png"
   },
   {
-    "set": "Diamond & Pearl 10/130",
-    "cost": "Not PSA Graded: $12.88",
+    "code": "010/130",
+    "set": "Diamond & Pearl 010/130",
+    "cost": "UnGraded: $12.88",
     "img": "https://images.pokemontcg.io/dp1/10.png"
   },
   {
-    "set": "Rising Rivals 10/120",
-    "cost": "Not PSA Graded: $8.41",
+    "code": "010/111",
+    "set": "Rising Rivals 010/111",
+    "cost": "UnGraded: $8.41",
     "img": "https://images.pokemontcg.io/pl2/10.png"
   },
   {
-    "set": "Stormfront 7/106",
-    "cost": "Not PSA Graded: $4.79",
+    "code": "007/100",
+    "set": "Stormfront 007/100",
+    "cost": "UnGraded: $4.79",
     "img": "https://images.pokemontcg.io/dp7/7.png"
   },
   {
-    "set": "HS—Undaunted 19/91",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "019/90",
+    "set": "HS—Undaunted 019/90",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/hgss3/19.png"
   },
   {
-    "set": "Call of Legends 28/106",
-    "cost": "Not PSA Graded: $0.77",
+    "code": "028/95",
+    "set": "Call of Legends 028/95",
+    "cost": "UnGraded: $0.77",
     "img": "https://images.pokemontcg.io/col1/28.png"
   },
   {
-    "set": "Crimson Invasion 40/126",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "040/111",
+    "set": "Crimson Invasion 040/111",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/sm4/40.png"
   },
   {
-    "set": "Platinum 55/133",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "055/127",
+    "set": "Platinum 055/127",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/pl1/55.png"
   },
   {
-    "set": "Legendary Treasures 58/140",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "058/113",
+    "set": "Legendary Treasures 058/113",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/bw11/58.png"
   },
   {
-    "set": "BREAKthrough 66/165",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "066/162",
+    "set": "BREAKthrough 066/162",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/xy8/66.png"
   },
   {
-    "set": "Unbroken Bonds 78/234",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "078/214",
+    "set": "Unbroken Bonds 078/214",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/sm10/78.png"
   },
   {
-    "set": "Rising Rivals 110/120",
-    "cost": "Not PSA Graded: $47.31",
+    "code": "110/111",
+    "set": "Rising Rivals 110/111",
+    "cost": "UnGraded: $47.31",
     "img": "https://images.pokemontcg.io/pl2/110.png"
   },
   {
-    "set": "SM Black Star Promos SM222/250",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "SM222/248",
+    "set": "SM Black Star Promos SM222/248",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/smp/SM222.png"
   },
   {
-    "set": "SM Black Star Promos SM245/250",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "SM245/248",
+    "set": "SM Black Star Promos SM245/248",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/smp/SM245.png"
   },
   {
-    "set": "Astral Radiance 59/216",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "059/189",
+    "set": "Astral Radiance 059/189",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh10/59.png"
   },
   {
-    "set": "Silver Tempest 64/215",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "064/195",
+    "set": "Silver Tempest 064/195",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh12/64.png"
   },
   {
-    "set": "Paldea Evolved 88/279",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "088/193",
+    "set": "Paldea Evolved 088/193",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv2/88.png"
   },
   {
-    "set": "Paldea Evolved 212/279",
-    "cost": "Not PSA Graded: $21.01",
+    "code": "212/193",
+    "set": "Paldea Evolved 212/193",
+    "cost": "UnGraded: $21.01",
     "img": "https://images.pokemontcg.io/sv2/212.png"
   },
   {
-    "set": "Phantasmal Flames 36/130",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "036/94",
+    "set": "Phantasmal Flames 036/94",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/me2/36.png"
   },
   {
-    "set": "Phantasmal Flames 112/130",
-    "cost": "Not PSA Graded: $2.12",
+    "code": "112/94",
+    "set": "Phantasmal Flames 112/94",
+    "cost": "UnGraded: $2.12",
     "img": "https://images.pokemontcg.io/me2/112.png"
   }
 ]

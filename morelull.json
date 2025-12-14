@@ -1,37 +1,44 @@
 [
   {
-    "set": "Detective Pikachu 3/18",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "003/18",
+    "set": "Detective Pikachu 003/18",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/det1/3.png"
   },
   {
-    "set": "Sun & Moon 16/173",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "016/149",
+    "set": "Sun & Moon 016/149",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm1/16.png"
   },
   {
-    "set": "Darkness Ablaze 79/201",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "079/189",
+    "set": "Darkness Ablaze 079/189",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh3/79.png"
   },
   {
-    "set": "Ultra Prism 92/178",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "092/156",
+    "set": "Ultra Prism 092/156",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm5/92.png"
   },
   {
-    "set": "Burning Shadows 97/177",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "097/147",
+    "set": "Burning Shadows 097/147",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm3/97.png"
   },
   {
-    "set": "Lost Thunder 147/240",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "147/214",
+    "set": "Lost Thunder 147/214",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm8/147.png"
   },
   {
-    "set": "Surging Sparks 8/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "008/191",
+    "set": "Surging Sparks 008/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/8.png"
   }
 ]

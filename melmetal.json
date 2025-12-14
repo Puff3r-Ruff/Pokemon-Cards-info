@@ -1,102 +1,122 @@
 [
   {
-    "set": "Unbroken Bonds 120/234",
-    "cost": "Not PSA Graded: $29.4",
+    "code": "120/214",
+    "set": "Unbroken Bonds 120/214",
+    "cost": "UnGraded: $29.4",
     "img": "https://images.pokemontcg.io/sm10/120.png"
   },
   {
-    "set": "Unbroken Bonds 129/234",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "129/214",
+    "set": "Unbroken Bonds 129/214",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/sm10/129.png"
   },
   {
-    "set": "Darkness Ablaze 130/201",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "130/189",
+    "set": "Darkness Ablaze 130/189",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/swsh3/130.png"
   },
   {
-    "set": "SM Black Star Promos SM178/250",
-    "cost": "Not PSA Graded: $2.83",
+    "code": "SM178/248",
+    "set": "SM Black Star Promos SM178/248",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/smp/SM178.png"
   },
   {
-    "set": "SM Black Star Promos SM181/250",
-    "cost": "Not PSA Graded: $2.53",
+    "code": "SM181/248",
+    "set": "SM Black Star Promos SM181/248",
+    "cost": "UnGraded: $2.53",
     "img": "https://images.pokemontcg.io/smp/SM181.png"
   },
   {
-    "set": "SM Black Star Promos SM192/250",
-    "cost": "Not PSA Graded: $60.65",
+    "code": "SM192/248",
+    "set": "SM Black Star Promos SM192/248",
+    "cost": "UnGraded: $60.65",
     "img": "https://images.pokemontcg.io/smp/SM192.png"
   },
   {
-    "set": "Unbroken Bonds 203/234",
-    "cost": "Not PSA Graded: $44.35",
+    "code": "203/214",
+    "set": "Unbroken Bonds 203/214",
+    "cost": "UnGraded: $44.35",
     "img": "https://images.pokemontcg.io/sm10/203.png"
   },
   {
-    "set": "Unbroken Bonds 224/234",
-    "cost": "Not PSA Graded: $56.08",
+    "code": "224/214",
+    "set": "Unbroken Bonds 224/214",
+    "cost": "UnGraded: $56.08",
     "img": "https://images.pokemontcg.io/sm10/224.png"
   },
   {
-    "set": "Fusion Strike 189/284",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "189/264",
+    "set": "Fusion Strike 189/264",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh8/189.png"
   },
   {
-    "set": "Pokémon GO 46/88",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "046/78",
+    "set": "Pokémon GO 046/78",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/pgo/46.png"
   },
   {
-    "set": "Pokémon GO 47/88",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "047/78",
+    "set": "Pokémon GO 047/78",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/pgo/47.png"
   },
   {
-    "set": "Pokémon GO 48/88",
-    "cost": "Not PSA Graded: $1.76",
+    "code": "048/78",
+    "set": "Pokémon GO 048/78",
+    "cost": "UnGraded: $1.76",
     "img": "https://images.pokemontcg.io/pgo/48.png"
   },
   {
-    "set": "Pokémon GO 75/88",
-    "cost": "Not PSA Graded: $1.47",
+    "code": "075/78",
+    "set": "Pokémon GO 075/78",
+    "cost": "UnGraded: $1.47",
     "img": "https://images.pokemontcg.io/pgo/75.png"
   },
   {
-    "set": "Pokémon GO 80/88",
-    "cost": "Not PSA Graded: $8.74",
+    "code": "080/78",
+    "set": "Pokémon GO 080/78",
+    "cost": "UnGraded: $8.74",
     "img": "https://images.pokemontcg.io/pgo/80.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH224/304",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "SWSH224/307",
+    "set": "SWSH Black Star Promos SWSH224/307",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/swshp/SWSH224.png"
   },
   {
-    "set": "Obsidian Flames 153/230",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "153/197",
+    "set": "Obsidian Flames 153/197",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/sv3/153.png"
   },
   {
-    "set": "Temporal Forces 117/218",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "117/162",
+    "set": "Temporal Forces 117/162",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv5/117.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 104/196",
-    "cost": "Not PSA Graded: $2.29",
+    "code": "104/215",
+    "set": "Scarlet & Violet Black Star Promos 104/215",
+    "cost": "UnGraded: $2.29",
     "img": "https://images.pokemontcg.io/svp/104.png"
   },
   {
-    "set": "Stellar Crown 104/175",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "104/142",
+    "set": "Stellar Crown 104/142",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv7/104.png"
   },
   {
-    "set": "Stellar Crown 105/175",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "105/142",
+    "set": "Stellar Crown 105/142",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/sv7/105.png"
   }
 ]

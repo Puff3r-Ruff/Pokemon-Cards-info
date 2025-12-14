@@ -1,22 +1,26 @@
 [
   {
-    "set": "Paldea Evolved 122/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "122/193",
+    "set": "Paldea Evolved 122/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/122.png"
   },
   {
-    "set": "Paradox Rift 103/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "103/182",
+    "set": "Paradox Rift 103/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/103.png"
   },
   {
-    "set": "Paldean Fates 177/245",
-    "cost": "Not PSA Graded: $2.09",
+    "code": "177/91",
+    "set": "Paldean Fates 177/91",
+    "cost": "UnGraded: $2.09",
     "img": "https://images.pokemontcg.io/sv4pt5/177.png"
   },
   {
-    "set": "Mega Evolution 83/188",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "083/132",
+    "set": "Mega Evolution 083/132",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me1/83.png"
   }
 ]

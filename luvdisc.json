@@ -1,67 +1,80 @@
 [
   {
-    "set": "Crystal Guardians 7/100",
-    "cost": "Not PSA Graded: $7.93",
+    "code": "007/100",
+    "set": "Crystal Guardians 007/100",
+    "cost": "UnGraded: $7.93",
     "img": "https://images.pokemontcg.io/ex14/7.png"
   },
   {
-    "set": "POP Series 2 14/17",
-    "cost": "Not PSA Graded: $0.99",
+    "code": "014/17",
+    "set": "POP Series 2 014/17",
+    "cost": "UnGraded: $0.99",
     "img": "https://images.pokemontcg.io/pop2/14.png"
   },
   {
-    "set": "Flashfire 27/110",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "027/106",
+    "set": "Flashfire 027/106",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/xy2/27.png"
   },
   {
-    "set": "Platinum 35/133",
-    "cost": "Not PSA Graded: $1.12",
+    "code": "035/127",
+    "set": "Platinum 035/127",
+    "cost": "UnGraded: $1.12",
     "img": "https://images.pokemontcg.io/pl1/35.png"
   },
   {
-    "set": "HS—Triumphant 39/103",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "039/102",
+    "set": "HS—Triumphant 039/102",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/hgss4/39.png"
   },
   {
-    "set": "Celestial Storm 44/187",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "044/168",
+    "set": "Celestial Storm 044/168",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/sm7/44.png"
   },
   {
-    "set": "Hidden Legends 40/102",
-    "cost": "Not PSA Graded: $2.17",
+    "code": "040/101",
+    "set": "Hidden Legends 040/101",
+    "cost": "UnGraded: $2.17",
     "img": "https://images.pokemontcg.io/ex5/40.png"
   },
   {
-    "set": "Emerald 53/107",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "053/106",
+    "set": "Emerald 053/106",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/ex9/53.png"
   },
   {
-    "set": "Great Encounters 77/106",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "077/106",
+    "set": "Great Encounters 077/106",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/dp4/77.png"
   },
   {
-    "set": "Evolving Skies 39/237",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "039/203",
+    "set": "Evolving Skies 039/203",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh7/39.png"
   },
   {
-    "set": "Lost Origin 38/217",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "038/196",
+    "set": "Lost Origin 038/196",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh11/38.png"
   },
   {
-    "set": "Crown Zenith 35/160",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "035/159",
+    "set": "Crown Zenith 035/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12pt5/35.png"
   },
   {
-    "set": "Paldea Evolved 47/279",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "047/193",
+    "set": "Paldea Evolved 047/193",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv2/47.png"
   }
 ]

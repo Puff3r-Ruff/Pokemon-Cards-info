@@ -1,97 +1,116 @@
 [
   {
+    "code": "BW13/101",
     "set": "BW Black Star Promos BW13/101",
-    "cost": "Not PSA Graded: $11.51",
+    "cost": "UnGraded: $11.51",
     "img": "https://images.pokemontcg.io/bwp/BW13.png"
   },
   {
-    "set": "Next Destinies 84/103",
-    "cost": "Not PSA Graded: $0.77",
+    "code": "084/99",
+    "set": "Next Destinies 084/99",
+    "cost": "UnGraded: $0.77",
     "img": "https://images.pokemontcg.io/bw4/84.png"
   },
   {
-    "set": "Black & White 88/115",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "088/114",
+    "set": "Black & White 088/114",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw1/88.png"
   },
   {
-    "set": "Fates Collide 86/129",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "086/124",
+    "set": "Fates Collide 086/124",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy10/86.png"
   },
   {
-    "set": "Fates Collide 87/129",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "087/124",
+    "set": "Fates Collide 087/124",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy10/87.png"
   },
   {
-    "set": "Emerging Powers 84/98",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "084/98",
+    "set": "Emerging Powers 084/98",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/bw2/84.png"
   },
   {
-    "set": "Crimson Invasion 85/126",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "085/111",
+    "set": "Crimson Invasion 085/111",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm4/85.png"
   },
   {
-    "set": "Legendary Treasures 104/140",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "104/113",
+    "set": "Legendary Treasures 104/113",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/bw11/104.png"
   },
   {
-    "set": "Dragons Exalted 109/128",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "109/124",
+    "set": "Dragons Exalted 109/124",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw6/109.png"
   },
   {
-    "set": "Legendary Treasures RC18/140",
-    "cost": "Not PSA Graded: $6.86",
+    "code": "RC18/113",
+    "set": "Legendary Treasures RC18/113",
+    "cost": "UnGraded: $6.86",
     "img": "https://images.pokemontcg.io/bw11/RC18.png"
   },
   {
-    "set": "Sword & Shield 145/216",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "145/202",
+    "set": "Sword & Shield 145/202",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh1/145.png"
   },
   {
-    "set": "Sword & Shield 146/216",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "146/202",
+    "set": "Sword & Shield 146/202",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh1/146.png"
   },
   {
+    "code": "SV093/122",
     "set": "Shining Fates Shiny Vault SV093/122",
-    "cost": "Not PSA Graded: $4.78",
+    "cost": "UnGraded: $4.78",
     "img": "https://images.pokemontcg.io/swsh45sv/SV093.png"
   },
   {
-    "set": "Brilliant Stars 124/186",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "124/172",
+    "set": "Brilliant Stars 124/172",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh9/124.png"
   },
   {
-    "set": "Temporal Forces 136/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "136/162",
+    "set": "Temporal Forces 136/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/136.png"
   },
   {
-    "set": "Temporal Forces 182/218",
-    "cost": "Not PSA Graded: $9.77",
+    "code": "182/162",
+    "set": "Temporal Forces 182/162",
+    "cost": "UnGraded: $9.77",
     "img": "https://images.pokemontcg.io/sv5/182.png"
   },
   {
-    "set": "Journey Together 125/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "125/159",
+    "set": "Journey Together 125/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/125.png"
   },
   {
-    "set": "Black Bolt 75/172",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "075/86",
+    "set": "Black Bolt 075/86",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/zsv10pt5/75.png"
   },
   {
-    "set": "Black Bolt 152/172",
-    "cost": "Not PSA Graded: $11.64",
+    "code": "152/86",
+    "set": "Black Bolt 152/86",
+    "cost": "UnGraded: $11.64",
     "img": "https://images.pokemontcg.io/zsv10pt5/152.png"
   }
 ]

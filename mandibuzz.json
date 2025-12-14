@@ -1,52 +1,62 @@
 [
   {
-    "set": "Fates Collide 58/129",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "058/124",
+    "set": "Fates Collide 058/124",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy10/58.png"
   },
   {
-    "set": "Black & White 73/115",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "073/114",
+    "set": "Black & White 073/114",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/bw1/73.png"
   },
   {
-    "set": "Emerging Powers 69/98",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "069/98",
+    "set": "Emerging Powers 069/98",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/bw2/69.png"
   },
   {
-    "set": "Boundaries Crossed 93/153",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "093/149",
+    "set": "Boundaries Crossed 093/149",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/bw7/93.png"
   },
   {
-    "set": "Team Up 93/198",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "093/181",
+    "set": "Team Up 093/181",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm9/93.png"
   },
   {
-    "set": "Rebel Clash 120/209",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "120/192",
+    "set": "Rebel Clash 120/192",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh2/120.png"
   },
   {
-    "set": "XY Black Star Promos XY182/216",
-    "cost": "Not PSA Graded: $4.7",
+    "code": "XY182/211",
+    "set": "XY Black Star Promos XY182/211",
+    "cost": "UnGraded: $4.7",
     "img": "https://images.pokemontcg.io/xyp/XY182.png"
   },
   {
-    "set": "Fusion Strike 173/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "173/264",
+    "set": "Fusion Strike 173/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/173.png"
   },
   {
-    "set": "White Flare 64/173",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "064/86",
+    "set": "White Flare 064/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/rsv10pt5/64.png"
   },
   {
-    "set": "White Flare 145/173",
-    "cost": "Not PSA Graded: $5.4",
+    "code": "145/86",
+    "set": "White Flare 145/86",
+    "cost": "UnGraded: $5.4",
     "img": "https://images.pokemontcg.io/rsv10pt5/145.png"
   }
 ]

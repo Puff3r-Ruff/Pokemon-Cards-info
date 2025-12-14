@@ -1,77 +1,92 @@
 [
   {
-    "set": "Steam Siege 27/116",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "027/114",
+    "set": "Steam Siege 027/114",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/xy11/27.png"
   },
   {
-    "set": "Dragon Frontiers 20/101",
-    "cost": "Not PSA Graded: $1.95",
+    "code": "020/101",
+    "set": "Dragon Frontiers 020/101",
+    "cost": "UnGraded: $1.95",
     "img": "https://images.pokemontcg.io/ex15/20.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH026/304",
-    "cost": "Not PSA Graded: $1.39",
+    "code": "SWSH026/307",
+    "set": "SWSH Black Star Promos SWSH026/307",
+    "cost": "UnGraded: $1.38",
     "img": "https://images.pokemontcg.io/swshp/SWSH026.png"
   },
   {
-    "set": "Mysterious Treasures 29/124",
-    "cost": "Not PSA Graded: $1.19",
+    "code": "029/123",
+    "set": "Mysterious Treasures 029/123",
+    "cost": "UnGraded: $1.19",
     "img": "https://images.pokemontcg.io/dp2/29.png"
   },
   {
-    "set": "HeartGold & SoulSilver 45/124",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "045/123",
+    "set": "HeartGold & SoulSilver 045/123",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/hgss1/45.png"
   },
   {
-    "set": "Team Rocket Returns 45/111",
-    "cost": "Not PSA Graded: $2.5",
+    "code": "045/109",
+    "set": "Team Rocket Returns 045/109",
+    "cost": "UnGraded: $2.5",
     "img": "https://images.pokemontcg.io/ex7/45.png"
   },
   {
-    "set": "Sword & Shield 52/216",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "052/202",
+    "set": "Sword & Shield 052/202",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh1/52.png"
   },
   {
-    "set": "Lost Thunder 58/240",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "058/214",
+    "set": "Lost Thunder 058/214",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm8/58.png"
   },
   {
-    "set": "Neo Genesis 64/111",
+    "code": "064/111",
+    "set": "Neo Genesis 064/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/64.png"
   },
   {
-    "set": "Neo Destiny 74/113",
+    "code": "074/105",
+    "set": "Neo Destiny 074/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/74.png"
   },
   {
-    "set": "Skyridge 77/182",
-    "cost": "Not PSA Graded: $8.15",
+    "code": "077/144",
+    "set": "Skyridge 077/144",
+    "cost": "UnGraded: $8.15",
     "img": "https://images.pokemontcg.io/ecard3/77.png"
   },
   {
-    "set": "Fusion Strike 61/284",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "061/264",
+    "set": "Fusion Strike 061/264",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh8/61.png"
   },
   {
-    "set": "Astral Radiance 34/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "034/189",
+    "set": "Astral Radiance 034/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh10/34.png"
   },
   {
-    "set": "Surging Sparks 40/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "040/191",
+    "set": "Surging Sparks 040/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/40.png"
   },
   {
-    "set": "Mega Evolution 32/188",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "032/132",
+    "set": "Mega Evolution 032/132",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me1/32.png"
   }
 ]

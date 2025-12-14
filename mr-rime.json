@@ -1,32 +1,38 @@
 [
   {
-    "set": "Darkness Ablaze 36/201",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "036/189",
+    "set": "Darkness Ablaze 036/189",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh3/36.png"
   },
   {
-    "set": "Rebel Clash 38/209",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "038/192",
+    "set": "Rebel Clash 038/192",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh2/38.png"
   },
   {
+    "code": "SV021/122",
     "set": "Shining Fates Shiny Vault SV021/122",
-    "cost": "Not PSA Graded: $0.81",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/swsh45sv/SV021.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH079/304",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "SWSH079/307",
+    "set": "SWSH Black Star Promos SWSH079/307",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/swshp/SWSH079.png"
   },
   {
-    "set": "Battle Styles 35/183",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "035/163",
+    "set": "Battle Styles 035/163",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh5/35.png"
   },
   {
-    "set": "Astral Radiance 49/216",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "049/189",
+    "set": "Astral Radiance 049/189",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/swsh10/49.png"
   }
 ]

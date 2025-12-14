@@ -1,42 +1,50 @@
 [
   {
-    "set": "Scarlet & Violet 15/258",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "015/198",
+    "set": "Scarlet & Violet 015/198",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sv1/15.png"
   },
   {
-    "set": "Paldea Evolved 15/279",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "015/193",
+    "set": "Paldea Evolved 015/193",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/sv2/15.png"
   },
   {
-    "set": "Paldea Evolved 256/279",
-    "cost": "Not PSA Graded: $18.64",
+    "code": "256/193",
+    "set": "Paldea Evolved 256/193",
+    "cost": "UnGraded: $18.64",
     "img": "https://images.pokemontcg.io/sv2/256.png"
   },
   {
-    "set": "Paldea Evolved 231/279",
-    "cost": "Not PSA Graded: $2.45",
+    "code": "231/193",
+    "set": "Paldea Evolved 231/193",
+    "cost": "UnGraded: $2.45",
     "img": "https://images.pokemontcg.io/sv2/231.png"
   },
   {
-    "set": "Paldea Evolved 271/279",
-    "cost": "Not PSA Graded: $6.11",
+    "code": "271/193",
+    "set": "Paldea Evolved 271/193",
+    "cost": "UnGraded: $6.11",
     "img": "https://images.pokemontcg.io/sv2/271.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 33/196",
-    "cost": "Not PSA Graded: $0.83",
+    "code": "033/215",
+    "set": "Scarlet & Violet Black Star Promos 033/215",
+    "cost": "UnGraded: $0.83",
     "img": "https://images.pokemontcg.io/svp/33.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 78/196",
-    "cost": "Not PSA Graded: $2.59",
+    "code": "078/215",
+    "set": "Scarlet & Violet Black Star Promos 078/215",
+    "cost": "UnGraded: $2.59",
     "img": "https://images.pokemontcg.io/svp/78.png"
   },
   {
-    "set": "Journey Together 18/190",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "018/159",
+    "set": "Journey Together 018/159",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv9/18.png"
   }
 ]

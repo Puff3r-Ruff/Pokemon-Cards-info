@@ -1,167 +1,200 @@
 [
   {
-    "set": "Team Magma vs Team Aqua 4/97",
-    "cost": "Not PSA Graded: $16.62",
+    "code": "004/95",
+    "set": "Team Magma vs Team Aqua 004/95",
+    "cost": "UnGraded: $16.62",
     "img": "https://images.pokemontcg.io/ex4/4.png"
   },
   {
-    "set": "Emerald 7/107",
-    "cost": "Not PSA Graded: $6.28",
+    "code": "007/106",
+    "set": "Emerald 007/106",
+    "cost": "UnGraded: $6.28",
     "img": "https://images.pokemontcg.io/ex9/7.png"
   },
   {
-    "set": "Platinum 11/133",
-    "cost": "Not PSA Graded: $3.98",
+    "code": "011/127",
+    "set": "Platinum 011/127",
+    "cost": "UnGraded: $3.98",
     "img": "https://images.pokemontcg.io/pl1/11.png"
   },
   {
-    "set": "Crystal Guardians 8/100",
-    "cost": "Not PSA Graded: $12.68",
+    "code": "008/100",
+    "set": "Crystal Guardians 008/100",
+    "cost": "UnGraded: $12.68",
     "img": "https://images.pokemontcg.io/ex14/8.png"
   },
   {
-    "set": "Emerald 16/107",
-    "cost": "Not PSA Graded: $1.99",
+    "code": "016/106",
+    "set": "Emerald 016/106",
+    "cost": "UnGraded: $1.99",
     "img": "https://images.pokemontcg.io/ex9/16.png"
   },
   {
-    "set": "Ruby & Sapphire 9/109",
-    "cost": "Not PSA Graded: $12.19",
+    "code": "009/109",
+    "set": "Ruby & Sapphire 009/109",
+    "cost": "UnGraded: $12.19",
     "img": "https://images.pokemontcg.io/ex1/9.png"
   },
   {
-    "set": "Arceus 22/111",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "022/99",
+    "set": "Arceus 022/99",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/pl4/22.png"
   },
   {
-    "set": "Phantom Forces 23/124",
-    "cost": "Not PSA Graded: $2.47",
+    "code": "023/119",
+    "set": "Phantom Forces 023/119",
+    "cost": "UnGraded: $2.47",
     "img": "https://images.pokemontcg.io/xy4/23.png"
   },
   {
-    "set": "Phantom Forces 24/124",
-    "cost": "Not PSA Graded: $19.96",
+    "code": "024/119",
+    "set": "Phantom Forces 024/119",
+    "cost": "UnGraded: $19.96",
     "img": "https://images.pokemontcg.io/xy4/24.png"
   },
   {
-    "set": "Phantom Forces 24a/124",
+    "code": "24a/119",
+    "set": "Phantom Forces 24a/119",
     "cost": null,
     "img": "https://images.pokemontcg.io/xy4/24a.png"
   },
   {
-    "set": "Roaring Skies 25/112",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "025/108",
+    "set": "Roaring Skies 025/108",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/xy6/25.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 29/97",
-    "cost": "Not PSA Graded: $2.3",
+    "code": "029/95",
+    "set": "Team Magma vs Team Aqua 029/95",
+    "cost": "UnGraded: $2.3",
     "img": "https://images.pokemontcg.io/ex4/29.png"
   },
   {
-    "set": "Mysterious Treasures 28/124",
-    "cost": "Not PSA Graded: $1.9",
+    "code": "028/123",
+    "set": "Mysterious Treasures 028/123",
+    "cost": "UnGraded: $1.9",
     "img": "https://images.pokemontcg.io/dp2/28.png"
   },
   {
-    "set": "Deoxys 38/108",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "038/107",
+    "set": "Deoxys 038/107",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/ex8/38.png"
   },
   {
-    "set": "Dragons Exalted 43/128",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "043/124",
+    "set": "Dragons Exalted 043/124",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/bw6/43.png"
   },
   {
-    "set": "Arceus 44/111",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "044/99",
+    "set": "Arceus 044/99",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/pl4/44.png"
   },
   {
-    "set": "Dragons Exalted 44/128",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "044/124",
+    "set": "Dragons Exalted 044/124",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/bw6/44.png"
   },
   {
-    "set": "Majestic Dawn 40/100",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "040/100",
+    "set": "Majestic Dawn 040/100",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/dp5/40.png"
   },
   {
-    "set": "Holon Phantoms 46/111",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "046/110",
+    "set": "Holon Phantoms 046/110",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/ex13/46.png"
   },
   {
-    "set": "Ruby & Sapphire 39/109",
-    "cost": "Not PSA Graded: $1.31",
+    "code": "039/109",
+    "set": "Ruby & Sapphire 039/109",
+    "cost": "UnGraded: $1.31",
     "img": "https://images.pokemontcg.io/ex1/39.png"
   },
   {
-    "set": "Celestial Storm 52/187",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "052/168",
+    "set": "Celestial Storm 052/168",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm7/52.png"
   },
   {
-    "set": "Vivid Voltage 52/203",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "052/185",
+    "set": "Vivid Voltage 052/185",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/swsh4/52.png"
   },
   {
-    "set": "Primal Clash 61/164",
-    "cost": "Not PSA Graded: $0.75",
+    "code": "061/160",
+    "set": "Primal Clash 061/160",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/xy5/61.png"
   },
   {
-    "set": "Darkness Ablaze 59/201",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "059/189",
+    "set": "Darkness Ablaze 059/189",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh3/59.png"
   },
   {
-    "set": "Supreme Victors 66/153",
-    "cost": "Not PSA Graded: $0.95",
+    "code": "066/147",
+    "set": "Supreme Victors 066/147",
+    "cost": "UnGraded: $0.95",
     "img": "https://images.pokemontcg.io/pl3/66.png"
   },
   {
-    "set": "Deoxys 101/108",
-    "cost": "Not PSA Graded: $77.5",
+    "code": "101/107",
+    "set": "Deoxys 101/107",
+    "cost": "UnGraded: $77.5",
     "img": "https://images.pokemontcg.io/ex8/101.png"
   },
   {
-    "set": "Phantom Forces 113/124",
-    "cost": "Not PSA Graded: $19.32",
+    "code": "113/119",
+    "set": "Phantom Forces 113/119",
+    "cost": "UnGraded: $19.32",
     "img": "https://images.pokemontcg.io/xy4/113.png"
   },
   {
-    "set": "Phantom Forces 120/124",
-    "cost": "Not PSA Graded: $70.19",
+    "code": "120/119",
+    "set": "Phantom Forces 120/119",
+    "cost": "UnGraded: $70.19",
     "img": "https://images.pokemontcg.io/xy4/120.png"
   },
   {
-    "set": "SM Black Star Promos SM130/250",
-    "cost": "Not PSA Graded: $3.85",
+    "code": "SM130/248",
+    "set": "SM Black Star Promos SM130/248",
+    "cost": "UnGraded: $3.85",
     "img": "https://images.pokemontcg.io/smp/SM130.png"
   },
   {
-    "set": "Lost Origin 55/217",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "055/196",
+    "set": "Lost Origin 055/196",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh11/55.png"
   },
   {
-    "set": "Destined Rivals 76/244",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "076/182",
+    "set": "Destined Rivals 076/182",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv10/76.png"
   },
   {
-    "set": "Mega Evolution 50/188",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "050/132",
+    "set": "Mega Evolution 050/132",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/me1/50.png"
   },
   {
-    "set": "Mega Evolution 158/188",
-    "cost": "Not PSA Graded: $2.9",
+    "code": "158/132",
+    "set": "Mega Evolution 158/132",
+    "cost": "UnGraded: $2.9",
     "img": "https://images.pokemontcg.io/me1/158.png"
   }
 ]

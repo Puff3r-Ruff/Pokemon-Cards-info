@@ -1,27 +1,32 @@
 [
   {
-    "set": "Diamond & Pearl 33/130",
-    "cost": "Not PSA Graded: $6.65",
+    "code": "033/130",
+    "set": "Diamond & Pearl 033/130",
+    "cost": "UnGraded: $6.65",
     "img": "https://images.pokemontcg.io/dp1/33.png"
   },
   {
-    "set": "Majestic Dawn 68/100",
-    "cost": "Not PSA Graded: $6.47",
+    "code": "068/100",
+    "set": "Majestic Dawn 068/100",
+    "cost": "UnGraded: $6.47",
     "img": "https://images.pokemontcg.io/dp5/68.png"
   },
   {
-    "set": "Rising Rivals 69/120",
-    "cost": "Not PSA Graded: $5.74",
+    "code": "069/111",
+    "set": "Rising Rivals 069/111",
+    "cost": "UnGraded: $5.74",
     "img": "https://images.pokemontcg.io/pl2/69.png"
   },
   {
-    "set": "Rising Rivals 70/120",
-    "cost": "Not PSA Graded: $4.01",
+    "code": "070/111",
+    "set": "Rising Rivals 070/111",
+    "cost": "UnGraded: $4.01",
     "img": "https://images.pokemontcg.io/pl2/70.png"
   },
   {
-    "set": "Unified Minds 173/260",
-    "cost": "Not PSA Graded: $3.4",
+    "code": "173/236",
+    "set": "Unified Minds 173/236",
+    "cost": "UnGraded: $3.4",
     "img": "https://images.pokemontcg.io/sm11/173.png"
   }
 ]

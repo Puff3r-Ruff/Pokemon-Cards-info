@@ -1,87 +1,104 @@
 [
   {
-    "set": "Emerald 54/107",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "054/106",
+    "set": "Emerald 054/106",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/ex9/54.png"
   },
   {
-    "set": "HS—Undaunted 55/91",
-    "cost": "Not PSA Graded: $0.55",
+    "code": "055/90",
+    "set": "HS—Undaunted 055/90",
+    "cost": "UnGraded: $0.55",
     "img": "https://images.pokemontcg.io/hgss3/55.png"
   },
   {
-    "set": "Furious Fists 51/114",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "051/111",
+    "set": "Furious Fists 051/111",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy3/51.png"
   },
   {
-    "set": "Plasma Freeze 62/122",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "062/116",
+    "set": "Plasma Freeze 062/116",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/bw9/62.png"
   },
   {
-    "set": "Deoxys 65/108",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "065/107",
+    "set": "Deoxys 065/107",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/ex8/65.png"
   },
   {
-    "set": "Arceus 68/111",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "068/99",
+    "set": "Arceus 068/99",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/pl4/68.png"
   },
   {
-    "set": "Ruby & Sapphire 56/109",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "056/109",
+    "set": "Ruby & Sapphire 056/109",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/ex1/56.png"
   },
   {
-    "set": "Ruby & Sapphire 57/109",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "057/109",
+    "set": "Ruby & Sapphire 057/109",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/ex1/57.png"
   },
   {
-    "set": "Ruby & Sapphire 58/109",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "058/109",
+    "set": "Ruby & Sapphire 058/109",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/ex1/58.png"
   },
   {
-    "set": "Sun & Moon 67/173",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "067/149",
+    "set": "Sun & Moon 067/149",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm1/67.png"
   },
   {
-    "set": "Delta Species 75/114",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "075/113",
+    "set": "Delta Species 075/113",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/ex11/75.png"
   },
   {
-    "set": "Boundaries Crossed 82/153",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "082/149",
+    "set": "Boundaries Crossed 082/149",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/bw7/82.png"
   },
   {
-    "set": "Great Encounters 78/106",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "078/106",
+    "set": "Great Encounters 078/106",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/dp4/78.png"
   },
   {
-    "set": "Fusion Strike 142/284",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "142/264",
+    "set": "Fusion Strike 142/264",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh8/142.png"
   },
   {
-    "set": "Lost Origin 97/217",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "097/196",
+    "set": "Lost Origin 097/196",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh11/97.png"
   },
   {
-    "set": "Paldea Evolved 112/279",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "112/193",
+    "set": "Paldea Evolved 112/193",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv2/112.png"
   },
   {
-    "set": "Mega Evolution 72/188",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "072/132",
+    "set": "Mega Evolution 072/132",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/me1/72.png"
   }
 ]

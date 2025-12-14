@@ -1,42 +1,50 @@
 [
   {
-    "set": "SM Black Star Promos SM20/250",
-    "cost": "Not PSA Graded: $5.39",
+    "code": "SM20/248",
+    "set": "SM Black Star Promos SM20/248",
+    "cost": "UnGraded: $5.39",
     "img": "https://images.pokemontcg.io/smp/SM20.png"
   },
   {
-    "set": "Guardians Rising 76/180",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "076/145",
+    "set": "Guardians Rising 076/145",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/sm2/76.png"
   },
   {
-    "set": "Burning Shadows 78/177",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "078/147",
+    "set": "Burning Shadows 078/147",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm3/78.png"
   },
   {
-    "set": "Vivid Voltage 97/203",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "097/185",
+    "set": "Vivid Voltage 097/185",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh4/97.png"
   },
   {
-    "set": "Sword & Shield 106/216",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "106/202",
+    "set": "Sword & Shield 106/202",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh1/106.png"
   },
   {
-    "set": "Temporal Forces 92/218",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "092/162",
+    "set": "Temporal Forces 092/162",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv5/92.png"
   },
   {
-    "set": "Temporal Forces 175/218",
-    "cost": "Not PSA Graded: $5.12",
+    "code": "175/162",
+    "set": "Temporal Forces 175/162",
+    "cost": "UnGraded: $5.12",
     "img": "https://images.pokemontcg.io/sv5/175.png"
   },
   {
-    "set": "Destined Rivals 108/244",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "108/182",
+    "set": "Destined Rivals 108/182",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv10/108.png"
   }
 ]

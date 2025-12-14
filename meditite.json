@@ -1,107 +1,128 @@
 [
   {
-    "set": "Dragon 37/100",
-    "cost": "Not PSA Graded: $1",
+    "code": "037/97",
+    "set": "Dragon 037/97",
+    "cost": "UnGraded: $1",
     "img": "https://images.pokemontcg.io/ex3/37.png"
   },
   {
-    "set": "Emerald 55/107",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "055/106",
+    "set": "Emerald 055/106",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/ex9/55.png"
   },
   {
-    "set": "Crystal Guardians 56/100",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "056/100",
+    "set": "Crystal Guardians 056/100",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/ex14/56.png"
   },
   {
-    "set": "Power Keepers 55/108",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "055/108",
+    "set": "Power Keepers 055/108",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/ex16/55.png"
   },
   {
-    "set": "Hidden Legends 65/102",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "065/101",
+    "set": "Hidden Legends 065/101",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/ex5/65.png"
   },
   {
-    "set": "Hidden Legends 66/102",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "066/101",
+    "set": "Hidden Legends 066/101",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/ex5/66.png"
   },
   {
-    "set": "Celestial Storm 76/187",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "076/168",
+    "set": "Celestial Storm 076/168",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm7/76.png"
   },
   {
-    "set": "Primal Clash 79/164",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "079/160",
+    "set": "Primal Clash 079/160",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy5/79.png"
   },
   {
-    "set": "Diamond & Pearl 89/130",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "089/130",
+    "set": "Diamond & Pearl 089/130",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/dp1/89.png"
   },
   {
-    "set": "Rebel Clash 97/209",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "097/192",
+    "set": "Rebel Clash 097/192",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh2/97.png"
   },
   {
-    "set": "Unified Minds 109/260",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "109/236",
+    "set": "Unified Minds 109/236",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm11/109.png"
   },
   {
-    "set": "Supreme Victors 113/153",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "113/147",
+    "set": "Supreme Victors 113/147",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/pl3/113.png"
   },
   {
-    "set": "McDonald's Collection 2015 9/12",
+    "code": "009/12",
+    "set": "McDonald's Collection 2015 009/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd15/9.png"
   },
   {
-    "set": "Lost Origin 99/217",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "099/196",
+    "set": "Lost Origin 099/196",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh11/99.png"
   },
   {
-    "set": "Silver Tempest 72/215",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "072/195",
+    "set": "Silver Tempest 072/195",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/swsh12/72.png"
   },
   {
-    "set": "Scarlet & Violet 110/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "110/198",
+    "set": "Scarlet & Violet 110/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/110.png"
   },
   {
-    "set": "Temporal Forces 82/218",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "082/162",
+    "set": "Temporal Forces 082/162",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv5/82.png"
   },
   {
-    "set": "Stellar Crown 77/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "077/142",
+    "set": "Stellar Crown 077/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/77.png"
   },
   {
-    "set": "Stellar Crown 78/175",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "078/142",
+    "set": "Stellar Crown 078/142",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv7/78.png"
   },
   {
-    "set": "Stellar Crown 153/175",
-    "cost": "Not PSA Graded: $3.55",
+    "code": "153/142",
+    "set": "Stellar Crown 153/142",
+    "cost": "UnGraded: $3.55",
     "img": "https://images.pokemontcg.io/sv7/153.png"
   },
   {
-    "set": "Destined Rivals 99/244",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "099/182",
+    "set": "Destined Rivals 099/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv10/99.png"
   }
 ]

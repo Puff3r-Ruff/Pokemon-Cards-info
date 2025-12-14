@@ -1,22 +1,26 @@
 [
   {
-    "set": "Guardians Rising 77/180",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "077/145",
+    "set": "Guardians Rising 077/145",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/sm2/77.png"
   },
   {
-    "set": "Celestial Storm 83/187",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "083/168",
+    "set": "Celestial Storm 083/168",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/sm7/83.png"
   },
   {
-    "set": "Paradox Rift 99/266",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "099/182",
+    "set": "Paradox Rift 099/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv4/99.png"
   },
   {
-    "set": "Paradox Rift 201/266",
-    "cost": "Not PSA Graded: $11.94",
+    "code": "201/182",
+    "set": "Paradox Rift 201/182",
+    "cost": "UnGraded: $11.94",
     "img": "https://images.pokemontcg.io/sv4/201.png"
   }
 ]

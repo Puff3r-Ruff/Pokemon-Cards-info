@@ -1,127 +1,152 @@
 [
   {
-    "set": "Hidden Legends 21/102",
-    "cost": "Not PSA Graded: $1.14",
+    "code": "021/101",
+    "set": "Hidden Legends 021/101",
+    "cost": "UnGraded: $1.14",
     "img": "https://images.pokemontcg.io/ex5/21.png"
   },
   {
-    "set": "Nintendo Black Star Promos 23/40",
-    "cost": "Not PSA Graded: $294.89",
+    "code": "023/40",
+    "set": "Nintendo Black Star Promos 023/40",
+    "cost": "UnGraded: $294.89",
     "img": "https://images.pokemontcg.io/np/23.png"
   },
   {
-    "set": "HS—Undaunted 30/91",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "030/90",
+    "set": "HS—Undaunted 030/90",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/hgss3/30.png"
   },
   {
-    "set": "HS—Unleashed 33/96",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "033/95",
+    "set": "HS—Unleashed 033/95",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/hgss2/33.png"
   },
   {
+    "code": "SV31/94",
     "set": "Hidden Fates Shiny Vault SV31/94",
-    "cost": "Not PSA Graded: $2.37",
+    "cost": "UnGraded: $2.37",
     "img": "https://images.pokemontcg.io/sma/SV31.png"
   },
   {
-    "set": "Deoxys 40/108",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "040/107",
+    "set": "Deoxys 040/107",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/ex8/40.png"
   },
   {
-    "set": "Power Keepers 35/108",
-    "cost": "Not PSA Graded: $1.63",
+    "code": "035/108",
+    "set": "Power Keepers 035/108",
+    "cost": "UnGraded: $1.63",
     "img": "https://images.pokemontcg.io/ex16/35.png"
   },
   {
-    "set": "Ancient Origins 48/100",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "048/98",
+    "set": "Ancient Origins 048/98",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/xy7/48.png"
   },
   {
-    "set": "Hidden Legends 43/102",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "043/101",
+    "set": "Hidden Legends 043/101",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/ex5/43.png"
   },
   {
-    "set": "Delta Species 49/114",
-    "cost": "Not PSA Graded: $3.16",
+    "code": "049/113",
+    "set": "Delta Species 049/113",
+    "cost": "UnGraded: $3.16",
     "img": "https://images.pokemontcg.io/ex11/49.png"
   },
   {
-    "set": "Plasma Freeze 51/122",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "051/116",
+    "set": "Plasma Freeze 051/116",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/bw9/51.png"
   },
   {
-    "set": "Hidden Legends 44/102",
-    "cost": "Not PSA Graded: $1.27",
+    "code": "044/101",
+    "set": "Hidden Legends 044/101",
+    "cost": "UnGraded: $1.27",
     "img": "https://images.pokemontcg.io/ex5/44.png"
   },
   {
-    "set": "Legends Awakened 64/146",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "064/146",
+    "set": "Legends Awakened 064/146",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/dp6/64.png"
   },
   {
-    "set": "Legends Awakened 65/146",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "065/146",
+    "set": "Legends Awakened 065/146",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/dp6/65.png"
   },
   {
-    "set": "Supreme Victors 69/153",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "069/147",
+    "set": "Supreme Victors 069/147",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/pl3/69.png"
   },
   {
-    "set": "Guardians Rising 84/180",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "084/145",
+    "set": "Guardians Rising 084/145",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm2/84.png"
   },
   {
-    "set": "Celestial Storm 94/187",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "094/168",
+    "set": "Celestial Storm 094/168",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm7/94.png"
   },
   {
-    "set": "Vivid Voltage 117/203",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "117/185",
+    "set": "Vivid Voltage 117/185",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh4/117.png"
   },
   {
-    "set": "EX Trainer Kit 2 Plusle 5/12",
+    "code": "005/12",
+    "set": "EX Trainer Kit 2 Plusle 005/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/tk2a/5.png"
   },
   {
-    "set": "Silver Tempest 118/215",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "118/195",
+    "set": "Silver Tempest 118/195",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12/118.png"
   },
   {
-    "set": "Crown Zenith 90/160",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "090/159",
+    "set": "Crown Zenith 090/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12pt5/90.png"
   },
   {
-    "set": "Temporal Forces 114/218",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "114/162",
+    "set": "Temporal Forces 114/162",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv5/114.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 90/196",
-    "cost": "Not PSA Graded: $2.36",
+    "code": "090/215",
+    "set": "Scarlet & Violet Black Star Promos 090/215",
+    "cost": "UnGraded: $2.36",
     "img": "https://images.pokemontcg.io/svp/90.png"
   },
   {
-    "set": "Journey Together 62/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "062/159",
+    "set": "Journey Together 062/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/62.png"
   },
   {
-    "set": "Destined Rivals 144/244",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "144/182",
+    "set": "Destined Rivals 144/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv10/144.png"
   }
 ]

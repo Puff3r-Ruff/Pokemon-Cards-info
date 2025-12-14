@@ -1,82 +1,98 @@
 [
   {
-    "set": "Kalos Starter Set 27/39",
-    "cost": "Not PSA Graded: $6.26",
+    "code": "027/39",
+    "set": "Kalos Starter Set 027/39",
+    "cost": "UnGraded: $6.26",
     "img": "https://images.pokemontcg.io/xy0/27.png"
   },
   {
-    "set": "HeartGold & SoulSilver 47/124",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "047/123",
+    "set": "HeartGold & SoulSilver 047/123",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/hgss1/47.png"
   },
   {
-    "set": "Unseen Forces 42/145",
-    "cost": "Not PSA Graded: $7.36",
+    "code": "042/115",
+    "set": "Unseen Forces 042/115",
+    "cost": "UnGraded: $7.36",
     "img": "https://images.pokemontcg.io/ex10/42.png"
   },
   {
-    "set": "Neo Genesis 41/111",
+    "code": "041/111",
+    "set": "Neo Genesis 041/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/41.png"
   },
   {
-    "set": "Secret Wonders 55/132",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "055/132",
+    "set": "Secret Wonders 055/132",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/dp3/55.png"
   },
   {
-    "set": "Stormfront 44/106",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "044/100",
+    "set": "Stormfront 044/100",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/dp7/44.png"
   },
   {
-    "set": "Flashfire 83/110",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "083/106",
+    "set": "Flashfire 083/106",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/xy2/83.png"
   },
   {
-    "set": "Crimson Invasion 78/126",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "078/111",
+    "set": "Crimson Invasion 078/111",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm4/78.png"
   },
   {
-    "set": "Plasma Freeze 93/122",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "093/116",
+    "set": "Plasma Freeze 093/116",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/bw9/93.png"
   },
   {
-    "set": "Aquapolis 94/182",
-    "cost": "Not PSA Graded: $3.56",
+    "code": "094/147",
+    "set": "Aquapolis 094/147",
+    "cost": "UnGraded: $3.56",
     "img": "https://images.pokemontcg.io/ecard2/94.png"
   },
   {
-    "set": "Lost Thunder 158/240",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "158/214",
+    "set": "Lost Thunder 158/214",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/sm8/158.png"
   },
   {
-    "set": "Astral Radiance 126/216",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "126/189",
+    "set": "Astral Radiance 126/189",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh10/126.png"
   },
   {
+    "code": "GG24/70",
     "set": "Crown Zenith Galarian Gallery GG24/70",
-    "cost": "Not PSA Graded: $4.97",
+    "cost": "UnGraded: $4.94",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG24.png"
   },
   {
-    "set": "Paradox Rift 147/266",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "147/182",
+    "set": "Paradox Rift 147/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv4/147.png"
   },
   {
-    "set": "Prismatic Evolutions 81/180",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "081/131",
+    "set": "Prismatic Evolutions 081/131",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv8pt5/81.png"
   },
   {
-    "set": "Mega Evolution 106/188",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "106/132",
+    "set": "Mega Evolution 106/132",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me1/106.png"
   }
 ]

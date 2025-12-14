@@ -1,82 +1,98 @@
 [
   {
-    "set": "Shining Legends 45/81",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "045/73",
+    "set": "Shining Legends 045/73",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/sm35/45.png"
   },
   {
-    "set": "SM Black Star Promos SM59/250",
-    "cost": "Not PSA Graded: $4.03",
+    "code": "SM59/248",
+    "set": "SM Black Star Promos SM59/248",
+    "cost": "UnGraded: $4.03",
     "img": "https://images.pokemontcg.io/smp/SM59.png"
   },
   {
-    "set": "Burning Shadows 80/177",
-    "cost": "Not PSA Graded: $2.57",
+    "code": "080/147",
+    "set": "Burning Shadows 080/147",
+    "cost": "UnGraded: $2.57",
     "img": "https://images.pokemontcg.io/sm3/80.png"
   },
   {
-    "set": "Unbroken Bonds 81/234",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "081/214",
+    "set": "Unbroken Bonds 081/214",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/sm10/81.png"
   },
   {
-    "set": "Unbroken Bonds 82/234",
-    "cost": "Not PSA Graded: $27.02",
+    "code": "082/214",
+    "set": "Unbroken Bonds 082/214",
+    "cost": "UnGraded: $27.02",
     "img": "https://images.pokemontcg.io/sm10/82.png"
   },
   {
-    "set": "SM Black Star Promos SM85/250",
-    "cost": "Not PSA Graded: $3.3",
+    "code": "SM85/248",
+    "set": "SM Black Star Promos SM85/248",
+    "cost": "UnGraded: $3.3",
     "img": "https://images.pokemontcg.io/smp/SM85.png"
   },
   {
-    "set": "SM Black Star Promos SM93/250",
-    "cost": "Not PSA Graded: $0.92",
+    "code": "SM93/248",
+    "set": "SM Black Star Promos SM93/248",
+    "cost": "UnGraded: $0.92",
     "img": "https://images.pokemontcg.io/smp/SM93.png"
   },
   {
-    "set": "Cosmic Eclipse 103/272",
-    "cost": "Not PSA Graded: $7.17",
+    "code": "103/236",
+    "set": "Cosmic Eclipse 103/236",
+    "cost": "UnGraded: $7.17",
     "img": "https://images.pokemontcg.io/sm12/103.png"
   },
   {
-    "set": "Burning Shadows 137/177",
-    "cost": "Not PSA Graded: $11.16",
+    "code": "137/147",
+    "set": "Burning Shadows 137/147",
+    "cost": "UnGraded: $11.16",
     "img": "https://images.pokemontcg.io/sm3/137.png"
   },
   {
-    "set": "Burning Shadows 156/177",
-    "cost": "Not PSA Graded: $19.79",
+    "code": "156/147",
+    "set": "Burning Shadows 156/147",
+    "cost": "UnGraded: $19.79",
     "img": "https://images.pokemontcg.io/sm3/156.png"
   },
   {
-    "set": "Unbroken Bonds 198/234",
-    "cost": "Not PSA Graded: $38.04",
+    "code": "198/214",
+    "set": "Unbroken Bonds 198/214",
+    "cost": "UnGraded: $38.04",
     "img": "https://images.pokemontcg.io/sm10/198.png"
   },
   {
-    "set": "Unbroken Bonds 199/234",
-    "cost": "Not PSA Graded: $211.02",
+    "code": "199/214",
+    "set": "Unbroken Bonds 199/214",
+    "cost": "UnGraded: $211.02",
     "img": "https://images.pokemontcg.io/sm10/199.png"
   },
   {
-    "set": "Unbroken Bonds 221/234",
-    "cost": "Not PSA Graded: $55.23",
+    "code": "221/214",
+    "set": "Unbroken Bonds 221/214",
+    "cost": "UnGraded: $55.23",
     "img": "https://images.pokemontcg.io/sm10/221.png"
   },
   {
-    "set": "Evolving Skies 80/237",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "080/203",
+    "set": "Evolving Skies 080/203",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh7/80.png"
   },
   {
-    "set": "Mega Evolution 80/188",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "080/132",
+    "set": "Mega Evolution 080/132",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/me1/80.png"
   },
   {
-    "set": "Mega Evolution 146/188",
-    "cost": "Not PSA Graded: $12.94",
+    "code": "146/132",
+    "set": "Mega Evolution 146/132",
+    "cost": "UnGraded: $12.94",
     "img": "https://images.pokemontcg.io/me1/146.png"
   }
 ]

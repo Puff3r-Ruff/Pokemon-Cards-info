@@ -1,37 +1,44 @@
 [
   {
-    "set": "Guardians Rising 39/180",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "039/145",
+    "set": "Guardians Rising 039/145",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm2/39.png"
   },
   {
-    "set": "Darkness Ablaze 51/201",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "051/189",
+    "set": "Darkness Ablaze 051/189",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh3/51.png"
   },
   {
-    "set": "Sun & Moon 62/173",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "062/149",
+    "set": "Sun & Moon 062/149",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm1/62.png"
   },
   {
-    "set": "Lost Thunder 68/240",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "068/214",
+    "set": "Lost Thunder 068/214",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm8/68.png"
   },
   {
-    "set": "Unified Minds 96/260",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "096/236",
+    "set": "Unified Minds 096/236",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm11/96.png"
   },
   {
-    "set": "Lost Thunder 105/240",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "105/214",
+    "set": "Lost Thunder 105/214",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm8/105.png"
   },
   {
-    "set": "Silver Tempest 114/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "114/195",
+    "set": "Silver Tempest 114/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/114.png"
   }
 ]

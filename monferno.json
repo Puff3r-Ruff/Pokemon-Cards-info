@@ -1,42 +1,50 @@
 [
   {
-    "set": "Steam Siege 19/116",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "019/114",
+    "set": "Steam Siege 019/114",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy11/19.png"
   },
   {
-    "set": "Plasma Storm 16/138",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "016/135",
+    "set": "Plasma Storm 016/135",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/bw8/16.png"
   },
   {
-    "set": "Ultra Prism 22/178",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "022/156",
+    "set": "Ultra Prism 022/156",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm5/22.png"
   },
   {
-    "set": "Majestic Dawn 41/100",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "041/100",
+    "set": "Majestic Dawn 041/100",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/dp5/41.png"
   },
   {
-    "set": "Diamond & Pearl 56/130",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "056/130",
+    "set": "Diamond & Pearl 056/130",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/dp1/56.png"
   },
   {
-    "set": "Platinum 56/133",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "056/127",
+    "set": "Platinum 056/127",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/pl1/56.png"
   },
   {
-    "set": "Brilliant Stars 25/186",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "025/172",
+    "set": "Brilliant Stars 025/172",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh9/25.png"
   },
   {
-    "set": "Twilight Masquerade 32/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "032/167",
+    "set": "Twilight Masquerade 032/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/32.png"
   }
 ]

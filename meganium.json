@@ -1,82 +1,98 @@
 [
   {
-    "set": "Unseen Forces 9/145",
-    "cost": "Not PSA Graded: $23.01",
+    "code": "009/115",
+    "set": "Unseen Forces 009/115",
+    "cost": "UnGraded: $23.01",
     "img": "https://images.pokemontcg.io/ex10/9.png"
   },
   {
-    "set": "Lost Thunder 8/240",
-    "cost": "Not PSA Graded: $6.84",
+    "code": "008/214",
+    "set": "Lost Thunder 008/214",
+    "cost": "UnGraded: $6.84",
     "img": "https://images.pokemontcg.io/sm8/8.png"
   },
   {
-    "set": "BREAKpoint 3/126",
-    "cost": "Not PSA Graded: $1.91",
+    "code": "003/122",
+    "set": "BREAKpoint 003/122",
+    "cost": "UnGraded: $1.91",
     "img": "https://images.pokemontcg.io/xy9/3.png"
   },
   {
-    "set": "Dragon Frontiers 4/101",
-    "cost": "Not PSA Graded: $30.94",
+    "code": "004/101",
+    "set": "Dragon Frontiers 004/101",
+    "cost": "UnGraded: $30.94",
     "img": "https://images.pokemontcg.io/ex15/4.png"
   },
   {
+    "code": "HGSS08/25",
     "set": "HGSS Black Star Promos HGSS08/25",
-    "cost": "Not PSA Graded: $26.65",
+    "cost": "UnGraded: $26.65",
     "img": "https://images.pokemontcg.io/hsp/HGSS08.png"
   },
   {
-    "set": "Neo Genesis 10/111",
+    "code": "010/111",
+    "set": "Neo Genesis 010/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/10.png"
   },
   {
-    "set": "Neo Genesis 11/111",
+    "code": "011/111",
+    "set": "Neo Genesis 011/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/11.png"
   },
   {
-    "set": "Mysterious Treasures 13/124",
-    "cost": "Not PSA Graded: $8.7",
+    "code": "013/123",
+    "set": "Mysterious Treasures 013/123",
+    "cost": "UnGraded: $8.7",
     "img": "https://images.pokemontcg.io/dp2/13.png"
   },
   {
-    "set": "HeartGold & SoulSilver 26/124",
-    "cost": "Not PSA Graded: $5.51",
+    "code": "026/123",
+    "set": "HeartGold & SoulSilver 026/123",
+    "cost": "UnGraded: $5.32",
     "img": "https://images.pokemontcg.io/hgss1/26.png"
   },
   {
-    "set": "Call of Legends 27/106",
-    "cost": "Not PSA Graded: $4.06",
+    "code": "027/95",
+    "set": "Call of Legends 027/95",
+    "cost": "UnGraded: $4.06",
     "img": "https://images.pokemontcg.io/col1/27.png"
   },
   {
-    "set": "Expedition Base Set 18/165",
-    "cost": "Not PSA Graded: $86.27",
+    "code": "018/165",
+    "set": "Expedition Base Set 018/165",
+    "cost": "UnGraded: $86.27",
     "img": "https://images.pokemontcg.io/ecard1/18.png"
   },
   {
-    "set": "Expedition Base Set 53/165",
-    "cost": "Not PSA Graded: $11.11",
+    "code": "053/165",
+    "set": "Expedition Base Set 053/165",
+    "cost": "UnGraded: $10.83",
     "img": "https://images.pokemontcg.io/ecard1/53.png"
   },
   {
-    "set": "Expedition Base Set 54/165",
-    "cost": "Not PSA Graded: $9.71",
+    "code": "054/165",
+    "set": "Expedition Base Set 054/165",
+    "cost": "UnGraded: $9.71",
     "img": "https://images.pokemontcg.io/ecard1/54.png"
   },
   {
-    "set": "HeartGold & SoulSilver 109/124",
-    "cost": "Not PSA Graded: $37.04",
+    "code": "109/123",
+    "set": "HeartGold & SoulSilver 109/123",
+    "cost": "UnGraded: $37.04",
     "img": "https://images.pokemontcg.io/hgss1/109.png"
   },
   {
-    "set": "Unseen Forces 106/145",
-    "cost": "Not PSA Graded: $122.71",
+    "code": "106/115",
+    "set": "Unseen Forces 106/115",
+    "cost": "UnGraded: $122.71",
     "img": "https://images.pokemontcg.io/ex10/106.png"
   },
   {
-    "set": "Mega Evolution 10/188",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "010/132",
+    "set": "Mega Evolution 010/132",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/me1/10.png"
   }
 ]

@@ -1,32 +1,38 @@
 [
   {
-    "set": "Twilight Masquerade 95/226",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "095/167",
+    "set": "Twilight Masquerade 095/167",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/sv6/95.png"
   },
   {
-    "set": "Shrouded Fable 37/99",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "037/64",
+    "set": "Shrouded Fable 037/64",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/sv6pt5/37.png"
   },
   {
-    "set": "Shrouded Fable 72/99",
-    "cost": "Not PSA Graded: $28.88",
+    "code": "072/64",
+    "set": "Shrouded Fable 072/64",
+    "cost": "UnGraded: $28.88",
     "img": "https://images.pokemontcg.io/sv6pt5/72.png"
   },
   {
-    "set": "Shrouded Fable 83/99",
-    "cost": "Not PSA Graded: $2.35",
+    "code": "083/64",
+    "set": "Shrouded Fable 083/64",
+    "cost": "UnGraded: $2.35",
     "img": "https://images.pokemontcg.io/sv6pt5/83.png"
   },
   {
-    "set": "Shrouded Fable 91/99",
-    "cost": "Not PSA Graded: $14.74",
+    "code": "091/64",
+    "set": "Shrouded Fable 091/64",
+    "cost": "UnGraded: $14.74",
     "img": "https://images.pokemontcg.io/sv6pt5/91.png"
   },
   {
-    "set": "Prismatic Evolutions 44/180",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "044/131",
+    "set": "Prismatic Evolutions 044/131",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/sv8pt5/44.png"
   }
 ]
