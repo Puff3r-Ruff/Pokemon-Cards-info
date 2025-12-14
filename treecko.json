@@ -1,117 +1,140 @@
 [
   {
-    "set": "Primal Clash 6/164",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "006/160",
+    "set": "Primal Clash 006/160",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy5/6.png"
   },
   {
-    "set": "Plasma Freeze 6/122",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "006/116",
+    "set": "Plasma Freeze 006/116",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/bw9/6.png"
   },
   {
-    "set": "Celestial Storm 7/187",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "007/168",
+    "set": "Celestial Storm 007/168",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm7/7.png"
   },
   {
-    "set": "Nintendo Black Star Promos 3/40",
+    "code": "003/40",
+    "set": "Nintendo Black Star Promos 003/40",
     "cost": null,
     "img": "https://images.pokemontcg.io/np/3.png"
   },
   {
-    "set": "Celestial Storm 8/187",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "008/168",
+    "set": "Celestial Storm 008/168",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/sm7/8.png"
   },
   {
-    "set": "POP Series 4 15/17",
-    "cost": "Not PSA Graded: $8.66",
+    "code": "015/17",
+    "set": "POP Series 4 015/17",
+    "cost": "UnGraded: $8.66",
     "img": "https://images.pokemontcg.io/pop4/15.png"
   },
   {
-    "set": "Nintendo Black Star Promos 7/40",
-    "cost": "Not PSA Graded: $374.95",
+    "code": "007/40",
+    "set": "Nintendo Black Star Promos 007/40",
+    "cost": "UnGraded: $374.95",
     "img": "https://images.pokemontcg.io/np/7.png"
   },
   {
-    "set": "Lost Thunder 20/240",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "020/214",
+    "set": "Lost Thunder 020/214",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/sm8/20.png"
   },
   {
-    "set": "Nintendo Black Star Promos 16/40",
-    "cost": "Not PSA Graded: $15.31",
+    "code": "016/40",
+    "set": "Nintendo Black Star Promos 016/40",
+    "cost": "UnGraded: $15.31",
     "img": "https://images.pokemontcg.io/np/16.png"
   },
   {
-    "set": "XY Black Star Promos XY36/216",
-    "cost": "Not PSA Graded: $2.93",
+    "code": "XY36/211",
+    "set": "XY Black Star Promos XY36/211",
+    "cost": "UnGraded: $2.93",
     "img": "https://images.pokemontcg.io/xyp/XY36.png"
   },
   {
-    "set": "Emerald 70/107",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "070/106",
+    "set": "Emerald 070/106",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/ex9/70.png"
   },
   {
-    "set": "Crystal Guardians 67/100",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "067/100",
+    "set": "Crystal Guardians 067/100",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/ex14/67.png"
   },
   {
-    "set": "Crystal Guardians 68/100",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "068/100",
+    "set": "Crystal Guardians 068/100",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/ex14/68.png"
   },
   {
-    "set": "Arceus 78/111",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "078/99",
+    "set": "Arceus 078/99",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/pl4/78.png"
   },
   {
-    "set": "Arceus 79/111",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "079/99",
+    "set": "Arceus 079/99",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/pl4/79.png"
   },
   {
-    "set": "Dragon 80/100",
-    "cost": "Not PSA Graded: $1.06",
+    "code": "080/97",
+    "set": "Dragon 080/97",
+    "cost": "UnGraded: $1.06",
     "img": "https://images.pokemontcg.io/ex3/80.png"
   },
   {
-    "set": "Ruby & Sapphire 75/109",
-    "cost": "Not PSA Graded: $0.91",
+    "code": "075/109",
+    "set": "Ruby & Sapphire 075/109",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/ex1/75.png"
   },
   {
-    "set": "Ruby & Sapphire 76/109",
-    "cost": "Not PSA Graded: $1.63",
+    "code": "076/109",
+    "set": "Ruby & Sapphire 076/109",
+    "cost": "UnGraded: $1.63",
     "img": "https://images.pokemontcg.io/ex1/76.png"
   },
   {
-    "set": "Stormfront 79/106",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "079/100",
+    "set": "Stormfront 079/100",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/dp7/79.png"
   },
   {
-    "set": "Great Encounters 90/106",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "090/106",
+    "set": "Great Encounters 090/106",
+    "cost": "UnGraded: $0.78",
     "img": "https://images.pokemontcg.io/dp4/90.png"
   },
   {
-    "set": "Team Rocket Returns 109/111",
-    "cost": "Not PSA Graded: $2100",
+    "code": "109/109",
+    "set": "Team Rocket Returns 109/109",
+    "cost": "UnGraded: $2100",
     "img": "https://images.pokemontcg.io/ex7/109.png"
   },
   {
-    "set": "McDonald's Collection 2015 1/12",
+    "code": "001/12",
+    "set": "McDonald's Collection 2015 001/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd15/1.png"
   },
   {
-    "set": "McDonald's Collection 2021 3/25",
-    "cost": "Not PSA Graded: $2.13",
+    "code": "003/25",
+    "set": "McDonald's Collection 2021 003/25",
+    "cost": "UnGraded: $2.13",
     "img": "https://images.pokemontcg.io/mcd21/3.png"
   }
 ]

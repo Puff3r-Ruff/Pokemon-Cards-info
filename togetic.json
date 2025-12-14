@@ -1,77 +1,92 @@
 [
   {
-    "set": "Team Rocket Returns 14/111",
-    "cost": "Not PSA Graded: $70.28",
+    "code": "014/109",
+    "set": "Team Rocket Returns 014/109",
+    "cost": "UnGraded: $70.28",
     "img": "https://images.pokemontcg.io/ex7/14.png"
   },
   {
-    "set": "Neo Destiny 15/113",
+    "code": "015/105",
+    "set": "Neo Destiny 015/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/15.png"
   },
   {
-    "set": "Dragon Frontiers 11/101",
-    "cost": "Not PSA Graded: $16.4",
+    "code": "011/101",
+    "set": "Dragon Frontiers 011/101",
+    "cost": "UnGraded: $16.4",
     "img": "https://images.pokemontcg.io/ex15/11.png"
   },
   {
-    "set": "Neo Genesis 16/111",
+    "code": "016/111",
+    "set": "Neo Genesis 016/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/16.png"
   },
   {
-    "set": "Aquapolis H27/182",
-    "cost": "Not PSA Graded: $117.85",
+    "code": "H27/147",
+    "set": "Aquapolis H27/147",
+    "cost": "UnGraded: $117.85",
     "img": "https://images.pokemontcg.io/ecard2/H27.png"
   },
   {
-    "set": "HS—Undaunted 39/91",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "039/90",
+    "set": "HS—Undaunted 039/90",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/hgss3/39.png"
   },
   {
-    "set": "Roaring Skies 44/112",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "044/108",
+    "set": "Roaring Skies 044/108",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/xy6/44.png"
   },
   {
-    "set": "Great Encounters 55/106",
-    "cost": "Not PSA Graded: $0.96",
+    "code": "055/106",
+    "set": "Great Encounters 055/106",
+    "cost": "UnGraded: $0.96",
     "img": "https://images.pokemontcg.io/dp4/55.png"
   },
   {
-    "set": "Aquapolis 39/182",
-    "cost": "Not PSA Graded: $15.43",
+    "code": "039/147",
+    "set": "Aquapolis 039/147",
+    "cost": "UnGraded: $15.43",
     "img": "https://images.pokemontcg.io/ecard2/39.png"
   },
   {
-    "set": "Plasma Storm 103/138",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "103/135",
+    "set": "Plasma Storm 103/135",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/bw8/103.png"
   },
   {
-    "set": "Unbroken Bonds 137/234",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "137/214",
+    "set": "Unbroken Bonds 137/214",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/sm10/137.png"
   },
   {
-    "set": "Astral Radiance 56/216",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "056/189",
+    "set": "Astral Radiance 056/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh10/56.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH276/304",
-    "cost": "Not PSA Graded: $0.92",
+    "code": "SWSH276/307",
+    "set": "SWSH Black Star Promos SWSH276/307",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/swshp/SWSH276.png"
   },
   {
-    "set": "Obsidian Flames 84/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "084/197",
+    "set": "Obsidian Flames 084/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/84.png"
   },
   {
-    "set": "Surging Sparks 71/252",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "071/191",
+    "set": "Surging Sparks 071/191",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv8/71.png"
   }
 ]

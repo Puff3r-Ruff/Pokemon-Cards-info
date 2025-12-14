@@ -1,92 +1,110 @@
 [
   {
-    "set": "McDonald's Collection 2016 5/12",
+    "code": "005/12",
+    "set": "McDonald's Collection 2016 005/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd16/5.png"
   },
   {
-    "set": "Phantom Forces 15/124",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "015/119",
+    "set": "Phantom Forces 015/119",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/xy4/15.png"
   },
   {
-    "set": "Dragon Majesty 22/80",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "022/70",
+    "set": "Dragon Majesty 022/70",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/sm75/22.png"
   },
   {
-    "set": "Shining Legends 18/81",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "018/73",
+    "set": "Shining Legends 018/73",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm35/18.png"
   },
   {
-    "set": "Call of Legends 74/106",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "074/95",
+    "set": "Call of Legends 074/95",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/col1/74.png"
   },
   {
-    "set": "Unseen Forces 78/145",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "078/115",
+    "set": "Unseen Forces 078/115",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/ex10/78.png"
   },
   {
-    "set": "Dragon Frontiers 67/101",
-    "cost": "Not PSA Graded: $1.29",
+    "code": "067/101",
+    "set": "Dragon Frontiers 067/101",
+    "cost": "UnGraded: $1.29",
     "img": "https://images.pokemontcg.io/ex15/67.png"
   },
   {
-    "set": "HeartGold & SoulSilver 86/124",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "086/123",
+    "set": "HeartGold & SoulSilver 086/123",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/hgss1/86.png"
   },
   {
-    "set": "Neo Destiny 85/113",
+    "code": "085/105",
+    "set": "Neo Destiny 085/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/85.png"
   },
   {
-    "set": "Hidden Legends 79/102",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "079/101",
+    "set": "Hidden Legends 079/101",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/ex5/79.png"
   },
   {
-    "set": "Neo Genesis 80/111",
+    "code": "080/111",
+    "set": "Neo Genesis 080/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/80.png"
   },
   {
-    "set": "Neo Genesis 81/111",
+    "code": "081/111",
+    "set": "Neo Genesis 081/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/81.png"
   },
   {
-    "set": "Mysterious Treasures 106/124",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "106/123",
+    "set": "Mysterious Treasures 106/123",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/dp2/106.png"
   },
   {
+    "code": "134/165",
     "set": "Expedition Base Set 134/165",
-    "cost": "Not PSA Graded: $18.29",
+    "cost": "UnGraded: $18.29",
     "img": "https://images.pokemontcg.io/ecard1/134.png"
   },
   {
+    "code": "135/165",
     "set": "Expedition Base Set 135/165",
-    "cost": "Not PSA Graded: $8.22",
+    "cost": "UnGraded: $8.22",
     "img": "https://images.pokemontcg.io/ecard1/135.png"
   },
   {
-    "set": "McDonald's Collection 2021 18/25",
-    "cost": "Not PSA Graded: $1.98",
+    "code": "018/25",
+    "set": "McDonald's Collection 2021 018/25",
+    "cost": "UnGraded: $1.99",
     "img": "https://images.pokemontcg.io/mcd21/18.png"
   },
   {
-    "set": "Fusion Strike 55/284",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "055/264",
+    "set": "Fusion Strike 055/264",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh8/55.png"
   },
   {
-    "set": "Temporal Forces 39/218",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "039/162",
+    "set": "Temporal Forces 039/162",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sv5/39.png"
   }
 ]

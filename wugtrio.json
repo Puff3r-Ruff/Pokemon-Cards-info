@@ -1,37 +1,44 @@
 [
   {
-    "set": "Scarlet & Violet 57/258",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "057/198",
+    "set": "Scarlet & Violet 057/198",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv1/57.png"
   },
   {
-    "set": "Obsidian Flames 59/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "059/197",
+    "set": "Obsidian Flames 059/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/59.png"
   },
   {
-    "set": "Paradox Rift 53/266",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "053/182",
+    "set": "Paradox Rift 053/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv4/53.png"
   },
   {
-    "set": "Paldean Fates 122/245",
-    "cost": "Not PSA Graded: $2.14",
+    "code": "122/91",
+    "set": "Paldean Fates 122/91",
+    "cost": "UnGraded: $2.14",
     "img": "https://images.pokemontcg.io/sv4pt5/122.png"
   },
   {
-    "set": "Paldean Fates 224/245",
-    "cost": "Not PSA Graded: $1.08",
+    "code": "224/91",
+    "set": "Paldean Fates 224/91",
+    "cost": "UnGraded: $1.08",
     "img": "https://images.pokemontcg.io/sv4pt5/224.png"
   },
   {
-    "set": "Temporal Forces 60/218",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "060/162",
+    "set": "Temporal Forces 060/162",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/sv5/60.png"
   },
   {
-    "set": "Temporal Forces 190/218",
-    "cost": "Not PSA Graded: $1.22",
+    "code": "190/162",
+    "set": "Temporal Forces 190/162",
+    "cost": "UnGraded: $1.22",
     "img": "https://images.pokemontcg.io/sv5/190.png"
   }
 ]

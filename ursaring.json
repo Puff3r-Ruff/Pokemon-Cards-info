@@ -1,82 +1,98 @@
 [
   {
-    "set": "Unseen Forces 18/145",
-    "cost": "Not PSA Graded: $16.38",
+    "code": "018/115",
+    "set": "Unseen Forces 018/115",
+    "cost": "UnGraded: $16.38",
     "img": "https://images.pokemontcg.io/ex10/18.png"
   },
   {
-    "set": "Neo Destiny 21/113",
+    "code": "021/105",
+    "set": "Neo Destiny 021/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/21.png"
   },
   {
-    "set": "Neo Discovery 15/75",
+    "code": "015/75",
+    "set": "Neo Discovery 015/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/15.png"
   },
   {
-    "set": "HS—Unleashed 27/96",
-    "cost": "Not PSA Graded: $0.81",
+    "code": "027/95",
+    "set": "HS—Unleashed 027/95",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/hgss2/27.png"
   },
   {
-    "set": "Call of Legends 37/106",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "037/95",
+    "set": "Call of Legends 037/95",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/col1/37.png"
   },
   {
-    "set": "Neo Discovery 34/75",
+    "code": "034/75",
+    "set": "Neo Discovery 034/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/34.png"
   },
   {
-    "set": "Mysterious Treasures 38/124",
-    "cost": "Not PSA Graded: $1.33",
+    "code": "038/123",
+    "set": "Mysterious Treasures 038/123",
+    "cost": "UnGraded: $1.33",
     "img": "https://images.pokemontcg.io/dp2/38.png"
   },
   {
-    "set": "Plasma Blast 76/105",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "076/101",
+    "set": "Plasma Blast 076/101",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/bw10/76.png"
   },
   {
-    "set": "HS—Unleashed 89/96",
-    "cost": "Not PSA Graded: $33.49",
+    "code": "089/95",
+    "set": "HS—Unleashed 089/95",
+    "cost": "UnGraded: $33.49",
     "img": "https://images.pokemontcg.io/hgss2/89.png"
   },
   {
-    "set": "Legendary Treasures RC16/140",
-    "cost": "Not PSA Graded: $4.1",
+    "code": "RC16/113",
+    "set": "Legendary Treasures RC16/113",
+    "cost": "UnGraded: $4.1",
     "img": "https://images.pokemontcg.io/bw11/RC16.png"
   },
   {
-    "set": "BREAKthrough 122/165",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "122/162",
+    "set": "BREAKthrough 122/162",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy8/122.png"
   },
   {
-    "set": "Skyridge 110/182",
-    "cost": "Not PSA Graded: $18.13",
+    "code": "110/144",
+    "set": "Skyridge 110/144",
+    "cost": "UnGraded: $18.13",
     "img": "https://images.pokemontcg.io/ecard3/110.png"
   },
   {
-    "set": "Darkness Ablaze 139/201",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "139/189",
+    "set": "Darkness Ablaze 139/189",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh3/139.png"
   },
   {
-    "set": "Cosmic Eclipse 172/272",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "172/236",
+    "set": "Cosmic Eclipse 172/236",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm12/172.png"
   },
   {
-    "set": "Evolving Skies 127/237",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "127/203",
+    "set": "Evolving Skies 127/203",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh7/127.png"
   },
   {
-    "set": "Astral Radiance 123/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "123/189",
+    "set": "Astral Radiance 123/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh10/123.png"
   }
 ]

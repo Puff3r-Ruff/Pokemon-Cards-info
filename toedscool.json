@@ -1,57 +1,68 @@
 [
   {
-    "set": "Scarlet & Violet 24/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "024/198",
+    "set": "Scarlet & Violet 024/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/24.png"
   },
   {
-    "set": "Scarlet & Violet 25/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "025/198",
+    "set": "Scarlet & Violet 025/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/25.png"
   },
   {
-    "set": "Scarlet & Violet 201/258",
-    "cost": "Not PSA Graded: $3.77",
+    "code": "201/198",
+    "set": "Scarlet & Violet 201/198",
+    "cost": "UnGraded: $3.77",
     "img": "https://images.pokemontcg.io/sv1/201.png"
   },
   {
-    "set": "Obsidian Flames 118/230",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "118/197",
+    "set": "Obsidian Flames 118/197",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3/118.png"
   },
   {
-    "set": "Paradox Rift 15/266",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "015/182",
+    "set": "Paradox Rift 015/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv4/15.png"
   },
   {
-    "set": "Paradox Rift 16/266",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "016/182",
+    "set": "Paradox Rift 016/182",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv4/16.png"
   },
   {
-    "set": "Paldean Fates 4/245",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "004/91",
+    "set": "Paldean Fates 004/91",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv4pt5/4.png"
   },
   {
-    "set": "Paldean Fates 105/245",
-    "cost": "Not PSA Graded: $2.47",
+    "code": "105/91",
+    "set": "Paldean Fates 105/91",
+    "cost": "UnGraded: $2.47",
     "img": "https://images.pokemontcg.io/sv4pt5/105.png"
   },
   {
-    "set": "Stellar Crown 17/175",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "017/142",
+    "set": "Stellar Crown 017/142",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv7/17.png"
   },
   {
-    "set": "Journey Together 88/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "088/159",
+    "set": "Journey Together 088/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv9/88.png"
   },
   {
-    "set": "Destined Rivals 109/244",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "109/182",
+    "set": "Destined Rivals 109/182",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv10/109.png"
   }
 ]

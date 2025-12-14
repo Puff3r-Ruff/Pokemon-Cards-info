@@ -1,57 +1,68 @@
 [
   {
-    "set": "Scarlet & Violet 140/258",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "140/198",
+    "set": "Scarlet & Violet 140/198",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv1/140.png"
   },
   {
-    "set": "Scarlet & Violet 141/258",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "141/198",
+    "set": "Scarlet & Violet 141/198",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv1/141.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 26/196",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "026/215",
+    "set": "Scarlet & Violet Black Star Promos 026/215",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/svp/26.png"
   },
   {
-    "set": "Obsidian Flames 154/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "154/197",
+    "set": "Obsidian Flames 154/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/154.png"
   },
   {
-    "set": "Obsidian Flames 155/230",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "155/197",
+    "set": "Obsidian Flames 155/197",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv3/155.png"
   },
   {
-    "set": "Obsidian Flames 206/230",
-    "cost": "Not PSA Graded: $1.89",
+    "code": "206/197",
+    "set": "Obsidian Flames 206/197",
+    "cost": "UnGraded: $1.89",
     "img": "https://images.pokemontcg.io/sv3/206.png"
   },
   {
-    "set": "Paldean Fates 64/245",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "064/91",
+    "set": "Paldean Fates 064/91",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4pt5/64.png"
   },
   {
-    "set": "Paldean Fates 192/245",
-    "cost": "Not PSA Graded: $1.45",
+    "code": "192/91",
+    "set": "Paldean Fates 192/91",
+    "cost": "UnGraded: $1.45",
     "img": "https://images.pokemontcg.io/sv4pt5/192.png"
   },
   {
-    "set": "Twilight Masquerade 124/226",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "124/167",
+    "set": "Twilight Masquerade 124/167",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv6/124.png"
   },
   {
-    "set": "Shrouded Fable 43/99",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "043/64",
+    "set": "Shrouded Fable 043/64",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6pt5/43.png"
   },
   {
-    "set": "Stellar Crown 108/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "108/142",
+    "set": "Stellar Crown 108/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/108.png"
   }
 ]

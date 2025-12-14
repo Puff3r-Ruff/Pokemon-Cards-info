@@ -1,77 +1,92 @@
 [
   {
-    "set": "Guardians Rising 2/180",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "002/145",
+    "set": "Guardians Rising 002/145",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm2/2.png"
   },
   {
-    "set": "Celestial Storm 2/187",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "002/168",
+    "set": "Celestial Storm 002/168",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm7/2.png"
   },
   {
-    "set": "Furious Fists 2/114",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "002/111",
+    "set": "Furious Fists 002/111",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/xy3/2.png"
   },
   {
-    "set": "Unbroken Bonds 14/234",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "014/214",
+    "set": "Unbroken Bonds 014/214",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm10/14.png"
   },
   {
-    "set": "Legend Maker 47/93",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "047/92",
+    "set": "Legend Maker 047/92",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/ex12/47.png"
   },
   {
-    "set": "Gym Heroes 48/132",
+    "code": "048/132",
+    "set": "Gym Heroes 048/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/48.png"
   },
   {
-    "set": "Gym Heroes 49/132",
+    "code": "049/132",
+    "set": "Gym Heroes 049/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/49.png"
   },
   {
-    "set": "HS—Triumphant 53/103",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "053/102",
+    "set": "HS—Triumphant 053/102",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/hgss4/53.png"
   },
   {
-    "set": "FireRed & LeafGreen 51/116",
-    "cost": "Not PSA Graded: $1.43",
+    "code": "051/112",
+    "set": "FireRed & LeafGreen 051/112",
+    "cost": "UnGraded: $1.43",
     "img": "https://images.pokemontcg.io/ex6/51.png"
   },
   {
-    "set": "Jungle 48/64",
+    "code": "048/64",
+    "set": "Jungle 048/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/48.png"
   },
   {
-    "set": "Base Set 2 64/130",
-    "cost": "Not PSA Graded: $1.15",
+    "code": "064/130",
+    "set": "Base Set 2 064/130",
+    "cost": "UnGraded: $1.15",
     "img": "https://images.pokemontcg.io/base4/64.png"
   },
   {
-    "set": "Aquapolis 65/182",
-    "cost": "Not PSA Graded: $7.01",
+    "code": "065/147",
+    "set": "Aquapolis 065/147",
+    "cost": "UnGraded: $7.01",
     "img": "https://images.pokemontcg.io/ecard2/65.png"
   },
   {
+    "code": "127/146",
     "set": "Legends Awakened 127/146",
-    "cost": "Not PSA Graded: $0.32",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/dp6/127.png"
   },
   {
-    "set": "Battle Styles 2/183",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "002/163",
+    "set": "Battle Styles 002/163",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh5/2.png"
   },
   {
-    "set": "151 70/207",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "070/165",
+    "set": "151 070/165",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv3pt5/70.png"
   }
 ]

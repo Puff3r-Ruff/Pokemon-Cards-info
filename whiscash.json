@@ -1,57 +1,68 @@
 [
   {
-    "set": "Deoxys 28/108",
-    "cost": "Not PSA Graded: $1.34",
+    "code": "028/107",
+    "set": "Deoxys 028/107",
+    "cost": "UnGraded: $1.34",
     "img": "https://images.pokemontcg.io/ex8/28.png"
   },
   {
-    "set": "Primal Clash 40/164",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "040/160",
+    "set": "Primal Clash 040/160",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy5/40.png"
   },
   {
-    "set": "Primal Clash 41/164",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "041/160",
+    "set": "Primal Clash 041/160",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/xy5/41.png"
   },
   {
-    "set": "Mysterious Treasures 40/124",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "040/123",
+    "set": "Mysterious Treasures 040/123",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/dp2/40.png"
   },
   {
-    "set": "Dragon 48/100",
-    "cost": "Not PSA Graded: $4.61",
+    "code": "048/97",
+    "set": "Dragon 048/97",
+    "cost": "UnGraded: $4.61",
     "img": "https://images.pokemontcg.io/ex3/48.png"
   },
   {
-    "set": "Holon Phantoms 55/111",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "055/110",
+    "set": "Holon Phantoms 055/110",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/ex13/55.png"
   },
   {
-    "set": "Rising Rivals 54/120",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "054/111",
+    "set": "Rising Rivals 054/111",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/pl2/54.png"
   },
   {
-    "set": "Guardians Rising 71/180",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "071/145",
+    "set": "Guardians Rising 071/145",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm2/71.png"
   },
   {
-    "set": "Rebel Clash 100/209",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "100/192",
+    "set": "Rebel Clash 100/192",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh2/100.png"
   },
   {
-    "set": "Astral Radiance 36/216",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "036/189",
+    "set": "Astral Radiance 036/189",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh10/36.png"
   },
   {
-    "set": "Obsidian Flames 109/230",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "109/197",
+    "set": "Obsidian Flames 109/197",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv3/109.png"
   }
 ]

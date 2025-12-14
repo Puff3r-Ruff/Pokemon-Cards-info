@@ -1,107 +1,128 @@
 [
   {
-    "set": "Dragon Majesty 32/80",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "032/70",
+    "set": "Dragon Majesty 032/70",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm75/32.png"
   },
   {
-    "set": "Legend Maker 67/93",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "067/92",
+    "set": "Legend Maker 067/92",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/ex12/67.png"
   },
   {
-    "set": "Furious Fists 53/114",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "053/111",
+    "set": "Furious Fists 053/111",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy3/53.png"
   },
   {
-    "set": "Power Keepers 68/108",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "068/108",
+    "set": "Power Keepers 068/108",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/ex16/68.png"
   },
   {
-    "set": "Dragon 78/100",
-    "cost": "Not PSA Graded: $1.69",
+    "code": "078/97",
+    "set": "Dragon 078/97",
+    "cost": "UnGraded: $1.69",
     "img": "https://images.pokemontcg.io/ex3/78.png"
   },
   {
-    "set": "Dragon 79/100",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "079/97",
+    "set": "Dragon 079/97",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/ex3/79.png"
   },
   {
-    "set": "Dragon Frontiers 68/101",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "068/101",
+    "set": "Dragon Frontiers 068/101",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/ex15/68.png"
   },
   {
-    "set": "Primal Clash 82/164",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "082/160",
+    "set": "Primal Clash 082/160",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy5/82.png"
   },
   {
-    "set": "Dragon Frontiers 69/101",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "069/101",
+    "set": "Dragon Frontiers 069/101",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/ex15/69.png"
   },
   {
-    "set": "Boundaries Crossed 83/153",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "083/149",
+    "set": "Boundaries Crossed 083/149",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/bw7/83.png"
   },
   {
-    "set": "Holon Phantoms 84/111",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "084/110",
+    "set": "Holon Phantoms 084/110",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/ex13/84.png"
   },
   {
-    "set": "Rising Rivals 84/120",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "084/111",
+    "set": "Rising Rivals 084/111",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/pl2/84.png"
   },
   {
-    "set": "Sandstorm 82/100",
-    "cost": "Not PSA Graded: $1",
+    "code": "082/100",
+    "set": "Sandstorm 082/100",
+    "cost": "UnGraded: $1",
     "img": "https://images.pokemontcg.io/ex2/82.png"
   },
   {
-    "set": "Darkness Ablaze 89/201",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "089/189",
+    "set": "Darkness Ablaze 089/189",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh3/89.png"
   },
   {
-    "set": "Cosmic Eclipse 107/272",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "107/236",
+    "set": "Cosmic Eclipse 107/236",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm12/107.png"
   },
   {
-    "set": "Cosmic Eclipse 108/272",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "108/236",
+    "set": "Cosmic Eclipse 108/236",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm12/108.png"
   },
   {
+    "code": "115/132",
     "set": "Secret Wonders 115/132",
-    "cost": "Not PSA Graded: $0.35",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/dp3/115.png"
   },
   {
-    "set": "Shining Fates 40/73",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "040/72",
+    "set": "Shining Fates 040/72",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh45/40.png"
   },
   {
-    "set": "Brilliant Stars 74/186",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "074/172",
+    "set": "Brilliant Stars 074/172",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh9/74.png"
   },
   {
-    "set": "Surging Sparks 104/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "104/191",
+    "set": "Surging Sparks 104/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/104.png"
   },
   {
-    "set": "Phantasmal Flames 51/130",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "051/94",
+    "set": "Phantasmal Flames 051/94",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/me2/51.png"
   }
 ]

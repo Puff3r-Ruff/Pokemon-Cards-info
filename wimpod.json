@@ -1,47 +1,56 @@
 [
   {
-    "set": "Guardians Rising 8/180",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "008/145",
+    "set": "Guardians Rising 008/145",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm2/8.png"
   },
   {
+    "code": "SV4/94",
     "set": "Hidden Fates Shiny Vault SV4/94",
-    "cost": "Not PSA Graded: $1.51",
+    "cost": "UnGraded: $1.51",
     "img": "https://images.pokemontcg.io/sma/SV4.png"
   },
   {
-    "set": "Burning Shadows 16/177",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "016/147",
+    "set": "Burning Shadows 016/147",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm3/16.png"
   },
   {
-    "set": "Darkness Ablaze 17/201",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "017/189",
+    "set": "Darkness Ablaze 017/189",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh3/17.png"
   },
   {
-    "set": "Unified Minds 50/260",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "050/236",
+    "set": "Unified Minds 050/236",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm11/50.png"
   },
   {
-    "set": "Pokémon GO 25/88",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "025/78",
+    "set": "Pokémon GO 025/78",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/pgo/25.png"
   },
   {
-    "set": "Paradox Rift 47/266",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "047/182",
+    "set": "Paradox Rift 047/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4/47.png"
   },
   {
-    "set": "Paradox Rift 48/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "048/182",
+    "set": "Paradox Rift 048/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/48.png"
   },
   {
-    "set": "Paradox Rift 191/266",
-    "cost": "Not PSA Graded: $5.76",
+    "code": "191/182",
+    "set": "Paradox Rift 191/182",
+    "cost": "UnGraded: $5.76",
     "img": "https://images.pokemontcg.io/sv4/191.png"
   }
 ]

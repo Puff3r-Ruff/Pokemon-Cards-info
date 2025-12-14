@@ -1,127 +1,152 @@
 [
   {
-    "set": "Primal Clash 1/164",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "001/160",
+    "set": "Primal Clash 001/160",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/xy5/1.png"
   },
   {
-    "set": "Team Up 2/198",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "002/181",
+    "set": "Team Up 002/181",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm9/2.png"
   },
   {
-    "set": "Champion's Path 2/80",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "002/73",
+    "set": "Champion's Path 002/73",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh35/2.png"
   },
   {
-    "set": "Team Up 3/198",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "003/181",
+    "set": "Team Up 003/181",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm9/3.png"
   },
   {
-    "set": "Plasma Freeze 1/122",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "001/116",
+    "set": "Plasma Freeze 001/116",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/bw9/1.png"
   },
   {
-    "set": "Vivid Voltage 1/203",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "001/185",
+    "set": "Vivid Voltage 001/185",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh4/1.png"
   },
   {
-    "set": "XY 3/146",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "003/146",
+    "set": "XY 003/146",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy1/3.png"
   },
   {
-    "set": "Kalos Starter Set 1/39",
-    "cost": "Not PSA Graded: $1.35",
+    "code": "001/39",
+    "set": "Kalos Starter Set 001/39",
+    "cost": "UnGraded: $1.35",
     "img": "https://images.pokemontcg.io/xy0/1.png"
   },
   {
-    "set": "Crimson Invasion 1/126",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "001/111",
+    "set": "Crimson Invasion 001/111",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm4/1.png"
   },
   {
-    "set": "Evolutions 5/113",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "005/108",
+    "set": "Evolutions 005/108",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/xy12/5.png"
   },
   {
-    "set": "Base 69/102",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "069/102",
+    "set": "Base 069/102",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/base1/69.png"
   },
   {
-    "set": "HS—Unleashed 69/96",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "069/95",
+    "set": "HS—Unleashed 069/95",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/hgss2/69.png"
   },
   {
-    "set": "Neo Discovery 70/75",
+    "code": "070/75",
+    "set": "Neo Discovery 070/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/70.png"
   },
   {
-    "set": "Gym Challenge 82/132",
+    "code": "082/132",
+    "set": "Gym Challenge 082/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/82.png"
   },
   {
-    "set": "Rising Rivals 86/120",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "086/111",
+    "set": "Rising Rivals 086/111",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/pl2/86.png"
   },
   {
-    "set": "FireRed & LeafGreen 86/116",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "086/112",
+    "set": "FireRed & LeafGreen 086/112",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/ex6/86.png"
   },
   {
-    "set": "Delta Species 87/114",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "087/113",
+    "set": "Delta Species 087/113",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/ex11/87.png"
   },
   {
+    "code": "100/130",
     "set": "Base Set 2 100/130",
-    "cost": "Not PSA Graded: $0.4",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/base4/100.png"
   },
   {
-    "set": "Great Encounters 93/106",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "093/106",
+    "set": "Great Encounters 093/106",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/dp4/93.png"
   },
   {
-    "set": "Legendary Collection 99/110",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "099/110",
+    "set": "Legendary Collection 099/110",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/base6/99.png"
   },
   {
-    "set": "Skyridge 114/182",
-    "cost": "Not PSA Graded: $25.76",
+    "code": "114/144",
+    "set": "Skyridge 114/144",
+    "cost": "UnGraded: $25.76",
     "img": "https://images.pokemontcg.io/ecard3/114.png"
   },
   {
-    "set": "Skyridge 115/182",
-    "cost": "Not PSA Graded: $24.89",
+    "code": "115/144",
+    "set": "Skyridge 115/144",
+    "cost": "UnGraded: $24.89",
     "img": "https://images.pokemontcg.io/ecard3/115.png"
   },
   {
-    "set": "Chilling Reign 1/233",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "001/198",
+    "set": "Chilling Reign 001/198",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh6/1.png"
   },
   {
-    "set": "McDonald's Collection 2014 1/12",
+    "code": "001/12",
+    "set": "McDonald's Collection 2014 001/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd14/1.png"
   },
   {
-    "set": "151 13/207",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "013/165",
+    "set": "151 013/165",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3pt5/13.png"
   }
 ]

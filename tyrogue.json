@@ -1,42 +1,50 @@
 [
   {
-    "set": "HeartGold & SoulSilver 33/124",
-    "cost": "Not PSA Graded: $2.86",
+    "code": "033/123",
+    "set": "HeartGold & SoulSilver 033/123",
+    "cost": "UnGraded: $2.86",
     "img": "https://images.pokemontcg.io/hgss1/33.png"
   },
   {
-    "set": "Unseen Forces 33/145",
-    "cost": "Not PSA Graded: $4.95",
+    "code": "033/115",
+    "set": "Unseen Forces 033/115",
+    "cost": "UnGraded: $4.95",
     "img": "https://images.pokemontcg.io/ex10/33.png"
   },
   {
-    "set": "Call of Legends 36/106",
-    "cost": "Not PSA Graded: $1.85",
+    "code": "036/95",
+    "set": "Call of Legends 036/95",
+    "cost": "UnGraded: $1.85",
     "img": "https://images.pokemontcg.io/col1/36.png"
   },
   {
-    "set": "Neo Discovery 66/75",
+    "code": "066/75",
+    "set": "Neo Discovery 066/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/66.png"
   },
   {
-    "set": "Aquapolis 63/182",
-    "cost": "Not PSA Graded: $23.75",
+    "code": "063/147",
+    "set": "Aquapolis 063/147",
+    "cost": "UnGraded: $23.75",
     "img": "https://images.pokemontcg.io/ecard2/63.png"
   },
   {
-    "set": "Unbroken Bonds 100/234",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "100/214",
+    "set": "Unbroken Bonds 100/214",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/sm10/100.png"
   },
   {
+    "code": "126/146",
     "set": "Legends Awakened 126/146",
-    "cost": "Not PSA Graded: $0.81",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/dp6/126.png"
   },
   {
-    "set": "Mega Evolution 71/188",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "071/132",
+    "set": "Mega Evolution 071/132",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me1/71.png"
   }
 ]

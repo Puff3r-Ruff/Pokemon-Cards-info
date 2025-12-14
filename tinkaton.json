@@ -1,47 +1,56 @@
 [
   {
-    "set": "Paldea Evolved 105/279",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "105/193",
+    "set": "Paldea Evolved 105/193",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv2/105.png"
   },
   {
-    "set": "Paldea Evolved 240/279",
-    "cost": "Not PSA Graded: $6.82",
+    "code": "240/193",
+    "set": "Paldea Evolved 240/193",
+    "cost": "UnGraded: $6.82",
     "img": "https://images.pokemontcg.io/sv2/240.png"
   },
   {
-    "set": "Paldea Evolved 262/279",
-    "cost": "Not PSA Graded: $35.28",
+    "code": "262/193",
+    "set": "Paldea Evolved 262/193",
+    "cost": "UnGraded: $35.28",
     "img": "https://images.pokemontcg.io/sv2/262.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 20/196",
-    "cost": "Not PSA Graded: $3.37",
+    "code": "020/215",
+    "set": "Scarlet & Violet Black Star Promos 020/215",
+    "cost": "UnGraded: $3.37",
     "img": "https://images.pokemontcg.io/svp/20.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 31/196",
-    "cost": "Not PSA Graded: $9.29",
+    "code": "031/215",
+    "set": "Scarlet & Violet Black Star Promos 031/215",
+    "cost": "UnGraded: $9.29",
     "img": "https://images.pokemontcg.io/svp/31.png"
   },
   {
-    "set": "Paradox Rift 85/266",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "085/182",
+    "set": "Paradox Rift 085/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv4/85.png"
   },
   {
-    "set": "Paldean Fates 167/245",
-    "cost": "Not PSA Graded: $5.97",
+    "code": "167/91",
+    "set": "Paldean Fates 167/91",
+    "cost": "UnGraded: $5.97",
     "img": "https://images.pokemontcg.io/sv4pt5/167.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 140/196",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "140/215",
+    "set": "Scarlet & Violet Black Star Promos 140/215",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/svp/140.png"
   },
   {
-    "set": "Mega Evolution 98/188",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "098/132",
+    "set": "Mega Evolution 098/132",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me1/98.png"
   }
 ]

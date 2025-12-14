@@ -1,32 +1,38 @@
 [
   {
-    "set": "Plasma Blast 27/105",
-    "cost": "Not PSA Graded: $1.41",
+    "code": "027/101",
+    "set": "Plasma Blast 027/101",
+    "cost": "UnGraded: $1.41",
     "img": "https://images.pokemontcg.io/bw10/27.png"
   },
   {
-    "set": "Noble Victories 25/102",
-    "cost": "Not PSA Graded: $1.49",
+    "code": "025/101",
+    "set": "Noble Victories 025/101",
+    "cost": "UnGraded: $1.49",
     "img": "https://images.pokemontcg.io/bw3/25.png"
   },
   {
-    "set": "Unified Minds 44/260",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "044/236",
+    "set": "Unified Minds 044/236",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm11/44.png"
   },
   {
-    "set": "Stellar Crown 37/175",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "037/142",
+    "set": "Stellar Crown 037/142",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv7/37.png"
   },
   {
-    "set": "Black Bolt 22/172",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "022/86",
+    "set": "Black Bolt 022/86",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/zsv10pt5/22.png"
   },
   {
-    "set": "Black Bolt 106/172",
-    "cost": "Not PSA Graded: $13.73",
+    "code": "106/86",
+    "set": "Black Bolt 106/86",
+    "cost": "UnGraded: $13.73",
     "img": "https://images.pokemontcg.io/zsv10pt5/106.png"
   }
 ]

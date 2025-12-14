@@ -1,47 +1,56 @@
 [
   {
-    "set": "Scarlet & Violet 77/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "077/198",
+    "set": "Scarlet & Violet 077/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/77.png"
   },
   {
-    "set": "Scarlet & Violet 78/258",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "078/198",
+    "set": "Scarlet & Violet 078/198",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv1/78.png"
   },
   {
-    "set": "Paldea Evolved 81/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "081/193",
+    "set": "Paldea Evolved 081/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/81.png"
   },
   {
-    "set": "Paldea Evolved 80/279",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "080/193",
+    "set": "Paldea Evolved 080/193",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv2/80.png"
   },
   {
-    "set": "Paldean Fates 145/245",
-    "cost": "Not PSA Graded: $2.46",
+    "code": "145/91",
+    "set": "Paldean Fates 145/91",
+    "cost": "UnGraded: $2.46",
     "img": "https://images.pokemontcg.io/sv4pt5/145.png"
   },
   {
-    "set": "Twilight Masquerade 75/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "075/167",
+    "set": "Twilight Masquerade 075/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/75.png"
   },
   {
-    "set": "Twilight Masquerade 178/226",
-    "cost": "Not PSA Graded: $2.72",
+    "code": "178/167",
+    "set": "Twilight Masquerade 178/167",
+    "cost": "UnGraded: $2.72",
     "img": "https://images.pokemontcg.io/sv6/178.png"
   },
   {
-    "set": "Surging Sparks 66/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "066/191",
+    "set": "Surging Sparks 066/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/66.png"
   },
   {
-    "set": "Journey Together 54/190",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "054/159",
+    "set": "Journey Together 054/159",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv9/54.png"
   }
 ]

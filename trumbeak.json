@@ -1,17 +1,20 @@
 [
   {
-    "set": "Sun & Moon 107/173",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "107/149",
+    "set": "Sun & Moon 107/149",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm1/107.png"
   },
   {
-    "set": "Vivid Voltage 144/203",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "144/185",
+    "set": "Vivid Voltage 144/185",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh4/144.png"
   },
   {
-    "set": "Lost Thunder 165/240",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "165/214",
+    "set": "Lost Thunder 165/214",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/sm8/165.png"
   }
 ]

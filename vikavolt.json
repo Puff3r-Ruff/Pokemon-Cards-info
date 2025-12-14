@@ -1,67 +1,80 @@
 [
   {
-    "set": "SM Black Star Promos SM28/250",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "SM28/248",
+    "set": "SM Black Star Promos SM28/248",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/smp/SM28.png"
   },
   {
-    "set": "Guardians Rising 45/180",
-    "cost": "Not PSA Graded: $1.4",
+    "code": "045/145",
+    "set": "Guardians Rising 045/145",
+    "cost": "UnGraded: $1.4",
     "img": "https://images.pokemontcg.io/sm2/45.png"
   },
   {
-    "set": "Sun & Moon 52/173",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "052/149",
+    "set": "Sun & Moon 052/149",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/sm1/52.png"
   },
   {
-    "set": "Darkness Ablaze 60/201",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "060/189",
+    "set": "Darkness Ablaze 060/189",
+    "cost": "UnGraded: $0.78",
     "img": "https://images.pokemontcg.io/swsh3/60.png"
   },
   {
-    "set": "Unbroken Bonds 59/234",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "059/214",
+    "set": "Unbroken Bonds 059/214",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/sm10/59.png"
   },
   {
-    "set": "Rebel Clash 66/209",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "066/192",
+    "set": "Rebel Clash 066/192",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/swsh2/66.png"
   },
   {
-    "set": "Guardians Rising 134/180",
-    "cost": "Not PSA Graded: $3",
+    "code": "134/145",
+    "set": "Guardians Rising 134/145",
+    "cost": "UnGraded: $3",
     "img": "https://images.pokemontcg.io/sm2/134.png"
   },
   {
-    "set": "Guardians Rising 152/180",
-    "cost": "Not PSA Graded: $9.61",
+    "code": "152/145",
+    "set": "Guardians Rising 152/145",
+    "cost": "UnGraded: $9.61",
     "img": "https://images.pokemontcg.io/sm2/152.png"
   },
   {
-    "set": "Darkness Ablaze 180/201",
-    "cost": "Not PSA Graded: $1.52",
+    "code": "180/189",
+    "set": "Darkness Ablaze 180/189",
+    "cost": "UnGraded: $1.52",
     "img": "https://images.pokemontcg.io/swsh3/180.png"
   },
   {
-    "set": "SM Black Star Promos SM208/250",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "SM208/248",
+    "set": "SM Black Star Promos SM208/248",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/smp/SM208.png"
   },
   {
-    "set": "Fusion Strike 101/284",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "101/264",
+    "set": "Fusion Strike 101/264",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh8/101.png"
   },
   {
-    "set": "Temporal Forces 56/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "056/162",
+    "set": "Temporal Forces 056/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/56.png"
   },
   {
-    "set": "Stellar Crown 53/175",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "053/142",
+    "set": "Stellar Crown 053/142",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv7/53.png"
   }
 ]

@@ -1,67 +1,80 @@
 [
   {
-    "set": "SM Black Star Promos SM09/250",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "SM09/248",
+    "set": "SM Black Star Promos SM09/248",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/smp/SM09.png"
   },
   {
-    "set": "Burning Shadows 47/177",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "047/147",
+    "set": "Burning Shadows 047/147",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm3/47.png"
   },
   {
-    "set": "SM Black Star Promos SM44/250",
-    "cost": "Not PSA Graded: $3.43",
+    "code": "SM44/248",
+    "set": "SM Black Star Promos SM44/248",
+    "cost": "UnGraded: $3.43",
     "img": "https://images.pokemontcg.io/smp/SM44.png"
   },
   {
-    "set": "Sun & Moon 53/173",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "053/149",
+    "set": "Sun & Moon 053/149",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm1/53.png"
   },
   {
-    "set": "Cosmic Eclipse 73/272",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "073/236",
+    "set": "Cosmic Eclipse 073/236",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm12/73.png"
   },
   {
-    "set": "Cosmic Eclipse 74/272",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "074/236",
+    "set": "Cosmic Eclipse 074/236",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm12/74.png"
   },
   {
-    "set": "Fusion Strike 187/284",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "187/264",
+    "set": "Fusion Strike 187/264",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh8/187.png"
   },
   {
-    "set": "Silver Tempest 127/215",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "127/195",
+    "set": "Silver Tempest 127/195",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12/127.png"
   },
   {
-    "set": "Obsidian Flames 151/230",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "151/197",
+    "set": "Obsidian Flames 151/197",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv3/151.png"
   },
   {
-    "set": "Stellar Crown 54/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "054/142",
+    "set": "Stellar Crown 054/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/54.png"
   },
   {
-    "set": "Journey Together 50/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "050/159",
+    "set": "Journey Together 050/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/50.png"
   },
   {
-    "set": "Phantasmal Flames 73/130",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "073/94",
+    "set": "Phantasmal Flames 073/94",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me2/73.png"
   },
   {
-    "set": "Phantasmal Flames 104/130",
-    "cost": "Not PSA Graded: $2.05",
+    "code": "104/94",
+    "set": "Phantasmal Flames 104/94",
+    "cost": "UnGraded: $2.05",
     "img": "https://images.pokemontcg.io/me2/104.png"
   }
 ]

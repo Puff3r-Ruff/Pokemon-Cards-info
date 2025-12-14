@@ -1,67 +1,80 @@
 [
   {
-    "set": "Fates Collide 3/129",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "003/124",
+    "set": "Fates Collide 003/124",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy10/3.png"
   },
   {
-    "set": "POP Series 7 10/17",
-    "cost": "Not PSA Graded: $4.57",
+    "code": "010/17",
+    "set": "POP Series 7 010/17",
+    "cost": "UnGraded: $4.57",
     "img": "https://images.pokemontcg.io/pop7/10.png"
   },
   {
-    "set": "Secret Wonders 41/132",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "041/132",
+    "set": "Secret Wonders 041/132",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/dp3/41.png"
   },
   {
-    "set": "Secret Wonders 42/132",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "042/132",
+    "set": "Secret Wonders 042/132",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/dp3/42.png"
   },
   {
-    "set": "Secret Wonders 43/132",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "043/132",
+    "set": "Secret Wonders 043/132",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/dp3/43.png"
   },
   {
-    "set": "Fates Collide 44/129",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "044/124",
+    "set": "Fates Collide 044/124",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy10/44.png"
   },
   {
-    "set": "Arceus 49/111",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "049/99",
+    "set": "Arceus 049/99",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/pl4/49.png"
   },
   {
-    "set": "Arceus 50/111",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "050/99",
+    "set": "Arceus 050/99",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/pl4/50.png"
   },
   {
-    "set": "Arceus 51/111",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "051/99",
+    "set": "Arceus 051/99",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/pl4/51.png"
   },
   {
-    "set": "Fates Collide 59/129",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "059/124",
+    "set": "Fates Collide 059/124",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy10/59.png"
   },
   {
-    "set": "Brilliant Stars 10/186",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "010/172",
+    "set": "Brilliant Stars 010/172",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh9/10.png"
   },
   {
-    "set": "Brilliant Stars 77/186",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "077/172",
+    "set": "Brilliant Stars 077/172",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh9/77.png"
   },
   {
-    "set": "Brilliant Stars 98/186",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "098/172",
+    "set": "Brilliant Stars 098/172",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh9/98.png"
   }
 ]

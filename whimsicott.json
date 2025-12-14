@@ -1,117 +1,140 @@
 [
   {
-    "set": "Sword & Shield 6/216",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "006/202",
+    "set": "Sword & Shield 006/202",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh1/6.png"
   },
   {
-    "set": "Boundaries Crossed 15/153",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "015/149",
+    "set": "Boundaries Crossed 015/149",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/bw7/15.png"
   },
   {
-    "set": "Emerging Powers 11/98",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "011/98",
+    "set": "Emerging Powers 011/98",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/bw2/11.png"
   },
   {
-    "set": "Emerging Powers 12/98",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "012/98",
+    "set": "Emerging Powers 012/98",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/bw2/12.png"
   },
   {
-    "set": "Ancient Origins 56/100",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "056/98",
+    "set": "Ancient Origins 056/98",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy7/56.png"
   },
   {
-    "set": "Fates Collide 71/129",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "071/124",
+    "set": "Fates Collide 071/124",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/xy10/71.png"
   },
   {
-    "set": "Vivid Voltage 76/203",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "076/185",
+    "set": "Vivid Voltage 076/185",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh4/76.png"
   },
   {
-    "set": "Guardians Rising 91/180",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "091/145",
+    "set": "Guardians Rising 091/145",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm2/91.png"
   },
   {
-    "set": "Cosmic Eclipse 148/272",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "148/236",
+    "set": "Cosmic Eclipse 148/236",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/sm12/148.png"
   },
   {
-    "set": "Unbroken Bonds 140/234",
-    "cost": "Not PSA Graded: $2.81",
+    "code": "140/214",
+    "set": "Unbroken Bonds 140/214",
+    "cost": "UnGraded: $2.81",
     "img": "https://images.pokemontcg.io/sm10/140.png"
   },
   {
-    "set": "Unified Minds 144/260",
-    "cost": "Not PSA Graded: $1.88",
+    "code": "144/236",
+    "set": "Unified Minds 144/236",
+    "cost": "UnGraded: $1.88",
     "img": "https://images.pokemontcg.io/sm11/144.png"
   },
   {
-    "set": "Unbroken Bonds 206/234",
-    "cost": "Not PSA Graded: $6.91",
+    "code": "206/214",
+    "set": "Unbroken Bonds 206/214",
+    "cost": "UnGraded: $6.91",
     "img": "https://images.pokemontcg.io/sm10/206.png"
   },
   {
-    "set": "Unbroken Bonds 226/234",
-    "cost": "Not PSA Graded: $13.21",
+    "code": "226/214",
+    "set": "Unbroken Bonds 226/214",
+    "cost": "UnGraded: $13.21",
     "img": "https://images.pokemontcg.io/sm10/226.png"
   },
   {
-    "set": "Brilliant Stars 64/186",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "064/172",
+    "set": "Brilliant Stars 064/172",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/swsh9/64.png"
   },
   {
-    "set": "Brilliant Stars 65/186",
-    "cost": "Not PSA Graded: $0.94",
+    "code": "065/172",
+    "set": "Brilliant Stars 065/172",
+    "cost": "UnGraded: $0.94",
     "img": "https://images.pokemontcg.io/swsh9/65.png"
   },
   {
-    "set": "Brilliant Stars 160/186",
-    "cost": "Not PSA Graded: $1.48",
+    "code": "160/172",
+    "set": "Brilliant Stars 160/172",
+    "cost": "UnGraded: $1.48",
     "img": "https://images.pokemontcg.io/swsh9/160.png"
   },
   {
-    "set": "Brilliant Stars 175/186",
-    "cost": "Not PSA Graded: $5.09",
+    "code": "175/172",
+    "set": "Brilliant Stars 175/172",
+    "cost": "UnGraded: $5.09",
     "img": "https://images.pokemontcg.io/swsh9/175.png"
   },
   {
-    "set": "Paldean Fates 35/245",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "035/91",
+    "set": "Paldean Fates 035/91",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4pt5/35.png"
   },
   {
-    "set": "Temporal Forces 15/218",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "015/162",
+    "set": "Temporal Forces 015/162",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv5/15.png"
   },
   {
-    "set": "Prismatic Evolutions 8/180",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "008/131",
+    "set": "Prismatic Evolutions 008/131",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv8pt5/8.png"
   },
   {
-    "set": "White Flare 5/173",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "005/86",
+    "set": "White Flare 005/86",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/rsv10pt5/5.png"
   },
   {
-    "set": "White Flare 157/173",
-    "cost": "Not PSA Graded: $1.1",
+    "code": "157/86",
+    "set": "White Flare 157/86",
+    "cost": "UnGraded: $1.1",
     "img": "https://images.pokemontcg.io/rsv10pt5/157.png"
   },
   {
-    "set": "White Flare 165/173",
-    "cost": "Not PSA Graded: $34.49",
+    "code": "165/86",
+    "set": "White Flare 165/86",
+    "cost": "UnGraded: $34.49",
     "img": "https://images.pokemontcg.io/rsv10pt5/165.png"
   }
 ]

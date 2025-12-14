@@ -1,72 +1,86 @@
 [
   {
-    "set": "Dragons Exalted 25/128",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "025/124",
+    "set": "Dragons Exalted 025/124",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/bw6/25.png"
   },
   {
-    "set": "Guardians Rising 29/180",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "029/145",
+    "set": "Guardians Rising 029/145",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm2/29.png"
   },
   {
-    "set": "Vivid Voltage 31/203",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "031/185",
+    "set": "Vivid Voltage 031/185",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh4/31.png"
   },
   {
-    "set": "Celestial Storm 39/187",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "039/168",
+    "set": "Celestial Storm 039/168",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm7/39.png"
   },
   {
-    "set": "Cosmic Eclipse 45/272",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "045/236",
+    "set": "Cosmic Eclipse 045/236",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/sm12/45.png"
   },
   {
-    "set": "HS—Triumphant 52/103",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "052/102",
+    "set": "HS—Triumphant 052/102",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/hgss4/52.png"
   },
   {
-    "set": "Ruby & Sapphire 48/109",
-    "cost": "Not PSA Graded: $1.12",
+    "code": "048/109",
+    "set": "Ruby & Sapphire 048/109",
+    "cost": "UnGraded: $1.12",
     "img": "https://images.pokemontcg.io/ex1/48.png"
   },
   {
-    "set": "Legend Maker 69/93",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "069/92",
+    "set": "Legend Maker 069/92",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/ex12/69.png"
   },
   {
-    "set": "Great Encounters 58/106",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "058/106",
+    "set": "Great Encounters 058/106",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/dp4/58.png"
   },
   {
-    "set": "Sandstorm 83/100",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "083/100",
+    "set": "Sandstorm 083/100",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/ex2/83.png"
   },
   {
-    "set": "Supreme Victors 87/153",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "087/147",
+    "set": "Supreme Victors 087/147",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/pl3/87.png"
   },
   {
-    "set": "Silver Tempest 37/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "037/195",
+    "set": "Silver Tempest 037/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/37.png"
   },
   {
-    "set": "Crown Zenith 31/160",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "031/159",
+    "set": "Crown Zenith 031/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12pt5/31.png"
   },
   {
-    "set": "Journey Together 40/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "040/159",
+    "set": "Journey Together 040/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv9/40.png"
   }
 ]

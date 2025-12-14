@@ -1,52 +1,62 @@
 [
   {
-    "set": "Roaring Skies 79/112",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "079/108",
+    "set": "Roaring Skies 079/108",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy6/79.png"
   },
   {
-    "set": "Black & White 85/115",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "085/114",
+    "set": "Black & White 085/114",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/bw1/85.png"
   },
   {
-    "set": "Emerging Powers 81/98",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "081/98",
+    "set": "Emerging Powers 081/98",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/bw2/81.png"
   },
   {
-    "set": "Boundaries Crossed 124/153",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "124/149",
+    "set": "Boundaries Crossed 124/149",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/bw7/124.png"
   },
   {
-    "set": "Rebel Clash 144/209",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "144/192",
+    "set": "Rebel Clash 144/192",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh2/144.png"
   },
   {
-    "set": "Unified Minds 175/260",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "175/236",
+    "set": "Unified Minds 175/236",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm11/175.png"
   },
   {
-    "set": "Pokémon GO 62/88",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "062/78",
+    "set": "Pokémon GO 062/78",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/pgo/62.png"
   },
   {
-    "set": "Temporal Forces 134/218",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "134/162",
+    "set": "Temporal Forces 134/162",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv5/134.png"
   },
   {
-    "set": "Black Bolt 72/172",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "072/86",
+    "set": "Black Bolt 072/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/zsv10pt5/72.png"
   },
   {
-    "set": "Black Bolt 149/172",
-    "cost": "Not PSA Graded: $4.45",
+    "code": "149/86",
+    "set": "Black Bolt 149/86",
+    "cost": "UnGraded: $4.45",
     "img": "https://images.pokemontcg.io/zsv10pt5/149.png"
   }
 ]

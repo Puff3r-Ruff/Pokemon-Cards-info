@@ -1,67 +1,80 @@
 [
   {
-    "set": "Phantom Forces 1/124",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "001/119",
+    "set": "Phantom Forces 001/119",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy4/1.png"
   },
   {
-    "set": "Unbroken Bonds 9/234",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "009/214",
+    "set": "Unbroken Bonds 009/214",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm10/9.png"
   },
   {
-    "set": "Unbroken Bonds 10/234",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "010/214",
+    "set": "Unbroken Bonds 010/214",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm10/10.png"
   },
   {
-    "set": "Jungle 63/64",
+    "code": "063/64",
+    "set": "Jungle 063/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/63.png"
   },
   {
-    "set": "HS—Triumphant 81/103",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "081/102",
+    "set": "HS—Triumphant 081/102",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/hgss4/81.png"
   },
   {
-    "set": "FireRed & LeafGreen 84/116",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "084/112",
+    "set": "FireRed & LeafGreen 084/112",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/ex6/84.png"
   },
   {
-    "set": "Neo Destiny 90/113",
+    "code": "090/105",
+    "set": "Neo Destiny 090/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/90.png"
   },
   {
-    "set": "Gym Heroes 96/132",
+    "code": "096/132",
+    "set": "Gym Heroes 096/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/96.png"
   },
   {
-    "set": "Base Set 2 97/130",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "097/130",
+    "set": "Base Set 2 097/130",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/base4/97.png"
   },
   {
+    "code": "116/132",
     "set": "Secret Wonders 116/132",
-    "cost": "Not PSA Graded: $0.26",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/dp3/116.png"
   },
   {
-    "set": "Skyridge 112/182",
-    "cost": "Not PSA Graded: $11.33",
+    "code": "112/144",
+    "set": "Skyridge 112/144",
+    "cost": "UnGraded: $11.33",
     "img": "https://images.pokemontcg.io/ecard3/112.png"
   },
   {
-    "set": "Silver Tempest 1/215",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "001/195",
+    "set": "Silver Tempest 001/195",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12/1.png"
   },
   {
-    "set": "151 48/207",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "048/165",
+    "set": "151 048/165",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3pt5/48.png"
   }
 ]

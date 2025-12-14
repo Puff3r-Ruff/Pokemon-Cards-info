@@ -1,52 +1,62 @@
 [
   {
-    "set": "Astral Radiance 124/216",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "124/189",
+    "set": "Astral Radiance 124/189",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh10/124.png"
   },
   {
-    "set": "Silver Tempest 102/215",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "102/195",
+    "set": "Silver Tempest 102/195",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/swsh12/102.png"
   },
   {
-    "set": "Twilight Masquerade 141/226",
-    "cost": "Not PSA Graded: $2.39",
+    "code": "141/167",
+    "set": "Twilight Masquerade 141/167",
+    "cost": "UnGraded: $2.39",
     "img": "https://images.pokemontcg.io/sv6/141.png"
   },
   {
-    "set": "Twilight Masquerade 202/226",
-    "cost": "Not PSA Graded: $3.25",
+    "code": "202/167",
+    "set": "Twilight Masquerade 202/167",
+    "cost": "UnGraded: $3.25",
     "img": "https://images.pokemontcg.io/sv6/202.png"
   },
   {
-    "set": "Twilight Masquerade 216/226",
-    "cost": "Not PSA Graded: $36.4",
+    "code": "216/167",
+    "set": "Twilight Masquerade 216/167",
+    "cost": "UnGraded: $36.4",
     "img": "https://images.pokemontcg.io/sv6/216.png"
   },
   {
-    "set": "Twilight Masquerade 222/226",
-    "cost": "Not PSA Graded: $6.85",
+    "code": "222/167",
+    "set": "Twilight Masquerade 222/167",
+    "cost": "UnGraded: $6.85",
     "img": "https://images.pokemontcg.io/sv6/222.png"
   },
   {
-    "set": "Shrouded Fable 25/99",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "025/64",
+    "set": "Shrouded Fable 025/64",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sv6pt5/25.png"
   },
   {
-    "set": "Prismatic Evolutions 54/180",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "054/131",
+    "set": "Prismatic Evolutions 054/131",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv8pt5/54.png"
   },
   {
-    "set": "Prismatic Evolutions 168/180",
-    "cost": "Not PSA Graded: $65.37",
+    "code": "168/131",
+    "set": "Prismatic Evolutions 168/131",
+    "cost": "UnGraded: $65.37",
     "img": "https://images.pokemontcg.io/sv8pt5/168.png"
   },
   {
-    "set": "Scarlet & Violet Promos 177/148",
-    "cost": "Not PSA Graded: $1.69",
+    "code": "177/150",
+    "set": "Scarlet & Violet Promos 177/150",
+    "cost": "UnGraded: $1.69",
     "img": "https://images.pokemontcg.io/svp/177.png"
   }
 ]

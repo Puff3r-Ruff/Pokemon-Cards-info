@@ -1,32 +1,38 @@
 [
   {
-    "set": "Team Up 21/198",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "021/181",
+    "set": "Team Up 021/181",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm9/21.png"
   },
   {
-    "set": "Sun & Moon 25/173",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "025/149",
+    "set": "Sun & Moon 025/149",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm1/25.png"
   },
   {
-    "set": "Shining Legends 16/81",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "016/73",
+    "set": "Shining Legends 016/73",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm35/16.png"
   },
   {
-    "set": "Unbroken Bonds 28/234",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "028/214",
+    "set": "Unbroken Bonds 028/214",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm10/28.png"
   },
   {
-    "set": "Silver Tempest 31/215",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "031/195",
+    "set": "Silver Tempest 031/195",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12/31.png"
   },
   {
-    "set": "Temporal Forces 33/218",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "033/162",
+    "set": "Temporal Forces 033/162",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv5/33.png"
   }
 ]

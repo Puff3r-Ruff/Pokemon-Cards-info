@@ -1,97 +1,116 @@
 [
   {
-    "set": "Guardians Rising 7/180",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "007/145",
+    "set": "Guardians Rising 007/145",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm2/7.png"
   },
   {
-    "set": "Primal Clash 19/164",
-    "cost": "Not PSA Graded: $2.18",
+    "code": "019/160",
+    "set": "Primal Clash 019/160",
+    "cost": "UnGraded: $2.18",
     "img": "https://images.pokemontcg.io/xy5/19.png"
   },
   {
-    "set": "Rebel Clash 15/209",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "015/192",
+    "set": "Rebel Clash 015/192",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh2/15.png"
   },
   {
-    "set": "XY Black Star Promos XY14/216",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "XY14/211",
+    "set": "XY Black Star Promos XY14/211",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/xyp/XY14.png"
   },
   {
-    "set": "XY 55/146",
-    "cost": "Not PSA Graded: $4.19",
+    "code": "055/146",
+    "set": "XY 055/146",
+    "cost": "UnGraded: $4.19",
     "img": "https://images.pokemontcg.io/xy1/55.png"
   },
   {
-    "set": "BREAKpoint 65/126",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "065/122",
+    "set": "BREAKpoint 065/122",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy9/65.png"
   },
   {
-    "set": "BREAKpoint 66/126",
-    "cost": "Not PSA Graded: $2.95",
+    "code": "066/122",
+    "set": "BREAKpoint 066/122",
+    "cost": "UnGraded: $2.95",
     "img": "https://images.pokemontcg.io/xy9/66.png"
   },
   {
-    "set": "Cosmic Eclipse 94/272",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "094/236",
+    "set": "Cosmic Eclipse 094/236",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm12/94.png"
   },
   {
-    "set": "XY Black Star Promos XY94/216",
-    "cost": "Not PSA Graded: $2.78",
+    "code": "XY94/211",
+    "set": "XY Black Star Promos XY94/211",
+    "cost": "UnGraded: $2.78",
     "img": "https://images.pokemontcg.io/xyp/XY94.png"
   },
   {
-    "set": "Primal Clash 145/164",
-    "cost": "Not PSA Graded: $18.65",
+    "code": "145/160",
+    "set": "Primal Clash 145/160",
+    "cost": "UnGraded: $18.65",
     "img": "https://images.pokemontcg.io/xy5/145.png"
   },
   {
-    "set": "SM Black Star Promos SM217/250",
-    "cost": "Not PSA Graded: $22.45",
+    "code": "SM217/248",
+    "set": "SM Black Star Promos SM217/248",
+    "cost": "UnGraded: $22.45",
     "img": "https://images.pokemontcg.io/smp/SM217.png"
   },
   {
-    "set": "Evolving Skies 13/237",
-    "cost": "Not PSA Graded: $0.83",
+    "code": "013/203",
+    "set": "Evolving Skies 013/203",
+    "cost": "UnGraded: $0.83",
     "img": "https://images.pokemontcg.io/swsh7/13.png"
   },
   {
-    "set": "Evolving Skies 14/237",
-    "cost": "Not PSA Graded: $1.61",
+    "code": "014/203",
+    "set": "Evolving Skies 014/203",
+    "cost": "UnGraded: $1.61",
     "img": "https://images.pokemontcg.io/swsh7/14.png"
   },
   {
-    "set": "Evolving Skies 168/237",
-    "cost": "Not PSA Graded: $2.67",
+    "code": "168/203",
+    "set": "Evolving Skies 168/203",
+    "cost": "UnGraded: $2.67",
     "img": "https://images.pokemontcg.io/swsh7/168.png"
   },
   {
-    "set": "Evolving Skies 206/237",
-    "cost": "Not PSA Graded: $6.91",
+    "code": "206/203",
+    "set": "Evolving Skies 206/203",
+    "cost": "UnGraded: $6.91",
     "img": "https://images.pokemontcg.io/swsh7/206.png"
   },
   {
-    "set": "Fusion Strike 17/284",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "017/264",
+    "set": "Fusion Strike 017/264",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh8/17.png"
   },
   {
-    "set": "Lost Origin 17/217",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "017/196",
+    "set": "Lost Origin 017/196",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh11/17.png"
   },
   {
-    "set": "Obsidian Flames 12/230",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "012/197",
+    "set": "Obsidian Flames 012/197",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv3/12.png"
   },
   {
-    "set": "Twilight Masquerade 13/226",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "013/167",
+    "set": "Twilight Masquerade 013/167",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv6/13.png"
   }
 ]

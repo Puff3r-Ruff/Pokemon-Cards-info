@@ -1,67 +1,80 @@
 [
   {
-    "set": "Plasma Storm 3/138",
-    "cost": "Not PSA Graded: $5.74",
+    "code": "003/135",
+    "set": "Plasma Storm 003/135",
+    "cost": "UnGraded: $5.74",
     "img": "https://images.pokemontcg.io/bw8/3.png"
   },
   {
-    "set": "Ultra Prism 9/178",
-    "cost": "Not PSA Graded: $1.68",
+    "code": "009/156",
+    "set": "Ultra Prism 009/156",
+    "cost": "UnGraded: $1.68",
     "img": "https://images.pokemontcg.io/sm5/9.png"
   },
   {
+    "code": "DP09/56",
     "set": "DP Black Star Promos DP09/56",
-    "cost": "Not PSA Graded: $35.35",
+    "cost": "UnGraded: $35.35",
     "img": "https://images.pokemontcg.io/dpp/DP09.png"
   },
   {
-    "set": "HS—Unleashed 10/96",
-    "cost": "Not PSA Graded: $10.87",
+    "code": "010/95",
+    "set": "HS—Unleashed 010/95",
+    "cost": "UnGraded: $10.87",
     "img": "https://images.pokemontcg.io/hgss2/10.png"
   },
   {
-    "set": "Diamond & Pearl 17/130",
-    "cost": "Not PSA Graded: $12.24",
+    "code": "017/130",
+    "set": "Diamond & Pearl 017/130",
+    "cost": "UnGraded: $12.24",
     "img": "https://images.pokemontcg.io/dp1/17.png"
   },
   {
-    "set": "Stormfront 11/106",
-    "cost": "Not PSA Graded: $11.74",
+    "code": "011/100",
+    "set": "Stormfront 011/100",
+    "cost": "UnGraded: $11.74",
     "img": "https://images.pokemontcg.io/dp7/11.png"
   },
   {
-    "set": "Majestic Dawn 30/100",
-    "cost": "Not PSA Graded: $1.9",
+    "code": "030/100",
+    "set": "Majestic Dawn 030/100",
+    "cost": "UnGraded: $1.9",
     "img": "https://images.pokemontcg.io/dp5/30.png"
   },
   {
-    "set": "Platinum 39/133",
-    "cost": "Not PSA Graded: $2.35",
+    "code": "039/127",
+    "set": "Platinum 039/127",
+    "cost": "UnGraded: $2.35",
     "img": "https://images.pokemontcg.io/pl1/39.png"
   },
   {
-    "set": "Forbidden Light 58/150",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "058/131",
+    "set": "Forbidden Light 058/131",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/sm6/58.png"
   },
   {
+    "code": "122/130",
     "set": "Diamond & Pearl 122/130",
-    "cost": "Not PSA Graded: $99.4",
+    "cost": "UnGraded: $99.4",
     "img": "https://images.pokemontcg.io/dp1/122.png"
   },
   {
-    "set": "Brilliant Stars 8/186",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "008/172",
+    "set": "Brilliant Stars 008/172",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/swsh9/8.png"
   },
   {
-    "set": "Temporal Forces 12/218",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "012/162",
+    "set": "Temporal Forces 012/162",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/sv5/12.png"
   },
   {
-    "set": "Temporal Forces 185/218",
-    "cost": "Not PSA Graded: $2.75",
+    "code": "185/162",
+    "set": "Temporal Forces 185/162",
+    "cost": "UnGraded: $2.75",
     "img": "https://images.pokemontcg.io/sv5/185.png"
   }
 ]

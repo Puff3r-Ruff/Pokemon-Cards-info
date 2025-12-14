@@ -1,52 +1,62 @@
 [
   {
-    "set": "SWSH Black Star Promos SWSH011/304",
-    "cost": "Not PSA Graded: $1.28",
+    "code": "SWSH011/307",
+    "set": "SWSH Black Star Promos SWSH011/307",
+    "cost": "UnGraded: $1.28",
     "img": "https://images.pokemontcg.io/swshp/SWSH011.png"
   },
   {
-    "set": "Sword & Shield 152/216",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "152/202",
+    "set": "Sword & Shield 152/202",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh1/152.png"
   },
   {
-    "set": "Sword & Shield 153/216",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "153/202",
+    "set": "Sword & Shield 153/202",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh1/153.png"
   },
   {
+    "code": "SV103/122",
     "set": "Shining Fates Shiny Vault SV103/122",
-    "cost": "Not PSA Graded: $2.32",
+    "cost": "UnGraded: $2.32",
     "img": "https://images.pokemontcg.io/swsh45sv/SV103.png"
   },
   {
-    "set": "Fusion Strike 221/284",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "221/264",
+    "set": "Fusion Strike 221/264",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh8/221.png"
   },
   {
-    "set": "Fusion Strike 222/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "222/264",
+    "set": "Fusion Strike 222/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/222.png"
   },
   {
-    "set": "Crown Zenith 121/160",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "121/159",
+    "set": "Crown Zenith 121/159",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh12pt5/121.png"
   },
   {
-    "set": "Stellar Crown 124/175",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "124/142",
+    "set": "Stellar Crown 124/142",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv7/124.png"
   },
   {
-    "set": "Journey Together 135/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "135/159",
+    "set": "Journey Together 135/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/135.png"
   },
   {
-    "set": "Journey Together 170/190",
-    "cost": "Not PSA Graded: $3.14",
+    "code": "170/159",
+    "set": "Journey Together 170/159",
+    "cost": "UnGraded: $3.14",
     "img": "https://images.pokemontcg.io/sv9/170.png"
   }
 ]

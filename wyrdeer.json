@@ -1,27 +1,32 @@
 [
   {
-    "set": "Astral Radiance 69/216",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "069/189",
+    "set": "Astral Radiance 069/189",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/swsh10/69.png"
   },
   {
-    "set": "Astral Radiance 134/216",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "134/189",
+    "set": "Astral Radiance 134/189",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/swsh10/134.png"
   },
   {
-    "set": "Astral Radiance 180/216",
-    "cost": "Not PSA Graded: $1.97",
+    "code": "180/189",
+    "set": "Astral Radiance 180/189",
+    "cost": "UnGraded: $1.97",
     "img": "https://images.pokemontcg.io/swsh10/180.png"
   },
   {
+    "code": "TG06/30",
     "set": "Astral Radiance Trainer Gallery TG06/30",
-    "cost": "Not PSA Graded: $1.31",
+    "cost": "UnGraded: $1.31",
     "img": "https://images.pokemontcg.io/swsh10tg/TG06.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH206/304",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "SWSH206/307",
+    "set": "SWSH Black Star Promos SWSH206/307",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/swshp/SWSH206.png"
   }
 ]

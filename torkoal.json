@@ -1,117 +1,140 @@
 [
   {
-    "set": "POP Series 1 10/17",
-    "cost": "Not PSA Graded: $7.22",
+    "code": "010/17",
+    "set": "POP Series 1 010/17",
+    "cost": "UnGraded: $7.22",
     "img": "https://images.pokemontcg.io/pop1/10.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 12/97",
-    "cost": "Not PSA Graded: $19.29",
+    "code": "012/95",
+    "set": "Team Magma vs Team Aqua 012/95",
+    "cost": "UnGraded: $19.29",
     "img": "https://images.pokemontcg.io/ex4/12.png"
   },
   {
-    "set": "Dragon 12/100",
-    "cost": "Not PSA Graded: $49.88",
+    "code": "012/97",
+    "set": "Dragon 012/97",
+    "cost": "UnGraded: $49.88",
     "img": "https://images.pokemontcg.io/ex3/12.png"
   },
   {
-    "set": "Flashfire 16/110",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "016/106",
+    "set": "Flashfire 016/106",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy2/16.png"
   },
   {
-    "set": "Shining Legends 11/81",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "011/73",
+    "set": "Shining Legends 011/73",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm35/11.png"
   },
   {
-    "set": "Sun & Moon 23/173",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "023/149",
+    "set": "Sun & Moon 023/149",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sm1/23.png"
   },
   {
-    "set": "Dark Explorers 18/111",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "018/108",
+    "set": "Dark Explorers 018/108",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/bw5/18.png"
   },
   {
-    "set": "Sword & Shield 24/216",
-    "cost": "Not PSA Graded: $0.94",
+    "code": "024/202",
+    "set": "Sword & Shield 024/202",
+    "cost": "UnGraded: $0.94",
     "img": "https://images.pokemontcg.io/swsh1/24.png"
   },
   {
-    "set": "Legend Maker 27/93",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "027/92",
+    "set": "Legend Maker 027/92",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/ex12/27.png"
   },
   {
-    "set": "HS—Unleashed 25/96",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "025/95",
+    "set": "HS—Unleashed 025/95",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/hgss2/25.png"
   },
   {
-    "set": "Cosmic Eclipse 29/272",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "029/236",
+    "set": "Cosmic Eclipse 029/236",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm12/29.png"
   },
   {
-    "set": "Celestial Storm 29/187",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "029/168",
+    "set": "Celestial Storm 029/168",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm7/29.png"
   },
   {
-    "set": "Holon Phantoms 33/111",
-    "cost": "Not PSA Graded: $1.19",
+    "code": "033/110",
+    "set": "Holon Phantoms 033/110",
+    "cost": "UnGraded: $1.19",
     "img": "https://images.pokemontcg.io/ex13/33.png"
   },
   {
-    "set": "Legends Awakened 41/146",
-    "cost": "Not PSA Graded: $1.62",
+    "code": "041/146",
+    "set": "Legends Awakened 041/146",
+    "cost": "UnGraded: $1.62",
     "img": "https://images.pokemontcg.io/dp6/41.png"
   },
   {
-    "set": "Platinum 100/133",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "100/127",
+    "set": "Platinum 100/127",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/pl1/100.png"
   },
   {
-    "set": "Sword & Shield 188/216",
-    "cost": "Not PSA Graded: $4.1",
+    "code": "188/202",
+    "set": "Sword & Shield 188/202",
+    "cost": "UnGraded: $4.1",
     "img": "https://images.pokemontcg.io/swsh1/188.png"
   },
   {
-    "set": "Cosmic Eclipse 237/272",
-    "cost": "Not PSA Graded: $8.27",
+    "code": "237/236",
+    "set": "Cosmic Eclipse 237/236",
+    "cost": "UnGraded: $8.27",
     "img": "https://images.pokemontcg.io/sm12/237.png"
   },
   {
-    "set": "Brilliant Stars 23/186",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "023/172",
+    "set": "Brilliant Stars 023/172",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh9/23.png"
   },
   {
-    "set": "Lost Origin 23/217",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "023/196",
+    "set": "Lost Origin 023/196",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh11/23.png"
   },
   {
-    "set": "Scarlet & Violet 35/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "035/198",
+    "set": "Scarlet & Violet 035/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/35.png"
   },
   {
-    "set": "Twilight Masquerade 30/226",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "030/167",
+    "set": "Twilight Masquerade 030/167",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv6/30.png"
   },
   {
-    "set": "Twilight Masquerade 172/226",
-    "cost": "Not PSA Graded: $3.29",
+    "code": "172/167",
+    "set": "Twilight Masquerade 172/167",
+    "cost": "UnGraded: $3.29",
     "img": "https://images.pokemontcg.io/sv6/172.png"
   },
   {
-    "set": "Journey Together 25/190",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "025/159",
+    "set": "Journey Together 025/159",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv9/25.png"
   }
 ]

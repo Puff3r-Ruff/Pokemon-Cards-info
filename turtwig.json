@@ -1,92 +1,110 @@
 [
   {
+    "code": "DP01/56",
     "set": "DP Black Star Promos DP01/56",
-    "cost": "Not PSA Graded: $25.15",
+    "cost": "UnGraded: $25.15",
     "img": "https://images.pokemontcg.io/dpp/DP01.png"
   },
   {
-    "set": "Plasma Storm 1/138",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "001/135",
+    "set": "Plasma Storm 001/135",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/bw8/1.png"
   },
   {
-    "set": "Ultra Prism 6/178",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "006/156",
+    "set": "Ultra Prism 006/156",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/sm5/6.png"
   },
   {
-    "set": "Ultra Prism 7/178",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "007/156",
+    "set": "Ultra Prism 007/156",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm5/7.png"
   },
   {
-    "set": "POP Series 6 17/17",
-    "cost": "Not PSA Graded: $4.58",
+    "code": "017/17",
+    "set": "POP Series 6 017/17",
+    "cost": "UnGraded: $4.58",
     "img": "https://images.pokemontcg.io/pop6/17.png"
   },
   {
-    "set": "POP Series 9 17/17",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "017/17",
+    "set": "POP Series 9 017/17",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/pop9/17.png"
   },
   {
-    "set": "POP Series 8 17/17",
-    "cost": "Not PSA Graded: $1.18",
+    "code": "017/17",
+    "set": "POP Series 8 017/17",
+    "cost": "UnGraded: $1.18",
     "img": "https://images.pokemontcg.io/pop8/17.png"
   },
   {
-    "set": "HS—Unleashed 67/96",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "067/95",
+    "set": "HS—Unleashed 067/95",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/hgss2/67.png"
   },
   {
-    "set": "Majestic Dawn 77/100",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "077/100",
+    "set": "Majestic Dawn 077/100",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/dp5/77.png"
   },
   {
-    "set": "Majestic Dawn 78/100",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "078/100",
+    "set": "Majestic Dawn 078/100",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/dp5/78.png"
   },
   {
-    "set": "Rising Rivals 85/120",
-    "cost": "Not PSA Graded: $0.75",
+    "code": "085/111",
+    "set": "Rising Rivals 085/111",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/pl2/85.png"
   },
   {
-    "set": "Platinum 101/133",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "101/127",
+    "set": "Platinum 101/127",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/pl1/101.png"
   },
   {
+    "code": "103/130",
     "set": "Diamond & Pearl 103/130",
-    "cost": "Not PSA Graded: $0.45",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/dp1/103.png"
   },
   {
-    "set": "Supreme Victors 131/153",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "131/147",
+    "set": "Supreme Victors 131/147",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/pl3/131.png"
   },
   {
-    "set": "McDonald's Collection 2021 4/25",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "004/25",
+    "set": "McDonald's Collection 2021 004/25",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/mcd21/4.png"
   },
   {
-    "set": "Brilliant Stars 6/186",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "006/172",
+    "set": "Brilliant Stars 006/172",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh9/6.png"
   },
   {
+    "code": "GG31/70",
     "set": "Crown Zenith Galarian Gallery GG31/70",
-    "cost": "Not PSA Graded: $5.29",
+    "cost": "UnGraded: $5.29",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG31.png"
   },
   {
-    "set": "Temporal Forces 10/218",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "010/162",
+    "set": "Temporal Forces 010/162",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv5/10.png"
   }
 ]
