@@ -1,102 +1,122 @@
 [
   {
-    "set": "HS—Unleashed 11/96",
-    "cost": "Not PSA Graded: $2.35",
+    "code": "011/95",
+    "set": "HS—Unleashed 011/95",
+    "cost": "UnGraded: $2.35",
     "img": "https://images.pokemontcg.io/hgss2/11.png"
   },
   {
-    "set": "Deoxys 29/108",
-    "cost": "Not PSA Graded: $2.48",
+    "code": "029/107",
+    "set": "Deoxys 029/107",
+    "cost": "UnGraded: $2.48",
     "img": "https://images.pokemontcg.io/ex8/29.png"
   },
   {
-    "set": "Roaring Skies 29/112",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "029/108",
+    "set": "Roaring Skies 029/108",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/xy6/29.png"
   },
   {
-    "set": "Skyridge H32/182",
-    "cost": "Not PSA Graded: $200",
+    "code": "H32/144",
+    "set": "Skyridge H32/144",
+    "cost": "UnGraded: $200",
     "img": "https://images.pokemontcg.io/ecard3/H32.png"
   },
   {
-    "set": "Dragon Frontiers 25/101",
-    "cost": "Not PSA Graded: $1.7",
+    "code": "025/101",
+    "set": "Dragon Frontiers 025/101",
+    "cost": "UnGraded: $1.7",
     "img": "https://images.pokemontcg.io/ex15/25.png"
   },
   {
-    "set": "Secret Wonders 44/132",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "044/132",
+    "set": "Secret Wonders 044/132",
+    "cost": "UnGraded: $0.84",
     "img": "https://images.pokemontcg.io/dp3/44.png"
   },
   {
-    "set": "Unseen Forces 49/145",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "049/115",
+    "set": "Unseen Forces 049/115",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/ex10/49.png"
   },
   {
-    "set": "Legendary Treasures 56/140",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "056/113",
+    "set": "Legendary Treasures 056/113",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw11/56.png"
   },
   {
-    "set": "Neo Genesis 52/111",
+    "code": "052/111",
+    "set": "Neo Genesis 052/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/52.png"
   },
   {
-    "set": "Neo Discovery 52/75",
+    "code": "052/75",
+    "set": "Neo Discovery 052/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/52.png"
   },
   {
-    "set": "Sandstorm 55/100",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "055/100",
+    "set": "Sandstorm 055/100",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/ex2/55.png"
   },
   {
-    "set": "Skyridge 35/182",
-    "cost": "Not PSA Graded: $5.29",
+    "code": "035/144",
+    "set": "Skyridge 035/144",
+    "cost": "UnGraded: $5.29",
     "img": "https://images.pokemontcg.io/ecard3/35.png"
   },
   {
-    "set": "Cosmic Eclipse 79/272",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "079/236",
+    "set": "Cosmic Eclipse 079/236",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/sm12/79.png"
   },
   {
-    "set": "Rebel Clash 77/209",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "077/192",
+    "set": "Rebel Clash 077/192",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh2/77.png"
   },
   {
-    "set": "Lost Thunder 88/240",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "088/214",
+    "set": "Lost Thunder 088/214",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm8/88.png"
   },
   {
-    "set": "Pokémon GO 33/88",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "033/78",
+    "set": "Pokémon GO 033/78",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/pgo/33.png"
   },
   {
-    "set": "Paradox Rift 72/266",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "072/182",
+    "set": "Paradox Rift 072/182",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv4/72.png"
   },
   {
-    "set": "Paldean Fates 26/245",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "026/91",
+    "set": "Paldean Fates 026/91",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv4pt5/26.png"
   },
   {
-    "set": "Paldean Fates 152/245",
-    "cost": "Not PSA Graded: $2.7",
+    "code": "152/91",
+    "set": "Paldean Fates 152/91",
+    "cost": "UnGraded: $2.72",
     "img": "https://images.pokemontcg.io/sv4pt5/152.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 59/196",
-    "cost": "Not PSA Graded: $1.73",
+    "code": "059/215",
+    "set": "Scarlet & Violet Black Star Promos 059/215",
+    "cost": "UnGraded: $1.79",
     "img": "https://images.pokemontcg.io/svp/59.png"
   }
 ]

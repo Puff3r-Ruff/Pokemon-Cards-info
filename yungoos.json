@@ -1,37 +1,44 @@
 [
   {
-    "set": "Sun & Moon 109/173",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "109/149",
+    "set": "Sun & Moon 109/149",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sm1/109.png"
   },
   {
-    "set": "Ultra Prism 112/178",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "112/156",
+    "set": "Ultra Prism 112/156",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm5/112.png"
   },
   {
-    "set": "Unified Minds 180/260",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "180/236",
+    "set": "Unified Minds 180/236",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm11/180.png"
   },
   {
-    "set": "McDonald's Collection 2017 12/12",
+    "code": "012/12",
+    "set": "McDonald's Collection 2017 012/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd17/12.png"
   },
   {
-    "set": "Crown Zenith 117/160",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "117/159",
+    "set": "Crown Zenith 117/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/swsh12pt5/117.png"
   },
   {
-    "set": "Obsidian Flames 176/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "176/197",
+    "set": "Obsidian Flames 176/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/176.png"
   },
   {
-    "set": "Mega Evolution 109/188",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "109/132",
+    "set": "Mega Evolution 109/132",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me1/109.png"
   }
 ]

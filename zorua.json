@@ -1,117 +1,140 @@
 [
   {
+    "code": "BW12/101",
     "set": "BW Black Star Promos BW12/101",
-    "cost": "Not PSA Graded: $30.66",
+    "cost": "UnGraded: $30.66",
     "img": "https://images.pokemontcg.io/bwp/BW12.png"
   },
   {
+    "code": "SV25/94",
     "set": "Hidden Fates Shiny Vault SV25/94",
-    "cost": "Not PSA Graded: $6.78",
+    "cost": "UnGraded: $6.78",
     "img": "https://images.pokemontcg.io/sma/SV25.png"
   },
   {
-    "set": "McDonald's Collection 2011 9/12",
-    "cost": "Not PSA Graded: $7.82",
+    "code": "009/12",
+    "set": "McDonald's Collection 2011 009/12",
+    "cost": "UnGraded: $7.82",
     "img": "https://images.pokemontcg.io/mcd11/9.png"
   },
   {
-    "set": "Shining Legends 52/81",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "052/73",
+    "set": "Shining Legends 052/73",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm35/52.png"
   },
   {
-    "set": "XY 72/146",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "072/146",
+    "set": "XY 072/146",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/xy1/72.png"
   },
   {
-    "set": "Black & White 70/115",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "070/114",
+    "set": "Black & White 070/114",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/bw1/70.png"
   },
   {
-    "set": "Emerging Powers 66/98",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "066/98",
+    "set": "Emerging Powers 066/98",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/bw2/66.png"
   },
   {
-    "set": "Dark Explorers 69/111",
-    "cost": "Not PSA Graded: $1.27",
+    "code": "069/108",
+    "set": "Dark Explorers 069/108",
+    "cost": "UnGraded: $1.27",
     "img": "https://images.pokemontcg.io/bw5/69.png"
   },
   {
-    "set": "Dark Explorers 70/111",
-    "cost": "Not PSA Graded: $1.09",
+    "code": "070/108",
+    "set": "Dark Explorers 070/108",
+    "cost": "UnGraded: $1.09",
     "img": "https://images.pokemontcg.io/bw5/70.png"
   },
   {
-    "set": "Legendary Treasures 89/140",
-    "cost": "Not PSA Graded: $0.91",
+    "code": "089/113",
+    "set": "Legendary Treasures 089/113",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/bw11/89.png"
   },
   {
-    "set": "SM Black Star Promos SM83/250",
-    "cost": "Not PSA Graded: $1.54",
+    "code": "SM83/248",
+    "set": "SM Black Star Promos SM83/248",
+    "cost": "UnGraded: $1.54",
     "img": "https://images.pokemontcg.io/smp/SM83.png"
   },
   {
-    "set": "Team Up 90/198",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "090/181",
+    "set": "Team Up 090/181",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm9/90.png"
   },
   {
-    "set": "BREAKthrough 89/165",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "089/162",
+    "set": "BREAKthrough 089/162",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy8/89.png"
   },
   {
-    "set": "BREAKthrough 90/165",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "090/162",
+    "set": "BREAKthrough 090/162",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/xy8/90.png"
   },
   {
-    "set": "Evolving Skies 102/237",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "102/203",
+    "set": "Evolving Skies 102/203",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh7/102.png"
   },
   {
-    "set": "Fusion Strike 170/284",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "170/264",
+    "set": "Fusion Strike 170/264",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh8/170.png"
   },
   {
-    "set": "Lost Origin 75/217",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "075/196",
+    "set": "Lost Origin 075/196",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh11/75.png"
   },
   {
-    "set": "Shrouded Fable 31/99",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "031/64",
+    "set": "Shrouded Fable 031/64",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv6pt5/31.png"
   },
   {
-    "set": "Shrouded Fable 75/99",
-    "cost": "Not PSA Graded: $15.05",
+    "code": "075/64",
+    "set": "Shrouded Fable 075/64",
+    "cost": "UnGraded: $15.05",
     "img": "https://images.pokemontcg.io/sv6pt5/75.png"
   },
   {
-    "set": "Journey Together 97/190",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "097/159",
+    "set": "Journey Together 097/159",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv9/97.png"
   },
   {
-    "set": "Scarlet & Violet Promos 189/148",
-    "cost": "Not PSA Graded: $5.43",
+    "code": "189/150",
+    "set": "Scarlet & Violet Promos 189/150",
+    "cost": "UnGraded: $5.43",
     "img": "https://images.pokemontcg.io/svp/189.png"
   },
   {
-    "set": "White Flare 61/173",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "061/86",
+    "set": "White Flare 061/86",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/rsv10pt5/61.png"
   },
   {
-    "set": "White Flare 142/173",
-    "cost": "Not PSA Graded: $23.98",
+    "code": "142/86",
+    "set": "White Flare 142/86",
+    "cost": "UnGraded: $23.98",
     "img": "https://images.pokemontcg.io/rsv10pt5/142.png"
   }
 ]

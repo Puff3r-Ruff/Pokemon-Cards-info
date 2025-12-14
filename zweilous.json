@@ -1,72 +1,86 @@
 [
   {
-    "set": "Crimson Invasion 61/126",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "061/111",
+    "set": "Crimson Invasion 061/111",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm4/61.png"
   },
   {
-    "set": "Plasma Freeze 77/122",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "077/116",
+    "set": "Plasma Freeze 077/116",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/bw9/77.png"
   },
   {
-    "set": "Phantom Forces 73/124",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "073/119",
+    "set": "Phantom Forces 073/119",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy4/73.png"
   },
   {
-    "set": "Steam Siege 85/116",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "085/114",
+    "set": "Steam Siege 085/114",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy11/85.png"
   },
   {
-    "set": "Noble Victories 78/102",
-    "cost": "Not PSA Graded: $0.96",
+    "code": "078/101",
+    "set": "Noble Victories 078/101",
+    "cost": "UnGraded: $0.96",
     "img": "https://images.pokemontcg.io/bw3/78.png"
   },
   {
-    "set": "Legendary Treasures 98/140",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "098/113",
+    "set": "Legendary Treasures 098/113",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/bw11/98.png"
   },
   {
-    "set": "Dragons Exalted 95/128",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "095/124",
+    "set": "Dragons Exalted 095/124",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/bw6/95.png"
   },
   {
-    "set": "Dragons Exalted 96/128",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "096/124",
+    "set": "Dragons Exalted 096/124",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/bw6/96.png"
   },
   {
-    "set": "Darkness Ablaze 109/201",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "109/189",
+    "set": "Darkness Ablaze 109/189",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh3/109.png"
   },
   {
-    "set": "Evolving Skies 114/237",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "114/203",
+    "set": "Evolving Skies 114/203",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh7/114.png"
   },
   {
-    "set": "Paldea Evolved 139/279",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "139/193",
+    "set": "Paldea Evolved 139/193",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv2/139.png"
   },
   {
-    "set": "Surging Sparks 118/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "118/191",
+    "set": "Surging Sparks 118/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/118.png"
   },
   {
-    "set": "White Flare 66/173",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "066/86",
+    "set": "White Flare 066/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/rsv10pt5/66.png"
   },
   {
-    "set": "White Flare 147/173",
-    "cost": "Not PSA Graded: $5.92",
+    "code": "147/86",
+    "set": "White Flare 147/86",
+    "cost": "UnGraded: $5.92",
     "img": "https://images.pokemontcg.io/rsv10pt5/147.png"
   }
 ]

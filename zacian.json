@@ -1,142 +1,170 @@
 [
   {
-    "set": "SWSH Black Star Promos SWSH018/304",
-    "cost": "Not PSA Graded: $0.95",
+    "code": "SWSH018/307",
+    "set": "SWSH Black Star Promos SWSH018/307",
+    "cost": "UnGraded: $0.95",
     "img": "https://images.pokemontcg.io/swshp/SWSH018.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH033/304",
-    "cost": "Not PSA Graded: $3.5",
+    "code": "SWSH033/307",
+    "set": "SWSH Black Star Promos SWSH033/307",
+    "cost": "UnGraded: $3.5",
     "img": "https://images.pokemontcg.io/swshp/SWSH033.png"
   },
   {
-    "set": "Vivid Voltage 82/203",
-    "cost": "Not PSA Graded: $2.85",
+    "code": "082/185",
+    "set": "Vivid Voltage 082/185",
+    "cost": "UnGraded: $2.85",
     "img": "https://images.pokemontcg.io/swsh4/82.png"
   },
   {
-    "set": "Rebel Clash 139/209",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "139/192",
+    "set": "Rebel Clash 139/192",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/swsh2/139.png"
   },
   {
-    "set": "Sword & Shield 138/216",
-    "cost": "Not PSA Graded: $0.99",
+    "code": "138/202",
+    "set": "Sword & Shield 138/202",
+    "cost": "UnGraded: $0.99",
     "img": "https://images.pokemontcg.io/swsh1/138.png"
   },
   {
-    "set": "Sword & Shield 195/216",
-    "cost": "Not PSA Graded: $5.13",
+    "code": "195/202",
+    "set": "Sword & Shield 195/202",
+    "cost": "UnGraded: $5.13",
     "img": "https://images.pokemontcg.io/swsh1/195.png"
   },
   {
-    "set": "Sword & Shield 211/216",
-    "cost": "Not PSA Graded: $15.96",
+    "code": "211/202",
+    "set": "Sword & Shield 211/202",
+    "cost": "UnGraded: $15.96",
     "img": "https://images.pokemontcg.io/swsh1/211.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH076/304",
-    "cost": "Not PSA Graded: $10.08",
+    "code": "SWSH076/307",
+    "set": "SWSH Black Star Promos SWSH076/307",
+    "cost": "UnGraded: $10.08",
     "img": "https://images.pokemontcg.io/swshp/SWSH076.png"
   },
   {
-    "set": "Celebrations 16/25",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "016/25",
+    "set": "Celebrations 016/25",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/cel25/16.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH135/304",
-    "cost": "Not PSA Graded: $3.34",
+    "code": "SWSH135/307",
+    "set": "SWSH Black Star Promos SWSH135/307",
+    "cost": "UnGraded: $3.34",
     "img": "https://images.pokemontcg.io/swshp/SWSH135.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH163/304",
-    "cost": "Not PSA Graded: $2.39",
+    "code": "SWSH163/307",
+    "set": "SWSH Black Star Promos SWSH163/307",
+    "cost": "UnGraded: $2.39",
     "img": "https://images.pokemontcg.io/swshp/SWSH163.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH164/304",
-    "cost": "Not PSA Graded: $2.44",
+    "code": "SWSH164/307",
+    "set": "SWSH Black Star Promos SWSH164/307",
+    "cost": "UnGraded: $2.44",
     "img": "https://images.pokemontcg.io/swshp/SWSH164.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH165/304",
-    "cost": "Not PSA Graded: $2.61",
+    "code": "SWSH165/307",
+    "set": "SWSH Black Star Promos SWSH165/307",
+    "cost": "UnGraded: $2.61",
     "img": "https://images.pokemontcg.io/swshp/SWSH165.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH166/304",
-    "cost": "Not PSA Graded: $4.01",
+    "code": "SWSH166/307",
+    "set": "SWSH Black Star Promos SWSH166/307",
+    "cost": "UnGraded: $4.01",
     "img": "https://images.pokemontcg.io/swshp/SWSH166.png"
   },
   {
+    "code": "TG21/30",
     "set": "Astral Radiance Trainer Gallery TG21/30",
-    "cost": "Not PSA Graded: $14.93",
+    "cost": "UnGraded: $14.93",
     "img": "https://images.pokemontcg.io/swsh10tg/TG21.png"
   },
   {
-    "set": "Crown Zenith 94/160",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "094/159",
+    "set": "Crown Zenith 094/159",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh12pt5/94.png"
   },
   {
-    "set": "Crown Zenith 95/160",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "095/159",
+    "set": "Crown Zenith 095/159",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/swsh12pt5/95.png"
   },
   {
-    "set": "Crown Zenith 96/160",
-    "cost": "Not PSA Graded: $1.25",
+    "code": "096/159",
+    "set": "Crown Zenith 096/159",
+    "cost": "UnGraded: $1.25",
     "img": "https://images.pokemontcg.io/swsh12pt5/96.png"
   },
   {
+    "code": "GG48/70",
     "set": "Crown Zenith Galarian Gallery GG48/70",
-    "cost": "Not PSA Graded: $18.15",
+    "cost": "UnGraded: $18.15",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG48.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH292/304",
-    "cost": "Not PSA Graded: $3.39",
+    "code": "SWSH292/307",
+    "set": "SWSH Black Star Promos SWSH292/307",
+    "cost": "UnGraded: $3.39",
     "img": "https://images.pokemontcg.io/swshp/SWSH292.png"
   },
   {
-    "set": "Paradox Rift 136/266",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "136/182",
+    "set": "Paradox Rift 136/182",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sv4/136.png"
   },
   {
-    "set": "Journey Together 111/190",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "111/159",
+    "set": "Journey Together 111/159",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/sv9/111.png"
   },
   {
-    "set": "Journey Together 176/190",
-    "cost": "Not PSA Graded: $1.66",
+    "code": "176/159",
+    "set": "Journey Together 176/159",
+    "cost": "UnGraded: $1.66",
     "img": "https://images.pokemontcg.io/sv9/176.png"
   },
   {
-    "set": "Journey Together 186/190",
-    "cost": "Not PSA Graded: $32.83",
+    "code": "186/159",
+    "set": "Journey Together 186/159",
+    "cost": "UnGraded: $32.83",
     "img": "https://images.pokemontcg.io/sv9/186.png"
   },
   {
-    "set": "Scarlet & Violet Promos 193/148",
+    "code": "193/150",
+    "set": "Scarlet & Violet Promos 193/150",
     "cost": null,
     "img": "https://images.pokemontcg.io/svp/193.png"
   },
   {
-    "set": "Scarlet & Violet Promos 198/148",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "198/150",
+    "set": "Scarlet & Violet Promos 198/150",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/svp/198.png"
   },
   {
-    "set": "Phantasmal Flames 45/130",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "045/94",
+    "set": "Phantasmal Flames 045/94",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/me2/45.png"
   },
   {
-    "set": "Phantasmal Flames 100/130",
-    "cost": "Not PSA Graded: $3.22",
+    "code": "100/94",
+    "set": "Phantasmal Flames 100/94",
+    "cost": "UnGraded: $3.22",
     "img": "https://images.pokemontcg.io/me2/100.png"
   }
 ]

@@ -1,117 +1,140 @@
 [
   {
-    "set": "SM Black Star Promos SM15/250",
-    "cost": "Not PSA Graded: $1.01",
+    "code": "SM15/248",
+    "set": "SM Black Star Promos SM15/248",
+    "cost": "UnGraded: $1.01",
     "img": "https://images.pokemontcg.io/smp/SM15.png"
   },
   {
-    "set": "Champion's Path 28/80",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "028/73",
+    "set": "Champion's Path 028/73",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh35/28.png"
   },
   {
-    "set": "Dragon Majesty 49/80",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "049/70",
+    "set": "Dragon Majesty 049/70",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/sm75/49.png"
   },
   {
-    "set": "Fates Collide 52/129",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "052/124",
+    "set": "Fates Collide 052/124",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy10/52.png"
   },
   {
-    "set": "Fates Collide 53/129",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "053/124",
+    "set": "Fates Collide 053/124",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/xy10/53.png"
   },
   {
-    "set": "Fates Collide 54/129",
-    "cost": "Not PSA Graded: $2.76",
+    "code": "054/124",
+    "set": "Fates Collide 054/124",
+    "cost": "UnGraded: $2.76",
     "img": "https://images.pokemontcg.io/xy10/54.png"
   },
   {
-    "set": "SM Black Star Promos SM48/250",
-    "cost": "Not PSA Graded: $11.02",
+    "code": "SM48/248",
+    "set": "SM Black Star Promos SM48/248",
+    "cost": "UnGraded: $11.02",
     "img": "https://images.pokemontcg.io/smp/SM48.png"
   },
   {
-    "set": "Fates Collide 54a/129",
+    "code": "54a/124",
+    "set": "Fates Collide 54a/124",
     "cost": null,
     "img": "https://images.pokemontcg.io/xy10/54a.png"
   },
   {
+    "code": "SV65/94",
     "set": "Hidden Fates Shiny Vault SV65/94",
-    "cost": "Not PSA Graded: $40.33",
+    "cost": "UnGraded: $40.33",
     "img": "https://images.pokemontcg.io/sma/SV65.png"
   },
   {
-    "set": "Forbidden Light 71/150",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "071/131",
+    "set": "Forbidden Light 071/131",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm6/71.png"
   },
   {
-    "set": "Forbidden Light 72/150",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "072/131",
+    "set": "Forbidden Light 072/131",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/sm6/72.png"
   },
   {
-    "set": "Forbidden Light 73/150",
-    "cost": "Not PSA Graded: $10.16",
+    "code": "073/131",
+    "set": "Forbidden Light 073/131",
+    "cost": "UnGraded: $10.16",
     "img": "https://images.pokemontcg.io/sm6/73.png"
   },
   {
-    "set": "Vivid Voltage 93/203",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "093/185",
+    "set": "Vivid Voltage 093/185",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/swsh4/93.png"
   },
   {
-    "set": "Burning Shadows 100/177",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "100/147",
+    "set": "Burning Shadows 100/147",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/sm3/100.png"
   },
   {
-    "set": "SM Black Star Promos SM122/250",
-    "cost": "Not PSA Graded: $9.61",
+    "code": "SM122/248",
+    "set": "SM Black Star Promos SM122/248",
+    "cost": "UnGraded: $9.61",
     "img": "https://images.pokemontcg.io/smp/SM122.png"
   },
   {
-    "set": "Unified Minds 124/260",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "124/236",
+    "set": "Unified Minds 124/236",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/sm11/124.png"
   },
   {
-    "set": "XY Black Star Promos XY129/216",
-    "cost": "Not PSA Graded: $5.34",
+    "code": "XY129/211",
+    "set": "XY Black Star Promos XY129/211",
+    "cost": "UnGraded: $5.34",
     "img": "https://images.pokemontcg.io/xyp/XY129.png"
   },
   {
-    "set": "Forbidden Light 123/150",
-    "cost": "Not PSA Graded: $14.77",
+    "code": "123/131",
+    "set": "Forbidden Light 123/131",
+    "cost": "UnGraded: $14.77",
     "img": "https://images.pokemontcg.io/sm6/123.png"
   },
   {
-    "set": "Forbidden Light 136/150",
-    "cost": "Not PSA Graded: $42.98",
+    "code": "136/131",
+    "set": "Forbidden Light 136/131",
+    "cost": "UnGraded: $42.98",
     "img": "https://images.pokemontcg.io/sm6/136.png"
   },
   {
-    "set": "XY Black Star Promos XY151/216",
-    "cost": "Not PSA Graded: $3.93",
+    "code": "XY151/211",
+    "set": "XY Black Star Promos XY151/211",
+    "cost": "UnGraded: $3.93",
     "img": "https://images.pokemontcg.io/xyp/XY151.png"
   },
   {
-    "set": "XY Black Star Promos XY152/216",
-    "cost": "Not PSA Graded: $1.86",
+    "code": "XY152/211",
+    "set": "XY Black Star Promos XY152/211",
+    "cost": "UnGraded: $1.86",
     "img": "https://images.pokemontcg.io/xyp/XY152.png"
   },
   {
-    "set": "Evolving Skies 118/237",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "118/203",
+    "set": "Evolving Skies 118/203",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh7/118.png"
   },
   {
-    "set": "Silver Tempest 134/215",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "134/195",
+    "set": "Silver Tempest 134/195",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh12/134.png"
   }
 ]

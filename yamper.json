@@ -1,37 +1,44 @@
 [
   {
-    "set": "Sword & Shield 73/216",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "073/202",
+    "set": "Sword & Shield 073/202",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh1/73.png"
   },
   {
-    "set": "Sword & Shield 74/216",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "074/202",
+    "set": "Sword & Shield 074/202",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh1/74.png"
   },
   {
+    "code": "SV039/122",
     "set": "Shining Fates Shiny Vault SV039/122",
-    "cost": "Not PSA Graded: $6.76",
+    "cost": "UnGraded: $6.76",
     "img": "https://images.pokemontcg.io/swsh45sv/SV039.png"
   },
   {
-    "set": "Battle Styles 52/183",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "052/163",
+    "set": "Battle Styles 052/163",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh5/52.png"
   },
   {
-    "set": "Temporal Forces 58/218",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "058/162",
+    "set": "Temporal Forces 058/162",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv5/58.png"
   },
   {
-    "set": "Phantasmal Flames 30/130",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "030/94",
+    "set": "Phantasmal Flames 030/94",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me2/30.png"
   },
   {
-    "set": "Phantasmal Flames 99/130",
-    "cost": "Not PSA Graded: $2.48",
+    "code": "099/94",
+    "set": "Phantasmal Flames 099/94",
+    "cost": "UnGraded: $2.48",
     "img": "https://images.pokemontcg.io/me2/99.png"
   }
 ]

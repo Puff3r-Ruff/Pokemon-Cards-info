@@ -1,46 +1,55 @@
 [
   {
-    "set": "Vivid Voltage 22/203",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "022/185",
+    "set": "Vivid Voltage 022/185",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/swsh4/22.png"
   },
   {
-    "set": "Vivid Voltage 167/203",
-    "cost": "Not PSA Graded: $2.27",
+    "code": "167/185",
+    "set": "Vivid Voltage 167/185",
+    "cost": "UnGraded: $2.27",
     "img": "https://images.pokemontcg.io/swsh4/167.png"
   },
   {
-    "set": "Shining Fates 16/73",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "016/72",
+    "set": "Shining Fates 016/72",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh45/16.png"
   },
   {
-    "set": "Chilling Reign 19/233",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "019/198",
+    "set": "Chilling Reign 019/198",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/swsh6/19.png"
   },
   {
-    "set": "Fusion Strike 27/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "027/264",
+    "set": "Fusion Strike 027/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/27.png"
   },
   {
-    "set": "Brilliant Stars 16/186",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "016/172",
+    "set": "Brilliant Stars 016/172",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/swsh9/16.png"
   },
   {
-    "set": "Crown Zenith 16/160",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "016/159",
+    "set": "Crown Zenith 016/159",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh12pt5/16.png"
   },
   {
-    "set": "Surging Sparks 11/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "011/191",
+    "set": "Surging Sparks 011/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/11.png"
   },
   {
-    "set": "Scarlet & Violet Promos 199/148",
+    "code": "199/150",
+    "set": "Scarlet & Violet Promos 199/150",
     "cost": null,
     "img": "https://images.pokemontcg.io/svp/199.png"
   }

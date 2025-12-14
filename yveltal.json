@@ -1,127 +1,152 @@
 [
   {
-    "set": "XY Black Star Promos XY06/216",
-    "cost": "Not PSA Graded: $9.84",
+    "code": "XY06/211",
+    "set": "XY Black Star Promos XY06/211",
+    "cost": "UnGraded: $9.84",
     "img": "https://images.pokemontcg.io/xyp/XY06.png"
   },
   {
-    "set": "XY Black Star Promos XY08/216",
-    "cost": "Not PSA Graded: $10.63",
+    "code": "XY08/211",
+    "set": "XY Black Star Promos XY08/211",
+    "cost": "UnGraded: $10.63",
     "img": "https://images.pokemontcg.io/xyp/XY08.png"
   },
   {
-    "set": "XY Black Star Promos XY32/216",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "XY32/211",
+    "set": "XY Black Star Promos XY32/211",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/xyp/XY32.png"
   },
   {
-    "set": "Steam Siege 65/116",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "065/114",
+    "set": "Steam Siege 065/114",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/xy11/65.png"
   },
   {
-    "set": "Steam Siege 66/116",
-    "cost": "Not PSA Graded: $6.16",
+    "code": "066/114",
+    "set": "Steam Siege 066/114",
+    "cost": "UnGraded: $6.16",
     "img": "https://images.pokemontcg.io/xy11/66.png"
   },
   {
-    "set": "Shining Legends 54/81",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "054/73",
+    "set": "Shining Legends 054/73",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm35/54.png"
   },
   {
-    "set": "XY 78/146",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "078/146",
+    "set": "XY 078/146",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/xy1/78.png"
   },
   {
-    "set": "XY 79/146",
-    "cost": "Not PSA Graded: $14.2",
+    "code": "079/146",
+    "set": "XY 079/146",
+    "cost": "UnGraded: $14.2",
     "img": "https://images.pokemontcg.io/xy1/79.png"
   },
   {
-    "set": "Forbidden Light 79/150",
-    "cost": "Not PSA Graded: $10.03",
+    "code": "079/131",
+    "set": "Forbidden Light 079/131",
+    "cost": "UnGraded: $10.03",
     "img": "https://images.pokemontcg.io/sm6/79.png"
   },
   {
-    "set": "Team Up 95/198",
-    "cost": "Not PSA Graded: $1.91",
+    "code": "095/181",
+    "set": "Team Up 095/181",
+    "cost": "UnGraded: $1.91",
     "img": "https://images.pokemontcg.io/sm9/95.png"
   },
   {
-    "set": "BREAKthrough 94/165",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "094/162",
+    "set": "BREAKthrough 094/162",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/xy8/94.png"
   },
   {
-    "set": "Generations RC16/117",
-    "cost": "Not PSA Graded: $2.94",
+    "code": "RC16/83",
+    "set": "Generations RC16/83",
+    "cost": "UnGraded: $2.94",
     "img": "https://images.pokemontcg.io/g1/RC16.png"
   },
   {
-    "set": "Forbidden Light 124/150",
-    "cost": "Not PSA Graded: $17.48",
+    "code": "124/131",
+    "set": "Forbidden Light 124/131",
+    "cost": "UnGraded: $17.48",
     "img": "https://images.pokemontcg.io/sm6/124.png"
   },
   {
+    "code": "144/146",
     "set": "XY 144/146",
-    "cost": "Not PSA Graded: $71.25",
+    "cost": "UnGraded: $71.25",
     "img": "https://images.pokemontcg.io/xy1/144.png"
   },
   {
-    "set": "Unified Minds 139/260",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "139/236",
+    "set": "Unified Minds 139/236",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/sm11/139.png"
   },
   {
-    "set": "Forbidden Light 137/150",
-    "cost": "Not PSA Graded: $42.3",
+    "code": "137/131",
+    "set": "Forbidden Light 137/131",
+    "cost": "UnGraded: $42.3",
     "img": "https://images.pokemontcg.io/sm6/137.png"
   },
   {
-    "set": "XY Black Star Promos XY150/216",
-    "cost": "Not PSA Graded: $14.62",
+    "code": "XY150/211",
+    "set": "XY Black Star Promos XY150/211",
+    "cost": "UnGraded: $14.62",
     "img": "https://images.pokemontcg.io/xyp/XY150.png"
   },
   {
-    "set": "XY Black Star Promos XY150a/216",
+    "code": "XY150a/211",
+    "set": "XY Black Star Promos XY150a/211",
     "cost": null,
     "img": "https://images.pokemontcg.io/xyp/XY150a.png"
   },
   {
-    "set": "Shining Fates 46/73",
-    "cost": "Not PSA Graded: $1.13",
+    "code": "046/72",
+    "set": "Shining Fates 046/72",
+    "cost": "UnGraded: $1.13",
     "img": "https://images.pokemontcg.io/swsh45/46.png"
   },
   {
-    "set": "Celebrations 19/25",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "019/25",
+    "set": "Celebrations 019/25",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/cel25/19.png"
   },
   {
-    "set": "Fusion Strike 175/284",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "175/264",
+    "set": "Fusion Strike 175/264",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh8/175.png"
   },
   {
-    "set": "Paradox Rift 118/266",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "118/182",
+    "set": "Paradox Rift 118/182",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv4/118.png"
   },
   {
-    "set": "Paradox Rift 205/266",
-    "cost": "Not PSA Graded: $14.37",
+    "code": "205/182",
+    "set": "Paradox Rift 205/182",
+    "cost": "UnGraded: $14.37",
     "img": "https://images.pokemontcg.io/sv4/205.png"
   },
   {
-    "set": "Shrouded Fable 35/99",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "035/64",
+    "set": "Shrouded Fable 035/64",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6pt5/35.png"
   },
   {
-    "set": "Mega Evolution 88/188",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "088/132",
+    "set": "Mega Evolution 088/132",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/me1/88.png"
   }
 ]

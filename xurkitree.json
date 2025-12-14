@@ -1,42 +1,50 @@
 [
   {
+    "code": "SV14/94",
     "set": "Hidden Fates Shiny Vault SV14/94",
-    "cost": "Not PSA Graded: $2.92",
+    "cost": "UnGraded: $2.92",
     "img": "https://images.pokemontcg.io/sma/SV14.png"
   },
   {
-    "set": "Forbidden Light 39/150",
-    "cost": "Not PSA Graded: $1.1",
+    "code": "039/131",
+    "set": "Forbidden Light 039/131",
+    "cost": "UnGraded: $1.1",
     "img": "https://images.pokemontcg.io/sm6/39.png"
   },
   {
+    "code": "SV58/94",
     "set": "Hidden Fates Shiny Vault SV58/94",
-    "cost": "Not PSA Graded: $15",
+    "cost": "UnGraded: $15",
     "img": "https://images.pokemontcg.io/sma/SV58.png"
   },
   {
-    "set": "Unified Minds 70/260",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "070/236",
+    "set": "Unified Minds 070/236",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/sm11/70.png"
   },
   {
-    "set": "SM Black Star Promos SM68/250",
-    "cost": "Not PSA Graded: $7.14",
+    "code": "SM68/248",
+    "set": "SM Black Star Promos SM68/248",
+    "cost": "UnGraded: $7.14",
     "img": "https://images.pokemontcg.io/smp/SM68.png"
   },
   {
-    "set": "SM Black Star Promos SM116/250",
-    "cost": "Not PSA Graded: $3.38",
+    "code": "SM116/248",
+    "set": "SM Black Star Promos SM116/248",
+    "cost": "UnGraded: $3.38",
     "img": "https://images.pokemontcg.io/smp/SM116.png"
   },
   {
-    "set": "Ultra Prism 142/178",
-    "cost": "Not PSA Graded: $11.4",
+    "code": "142/156",
+    "set": "Ultra Prism 142/156",
+    "cost": "UnGraded: $11.4",
     "img": "https://images.pokemontcg.io/sm5/142.png"
   },
   {
-    "set": "Ultra Prism 160/178",
-    "cost": "Not PSA Graded: $21.94",
+    "code": "160/156",
+    "set": "Ultra Prism 160/156",
+    "cost": "UnGraded: $21.94",
     "img": "https://images.pokemontcg.io/sm5/160.png"
   }
 ]
