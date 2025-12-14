@@ -1,52 +1,62 @@
 [
   {
-    "set": "Supreme Victors 11/153",
-    "cost": "Not PSA Graded: $5.88",
+    "code": "011/147",
+    "set": "Supreme Victors 011/147",
+    "cost": "UnGraded: $5.88",
     "img": "https://images.pokemontcg.io/pl3/11.png"
   },
   {
-    "set": "Diamond & Pearl 16/130",
-    "cost": "Not PSA Graded: $17.39",
+    "code": "016/130",
+    "set": "Diamond & Pearl 016/130",
+    "cost": "UnGraded: $17.39",
     "img": "https://images.pokemontcg.io/dp1/16.png"
   },
   {
-    "set": "Stormfront 27/106",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "027/100",
+    "set": "Stormfront 027/100",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/dp7/27.png"
   },
   {
-    "set": "Crimson Invasion 83/126",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "083/111",
+    "set": "Crimson Invasion 083/111",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm4/83.png"
   },
   {
-    "set": "Plasma Freeze 97/122",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "097/116",
+    "set": "Plasma Freeze 097/116",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/bw9/97.png"
   },
   {
-    "set": "BREAKthrough 127/165",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "127/162",
+    "set": "BREAKthrough 127/162",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/xy8/127.png"
   },
   {
-    "set": "Supreme Victors 147/153",
-    "cost": "Not PSA Graded: $73.81",
+    "code": "147/147",
+    "set": "Supreme Victors 147/147",
+    "cost": "UnGraded: $73.81",
     "img": "https://images.pokemontcg.io/pl3/147.png"
   },
   {
-    "set": "Darkness Ablaze 147/201",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "147/189",
+    "set": "Darkness Ablaze 147/189",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh3/147.png"
   },
   {
-    "set": "Brilliant Stars 119/186",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "119/172",
+    "set": "Brilliant Stars 119/172",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh9/119.png"
   },
   {
-    "set": "Scarlet & Violet 150/258",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "150/198",
+    "set": "Scarlet & Violet 150/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv1/150.png"
   }
 ]

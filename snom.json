@@ -1,37 +1,44 @@
 [
   {
-    "set": "Sword & Shield 63/216",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "063/202",
+    "set": "Sword & Shield 063/202",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh1/63.png"
   },
   {
-    "set": "Shining Fates 29/73",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "029/72",
+    "set": "Shining Fates 029/72",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh45/29.png"
   },
   {
+    "code": "SV033/122",
     "set": "Shining Fates Shiny Vault SV033/122",
-    "cost": "Not PSA Graded: $2.19",
+    "cost": "UnGraded: $2.19",
     "img": "https://images.pokemontcg.io/swsh45sv/SV033.png"
   },
   {
-    "set": "Fusion Strike 84/284",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "084/264",
+    "set": "Fusion Strike 084/264",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh8/84.png"
   },
   {
-    "set": "Temporal Forces 45/218",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "045/162",
+    "set": "Temporal Forces 045/162",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv5/45.png"
   },
   {
-    "set": "Temporal Forces 168/218",
-    "cost": "Not PSA Graded: $8.04",
+    "code": "168/162",
+    "set": "Temporal Forces 168/162",
+    "cost": "UnGraded: $8.04",
     "img": "https://images.pokemontcg.io/sv5/168.png"
   },
   {
-    "set": "Mega Evolution 42/188",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "042/132",
+    "set": "Mega Evolution 042/132",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me1/42.png"
   }
 ]

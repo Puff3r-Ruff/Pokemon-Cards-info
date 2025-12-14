@@ -1,27 +1,32 @@
 [
   {
-    "set": "Astral Radiance 93/216",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "093/189",
+    "set": "Astral Radiance 093/189",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh10/93.png"
   },
   {
-    "set": "Astral Radiance 94/216",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "094/189",
+    "set": "Astral Radiance 094/189",
+    "cost": "UnGraded: $0.84",
     "img": "https://images.pokemontcg.io/swsh10/94.png"
   },
   {
-    "set": "Astral Radiance 174/216",
-    "cost": "Not PSA Graded: $5.01",
+    "code": "174/189",
+    "set": "Astral Radiance 174/189",
+    "cost": "UnGraded: $5.01",
     "img": "https://images.pokemontcg.io/swsh10/174.png"
   },
   {
-    "set": "Astral Radiance 175/216",
-    "cost": "Not PSA Graded: $22.94",
+    "code": "175/189",
+    "set": "Astral Radiance 175/189",
+    "cost": "UnGraded: $22.94",
     "img": "https://images.pokemontcg.io/swsh10/175.png"
   },
   {
-    "set": "Lost Origin 123/217",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "123/196",
+    "set": "Lost Origin 123/196",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/swsh11/123.png"
   }
 ]

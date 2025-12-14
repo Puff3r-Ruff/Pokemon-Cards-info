@@ -1,42 +1,50 @@
 [
   {
-    "set": "XY Black Star Promos XY15/216",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "XY15/211",
+    "set": "XY Black Star Promos XY15/211",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/xyp/XY15.png"
   },
   {
-    "set": "Phantom Forces 69/124",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "069/119",
+    "set": "Phantom Forces 069/119",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/xy4/69.png"
   },
   {
-    "set": "XY 95/146",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "095/146",
+    "set": "XY 095/146",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/xy1/95.png"
   },
   {
-    "set": "Generations RC20/117",
-    "cost": "Not PSA Graded: $3.6",
+    "code": "RC20/83",
+    "set": "Generations RC20/83",
+    "cost": "UnGraded: $3.6",
     "img": "https://images.pokemontcg.io/g1/RC20.png"
   },
   {
-    "set": "Cosmic Eclipse 154/272",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "154/236",
+    "set": "Cosmic Eclipse 154/236",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/sm12/154.png"
   },
   {
-    "set": "Chilling Reign 68/233",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "068/198",
+    "set": "Chilling Reign 068/198",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh6/68.png"
   },
   {
-    "set": "Silver Tempest 84/215",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "084/195",
+    "set": "Silver Tempest 084/195",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh12/84.png"
   },
   {
-    "set": "Twilight Masquerade 90/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "090/167",
+    "set": "Twilight Masquerade 090/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/90.png"
   }
 ]

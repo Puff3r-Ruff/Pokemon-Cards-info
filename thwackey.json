@@ -1,37 +1,44 @@
 [
   {
-    "set": "Sword & Shield 12/216",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "012/202",
+    "set": "Sword & Shield 012/202",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh1/12.png"
   },
   {
-    "set": "Sword & Shield 13/216",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "013/202",
+    "set": "Sword & Shield 013/202",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh1/13.png"
   },
   {
+    "code": "SV005/122",
     "set": "Shining Fates Shiny Vault SV005/122",
-    "cost": "Not PSA Graded: $1.82",
+    "cost": "UnGraded: $1.82",
     "img": "https://images.pokemontcg.io/swsh45sv/SV005.png"
   },
   {
-    "set": "Shining Fates 12/73",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "012/72",
+    "set": "Shining Fates 012/72",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh45/12.png"
   },
   {
-    "set": "Chilling Reign 17/233",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "017/198",
+    "set": "Chilling Reign 017/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh6/17.png"
   },
   {
-    "set": "Twilight Masquerade 15/226",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "015/167",
+    "set": "Twilight Masquerade 015/167",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv6/15.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 115/196",
-    "cost": "Not PSA Graded: $1.98",
+    "code": "115/215",
+    "set": "Scarlet & Violet Black Star Promos 115/215",
+    "cost": "UnGraded: $1.98",
     "img": "https://images.pokemontcg.io/svp/115.png"
   }
 ]

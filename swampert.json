@@ -1,77 +1,92 @@
 [
   {
-    "set": "POP Series 1 5/17",
-    "cost": "Not PSA Graded: $16.12",
+    "code": "005/17",
+    "set": "POP Series 1 005/17",
+    "cost": "UnGraded: $16.12",
     "img": "https://images.pokemontcg.io/pop1/5.png"
   },
   {
-    "set": "Emerald 11/107",
-    "cost": "Not PSA Graded: $37.47",
+    "code": "011/106",
+    "set": "Emerald 011/106",
+    "cost": "UnGraded: $37.47",
     "img": "https://images.pokemontcg.io/ex9/11.png"
   },
   {
-    "set": "Great Encounters 9/106",
-    "cost": "Not PSA Graded: $17.83",
+    "code": "009/106",
+    "set": "Great Encounters 009/106",
+    "cost": "UnGraded: $17.83",
     "img": "https://images.pokemontcg.io/dp4/9.png"
   },
   {
-    "set": "Supreme Victors 12/153",
-    "cost": "Not PSA Graded: $16.25",
+    "code": "012/147",
+    "set": "Supreme Victors 012/147",
+    "cost": "UnGraded: $16.25",
     "img": "https://images.pokemontcg.io/pl3/12.png"
   },
   {
-    "set": "Ruby & Sapphire 13/109",
-    "cost": "Not PSA Graded: $48.52",
+    "code": "013/109",
+    "set": "Ruby & Sapphire 013/109",
+    "cost": "UnGraded: $48.52",
     "img": "https://images.pokemontcg.io/ex1/13.png"
   },
   {
-    "set": "Crystal Guardians 27/100",
-    "cost": "Not PSA Graded: $2.61",
+    "code": "027/100",
+    "set": "Crystal Guardians 027/100",
+    "cost": "UnGraded: $2.61",
     "img": "https://images.pokemontcg.io/ex14/27.png"
   },
   {
-    "set": "Ruby & Sapphire 23/109",
-    "cost": "Not PSA Graded: $3.21",
+    "code": "023/109",
+    "set": "Ruby & Sapphire 023/109",
+    "cost": "UnGraded: $3.21",
     "img": "https://images.pokemontcg.io/ex1/23.png"
   },
   {
-    "set": "Primal Clash 35/164",
-    "cost": "Not PSA Graded: $0.81",
+    "code": "035/160",
+    "set": "Primal Clash 035/160",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/xy5/35.png"
   },
   {
-    "set": "Primal Clash 36/164",
-    "cost": "Not PSA Graded: $29.06",
+    "code": "036/160",
+    "set": "Primal Clash 036/160",
+    "cost": "UnGraded: $29.06",
     "img": "https://images.pokemontcg.io/xy5/36.png"
   },
   {
-    "set": "Celestial Storm 35/187",
-    "cost": "Not PSA Graded: $1.23",
+    "code": "035/168",
+    "set": "Celestial Storm 035/168",
+    "cost": "UnGraded: $1.25",
     "img": "https://images.pokemontcg.io/sm7/35.png"
   },
   {
-    "set": "XY Black Star Promos XY55/216",
-    "cost": "Not PSA Graded: $5.66",
+    "code": "XY55/211",
+    "set": "XY Black Star Promos XY55/211",
+    "cost": "UnGraded: $5.66",
     "img": "https://images.pokemontcg.io/xyp/XY55.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 95/97",
-    "cost": "Not PSA Graded: $185.12",
+    "code": "095/95",
+    "set": "Team Magma vs Team Aqua 095/95",
+    "cost": "UnGraded: $185.12",
     "img": "https://images.pokemontcg.io/ex4/95.png"
   },
   {
-    "set": "XY Black Star Promos XY87/216",
-    "cost": "Not PSA Graded: $63.39",
+    "code": "XY87/211",
+    "set": "XY Black Star Promos XY87/211",
+    "cost": "UnGraded: $63.39",
     "img": "https://images.pokemontcg.io/xyp/XY87.png"
   },
   {
-    "set": "Crystal Guardians 98/100",
-    "cost": "Not PSA Graded: $132.16",
+    "code": "098/100",
+    "set": "Crystal Guardians 098/100",
+    "cost": "UnGraded: $132.16",
     "img": "https://images.pokemontcg.io/ex14/98.png"
   },
   {
-    "set": "Fusion Strike 64/284",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "064/264",
+    "set": "Fusion Strike 064/264",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/swsh8/64.png"
   }
 ]

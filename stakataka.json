@@ -1,37 +1,44 @@
 [
   {
+    "code": "SV74/94",
     "set": "Hidden Fates Shiny Vault SV74/94",
-    "cost": "Not PSA Graded: $9.01",
+    "cost": "UnGraded: $9.01",
     "img": "https://images.pokemontcg.io/sma/SV74.png"
   },
   {
-    "set": "Celestial Storm 102/187",
-    "cost": "Not PSA Graded: $12.71",
+    "code": "102/168",
+    "set": "Celestial Storm 102/168",
+    "cost": "UnGraded: $12.71",
     "img": "https://images.pokemontcg.io/sm7/102.png"
   },
   {
-    "set": "Unbroken Bonds 106/234",
-    "cost": "Not PSA Graded: $1.94",
+    "code": "106/214",
+    "set": "Unbroken Bonds 106/214",
+    "cost": "UnGraded: $1.94",
     "img": "https://images.pokemontcg.io/sm10/106.png"
   },
   {
-    "set": "Celestial Storm 159/187",
-    "cost": "Not PSA Graded: $9.91",
+    "code": "159/168",
+    "set": "Celestial Storm 159/168",
+    "cost": "UnGraded: $9.91",
     "img": "https://images.pokemontcg.io/sm7/159.png"
   },
   {
-    "set": "SM Black Star Promos SM180/250",
-    "cost": "Not PSA Graded: $4.41",
+    "code": "SM180/248",
+    "set": "SM Black Star Promos SM180/248",
+    "cost": "UnGraded: $4.41",
     "img": "https://images.pokemontcg.io/smp/SM180.png"
   },
   {
-    "set": "Celestial Storm 176/187",
-    "cost": "Not PSA Graded: $28.51",
+    "code": "176/168",
+    "set": "Celestial Storm 176/168",
+    "cost": "UnGraded: $28.51",
     "img": "https://images.pokemontcg.io/sm7/176.png"
   },
   {
-    "set": "SM Black Star Promos SM209/250",
-    "cost": "Not PSA Graded: $1.24",
+    "code": "SM209/248",
+    "set": "SM Black Star Promos SM209/248",
+    "cost": "UnGraded: $1.24",
     "img": "https://images.pokemontcg.io/smp/SM209.png"
   }
 ]

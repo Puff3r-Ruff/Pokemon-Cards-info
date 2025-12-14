@@ -1,47 +1,56 @@
 [
   {
-    "set": "Scarlet & Violet 38/258",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "038/198",
+    "set": "Scarlet & Violet 038/198",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv1/38.png"
   },
   {
-    "set": "Paldea Evolved 37/279",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "037/193",
+    "set": "Paldea Evolved 037/193",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/sv2/37.png"
   },
   {
-    "set": "Paldea Evolved 233/279",
-    "cost": "Not PSA Graded: $1.83",
+    "code": "233/193",
+    "set": "Paldea Evolved 233/193",
+    "cost": "UnGraded: $1.83",
     "img": "https://images.pokemontcg.io/sv2/233.png"
   },
   {
-    "set": "Paldea Evolved 258/279",
-    "cost": "Not PSA Graded: $27.82",
+    "code": "258/193",
+    "set": "Paldea Evolved 258/193",
+    "cost": "UnGraded: $27.82",
     "img": "https://images.pokemontcg.io/sv2/258.png"
   },
   {
-    "set": "Paldea Evolved 272/279",
-    "cost": "Not PSA Graded: $5.06",
+    "code": "272/193",
+    "set": "Paldea Evolved 272/193",
+    "cost": "UnGraded: $5.06",
     "img": "https://images.pokemontcg.io/sv2/272.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 34/196",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "034/215",
+    "set": "Scarlet & Violet Black Star Promos 034/215",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/svp/34.png"
   },
   {
-    "set": "Paradox Rift 137/266",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "137/182",
+    "set": "Paradox Rift 137/182",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/sv4/137.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 81/196",
-    "cost": "Not PSA Graded: $2.33",
+    "code": "081/215",
+    "set": "Scarlet & Violet Black Star Promos 081/215",
+    "cost": "UnGraded: $2.33",
     "img": "https://images.pokemontcg.io/svp/81.png"
   },
   {
-    "set": "Surging Sparks 31/252",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "031/191",
+    "set": "Surging Sparks 031/191",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8/31.png"
   }
 ]

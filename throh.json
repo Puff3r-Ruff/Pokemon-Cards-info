@@ -1,42 +1,50 @@
 [
   {
-    "set": "Plasma Blast 51/105",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "051/101",
+    "set": "Plasma Blast 051/101",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/bw10/51.png"
   },
   {
-    "set": "Black & White 61/115",
-    "cost": "Not PSA Graded: $1.06",
+    "code": "061/114",
+    "set": "Black & White 061/114",
+    "cost": "UnGraded: $1.06",
     "img": "https://images.pokemontcg.io/bw1/61.png"
   },
   {
-    "set": "Emerging Powers 58/98",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "058/98",
+    "set": "Emerging Powers 058/98",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/bw2/58.png"
   },
   {
-    "set": "Dragons Exalted 68/128",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "068/124",
+    "set": "Dragons Exalted 068/124",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/bw6/68.png"
   },
   {
-    "set": "Cosmic Eclipse 118/272",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "118/236",
+    "set": "Cosmic Eclipse 118/236",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm12/118.png"
   },
   {
-    "set": "Brilliant Stars 80/186",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "080/172",
+    "set": "Brilliant Stars 080/172",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh9/80.png"
   },
   {
-    "set": "Black Bolt 50/172",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "050/86",
+    "set": "Black Bolt 050/86",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/zsv10pt5/50.png"
   },
   {
-    "set": "Black Bolt 128/172",
-    "cost": "Not PSA Graded: $4.87",
+    "code": "128/86",
+    "set": "Black Bolt 128/86",
+    "cost": "UnGraded: $4.87",
     "img": "https://images.pokemontcg.io/zsv10pt5/128.png"
   }
 ]

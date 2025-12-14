@@ -1,32 +1,38 @@
 [
   {
-    "set": "Flashfire 67/110",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "067/106",
+    "set": "Flashfire 067/106",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy2/67.png"
   },
   {
-    "set": "XY 92/146",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "092/146",
+    "set": "XY 092/146",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy1/92.png"
   },
   {
-    "set": "BREAKpoint 84/126",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "084/122",
+    "set": "BREAKpoint 084/122",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy9/84.png"
   },
   {
-    "set": "BREAKthrough 105/165",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "105/162",
+    "set": "BREAKthrough 105/162",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy8/105.png"
   },
   {
-    "set": "Unbroken Bonds 141/234",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "141/214",
+    "set": "Unbroken Bonds 141/214",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm10/141.png"
   },
   {
-    "set": "Prismatic Evolutions 38/180",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "038/131",
+    "set": "Prismatic Evolutions 038/131",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8pt5/38.png"
   }
 ]

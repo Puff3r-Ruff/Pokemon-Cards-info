@@ -1,122 +1,146 @@
 [
   {
-    "set": "Legendary Collection 8/110",
-    "cost": "Not PSA Graded: $34.97",
+    "code": "008/110",
+    "set": "Legendary Collection 008/110",
+    "cost": "UnGraded: $34.97",
     "img": "https://images.pokemontcg.io/base6/8.png"
   },
   {
-    "set": "Team Rocket 12/83",
+    "code": "012/82",
+    "set": "Team Rocket 012/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/12.png"
   },
   {
-    "set": "Unseen Forces 13/145",
-    "cost": "Not PSA Graded: $22.09",
+    "code": "013/115",
+    "set": "Unseen Forces 013/115",
+    "cost": "UnGraded: $22.09",
     "img": "https://images.pokemontcg.io/ex10/13.png"
   },
   {
-    "set": "FireRed & LeafGreen 14/116",
-    "cost": "Not PSA Graded: $31.18",
+    "code": "014/112",
+    "set": "FireRed & LeafGreen 014/112",
+    "cost": "UnGraded: $31.18",
     "img": "https://images.pokemontcg.io/ex6/14.png"
   },
   {
-    "set": "BREAKpoint 20/126",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "020/122",
+    "set": "BREAKpoint 020/122",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/xy9/20.png"
   },
   {
-    "set": "Dark Explorers 24/111",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "024/108",
+    "set": "Dark Explorers 024/108",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/bw5/24.png"
   },
   {
-    "set": "Evolutions 26/113",
-    "cost": "Not PSA Graded: $1.95",
+    "code": "026/108",
+    "set": "Evolutions 026/108",
+    "cost": "UnGraded: $1.95",
     "img": "https://images.pokemontcg.io/xy12/26.png"
   },
   {
-    "set": "Team Rocket 29/83",
+    "code": "029/82",
+    "set": "Team Rocket 029/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/29.png"
   },
   {
-    "set": "Evolutions 27/113",
-    "cost": "Not PSA Graded: $10.89",
+    "code": "027/108",
+    "set": "Evolutions 027/108",
+    "cost": "UnGraded: $10.97",
     "img": "https://images.pokemontcg.io/xy12/27.png"
   },
   {
-    "set": "HS—Undaunted 38/91",
-    "cost": "Not PSA Graded: $1.38",
+    "code": "038/90",
+    "set": "HS—Undaunted 038/90",
+    "cost": "UnGraded: $1.38",
     "img": "https://images.pokemontcg.io/hgss3/38.png"
   },
   {
-    "set": "Fossil 43/62",
+    "code": "043/62",
+    "set": "Fossil 043/62",
     "cost": null,
     "img": "https://images.pokemontcg.io/base3/43.png"
   },
   {
-    "set": "HeartGold & SoulSilver 52/124",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "052/123",
+    "set": "HeartGold & SoulSilver 052/123",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/hgss1/52.png"
   },
   {
-    "set": "Guardians Rising 49/180",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "049/145",
+    "set": "Guardians Rising 049/145",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm2/49.png"
   },
   {
-    "set": "Neo Destiny 51/113",
+    "code": "051/105",
+    "set": "Neo Destiny 051/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/51.png"
   },
   {
-    "set": "Unbroken Bonds 43/234",
-    "cost": "Not PSA Graded: $1.84",
+    "code": "043/214",
+    "set": "Unbroken Bonds 043/214",
+    "cost": "UnGraded: $1.84",
     "img": "https://images.pokemontcg.io/sm10/43.png"
   },
   {
-    "set": "Aquapolis 33/182",
-    "cost": "Not PSA Graded: $49.35",
+    "code": "033/147",
+    "set": "Aquapolis 033/147",
+    "cost": "UnGraded: $49.35",
     "img": "https://images.pokemontcg.io/ecard2/33.png"
   },
   {
-    "set": "Gym Heroes 60/132",
+    "code": "060/132",
+    "set": "Gym Heroes 060/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/60.png"
   },
   {
-    "set": "Great Encounters 54/106",
-    "cost": "Not PSA Graded: $1.06",
+    "code": "054/106",
+    "set": "Great Encounters 054/106",
+    "cost": "UnGraded: $1.06",
     "img": "https://images.pokemontcg.io/dp4/54.png"
   },
   {
-    "set": "Darkness Ablaze 99/201",
-    "cost": "Not PSA Graded: $1.02",
+    "code": "099/189",
+    "set": "Darkness Ablaze 099/189",
+    "cost": "UnGraded: $1.01",
     "img": "https://images.pokemontcg.io/swsh3/99.png"
   },
   {
-    "set": "Battle Styles 92/183",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "092/163",
+    "set": "Battle Styles 092/163",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/swsh5/92.png"
   },
   {
-    "set": "Pokémon GO 20/88",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "020/78",
+    "set": "Pokémon GO 020/78",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/pgo/20.png"
   },
   {
-    "set": "Scarlet & Violet 43/258",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "043/198",
+    "set": "Scarlet & Violet 043/198",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sv1/43.png"
   },
   {
-    "set": "151 80/207",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "080/165",
+    "set": "151 080/165",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv3pt5/80.png"
   },
   {
-    "set": "Paldean Fates 117/245",
-    "cost": "Not PSA Graded: $6.82",
+    "code": "117/91",
+    "set": "Paldean Fates 117/91",
+    "cost": "UnGraded: $6.76",
     "img": "https://images.pokemontcg.io/sv4pt5/117.png"
   }
 ]

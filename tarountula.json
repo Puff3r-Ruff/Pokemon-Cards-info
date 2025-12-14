@@ -1,37 +1,44 @@
 [
   {
-    "set": "Scarlet & Violet 16/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "016/198",
+    "set": "Scarlet & Violet 016/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/16.png"
   },
   {
-    "set": "Scarlet & Violet 18/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "018/198",
+    "set": "Scarlet & Violet 018/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/18.png"
   },
   {
-    "set": "Scarlet & Violet 17/258",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "017/198",
+    "set": "Scarlet & Violet 017/198",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv1/17.png"
   },
   {
-    "set": "Scarlet & Violet 199/258",
-    "cost": "Not PSA Graded: $7.18",
+    "code": "199/198",
+    "set": "Scarlet & Violet 199/198",
+    "cost": "UnGraded: $7.18",
     "img": "https://images.pokemontcg.io/sv1/199.png"
   },
   {
-    "set": "Paldea Evolved 16/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "016/193",
+    "set": "Paldea Evolved 016/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/16.png"
   },
   {
-    "set": "Paldea Evolved 17/279",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "017/193",
+    "set": "Paldea Evolved 017/193",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv2/17.png"
   },
   {
-    "set": "Destined Rivals 19/244",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "019/182",
+    "set": "Destined Rivals 019/182",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv10/19.png"
   }
 ]

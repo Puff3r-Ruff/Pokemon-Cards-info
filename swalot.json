@@ -1,42 +1,50 @@
 [
   {
-    "set": "Arceus 9/111",
-    "cost": "Not PSA Graded: $2.91",
+    "code": "009/99",
+    "set": "Arceus 009/99",
+    "cost": "UnGraded: $2.91",
     "img": "https://images.pokemontcg.io/pl4/9.png"
   },
   {
-    "set": "Crystal Guardians 11/100",
-    "cost": "Not PSA Graded: $4.19",
+    "code": "011/100",
+    "set": "Crystal Guardians 011/100",
+    "cost": "UnGraded: $4.19",
     "img": "https://images.pokemontcg.io/ex14/11.png"
   },
   {
-    "set": "Emerald 40/107",
-    "cost": "Not PSA Graded: $1.36",
+    "code": "040/106",
+    "set": "Emerald 040/106",
+    "cost": "UnGraded: $1.36",
     "img": "https://images.pokemontcg.io/ex9/40.png"
   },
   {
-    "set": "Phantom Forces 38/124",
-    "cost": "Not PSA Graded: $1.07",
+    "code": "038/119",
+    "set": "Phantom Forces 038/119",
+    "cost": "UnGraded: $1.07",
     "img": "https://images.pokemontcg.io/xy4/38.png"
   },
   {
-    "set": "Celestial Storm 58/187",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "058/168",
+    "set": "Celestial Storm 058/168",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/sm7/58.png"
   },
   {
-    "set": "Hidden Legends 50/102",
-    "cost": "Not PSA Graded: $4.78",
+    "code": "050/101",
+    "set": "Hidden Legends 050/101",
+    "cost": "UnGraded: $4.78",
     "img": "https://images.pokemontcg.io/ex5/50.png"
   },
   {
-    "set": "Legends Awakened 72/146",
-    "cost": "Not PSA Graded: $1.13",
+    "code": "072/146",
+    "set": "Legends Awakened 072/146",
+    "cost": "UnGraded: $1.13",
     "img": "https://images.pokemontcg.io/dp6/72.png"
   },
   {
-    "set": "Stellar Crown 92/175",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "092/142",
+    "set": "Stellar Crown 092/142",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv7/92.png"
   }
 ]

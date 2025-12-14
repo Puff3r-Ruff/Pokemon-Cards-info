@@ -1,67 +1,80 @@
 [
   {
-    "set": "Plasma Blast 1/105",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "001/101",
+    "set": "Plasma Blast 001/101",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/bw10/1.png"
   },
   {
-    "set": "Sun & Moon 7/173",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "007/149",
+    "set": "Sun & Moon 007/149",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm1/7.png"
   },
   {
-    "set": "Primal Clash 13/164",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "013/160",
+    "set": "Primal Clash 013/160",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/xy5/13.png"
   },
   {
-    "set": "POP Series 1 14/17",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "014/17",
+    "set": "POP Series 1 014/17",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/pop1/14.png"
   },
   {
-    "set": "Rebel Clash 10/209",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "010/192",
+    "set": "Rebel Clash 010/192",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh2/10.png"
   },
   {
-    "set": "Celestial Storm 15/187",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "015/168",
+    "set": "Celestial Storm 015/168",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm7/15.png"
   },
   {
-    "set": "Deoxys 78/108",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "078/107",
+    "set": "Deoxys 078/107",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/ex8/78.png"
   },
   {
-    "set": "Holon Phantoms 82/111",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "082/110",
+    "set": "Holon Phantoms 082/110",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/ex13/82.png"
   },
   {
-    "set": "Hidden Legends 76/102",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "076/101",
+    "set": "Hidden Legends 076/101",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/ex5/76.png"
   },
   {
-    "set": "Mysterious Treasures 104/124",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "104/123",
+    "set": "Mysterious Treasures 104/123",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/dp2/104.png"
   },
   {
-    "set": "Supreme Victors 130/153",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "130/147",
+    "set": "Supreme Victors 130/147",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/pl3/130.png"
   },
   {
-    "set": "Obsidian Flames 6/230",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "006/197",
+    "set": "Obsidian Flames 006/197",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv3/6.png"
   },
   {
-    "set": "Paradox Rift 1/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "001/182",
+    "set": "Paradox Rift 001/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/1.png"
   }
 ]

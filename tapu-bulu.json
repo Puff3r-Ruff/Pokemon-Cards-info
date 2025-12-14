@@ -1,37 +1,44 @@
 [
   {
-    "set": "Lost Thunder 37/240",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "037/214",
+    "set": "Lost Thunder 037/214",
+    "cost": "UnGraded: $0.78",
     "img": "https://images.pokemontcg.io/sm8/37.png"
   },
   {
-    "set": "SM Black Star Promos SM32/250",
-    "cost": "Not PSA Graded: $1.44",
+    "code": "SM32/248",
+    "set": "SM Black Star Promos SM32/248",
+    "cost": "UnGraded: $1.44",
     "img": "https://images.pokemontcg.io/smp/SM32.png"
   },
   {
-    "set": "SM Black Star Promos SM61/250",
-    "cost": "Not PSA Graded: $1.12",
+    "code": "SM61/248",
+    "set": "SM Black Star Promos SM61/248",
+    "cost": "UnGraded: $1.12",
     "img": "https://images.pokemontcg.io/smp/SM61.png"
   },
   {
+    "code": "SV91/94",
     "set": "Hidden Fates Shiny Vault SV91/94",
-    "cost": "Not PSA Graded: $14.9",
+    "cost": "UnGraded: $14.9",
     "img": "https://images.pokemontcg.io/sma/SV91.png"
   },
   {
-    "set": "Burning Shadows 130/177",
-    "cost": "Not PSA Graded: $4.06",
+    "code": "130/147",
+    "set": "Burning Shadows 130/147",
+    "cost": "UnGraded: $4.06",
     "img": "https://images.pokemontcg.io/sm3/130.png"
   },
   {
-    "set": "Burning Shadows 149/177",
-    "cost": "Not PSA Graded: $9.4",
+    "code": "149/147",
+    "set": "Burning Shadows 149/147",
+    "cost": "UnGraded: $9.4",
     "img": "https://images.pokemontcg.io/sm3/149.png"
   },
   {
-    "set": "Battle Styles 16/183",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "016/163",
+    "set": "Battle Styles 016/163",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh5/16.png"
   }
 ]

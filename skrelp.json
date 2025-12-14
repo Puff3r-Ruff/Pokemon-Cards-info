@@ -1,27 +1,32 @@
 [
   {
-    "set": "Flashfire 44/110",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "044/106",
+    "set": "Flashfire 044/106",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy2/44.png"
   },
   {
-    "set": "Forbidden Light 52/150",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "052/131",
+    "set": "Forbidden Light 052/131",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm6/52.png"
   },
   {
-    "set": "BREAKpoint 63/126",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "063/122",
+    "set": "BREAKpoint 063/122",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/xy9/63.png"
   },
   {
-    "set": "Cosmic Eclipse 91/272",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "091/236",
+    "set": "Cosmic Eclipse 091/236",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm12/91.png"
   },
   {
-    "set": "Crown Zenith 81/160",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "081/159",
+    "set": "Crown Zenith 081/159",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh12pt5/81.png"
   }
 ]

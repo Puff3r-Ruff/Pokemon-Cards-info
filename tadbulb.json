@@ -1,37 +1,44 @@
 [
   {
-    "set": "Paldea Evolved 77/279",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "077/193",
+    "set": "Paldea Evolved 077/193",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv2/77.png"
   },
   {
-    "set": "Paldea Evolved 78/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "078/193",
+    "set": "Paldea Evolved 078/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/78.png"
   },
   {
-    "set": "Obsidian Flames 74/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "074/197",
+    "set": "Obsidian Flames 074/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/74.png"
   },
   {
-    "set": "Obsidian Flames 76/230",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "076/197",
+    "set": "Obsidian Flames 076/197",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3/76.png"
   },
   {
-    "set": "Obsidian Flames 75/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "075/197",
+    "set": "Obsidian Flames 075/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/75.png"
   },
   {
-    "set": "Twilight Masquerade 73/226",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "073/167",
+    "set": "Twilight Masquerade 073/167",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv6/73.png"
   },
   {
-    "set": "Journey Together 52/190",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "052/159",
+    "set": "Journey Together 052/159",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv9/52.png"
   }
 ]

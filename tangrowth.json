@@ -1,82 +1,98 @@
 [
   {
-    "set": "Steam Siege 2/116",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "002/114",
+    "set": "Steam Siege 002/114",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/xy11/2.png"
   },
   {
-    "set": "Legendary Treasures 2/140",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "002/113",
+    "set": "Legendary Treasures 002/113",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/bw11/2.png"
   },
   {
-    "set": "Lost Thunder 2/240",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "002/214",
+    "set": "Lost Thunder 002/214",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/sm8/2.png"
   },
   {
-    "set": "Primal Clash 5/164",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "005/160",
+    "set": "Primal Clash 005/160",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/xy5/5.png"
   },
   {
-    "set": "Boundaries Crossed 6/153",
-    "cost": "Not PSA Graded: $2.06",
+    "code": "006/149",
+    "set": "Boundaries Crossed 006/149",
+    "cost": "UnGraded: $2.06",
     "img": "https://images.pokemontcg.io/bw7/6.png"
   },
   {
-    "set": "Cosmic Eclipse 6/272",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "006/236",
+    "set": "Cosmic Eclipse 006/236",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm12/6.png"
   },
   {
-    "set": "Burning Shadows 8/177",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "008/147",
+    "set": "Burning Shadows 008/147",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm3/8.png"
   },
   {
-    "set": "Arceus 10/111",
-    "cost": "Not PSA Graded: $2.83",
+    "code": "010/99",
+    "set": "Arceus 010/99",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/pl4/10.png"
   },
   {
-    "set": "Great Encounters 10/106",
-    "cost": "Not PSA Graded: $4",
+    "code": "010/106",
+    "set": "Great Encounters 010/106",
+    "cost": "UnGraded: $4",
     "img": "https://images.pokemontcg.io/dp4/10.png"
   },
   {
-    "set": "Unbroken Bonds 17/234",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "017/214",
+    "set": "Unbroken Bonds 017/214",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/sm10/17.png"
   },
   {
-    "set": "Call of Legends 34/106",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "034/95",
+    "set": "Call of Legends 034/95",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/col1/34.png"
   },
   {
-    "set": "Stormfront 29/106",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "029/100",
+    "set": "Stormfront 029/100",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/dp7/29.png"
   },
   {
-    "set": "Arceus 99/111",
-    "cost": "Not PSA Graded: $22.56",
+    "code": "099/99",
+    "set": "Arceus 099/99",
+    "cost": "UnGraded: $22.56",
     "img": "https://images.pokemontcg.io/pl4/99.png"
   },
   {
-    "set": "Crown Zenith 5/160",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "005/159",
+    "set": "Crown Zenith 005/159",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh12pt5/5.png"
   },
   {
-    "set": "Twilight Masquerade 2/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "002/167",
+    "set": "Twilight Masquerade 002/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/2.png"
   },
   {
-    "set": "Mega Evolution 7/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "007/132",
+    "set": "Mega Evolution 007/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/7.png"
   }
 ]

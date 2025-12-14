@@ -1,57 +1,68 @@
 [
   {
-    "set": "Emerging Powers 37/98",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "037/98",
+    "set": "Emerging Powers 037/98",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/bw2/37.png"
   },
   {
-    "set": "Black & White 51/115",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "051/114",
+    "set": "Black & White 051/114",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/bw1/51.png"
   },
   {
-    "set": "Legendary Treasures 65/140",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "065/113",
+    "set": "Legendary Treasures 065/113",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/bw11/65.png"
   },
   {
-    "set": "Boundaries Crossed 71/153",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "071/149",
+    "set": "Boundaries Crossed 071/149",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/bw7/71.png"
   },
   {
-    "set": "BREAKthrough 72/165",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "072/162",
+    "set": "BREAKthrough 072/162",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy8/72.png"
   },
   {
-    "set": "Vivid Voltage 74/203",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "074/185",
+    "set": "Vivid Voltage 074/185",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh4/74.png"
   },
   {
-    "set": "Cosmic Eclipse 88/272",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "088/236",
+    "set": "Cosmic Eclipse 088/236",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/sm12/88.png"
   },
   {
-    "set": "Evolving Skies 69/237",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "069/203",
+    "set": "Evolving Skies 069/203",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh7/69.png"
   },
   {
-    "set": "Paldean Fates 33/245",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "033/91",
+    "set": "Paldean Fates 033/91",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv4pt5/33.png"
   },
   {
-    "set": "White Flare 37/173",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "037/86",
+    "set": "White Flare 037/86",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/rsv10pt5/37.png"
   },
   {
-    "set": "White Flare 120/173",
-    "cost": "Not PSA Graded: $8.87",
+    "code": "120/86",
+    "set": "White Flare 120/86",
+    "cost": "UnGraded: $8.87",
     "img": "https://images.pokemontcg.io/rsv10pt5/120.png"
   }
 ]

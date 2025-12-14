@@ -1,82 +1,98 @@
 [
   {
-    "set": "Platinum 16/133",
-    "cost": "Not PSA Graded: $4.27",
+    "code": "016/127",
+    "set": "Platinum 016/127",
+    "cost": "UnGraded: $4.27",
     "img": "https://images.pokemontcg.io/pl1/16.png"
   },
   {
-    "set": "Detective Pikachu 18/18",
-    "cost": "Not PSA Graded: $0.81",
+    "code": "018/18",
+    "set": "Detective Pikachu 018/18",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/det1/18.png"
   },
   {
-    "set": "Deoxys 15/108",
-    "cost": "Not PSA Graded: $11.48",
+    "code": "015/107",
+    "set": "Deoxys 015/107",
+    "cost": "UnGraded: $11.48",
     "img": "https://images.pokemontcg.io/ex8/15.png"
   },
   {
-    "set": "Ruby & Sapphire 12/109",
-    "cost": "Not PSA Graded: $22.68",
+    "code": "012/109",
+    "set": "Ruby & Sapphire 012/109",
+    "cost": "UnGraded: $22.68",
     "img": "https://images.pokemontcg.io/ex1/12.png"
   },
   {
-    "set": "Power Keepers 13/108",
-    "cost": "Not PSA Graded: $6.68",
+    "code": "013/108",
+    "set": "Power Keepers 013/108",
+    "cost": "UnGraded: $6.68",
     "img": "https://images.pokemontcg.io/ex16/13.png"
   },
   {
-    "set": "Mysterious Treasures 34/124",
-    "cost": "Not PSA Graded: $1.06",
+    "code": "034/123",
+    "set": "Mysterious Treasures 034/123",
+    "cost": "UnGraded: $1.06",
     "img": "https://images.pokemontcg.io/dp2/34.png"
   },
   {
-    "set": "Furious Fists 83/114",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "083/111",
+    "set": "Furious Fists 083/111",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/xy3/83.png"
   },
   {
-    "set": "Dragons Exalted 103/128",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "103/124",
+    "set": "Dragons Exalted 103/124",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/bw6/103.png"
   },
   {
-    "set": "Celestial Storm 115/187",
-    "cost": "Not PSA Graded: $6.03",
+    "code": "115/168",
+    "set": "Celestial Storm 115/168",
+    "cost": "UnGraded: $6.03",
     "img": "https://images.pokemontcg.io/sm7/115.png"
   },
   {
-    "set": "Unified Minds 170/260",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "170/236",
+    "set": "Unified Minds 170/236",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/sm11/170.png"
   },
   {
-    "set": "Evolving Skies 131/237",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "131/203",
+    "set": "Evolving Skies 131/203",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/swsh7/131.png"
   },
   {
-    "set": "Pokémon GO 58/88",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "058/78",
+    "set": "Pokémon GO 058/78",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/pgo/58.png"
   },
   {
-    "set": "Pokémon GO 77/88",
-    "cost": "Not PSA Graded: $1.64",
+    "code": "077/78",
+    "set": "Pokémon GO 077/78",
+    "cost": "UnGraded: $1.64",
     "img": "https://images.pokemontcg.io/pgo/77.png"
   },
   {
-    "set": "Paldea Evolved 162/279",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "162/193",
+    "set": "Paldea Evolved 162/193",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv2/162.png"
   },
   {
-    "set": "Surging Sparks 147/252",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "147/191",
+    "set": "Surging Sparks 147/191",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/sv8/147.png"
   },
   {
-    "set": "Surging Sparks 227/252",
-    "cost": "Not PSA Graded: $0.96",
+    "code": "227/191",
+    "set": "Surging Sparks 227/191",
+    "cost": "UnGraded: $0.96",
     "img": "https://images.pokemontcg.io/sv8/227.png"
   }
 ]

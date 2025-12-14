@@ -1,62 +1,74 @@
 [
   {
-    "set": "SM Black Star Promos SM45/250",
-    "cost": "Not PSA Graded: $3.64",
+    "code": "SM45/248",
+    "set": "SM Black Star Promos SM45/248",
+    "cost": "UnGraded: $3.64",
     "img": "https://images.pokemontcg.io/smp/SM45.png"
   },
   {
-    "set": "Guardians Rising 60/180",
-    "cost": "Not PSA Graded: $4.06",
+    "code": "060/145",
+    "set": "Guardians Rising 060/145",
+    "cost": "UnGraded: $4.06",
     "img": "https://images.pokemontcg.io/sm2/60.png"
   },
   {
-    "set": "Guardians Rising 60a/180",
+    "code": "60a/145",
+    "set": "Guardians Rising 60a/145",
     "cost": null,
     "img": "https://images.pokemontcg.io/sm2/60a.png"
   },
   {
-    "set": "Ultra Prism 94/178",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "094/156",
+    "set": "Ultra Prism 094/156",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/sm5/94.png"
   },
   {
+    "code": "SV94/94",
     "set": "Hidden Fates Shiny Vault SV94/94",
-    "cost": "Not PSA Graded: $17.4",
+    "cost": "UnGraded: $17.4",
     "img": "https://images.pokemontcg.io/sma/SV94.png"
   },
   {
-    "set": "Guardians Rising 137/180",
-    "cost": "Not PSA Graded: $8.41",
+    "code": "137/145",
+    "set": "Guardians Rising 137/145",
+    "cost": "UnGraded: $8.41",
     "img": "https://images.pokemontcg.io/sm2/137.png"
   },
   {
-    "set": "SM Black Star Promos SM152/250",
-    "cost": "Not PSA Graded: $3.16",
+    "code": "SM152/248",
+    "set": "SM Black Star Promos SM152/248",
+    "cost": "UnGraded: $3.16",
     "img": "https://images.pokemontcg.io/smp/SM152.png"
   },
   {
-    "set": "Lost Thunder 150/240",
-    "cost": "Not PSA Graded: $1.07",
+    "code": "150/214",
+    "set": "Lost Thunder 150/214",
+    "cost": "UnGraded: $1.07",
     "img": "https://images.pokemontcg.io/sm8/150.png"
   },
   {
-    "set": "Guardians Rising 155/180",
-    "cost": "Not PSA Graded: $19.07",
+    "code": "155/145",
+    "set": "Guardians Rising 155/145",
+    "cost": "UnGraded: $19.07",
     "img": "https://images.pokemontcg.io/sm2/155.png"
   },
   {
-    "set": "Celebrations: Classic Collection 60/25",
-    "cost": "Not PSA Graded: $3.13",
+    "code": "060/25",
+    "set": "Celebrations: Classic Collection 060/25",
+    "cost": "UnGraded: $3.13",
     "img": "https://images.pokemontcg.io/cel25c/60_A.png"
   },
   {
-    "set": "Crown Zenith 64/160",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "064/159",
+    "set": "Crown Zenith 064/159",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/swsh12pt5/64.png"
   },
   {
-    "set": "Surging Sparks 92/252",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "092/191",
+    "set": "Surging Sparks 092/191",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv8/92.png"
   }
 ]

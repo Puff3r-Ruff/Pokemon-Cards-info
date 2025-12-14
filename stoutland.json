@@ -1,72 +1,86 @@
 [
   {
-    "set": "Black & White 83/115",
-    "cost": "Not PSA Graded: $0.83",
+    "code": "083/114",
+    "set": "Black & White 083/114",
+    "cost": "UnGraded: $0.83",
     "img": "https://images.pokemontcg.io/bw1/83.png"
   },
   {
-    "set": "Dark Explorers 88/111",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "088/108",
+    "set": "Dark Explorers 088/108",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/bw5/88.png"
   },
   {
-    "set": "Sun & Moon 105/173",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "105/149",
+    "set": "Sun & Moon 105/149",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm1/105.png"
   },
   {
+    "code": "110/146",
     "set": "XY 110/146",
-    "cost": "Not PSA Graded: $0.56",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/xy1/110.png"
   },
   {
-    "set": "Boundaries Crossed 122/153",
-    "cost": "Not PSA Graded: $4",
+    "code": "122/149",
+    "set": "Boundaries Crossed 122/149",
+    "cost": "UnGraded: $4",
     "img": "https://images.pokemontcg.io/bw7/122.png"
   },
   {
-    "set": "Cosmic Eclipse 176/272",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "176/236",
+    "set": "Cosmic Eclipse 176/236",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/sm12/176.png"
   },
   {
-    "set": "Cosmic Eclipse 248/272",
-    "cost": "Not PSA Graded: $6.5",
+    "code": "248/236",
+    "set": "Cosmic Eclipse 248/236",
+    "cost": "UnGraded: $6.5",
     "img": "https://images.pokemontcg.io/sm12/248.png"
   },
   {
-    "set": "Battle Styles 117/183",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "117/163",
+    "set": "Battle Styles 117/163",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/swsh5/117.png"
   },
   {
-    "set": "Battle Styles 157/183",
-    "cost": "Not PSA Graded: $2.85",
+    "code": "157/163",
+    "set": "Battle Styles 157/163",
+    "cost": "UnGraded: $2.85",
     "img": "https://images.pokemontcg.io/swsh5/157.png"
   },
   {
-    "set": "Evolving Skies 135/237",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "135/203",
+    "set": "Evolving Skies 135/203",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh7/135.png"
   },
   {
-    "set": "Crown Zenith 116/160",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "116/159",
+    "set": "Crown Zenith 116/159",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/swsh12pt5/116.png"
   },
   {
-    "set": "Obsidian Flames 172/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "172/197",
+    "set": "Obsidian Flames 172/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/172.png"
   },
   {
-    "set": "White Flare 76/173",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "076/86",
+    "set": "White Flare 076/86",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/rsv10pt5/76.png"
   },
   {
-    "set": "White Flare 156/173",
-    "cost": "Not PSA Graded: $18.74",
+    "code": "156/86",
+    "set": "White Flare 156/86",
+    "cost": "UnGraded: $18.74",
     "img": "https://images.pokemontcg.io/rsv10pt5/156.png"
   }
 ]

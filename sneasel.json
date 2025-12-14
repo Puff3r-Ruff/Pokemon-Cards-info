@@ -1,137 +1,164 @@
 [
   {
-    "set": "Neo Revelation 24/66",
+    "code": "024/64",
+    "set": "Neo Revelation 024/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/24.png"
   },
   {
-    "set": "Neo Genesis 25/111",
+    "code": "025/111",
+    "set": "Neo Genesis 025/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/25.png"
   },
   {
-    "set": "Cosmic Eclipse 43/272",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "043/236",
+    "set": "Cosmic Eclipse 043/236",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm12/43.png"
   },
   {
-    "set": "Flashfire 50/110",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "050/106",
+    "set": "Flashfire 050/106",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/xy2/50.png"
   },
   {
-    "set": "Flashfire 51/110",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "051/106",
+    "set": "Flashfire 051/106",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy2/51.png"
   },
   {
-    "set": "Steam Siege 60/116",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "060/114",
+    "set": "Steam Siege 060/114",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy11/60.png"
   },
   {
-    "set": "Plasma Freeze 65/122",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "065/116",
+    "set": "Plasma Freeze 065/116",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/bw9/65.png"
   },
   {
-    "set": "Next Destinies 69/103",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "069/99",
+    "set": "Next Destinies 069/99",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/bw4/69.png"
   },
   {
-    "set": "HS—Undaunted 68/91",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "068/90",
+    "set": "HS—Undaunted 068/90",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/hgss3/68.png"
   },
   {
-    "set": "Ultra Prism 73/178",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "073/156",
+    "set": "Ultra Prism 073/156",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/sm5/73.png"
   },
   {
-    "set": "Celestial Storm 86/187",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "086/168",
+    "set": "Celestial Storm 086/168",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm7/86.png"
   },
   {
-    "set": "Burning Shadows 85/177",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "085/147",
+    "set": "Burning Shadows 085/147",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm3/85.png"
   },
   {
+    "code": "100/130",
     "set": "Diamond & Pearl 100/130",
-    "cost": "Not PSA Graded: $0.23",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/dp1/100.png"
   },
   {
-    "set": "Team Rocket Returns 103/111",
-    "cost": "Not PSA Graded: $234.66",
+    "code": "103/109",
+    "set": "Team Rocket Returns 103/109",
+    "cost": "UnGraded: $234.66",
     "img": "https://images.pokemontcg.io/ex7/103.png"
   },
   {
+    "code": "103/109",
     "set": "Ruby & Sapphire 103/109",
-    "cost": "Not PSA Graded: $83.53",
+    "cost": "UnGraded: $83.53",
     "img": "https://images.pokemontcg.io/ex1/103.png"
   },
   {
+    "code": "120/146",
     "set": "Legends Awakened 120/146",
-    "cost": "Not PSA Graded: $0.41",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/dp6/120.png"
   },
   {
-    "set": "Aquapolis 110/182",
-    "cost": "Not PSA Graded: $2.97",
+    "code": "110/147",
+    "set": "Aquapolis 110/147",
+    "cost": "UnGraded: $2.97",
     "img": "https://images.pokemontcg.io/ecard2/110.png"
   },
   {
-    "set": "Unified Minds 131/260",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "131/236",
+    "set": "Unified Minds 131/236",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm11/131.png"
   },
   {
-    "set": "Chilling Reign 30/233",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "030/198",
+    "set": "Chilling Reign 030/198",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/swsh6/30.png"
   },
   {
-    "set": "Best of Game 5/9",
-    "cost": "Not PSA Graded: $15.27",
+    "code": "005/9",
+    "set": "Best of Game 005/9",
+    "cost": "UnGraded: $15.27",
     "img": "https://images.pokemontcg.io/bp/5.png"
   },
   {
-    "set": "Brilliant Stars 86/186",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "086/172",
+    "set": "Brilliant Stars 086/172",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh9/86.png"
   },
   {
-    "set": "Astral Radiance 92/216",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "092/189",
+    "set": "Astral Radiance 092/189",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh10/92.png"
   },
   {
-    "set": "Paldea Evolved 133/279",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "133/193",
+    "set": "Paldea Evolved 133/193",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv2/133.png"
   },
   {
-    "set": "Paldean Fates 182/245",
-    "cost": "Not PSA Graded: $2.82",
+    "code": "182/91",
+    "set": "Paldean Fates 182/91",
+    "cost": "UnGraded: $2.82",
     "img": "https://images.pokemontcg.io/sv4pt5/182.png"
   },
   {
-    "set": "Shrouded Fable 13/99",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "013/64",
+    "set": "Shrouded Fable 013/64",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv6pt5/13.png"
   },
   {
-    "set": "Prismatic Evolutions 61/180",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "061/131",
+    "set": "Prismatic Evolutions 061/131",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8pt5/61.png"
   },
   {
-    "set": "Destined Rivals 128/244",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "128/182",
+    "set": "Destined Rivals 128/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv10/128.png"
   }
 ]

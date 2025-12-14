@@ -1,47 +1,56 @@
 [
   {
-    "set": "Flashfire 53/110",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "053/106",
+    "set": "Flashfire 053/106",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy2/53.png"
   },
   {
-    "set": "Flashfire 54/110",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "054/106",
+    "set": "Flashfire 054/106",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy2/54.png"
   },
   {
-    "set": "HS—Undaunted 69/91",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "069/90",
+    "set": "HS—Undaunted 069/90",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/hgss3/69.png"
   },
   {
-    "set": "Ultra Prism 75/178",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "075/156",
+    "set": "Ultra Prism 075/156",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm5/75.png"
   },
   {
-    "set": "Dragons Exalted 76/128",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "076/124",
+    "set": "Dragons Exalted 076/124",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw6/76.png"
   },
   {
-    "set": "Majestic Dawn 76/100",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "076/100",
+    "set": "Majestic Dawn 076/100",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/dp5/76.png"
   },
   {
-    "set": "Stormfront 76/106",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "076/100",
+    "set": "Stormfront 076/100",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/dp7/76.png"
   },
   {
+    "code": "102/130",
     "set": "Diamond & Pearl 102/130",
-    "cost": "Not PSA Graded: $0.32",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/dp1/102.png"
   },
   {
-    "set": "Rebel Clash 114/209",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "114/192",
+    "set": "Rebel Clash 114/192",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh2/114.png"
   }
 ]

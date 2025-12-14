@@ -1,62 +1,74 @@
 [
   {
-    "set": "Rebel Clash 111/209",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "111/192",
+    "set": "Rebel Clash 111/192",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/swsh2/111.png"
   },
   {
-    "set": "Sword & Shield 114/216",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "114/202",
+    "set": "Sword & Shield 114/202",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh1/114.png"
   },
   {
-    "set": "Sword & Shield 115/216",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "115/202",
+    "set": "Sword & Shield 115/202",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/swsh1/115.png"
   },
   {
-    "set": "Sword & Shield 116/216",
-    "cost": "Not PSA Graded: $1.68",
+    "code": "116/202",
+    "set": "Sword & Shield 116/202",
+    "cost": "UnGraded: $1.68",
     "img": "https://images.pokemontcg.io/swsh1/116.png"
   },
   {
-    "set": "Sword & Shield 193/216",
-    "cost": "Not PSA Graded: $1.94",
+    "code": "193/202",
+    "set": "Sword & Shield 193/202",
+    "cost": "UnGraded: $1.94",
     "img": "https://images.pokemontcg.io/swsh1/193.png"
   },
   {
-    "set": "Sword & Shield 205/216",
-    "cost": "Not PSA Graded: $6.24",
+    "code": "205/202",
+    "set": "Sword & Shield 205/202",
+    "cost": "UnGraded: $6.24",
     "img": "https://images.pokemontcg.io/swsh1/205.png"
   },
   {
+    "code": "SV075/122",
     "set": "Shining Fates Shiny Vault SV075/122",
-    "cost": "Not PSA Graded: $1.07",
+    "cost": "UnGraded: $1.07",
     "img": "https://images.pokemontcg.io/swsh45sv/SV075.png"
   },
   {
-    "set": "Battle Styles 84/183",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "084/163",
+    "set": "Battle Styles 084/163",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh5/84.png"
   },
   {
-    "set": "Lost Origin 111/217",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "111/196",
+    "set": "Lost Origin 111/196",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh11/111.png"
   },
   {
-    "set": "Silver Tempest 101/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "101/195",
+    "set": "Silver Tempest 101/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/101.png"
   },
   {
-    "set": "Scarlet & Violet 121/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "121/198",
+    "set": "Scarlet & Violet 121/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/121.png"
   },
   {
-    "set": "Mega Evolution 81/188",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "081/132",
+    "set": "Mega Evolution 081/132",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me1/81.png"
   }
 ]

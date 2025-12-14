@@ -1,47 +1,56 @@
 [
   {
-    "set": "Paldea Evolved 101/279",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "101/193",
+    "set": "Paldea Evolved 101/193",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv2/101.png"
   },
   {
-    "set": "Paldea Evolved 102/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "102/193",
+    "set": "Paldea Evolved 102/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/102.png"
   },
   {
-    "set": "Paldea Evolved 100/279",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "100/193",
+    "set": "Paldea Evolved 100/193",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv2/100.png"
   },
   {
-    "set": "Paldea Evolved 216/279",
-    "cost": "Not PSA Graded: $16.74",
+    "code": "216/193",
+    "set": "Paldea Evolved 216/193",
+    "cost": "UnGraded: $16.74",
     "img": "https://images.pokemontcg.io/sv2/216.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 25/196",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "025/215",
+    "set": "Scarlet & Violet Black Star Promos 025/215",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/svp/25.png"
   },
   {
-    "set": "Paradox Rift 82/266",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "082/182",
+    "set": "Paradox Rift 082/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv4/82.png"
   },
   {
-    "set": "Paradox Rift 83/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "083/182",
+    "set": "Paradox Rift 083/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/83.png"
   },
   {
-    "set": "Paldean Fates 165/245",
-    "cost": "Not PSA Graded: $3.88",
+    "code": "165/91",
+    "set": "Paldean Fates 165/91",
+    "cost": "UnGraded: $3.88",
     "img": "https://images.pokemontcg.io/sv4pt5/165.png"
   },
   {
-    "set": "Mega Evolution 96/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "096/132",
+    "set": "Mega Evolution 096/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/96.png"
   }
 ]

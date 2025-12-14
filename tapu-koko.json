@@ -1,117 +1,140 @@
 [
   {
-    "set": "SM Black Star Promos SM30/250",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "SM30/248",
+    "set": "SM Black Star Promos SM30/248",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/smp/SM30.png"
   },
   {
-    "set": "SM Black Star Promos SM30a/250",
+    "code": "SM30a/248",
+    "set": "SM Black Star Promos SM30a/248",
     "cost": null,
     "img": "https://images.pokemontcg.io/smp/SM30a.png"
   },
   {
-    "set": "SM Black Star Promos SM31/250",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "SM31/248",
+    "set": "SM Black Star Promos SM31/248",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/smp/SM31.png"
   },
   {
-    "set": "SM Black Star Promos SM33/250",
-    "cost": "Not PSA Graded: $1.69",
+    "code": "SM33/248",
+    "set": "SM Black Star Promos SM33/248",
+    "cost": "UnGraded: $1.69",
     "img": "https://images.pokemontcg.io/smp/SM33.png"
   },
   {
-    "set": "Guardians Rising 47/180",
-    "cost": "Not PSA Graded: $1.41",
+    "code": "047/145",
+    "set": "Guardians Rising 047/145",
+    "cost": "UnGraded: $1.41",
     "img": "https://images.pokemontcg.io/sm2/47.png"
   },
   {
-    "set": "Team Up 51/198",
-    "cost": "Not PSA Graded: $1.69",
+    "code": "051/181",
+    "set": "Team Up 051/181",
+    "cost": "UnGraded: $1.69",
     "img": "https://images.pokemontcg.io/sm9/51.png"
   },
   {
-    "set": "SM Black Star Promos SM50/250",
-    "cost": "Not PSA Graded: $1.54",
+    "code": "SM50/248",
+    "set": "SM Black Star Promos SM50/248",
+    "cost": "UnGraded: $1.54",
     "img": "https://images.pokemontcg.io/smp/SM50.png"
   },
   {
-    "set": "Darkness Ablaze 61/201",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "061/189",
+    "set": "Darkness Ablaze 061/189",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/swsh3/61.png"
   },
   {
-    "set": "Sword & Shield 72/216",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "072/202",
+    "set": "Sword & Shield 072/202",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/swsh1/72.png"
   },
   {
-    "set": "Unified Minds 69/260",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "069/236",
+    "set": "Unified Minds 069/236",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/sm11/69.png"
   },
   {
-    "set": "Lost Thunder 85/240",
-    "cost": "Not PSA Graded: $0.89",
+    "code": "085/214",
+    "set": "Lost Thunder 085/214",
+    "cost": "UnGraded: $0.89",
     "img": "https://images.pokemontcg.io/sm8/85.png"
   },
   {
+    "code": "SV93/94",
     "set": "Hidden Fates Shiny Vault SV93/94",
-    "cost": "Not PSA Graded: $15.22",
+    "cost": "UnGraded: $15.22",
     "img": "https://images.pokemontcg.io/sma/SV93.png"
   },
   {
-    "set": "Guardians Rising 135/180",
-    "cost": "Not PSA Graded: $4.79",
+    "code": "135/145",
+    "set": "Guardians Rising 135/145",
+    "cost": "UnGraded: $4.79",
     "img": "https://images.pokemontcg.io/sm2/135.png"
   },
   {
-    "set": "Guardians Rising 153/180",
-    "cost": "Not PSA Graded: $12.44",
+    "code": "153/145",
+    "set": "Guardians Rising 153/145",
+    "cost": "UnGraded: $12.44",
     "img": "https://images.pokemontcg.io/sm2/153.png"
   },
   {
-    "set": "Battle Styles 50/183",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "050/163",
+    "set": "Battle Styles 050/163",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/swsh5/50.png"
   },
   {
-    "set": "Battle Styles 51/183",
-    "cost": "Not PSA Graded: $1.62",
+    "code": "051/163",
+    "set": "Battle Styles 051/163",
+    "cost": "UnGraded: $1.62",
     "img": "https://images.pokemontcg.io/swsh5/51.png"
   },
   {
-    "set": "Battle Styles 147/183",
-    "cost": "Not PSA Graded: $2.65",
+    "code": "147/163",
+    "set": "Battle Styles 147/163",
+    "cost": "UnGraded: $2.65",
     "img": "https://images.pokemontcg.io/swsh5/147.png"
   },
   {
-    "set": "Battle Styles 166/183",
-    "cost": "Not PSA Graded: $7.11",
+    "code": "166/163",
+    "set": "Battle Styles 166/163",
+    "cost": "UnGraded: $7.11",
     "img": "https://images.pokemontcg.io/swsh5/166.png"
   },
   {
-    "set": "Paradox Rift 68/266",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "068/182",
+    "set": "Paradox Rift 068/182",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/sv4/68.png"
   },
   {
-    "set": "Paradox Rift 222/266",
-    "cost": "Not PSA Graded: $1.83",
+    "code": "222/182",
+    "set": "Paradox Rift 222/182",
+    "cost": "UnGraded: $1.83",
     "img": "https://images.pokemontcg.io/sv4/222.png"
   },
   {
-    "set": "Paradox Rift 247/266",
-    "cost": "Not PSA Graded: $13.89",
+    "code": "247/182",
+    "set": "Paradox Rift 247/182",
+    "cost": "UnGraded: $13.89",
     "img": "https://images.pokemontcg.io/sv4/247.png"
   },
   {
-    "set": "Surging Sparks 65/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "065/191",
+    "set": "Surging Sparks 065/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/65.png"
   },
   {
-    "set": "Journey Together 51/190",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "051/159",
+    "set": "Journey Together 051/159",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/sv9/51.png"
   }
 ]

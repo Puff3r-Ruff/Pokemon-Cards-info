@@ -1,82 +1,98 @@
 [
   {
-    "set": "Roaring Skies 26/112",
-    "cost": "Not PSA Graded: $2.41",
+    "code": "026/108",
+    "set": "Roaring Skies 026/108",
+    "cost": "UnGraded: $2.41",
     "img": "https://images.pokemontcg.io/xy6/26.png"
   },
   {
-    "set": "Plasma Freeze 38/122",
-    "cost": "Not PSA Graded: $9.4",
+    "code": "038/116",
+    "set": "Plasma Freeze 038/116",
+    "cost": "UnGraded: $9.4",
     "img": "https://images.pokemontcg.io/bw9/38.png"
   },
   {
-    "set": "Emerging Powers 35/98",
-    "cost": "Not PSA Graded: $2.91",
+    "code": "035/98",
+    "set": "Emerging Powers 035/98",
+    "cost": "UnGraded: $2.91",
     "img": "https://images.pokemontcg.io/bw2/35.png"
   },
   {
-    "set": "Furious Fists 33/114",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "033/111",
+    "set": "Furious Fists 033/111",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy3/33.png"
   },
   {
-    "set": "Legendary Treasures 50/140",
-    "cost": "Not PSA Graded: $2.13",
+    "code": "050/113",
+    "set": "Legendary Treasures 050/113",
+    "cost": "UnGraded: $2.13",
     "img": "https://images.pokemontcg.io/bw11/50.png"
   },
   {
+    "code": "BW41/101",
     "set": "BW Black Star Promos BW41/101",
     "cost": null,
     "img": "https://images.pokemontcg.io/bwp/BW41.png"
   },
   {
-    "set": "Unified Minds 68/260",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "068/236",
+    "set": "Unified Minds 068/236",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm11/68.png"
   },
   {
+    "code": "BW81/101",
     "set": "BW Black Star Promos BW81/101",
-    "cost": "Not PSA Graded: $3.42",
+    "cost": "UnGraded: $3.42",
     "img": "https://images.pokemontcg.io/bwp/BW81.png"
   },
   {
-    "set": "Roaring Skies 98/112",
-    "cost": "Not PSA Graded: $13.16",
+    "code": "098/108",
+    "set": "Roaring Skies 098/108",
+    "cost": "UnGraded: $13.16",
     "img": "https://images.pokemontcg.io/xy6/98.png"
   },
   {
-    "set": "Emerging Powers 97/98",
-    "cost": "Not PSA Graded: $26.99",
+    "code": "097/98",
+    "set": "Emerging Powers 097/98",
+    "cost": "UnGraded: $26.99",
     "img": "https://images.pokemontcg.io/bw2/97.png"
   },
   {
-    "set": "Plasma Freeze 110/122",
-    "cost": "Not PSA Graded: $122.15",
+    "code": "110/116",
+    "set": "Plasma Freeze 110/116",
+    "cost": "UnGraded: $122.15",
     "img": "https://images.pokemontcg.io/bw9/110.png"
   },
   {
-    "set": "SM Black Star Promos SM133/250",
-    "cost": "Not PSA Graded: $3.41",
+    "code": "SM133/248",
+    "set": "SM Black Star Promos SM133/248",
+    "cost": "UnGraded: $3.41",
     "img": "https://images.pokemontcg.io/smp/SM133.png"
   },
   {
-    "set": "Chilling Reign 52/233",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "052/198",
+    "set": "Chilling Reign 052/198",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh6/52.png"
   },
   {
-    "set": "Obsidian Flames 70/230",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "070/197",
+    "set": "Obsidian Flames 070/197",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sv3/70.png"
   },
   {
-    "set": "Paldean Fates 139/245",
-    "cost": "Not PSA Graded: $2.35",
+    "code": "139/91",
+    "set": "Paldean Fates 139/91",
+    "cost": "UnGraded: $2.35",
     "img": "https://images.pokemontcg.io/sv4pt5/139.png"
   },
   {
-    "set": "Black Bolt 33/172",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "033/86",
+    "set": "Black Bolt 033/86",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/zsv10pt5/33.png"
   }
 ]

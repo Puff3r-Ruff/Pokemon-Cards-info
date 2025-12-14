@@ -1,12 +1,14 @@
 [
   {
-    "set": "Paradox Rift 107/266",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "107/182",
+    "set": "Paradox Rift 107/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4/107.png"
   },
   {
-    "set": "Paradox Rift 203/266",
-    "cost": "Not PSA Graded: $4.28",
+    "code": "203/182",
+    "set": "Paradox Rift 203/182",
+    "cost": "UnGraded: $4.28",
     "img": "https://images.pokemontcg.io/sv4/203.png"
   }
 ]

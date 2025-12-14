@@ -1,42 +1,50 @@
 [
   {
-    "set": "Stellar Crown 128/175",
-    "cost": "Not PSA Graded: $0.86",
+    "code": "128/142",
+    "set": "Stellar Crown 128/142",
+    "cost": "UnGraded: $0.86",
     "img": "https://images.pokemontcg.io/sv7/128.png"
   },
   {
-    "set": "Stellar Crown 170/175",
-    "cost": "Not PSA Graded: $36.04",
+    "code": "170/142",
+    "set": "Stellar Crown 170/142",
+    "cost": "UnGraded: $36.04",
     "img": "https://images.pokemontcg.io/sv7/170.png"
   },
   {
-    "set": "Stellar Crown 173/175",
-    "cost": "Not PSA Graded: $9.24",
+    "code": "173/142",
+    "set": "Stellar Crown 173/142",
+    "cost": "UnGraded: $9.24",
     "img": "https://images.pokemontcg.io/sv7/173.png"
   },
   {
-    "set": "Surging Sparks 161/252",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "161/191",
+    "set": "Surging Sparks 161/191",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv8/161.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 165/196",
-    "cost": "Not PSA Graded: $3.83",
+    "code": "165/215",
+    "set": "Scarlet & Violet Black Star Promos 165/215",
+    "cost": "UnGraded: $3.83",
     "img": "https://images.pokemontcg.io/svp/165.png"
   },
   {
-    "set": "Prismatic Evolutions 92/180",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "092/131",
+    "set": "Prismatic Evolutions 092/131",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/sv8pt5/92.png"
   },
   {
-    "set": "Prismatic Evolutions 169/180",
-    "cost": "Not PSA Graded: $33.55",
+    "code": "169/131",
+    "set": "Prismatic Evolutions 169/131",
+    "cost": "UnGraded: $33.55",
     "img": "https://images.pokemontcg.io/sv8pt5/169.png"
   },
   {
-    "set": "Prismatic Evolutions 180/180",
-    "cost": "Not PSA Graded: $7.75",
+    "code": "180/131",
+    "set": "Prismatic Evolutions 180/131",
+    "cost": "UnGraded: $7.75",
     "img": "https://images.pokemontcg.io/sv8pt5/180.png"
   }
 ]

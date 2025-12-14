@@ -1,52 +1,62 @@
 [
   {
-    "set": "POP Series 7 17/17",
-    "cost": "Not PSA Graded: $1.03",
+    "code": "017/17",
+    "set": "POP Series 7 017/17",
+    "cost": "UnGraded: $1.03",
     "img": "https://images.pokemontcg.io/pop7/17.png"
   },
   {
-    "set": "Legend Maker 26/93",
-    "cost": "Not PSA Graded: $1.18",
+    "code": "026/92",
+    "set": "Legend Maker 026/92",
+    "cost": "UnGraded: $1.18",
     "img": "https://images.pokemontcg.io/ex12/26.png"
   },
   {
-    "set": "Supreme Victors 46/153",
-    "cost": "Not PSA Graded: $1.19",
+    "code": "046/147",
+    "set": "Supreme Victors 046/147",
+    "cost": "UnGraded: $1.19",
     "img": "https://images.pokemontcg.io/pl3/46.png"
   },
   {
-    "set": "Hidden Legends 48/102",
-    "cost": "Not PSA Graded: $1.72",
+    "code": "048/101",
+    "set": "Hidden Legends 048/101",
+    "cost": "UnGraded: $1.72",
     "img": "https://images.pokemontcg.io/ex5/48.png"
   },
   {
-    "set": "Sun & Moon 102/173",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "102/149",
+    "set": "Sun & Moon 102/149",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm1/102.png"
   },
   {
+    "code": "111/132",
     "set": "Secret Wonders 111/132",
-    "cost": "Not PSA Graded: $0.37",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/dp3/111.png"
   },
   {
-    "set": "Primal Clash 115/164",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "115/160",
+    "set": "Primal Clash 115/160",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy5/115.png"
   },
   {
-    "set": "Boundaries Crossed 115/153",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "115/149",
+    "set": "Boundaries Crossed 115/149",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/bw7/115.png"
   },
   {
-    "set": "Silver Tempest 141/215",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "141/195",
+    "set": "Silver Tempest 141/195",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh12/141.png"
   },
   {
-    "set": "Paradox Rift 151/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "151/182",
+    "set": "Paradox Rift 151/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/151.png"
   }
 ]

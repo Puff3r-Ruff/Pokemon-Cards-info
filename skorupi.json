@@ -1,47 +1,56 @@
 [
   {
-    "set": "Furious Fists 38/114",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "038/111",
+    "set": "Furious Fists 038/111",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy3/38.png"
   },
   {
-    "set": "Ultra Prism 54/178",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "054/156",
+    "set": "Ultra Prism 054/156",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm5/54.png"
   },
   {
-    "set": "BREAKpoint 53/126",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "053/122",
+    "set": "BREAKpoint 053/122",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/xy9/53.png"
   },
   {
-    "set": "HS—Triumphant 76/103",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "076/102",
+    "set": "HS—Triumphant 076/102",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/hgss4/76.png"
   },
   {
-    "set": "Stormfront 73/106",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "073/100",
+    "set": "Stormfront 073/100",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/dp7/73.png"
   },
   {
-    "set": "Unified Minds 82/260",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "082/236",
+    "set": "Unified Minds 082/236",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm11/82.png"
   },
   {
-    "set": "Diamond & Pearl 99/130",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "099/130",
+    "set": "Diamond & Pearl 099/130",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/dp1/99.png"
   },
   {
-    "set": "Sword & Shield 121/216",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "121/202",
+    "set": "Sword & Shield 121/202",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh1/121.png"
   },
   {
-    "set": "Supreme Victors 128/153",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "128/147",
+    "set": "Supreme Victors 128/147",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/pl3/128.png"
   }
 ]

@@ -1,52 +1,62 @@
 [
   {
-    "set": "Crimson Invasion 55/126",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "055/111",
+    "set": "Crimson Invasion 055/111",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm4/55.png"
   },
   {
-    "set": "Guardians Rising 112/180",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "112/145",
+    "set": "Guardians Rising 112/145",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm2/112.png"
   },
   {
-    "set": "Burning Shadows 110/177",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "110/147",
+    "set": "Burning Shadows 110/147",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm3/110.png"
   },
   {
-    "set": "Sun & Moon 111/173",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "111/149",
+    "set": "Sun & Moon 111/149",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm1/111.png"
   },
   {
-    "set": "Rebel Clash 149/209",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "149/192",
+    "set": "Rebel Clash 149/192",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh2/149.png"
   },
   {
-    "set": "Cosmic Eclipse 181/272",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "181/236",
+    "set": "Cosmic Eclipse 181/236",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm12/181.png"
   },
   {
-    "set": "Fusion Strike 150/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "150/264",
+    "set": "Fusion Strike 150/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/150.png"
   },
   {
-    "set": "Shrouded Fable 52/99",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "052/64",
+    "set": "Shrouded Fable 052/64",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6pt5/52.png"
   },
   {
-    "set": "Mega Evolution 111/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "111/132",
+    "set": "Mega Evolution 111/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/111.png"
   },
   {
-    "set": "Mega Evolution 154/188",
-    "cost": "Not PSA Graded: $3.55",
+    "code": "154/132",
+    "set": "Mega Evolution 154/132",
+    "cost": "UnGraded: $3.55",
     "img": "https://images.pokemontcg.io/me1/154.png"
   }
 ]
