@@ -1,42 +1,50 @@
 [
   {
-    "set": "Sun & Moon 93/173",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "093/149",
+    "set": "Sun & Moon 093/149",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/sm1/93.png"
   },
   {
-    "set": "Burning Shadows 96/177",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "096/147",
+    "set": "Burning Shadows 096/147",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm3/96.png"
   },
   {
-    "set": "Lost Thunder 146/240",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "146/214",
+    "set": "Lost Thunder 146/214",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/sm8/146.png"
   },
   {
-    "set": "Evolving Skies 79/237",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "079/203",
+    "set": "Evolving Skies 079/203",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh7/79.png"
   },
   {
-    "set": "Temporal Forces 76/218",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "076/162",
+    "set": "Temporal Forces 076/162",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv5/76.png"
   },
   {
-    "set": "Journey Together 67/190",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "067/159",
+    "set": "Journey Together 067/159",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv9/67.png"
   },
   {
-    "set": "Journey Together 164/190",
-    "cost": "Not PSA Graded: $4.91",
+    "code": "164/159",
+    "set": "Journey Together 164/159",
+    "cost": "UnGraded: $4.91",
     "img": "https://images.pokemontcg.io/sv9/164.png"
   },
   {
-    "set": "Scarlet & Violet Promos 183/148",
-    "cost": "Not PSA Graded: $5.04",
+    "code": "183/150",
+    "set": "Scarlet & Violet Promos 183/150",
+    "cost": "UnGraded: $5.04",
     "img": "https://images.pokemontcg.io/svp/183.png"
   }
 ]

@@ -1,42 +1,50 @@
 [
   {
-    "set": "Plasma Blast 52/105",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "052/101",
+    "set": "Plasma Blast 052/101",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw10/52.png"
   },
   {
-    "set": "Black & White 62/115",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "062/114",
+    "set": "Black & White 062/114",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/bw1/62.png"
   },
   {
-    "set": "Emerging Powers 59/98",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "059/98",
+    "set": "Emerging Powers 059/98",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw2/59.png"
   },
   {
-    "set": "Dragons Exalted 69/128",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "069/124",
+    "set": "Dragons Exalted 069/124",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/bw6/69.png"
   },
   {
-    "set": "Burning Shadows 72/177",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "072/147",
+    "set": "Burning Shadows 072/147",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sm3/72.png"
   },
   {
-    "set": "Brilliant Stars 81/186",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "081/172",
+    "set": "Brilliant Stars 081/172",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh9/81.png"
   },
   {
-    "set": "White Flare 49/173",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "049/86",
+    "set": "White Flare 049/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/rsv10pt5/49.png"
   },
   {
-    "set": "White Flare 130/173",
-    "cost": "Not PSA Graded: $6.76",
+    "code": "130/86",
+    "set": "White Flare 130/86",
+    "cost": "UnGraded: $6.76",
     "img": "https://images.pokemontcg.io/rsv10pt5/130.png"
   }
 ]

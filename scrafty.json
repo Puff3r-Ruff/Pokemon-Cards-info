@@ -1,77 +1,92 @@
 [
   {
-    "set": "Champion's Path 42/80",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "042/73",
+    "set": "Champion's Path 042/73",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh35/42.png"
   },
   {
-    "set": "Flashfire 59/110",
-    "cost": "Not PSA Graded: $0.55",
+    "code": "059/106",
+    "set": "Flashfire 059/106",
+    "cost": "UnGraded: $0.55",
     "img": "https://images.pokemontcg.io/xy2/59.png"
   },
   {
-    "set": "Shining Legends 51/81",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "051/73",
+    "set": "Shining Legends 051/73",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm35/51.png"
   },
   {
-    "set": "Next Destinies 74/103",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "074/99",
+    "set": "Next Destinies 074/99",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/bw4/74.png"
   },
   {
-    "set": "Black & White 69/115",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "069/114",
+    "set": "Black & White 069/114",
+    "cost": "UnGraded: $0.84",
     "img": "https://images.pokemontcg.io/bw1/69.png"
   },
   {
-    "set": "Dark Explorers 68/111",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "068/108",
+    "set": "Dark Explorers 068/108",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/bw5/68.png"
   },
   {
-    "set": "Furious Fists 67/114",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "067/111",
+    "set": "Furious Fists 067/111",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy3/67.png"
   },
   {
-    "set": "Plasma Storm 86/138",
-    "cost": "Not PSA Graded: $1.08",
+    "code": "086/135",
+    "set": "Plasma Storm 086/135",
+    "cost": "UnGraded: $1.08",
     "img": "https://images.pokemontcg.io/bw8/86.png"
   },
   {
-    "set": "Unified Minds 138/260",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "138/236",
+    "set": "Unified Minds 138/236",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/sm11/138.png"
   },
   {
-    "set": "Evolving Skies 99/237",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "099/203",
+    "set": "Evolving Skies 099/203",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh7/99.png"
   },
   {
-    "set": "Paldean Fates 61/245",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "061/91",
+    "set": "Paldean Fates 061/91",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4pt5/61.png"
   },
   {
-    "set": "Destined Rivals 133/244",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "133/182",
+    "set": "Destined Rivals 133/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv10/133.png"
   },
   {
-    "set": "Scarlet & Violet Promos 188/148",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "188/150",
+    "set": "Scarlet & Violet Promos 188/150",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/svp/188.png"
   },
   {
-    "set": "White Flare 58/173",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "058/86",
+    "set": "White Flare 058/86",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/rsv10pt5/58.png"
   },
   {
-    "set": "White Flare 139/173",
-    "cost": "Not PSA Graded: $14.97",
+    "code": "139/86",
+    "set": "White Flare 139/86",
+    "cost": "UnGraded: $14.97",
     "img": "https://images.pokemontcg.io/rsv10pt5/139.png"
   }
 ]

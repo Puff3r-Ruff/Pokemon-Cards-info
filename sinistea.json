@@ -1,27 +1,32 @@
 [
   {
-    "set": "Sword & Shield 89/216",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "089/202",
+    "set": "Sword & Shield 089/202",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh1/89.png"
   },
   {
-    "set": "Darkness Ablaze 82/201",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "082/189",
+    "set": "Darkness Ablaze 082/189",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh3/82.png"
   },
   {
+    "code": "SV052/122",
     "set": "Shining Fates Shiny Vault SV052/122",
-    "cost": "Not PSA Graded: $2.23",
+    "cost": "UnGraded: $2.23",
     "img": "https://images.pokemontcg.io/swsh45sv/SV052.png"
   },
   {
-    "set": "Obsidian Flames 97/230",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "097/197",
+    "set": "Obsidian Flames 097/197",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv3/97.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 62/196",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "062/215",
+    "set": "Scarlet & Violet Black Star Promos 062/215",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/svp/62.png"
   }
 ]

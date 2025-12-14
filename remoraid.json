@@ -1,77 +1,92 @@
 [
   {
-    "set": "Plasma Blast 18/105",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "018/101",
+    "set": "Plasma Blast 018/101",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/bw10/18.png"
   },
   {
-    "set": "Crimson Invasion 22/126",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "022/111",
+    "set": "Crimson Invasion 022/111",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm4/22.png"
   },
   {
-    "set": "BREAKthrough 31/165",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "031/162",
+    "set": "BREAKthrough 031/162",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy8/31.png"
   },
   {
-    "set": "BREAKthrough 32/165",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "032/162",
+    "set": "BREAKthrough 032/162",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy8/32.png"
   },
   {
-    "set": "Neo Revelation 50/66",
+    "code": "050/64",
+    "set": "Neo Revelation 050/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/50.png"
   },
   {
-    "set": "HS—Unleashed 59/96",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "059/95",
+    "set": "HS—Unleashed 059/95",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/hgss2/59.png"
   },
   {
-    "set": "Unseen Forces 71/145",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "071/115",
+    "set": "Unseen Forces 071/115",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/ex10/71.png"
   },
   {
-    "set": "Team Rocket Returns 73/111",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "073/109",
+    "set": "Team Rocket Returns 073/109",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/ex7/73.png"
   },
   {
-    "set": "Neo Destiny 80/113",
+    "code": "080/105",
+    "set": "Neo Destiny 080/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/80.png"
   },
   {
-    "set": "Platinum 90/133",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "090/127",
+    "set": "Platinum 090/127",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/pl1/90.png"
   },
   {
-    "set": "Mysterious Treasures 95/124",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "095/123",
+    "set": "Mysterious Treasures 095/123",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/dp2/95.png"
   },
   {
-    "set": "Aquapolis 105/182",
-    "cost": "Not PSA Graded: $1.78",
+    "code": "105/147",
+    "set": "Aquapolis 105/147",
+    "cost": "UnGraded: $1.78",
     "img": "https://images.pokemontcg.io/ecard2/105.png"
   },
   {
-    "set": "Battle Styles 36/183",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "036/163",
+    "set": "Battle Styles 036/163",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh5/36.png"
   },
   {
-    "set": "Paradox Rift 33/266",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "033/182",
+    "set": "Paradox Rift 033/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv4/33.png"
   },
   {
-    "set": "Journey Together 33/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "033/159",
+    "set": "Journey Together 033/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv9/33.png"
   }
 ]

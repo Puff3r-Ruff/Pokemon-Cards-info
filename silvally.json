@@ -1,57 +1,68 @@
 [
   {
-    "set": "SM Black Star Promos SM64/250",
-    "cost": "Not PSA Graded: $1.58",
+    "code": "SM64/248",
+    "set": "SM Black Star Promos SM64/248",
+    "cost": "UnGraded: $1.58",
     "img": "https://images.pokemontcg.io/smp/SM64.png"
   },
   {
+    "code": "SV79/94",
     "set": "Hidden Fates Shiny Vault SV79/94",
-    "cost": "Not PSA Graded: $9.41",
+    "cost": "UnGraded: $9.41",
     "img": "https://images.pokemontcg.io/sma/SV79.png"
   },
   {
-    "set": "SM Black Star Promos SM91/250",
-    "cost": "Not PSA Graded: $2.45",
+    "code": "SM91/248",
+    "set": "SM Black Star Promos SM91/248",
+    "cost": "UnGraded: $2.45",
     "img": "https://images.pokemontcg.io/smp/SM91.png"
   },
   {
-    "set": "Crimson Invasion 90/126",
-    "cost": "Not PSA Graded: $1.97",
+    "code": "090/111",
+    "set": "Crimson Invasion 090/111",
+    "cost": "UnGraded: $1.97",
     "img": "https://images.pokemontcg.io/sm4/90.png"
   },
   {
-    "set": "Ultra Prism 116/178",
-    "cost": "Not PSA Graded: $2.64",
+    "code": "116/156",
+    "set": "Ultra Prism 116/156",
+    "cost": "UnGraded: $2.64",
     "img": "https://images.pokemontcg.io/sm5/116.png"
   },
   {
-    "set": "Crimson Invasion 108/126",
-    "cost": "Not PSA Graded: $3.79",
+    "code": "108/111",
+    "set": "Crimson Invasion 108/111",
+    "cost": "UnGraded: $3.79",
     "img": "https://images.pokemontcg.io/sm4/108.png"
   },
   {
-    "set": "Crimson Invasion 119/126",
-    "cost": "Not PSA Graded: $11.32",
+    "code": "119/111",
+    "set": "Crimson Invasion 119/111",
+    "cost": "UnGraded: $11.32",
     "img": "https://images.pokemontcg.io/sm4/119.png"
   },
   {
-    "set": "Cosmic Eclipse 184/272",
-    "cost": "Not PSA Graded: $5.75",
+    "code": "184/236",
+    "set": "Cosmic Eclipse 184/236",
+    "cost": "UnGraded: $5.75",
     "img": "https://images.pokemontcg.io/sm12/184.png"
   },
   {
-    "set": "Unified Minds 184/260",
-    "cost": "Not PSA Graded: $1.49",
+    "code": "184/236",
+    "set": "Unified Minds 184/236",
+    "cost": "UnGraded: $1.49",
     "img": "https://images.pokemontcg.io/sm11/184.png"
   },
   {
-    "set": "Cosmic Eclipse 227/272",
-    "cost": "Not PSA Graded: $54.96",
+    "code": "227/236",
+    "set": "Cosmic Eclipse 227/236",
+    "cost": "UnGraded: $54.96",
     "img": "https://images.pokemontcg.io/sm12/227.png"
   },
   {
-    "set": "Cosmic Eclipse 262/272",
-    "cost": "Not PSA Graded: $27.59",
+    "code": "262/236",
+    "set": "Cosmic Eclipse 262/236",
+    "cost": "UnGraded: $27.59",
     "img": "https://images.pokemontcg.io/sm12/262.png"
   }
 ]

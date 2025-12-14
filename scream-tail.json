@@ -1,27 +1,32 @@
 [
   {
-    "set": "Paradox Rift 86/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "086/182",
+    "set": "Paradox Rift 086/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/86.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 65/196",
-    "cost": "Not PSA Graded: $5.05",
+    "code": "065/215",
+    "set": "Scarlet & Violet Black Star Promos 065/215",
+    "cost": "UnGraded: $5.05",
     "img": "https://images.pokemontcg.io/svp/65.png"
   },
   {
-    "set": "Temporal Forces 77/218",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "077/162",
+    "set": "Temporal Forces 077/162",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv5/77.png"
   },
   {
-    "set": "Twilight Masquerade 94/226",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "094/167",
+    "set": "Twilight Masquerade 094/167",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/sv6/94.png"
   },
   {
-    "set": "Twilight Masquerade 197/226",
-    "cost": "Not PSA Graded: $1.82",
+    "code": "197/167",
+    "set": "Twilight Masquerade 197/167",
+    "cost": "UnGraded: $1.82",
     "img": "https://images.pokemontcg.io/sv6/197.png"
   }
 ]

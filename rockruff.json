@@ -1,82 +1,98 @@
 [
   {
-    "set": "SM Black Star Promos SM06/250",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "SM06/248",
+    "set": "SM Black Star Promos SM06/248",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/smp/SM06.png"
   },
   {
-    "set": "Champion's Path 29/80",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "029/73",
+    "set": "Champion's Path 029/73",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh35/29.png"
   },
   {
+    "code": "SV23/94",
     "set": "Hidden Fates Shiny Vault SV23/94",
-    "cost": "Not PSA Graded: $2.43",
+    "cost": "UnGraded: $2.43",
     "img": "https://images.pokemontcg.io/sma/SV23.png"
   },
   {
-    "set": "Guardians Rising 73/180",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "073/145",
+    "set": "Guardians Rising 073/145",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm2/73.png"
   },
   {
-    "set": "Forbidden Light 75/150",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "075/131",
+    "set": "Forbidden Light 075/131",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm6/75.png"
   },
   {
-    "set": "Vivid Voltage 94/203",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "094/185",
+    "set": "Vivid Voltage 094/185",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh4/94.png"
   },
   {
-    "set": "SM Black Star Promos SM120/250",
-    "cost": "Not PSA Graded: $1.52",
+    "code": "SM120/248",
+    "set": "SM Black Star Promos SM120/248",
+    "cost": "UnGraded: $1.52",
     "img": "https://images.pokemontcg.io/smp/SM120.png"
   },
   {
-    "set": "Cosmic Eclipse 123/272",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "123/236",
+    "set": "Cosmic Eclipse 123/236",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm12/123.png"
   },
   {
-    "set": "Chilling Reign 86/233",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "086/198",
+    "set": "Chilling Reign 086/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh6/86.png"
   },
   {
-    "set": "Lost Origin 109/217",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "109/196",
+    "set": "Lost Origin 109/196",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh11/109.png"
   },
   {
+    "code": "TG07/30",
     "set": "Silver Tempest Trainer Gallery TG07/30",
-    "cost": "Not PSA Graded: $2.52",
+    "cost": "UnGraded: $2.52",
     "img": "https://images.pokemontcg.io/swsh12tg/TG07.png"
   },
   {
-    "set": "Crown Zenith 73/160",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "073/159",
+    "set": "Crown Zenith 073/159",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12pt5/73.png"
   },
   {
-    "set": "Paldea Evolved 116/279",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "116/193",
+    "set": "Paldea Evolved 116/193",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv2/116.png"
   },
   {
-    "set": "Obsidian Flames 116/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "116/197",
+    "set": "Obsidian Flames 116/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/116.png"
   },
   {
-    "set": "Temporal Forces 89/218",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "089/162",
+    "set": "Temporal Forces 089/162",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv5/89.png"
   },
   {
-    "set": "Journey Together 84/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "084/159",
+    "set": "Journey Together 084/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/84.png"
   }
 ]

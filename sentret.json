@@ -1,57 +1,68 @@
 [
   {
-    "set": "POP Series 7 16/17",
-    "cost": "Not PSA Graded: $1.4",
+    "code": "016/17",
+    "set": "POP Series 7 016/17",
+    "cost": "UnGraded: $1.44",
     "img": "https://images.pokemontcg.io/pop7/16.png"
   },
   {
-    "set": "Legend Maker 62/93",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "062/92",
+    "set": "Legend Maker 062/92",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/ex12/62.png"
   },
   {
-    "set": "Neo Discovery 63/75",
+    "code": "063/75",
+    "set": "Neo Discovery 063/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/63.png"
   },
   {
-    "set": "Flashfire 81/110",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "081/106",
+    "set": "Flashfire 081/106",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy2/81.png"
   },
   {
-    "set": "HeartGold & SoulSilver 80/124",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "080/123",
+    "set": "HeartGold & SoulSilver 080/123",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/hgss1/80.png"
   },
   {
-    "set": "Team Rocket Returns 75/111",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "075/109",
+    "set": "Team Rocket Returns 075/109",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/ex7/75.png"
   },
   {
-    "set": "Neo Genesis 71/111",
+    "code": "071/111",
+    "set": "Neo Genesis 071/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/71.png"
   },
   {
+    "code": "104/132",
     "set": "Secret Wonders 104/132",
-    "cost": "Not PSA Graded: $0.29",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/dp3/104.png"
   },
   {
-    "set": "Aquapolis 107/182",
-    "cost": "Not PSA Graded: $4.4",
+    "code": "107/147",
+    "set": "Aquapolis 107/147",
+    "cost": "UnGraded: $4.46",
     "img": "https://images.pokemontcg.io/ecard2/107.png"
   },
   {
-    "set": "Darkness Ablaze 135/201",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "135/189",
+    "set": "Darkness Ablaze 135/189",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh3/135.png"
   },
   {
-    "set": "Journey Together 118/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "118/159",
+    "set": "Journey Together 118/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/118.png"
   }
 ]

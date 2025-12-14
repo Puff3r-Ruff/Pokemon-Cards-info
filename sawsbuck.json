@@ -1,42 +1,50 @@
 [
   {
-    "set": "Black & White 14/115",
-    "cost": "Not PSA Graded: $1.73",
+    "code": "014/114",
+    "set": "Black & White 014/114",
+    "cost": "UnGraded: $1.73",
     "img": "https://images.pokemontcg.io/bw1/14.png"
   },
   {
-    "set": "Cosmic Eclipse 16/272",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "016/236",
+    "set": "Cosmic Eclipse 016/236",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/sm12/16.png"
   },
   {
-    "set": "Emerging Powers 16/98",
-    "cost": "Not PSA Graded: $1.54",
+    "code": "016/98",
+    "set": "Emerging Powers 016/98",
+    "cost": "UnGraded: $1.54",
     "img": "https://images.pokemontcg.io/bw2/16.png"
   },
   {
-    "set": "Chilling Reign 12/233",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "012/198",
+    "set": "Chilling Reign 012/198",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/swsh6/12.png"
   },
   {
-    "set": "Temporal Forces 17/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "017/162",
+    "set": "Temporal Forces 017/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/17.png"
   },
   {
-    "set": "Temporal Forces 166/218",
-    "cost": "Not PSA Graded: $30.42",
+    "code": "166/162",
+    "set": "Temporal Forces 166/162",
+    "cost": "UnGraded: $30.42",
     "img": "https://images.pokemontcg.io/sv5/166.png"
   },
   {
-    "set": "White Flare 7/173",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "007/86",
+    "set": "White Flare 007/86",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/rsv10pt5/7.png"
   },
   {
-    "set": "White Flare 92/173",
-    "cost": "Not PSA Graded: $19.26",
+    "code": "092/86",
+    "set": "White Flare 092/86",
+    "cost": "UnGraded: $19.26",
     "img": "https://images.pokemontcg.io/rsv10pt5/92.png"
   }
 ]

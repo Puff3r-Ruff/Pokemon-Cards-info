@@ -1,87 +1,104 @@
 [
   {
-    "set": "Team Magma vs Team Aqua 17/97",
-    "cost": "Not PSA Graded: $2.45",
+    "code": "017/95",
+    "set": "Team Magma vs Team Aqua 017/95",
+    "cost": "UnGraded: $2.45",
     "img": "https://images.pokemontcg.io/ex4/17.png"
   },
   {
-    "set": "Double Crisis 9/34",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "009/34",
+    "set": "Double Crisis 009/34",
+    "cost": "UnGraded: $0.84",
     "img": "https://images.pokemontcg.io/dc1/9.png"
   },
   {
-    "set": "Sandstorm 11/100",
-    "cost": "Not PSA Graded: $28.75",
+    "code": "011/100",
+    "set": "Sandstorm 011/100",
+    "cost": "UnGraded: $28.75",
     "img": "https://images.pokemontcg.io/ex2/11.png"
   },
   {
-    "set": "Emerald 20/107",
-    "cost": "Not PSA Graded: $1.63",
+    "code": "020/106",
+    "set": "Emerald 020/106",
+    "cost": "UnGraded: $1.63",
     "img": "https://images.pokemontcg.io/ex9/20.png"
   },
   {
+    "code": "SV15/94",
     "set": "Hidden Fates Shiny Vault SV15/94",
-    "cost": "Not PSA Graded: $1.49",
+    "cost": "UnGraded: $1.49",
     "img": "https://images.pokemontcg.io/sma/SV15.png"
   },
   {
-    "set": "Power Keepers 23/108",
-    "cost": "Not PSA Graded: $0.99",
+    "code": "023/108",
+    "set": "Power Keepers 023/108",
+    "cost": "UnGraded: $0.99",
     "img": "https://images.pokemontcg.io/ex16/23.png"
   },
   {
-    "set": "Holon Phantoms 32/111",
-    "cost": "Not PSA Graded: $1.38",
+    "code": "032/110",
+    "set": "Holon Phantoms 032/110",
+    "cost": "UnGraded: $1.38",
     "img": "https://images.pokemontcg.io/ex13/32.png"
   },
   {
-    "set": "Call of Legends 51/106",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "051/95",
+    "set": "Call of Legends 051/95",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/col1/51.png"
   },
   {
-    "set": "Burning Shadows 50/177",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "050/147",
+    "set": "Burning Shadows 050/147",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm3/50.png"
   },
   {
-    "set": "SM Black Star Promos SM46/250",
-    "cost": "Not PSA Graded: $4.79",
+    "code": "SM46/248",
+    "set": "SM Black Star Promos SM46/248",
+    "cost": "UnGraded: $4.79",
     "img": "https://images.pokemontcg.io/smp/SM46.png"
   },
   {
-    "set": "Great Encounters 52/106",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "052/106",
+    "set": "Great Encounters 052/106",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/dp4/52.png"
   },
   {
-    "set": "Platinum 61/133",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "061/127",
+    "set": "Platinum 061/127",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/pl1/61.png"
   },
   {
-    "set": "Chilling Reign 102/233",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "102/198",
+    "set": "Chilling Reign 102/198",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh6/102.png"
   },
   {
-    "set": "Lost Origin 116/217",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "116/196",
+    "set": "Lost Origin 116/196",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh11/116.png"
   },
   {
-    "set": "Scarlet & Violet 128/258",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "128/198",
+    "set": "Scarlet & Violet 128/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv1/128.png"
   },
   {
-    "set": "Paldea Evolved 137/279",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "137/193",
+    "set": "Paldea Evolved 137/193",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv2/137.png"
   },
   {
-    "set": "Phantasmal Flames 62/130",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "062/94",
+    "set": "Phantasmal Flames 062/94",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me2/62.png"
   }
 ]

@@ -1,32 +1,38 @@
 [
   {
+    "code": "DP08/56",
     "set": "DP Black Star Promos DP08/56",
-    "cost": "Not PSA Graded: $3.82",
+    "cost": "UnGraded: $3.82",
     "img": "https://images.pokemontcg.io/dpp/DP08.png"
   },
   {
-    "set": "Platinum 62/133",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "062/127",
+    "set": "Platinum 062/127",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/pl1/62.png"
   },
   {
-    "set": "Steam Siege 69/116",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "069/114",
+    "set": "Steam Siege 069/114",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy11/69.png"
   },
   {
-    "set": "Mysterious Treasures 63/124",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "063/123",
+    "set": "Mysterious Treasures 063/123",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/dp2/63.png"
   },
   {
-    "set": "Ultra Prism 84/178",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "084/156",
+    "set": "Ultra Prism 084/156",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm5/84.png"
   },
   {
-    "set": "Astral Radiance 109/216",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "109/189",
+    "set": "Astral Radiance 109/189",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh10/109.png"
   }
 ]

@@ -1,77 +1,92 @@
 [
   {
-    "set": "Supreme Victors 10/153",
-    "cost": "Not PSA Graded: $4.1",
+    "code": "010/147",
+    "set": "Supreme Victors 010/147",
+    "cost": "UnGraded: $4.1",
     "img": "https://images.pokemontcg.io/pl3/10.png"
   },
   {
-    "set": "Diamond & Pearl 12/130",
-    "cost": "Not PSA Graded: $9.72",
+    "code": "012/130",
+    "set": "Diamond & Pearl 012/130",
+    "cost": "UnGraded: $9.72",
     "img": "https://images.pokemontcg.io/dp1/12.png"
   },
   {
+    "code": "DP29/56",
     "set": "DP Black Star Promos DP29/56",
-    "cost": "Not PSA Graded: $15.54",
+    "cost": "UnGraded: $15.54",
     "img": "https://images.pokemontcg.io/dpp/DP29.png"
   },
   {
-    "set": "Rising Rivals 32/120",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "032/111",
+    "set": "Rising Rivals 032/111",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/pl2/32.png"
   },
   {
-    "set": "XY 62/146",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "062/146",
+    "set": "XY 062/146",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/xy1/62.png"
   },
   {
-    "set": "Burning Shadows 67/177",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "067/147",
+    "set": "Burning Shadows 067/147",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/sm3/67.png"
   },
   {
-    "set": "Primal Clash 76/164",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "076/160",
+    "set": "Primal Clash 076/160",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/xy5/76.png"
   },
   {
-    "set": "Primal Clash 77/164",
-    "cost": "Not PSA Graded: $3.73",
+    "code": "077/160",
+    "set": "Primal Clash 077/160",
+    "cost": "UnGraded: $3.73",
     "img": "https://images.pokemontcg.io/xy5/77.png"
   },
   {
-    "set": "Sword & Shield 99/216",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "099/202",
+    "set": "Sword & Shield 099/202",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/swsh1/99.png"
   },
   {
-    "set": "Darkness Ablaze 95/201",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "095/189",
+    "set": "Darkness Ablaze 095/189",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/swsh3/95.png"
   },
   {
-    "set": "Unbroken Bonds 95/234",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "095/214",
+    "set": "Unbroken Bonds 095/214",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/sm10/95.png"
   },
   {
+    "code": "145/146",
     "set": "Legends Awakened 145/146",
-    "cost": "Not PSA Graded: $44.74",
+    "cost": "UnGraded: $44.74",
     "img": "https://images.pokemontcg.io/dp6/145.png"
   },
   {
-    "set": "Darkness Ablaze 181/201",
-    "cost": "Not PSA Graded: $1.97",
+    "code": "181/189",
+    "set": "Darkness Ablaze 181/189",
+    "cost": "UnGraded: $1.97",
     "img": "https://images.pokemontcg.io/swsh3/181.png"
   },
   {
-    "set": "Lost Origin 91/217",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "091/196",
+    "set": "Lost Origin 091/196",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh11/91.png"
   },
   {
-    "set": "Stellar Crown 76/175",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "076/142",
+    "set": "Stellar Crown 076/142",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv7/76.png"
   }
 ]

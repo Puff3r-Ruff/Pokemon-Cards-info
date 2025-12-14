@@ -1,72 +1,86 @@
 [
   {
-    "set": "Double Crisis 4/34",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "004/34",
+    "set": "Double Crisis 004/34",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/dc1/4.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 16/97",
-    "cost": "Not PSA Graded: $2.05",
+    "code": "016/95",
+    "set": "Team Magma vs Team Aqua 016/95",
+    "cost": "UnGraded: $2.05",
     "img": "https://images.pokemontcg.io/ex4/16.png"
   },
   {
-    "set": "Flashfire 25/110",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "025/106",
+    "set": "Flashfire 025/106",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy2/25.png"
   },
   {
-    "set": "Dragons Exalted 30/128",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "030/124",
+    "set": "Dragons Exalted 030/124",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/bw6/30.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 31/97",
-    "cost": "Not PSA Graded: $0.94",
+    "code": "031/95",
+    "set": "Team Magma vs Team Aqua 031/95",
+    "cost": "UnGraded: $0.94",
     "img": "https://images.pokemontcg.io/ex4/31.png"
   },
   {
-    "set": "Legend Maker 43/93",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "043/92",
+    "set": "Legend Maker 043/92",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/ex12/43.png"
   },
   {
-    "set": "Power Keepers 37/108",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "037/108",
+    "set": "Power Keepers 037/108",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/ex16/37.png"
   },
   {
-    "set": "Primal Clash 47/164",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "047/160",
+    "set": "Primal Clash 047/160",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy5/47.png"
   },
   {
-    "set": "Cosmic Eclipse 51/272",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "051/236",
+    "set": "Cosmic Eclipse 051/236",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm12/51.png"
   },
   {
-    "set": "Hidden Legends 47/102",
-    "cost": "Not PSA Graded: $0.96",
+    "code": "047/101",
+    "set": "Hidden Legends 047/101",
+    "cost": "UnGraded: $0.96",
     "img": "https://images.pokemontcg.io/ex5/47.png"
   },
   {
-    "set": "Mysterious Treasures 62/124",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "062/123",
+    "set": "Mysterious Treasures 062/123",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/dp2/62.png"
   },
   {
-    "set": "Rising Rivals 77/120",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "077/111",
+    "set": "Rising Rivals 077/111",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/pl2/77.png"
   },
   {
-    "set": "Chilling Reign 38/233",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "038/198",
+    "set": "Chilling Reign 038/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh6/38.png"
   },
   {
-    "set": "Surging Sparks 44/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "044/191",
+    "set": "Surging Sparks 044/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/44.png"
   }
 ]

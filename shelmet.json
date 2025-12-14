@@ -1,52 +1,62 @@
 [
   {
-    "set": "Plasma Blast 7/105",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "007/101",
+    "set": "Plasma Blast 007/101",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/bw10/7.png"
   },
   {
-    "set": "Dark Explorers 10/111",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "010/108",
+    "set": "Dark Explorers 010/108",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/bw5/10.png"
   },
   {
-    "set": "Crimson Invasion 8/126",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "008/111",
+    "set": "Crimson Invasion 008/111",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm4/8.png"
   },
   {
-    "set": "Darkness Ablaze 9/201",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "009/189",
+    "set": "Darkness Ablaze 009/189",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh3/9.png"
   },
   {
-    "set": "Furious Fists 8/114",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "008/111",
+    "set": "Furious Fists 008/111",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy3/8.png"
   },
   {
-    "set": "Noble Victories 11/102",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "011/101",
+    "set": "Noble Victories 011/101",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/bw3/11.png"
   },
   {
-    "set": "Fusion Strike 13/284",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "013/264",
+    "set": "Fusion Strike 013/264",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh8/13.png"
   },
   {
-    "set": "Journey Together 12/190",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "012/159",
+    "set": "Journey Together 012/159",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv9/12.png"
   },
   {
-    "set": "White Flare 8/173",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "008/86",
+    "set": "White Flare 008/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/rsv10pt5/8.png"
   },
   {
-    "set": "White Flare 93/173",
-    "cost": "Not PSA Graded: $4.56",
+    "code": "093/86",
+    "set": "White Flare 093/86",
+    "cost": "UnGraded: $4.56",
     "img": "https://images.pokemontcg.io/rsv10pt5/93.png"
   }
 ]

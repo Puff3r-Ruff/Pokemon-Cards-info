@@ -1,37 +1,44 @@
 [
   {
-    "set": "Sword & Shield 150/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "150/202",
+    "set": "Sword & Shield 150/202",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh1/150.png"
   },
   {
-    "set": "Darkness Ablaze 154/201",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "154/189",
+    "set": "Darkness Ablaze 154/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh3/154.png"
   },
   {
+    "code": "SV101/122",
     "set": "Shining Fates Shiny Vault SV101/122",
-    "cost": "Not PSA Graded: $1.88",
+    "cost": "UnGraded: $1.88",
     "img": "https://images.pokemontcg.io/swsh45sv/SV101.png"
   },
   {
-    "set": "Fusion Strike 219/284",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "219/264",
+    "set": "Fusion Strike 219/264",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh8/219.png"
   },
   {
-    "set": "Paldea Evolved 164/279",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "164/193",
+    "set": "Paldea Evolved 164/193",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv2/164.png"
   },
   {
-    "set": "Paldea Evolved 225/279",
-    "cost": "Not PSA Graded: $7.22",
+    "code": "225/193",
+    "set": "Paldea Evolved 225/193",
+    "cost": "UnGraded: $7.22",
     "img": "https://images.pokemontcg.io/sv2/225.png"
   },
   {
-    "set": "Journey Together 133/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "133/159",
+    "set": "Journey Together 133/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/133.png"
   }
 ]

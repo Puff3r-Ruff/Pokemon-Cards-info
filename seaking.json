@@ -1,77 +1,92 @@
 [
   {
-    "set": "Deoxys 24/108",
-    "cost": "Not PSA Graded: $1.03",
+    "code": "024/107",
+    "set": "Deoxys 024/107",
+    "cost": "UnGraded: $1.03",
     "img": "https://images.pokemontcg.io/ex8/24.png"
   },
   {
-    "set": "Ruby & Sapphire 21/109",
-    "cost": "Not PSA Graded: $0.75",
+    "code": "021/109",
+    "set": "Ruby & Sapphire 021/109",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/ex1/21.png"
   },
   {
-    "set": "BREAKthrough 28/165",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "028/162",
+    "set": "BREAKthrough 028/162",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy8/28.png"
   },
   {
-    "set": "Neo Revelation 37/66",
+    "code": "037/64",
+    "set": "Neo Revelation 037/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/37.png"
   },
   {
-    "set": "Sword & Shield 47/216",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "047/202",
+    "set": "Sword & Shield 047/202",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh1/47.png"
   },
   {
-    "set": "Supreme Victors 43/153",
-    "cost": "Not PSA Graded: $1.17",
+    "code": "043/147",
+    "set": "Supreme Victors 043/147",
+    "cost": "UnGraded: $1.17",
     "img": "https://images.pokemontcg.io/pl3/43.png"
   },
   {
-    "set": "Jungle 46/64",
+    "code": "046/64",
+    "set": "Jungle 046/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/46.png"
   },
   {
-    "set": "Gym Heroes 55/132",
+    "code": "055/132",
+    "set": "Gym Heroes 055/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/55.png"
   },
   {
-    "set": "Unbroken Bonds 49/234",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "049/214",
+    "set": "Unbroken Bonds 049/214",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/sm10/49.png"
   },
   {
-    "set": "Base Set 2 60/130",
-    "cost": "Not PSA Graded: $0.92",
+    "code": "060/130",
+    "set": "Base Set 2 060/130",
+    "cost": "UnGraded: $0.92",
     "img": "https://images.pokemontcg.io/base4/60.png"
   },
   {
-    "set": "Diamond & Pearl 62/130",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "062/130",
+    "set": "Diamond & Pearl 062/130",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/dp1/62.png"
   },
   {
-    "set": "Aquapolis 59/182",
-    "cost": "Not PSA Graded: $6.89",
+    "code": "059/147",
+    "set": "Aquapolis 059/147",
+    "cost": "UnGraded: $6.89",
     "img": "https://images.pokemontcg.io/ecard2/59.png"
   },
   {
-    "set": "151 119/207",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "119/165",
+    "set": "151 119/165",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3pt5/119.png"
   },
   {
-    "set": "Twilight Masquerade 45/226",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "045/167",
+    "set": "Twilight Masquerade 045/167",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv6/45.png"
   },
   {
-    "set": "Prismatic Evolutions 21/180",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "021/131",
+    "set": "Prismatic Evolutions 021/131",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv8pt5/21.png"
   }
 ]

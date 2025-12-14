@@ -1,67 +1,80 @@
 [
   {
-    "set": "Sword & Shield 109/216",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "109/202",
+    "set": "Sword & Shield 109/202",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh1/109.png"
   },
   {
-    "set": "Sword & Shield 110/216",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "110/202",
+    "set": "Sword & Shield 110/202",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/swsh1/110.png"
   },
   {
-    "set": "Rebel Clash 108/209",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "108/192",
+    "set": "Rebel Clash 108/192",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/swsh2/108.png"
   },
   {
-    "set": "Rebel Clash 184/209",
-    "cost": "Not PSA Graded: $1.84",
+    "code": "184/192",
+    "set": "Rebel Clash 184/192",
+    "cost": "UnGraded: $1.84",
     "img": "https://images.pokemontcg.io/swsh2/184.png"
   },
   {
+    "code": "SV071/122",
     "set": "Shining Fates Shiny Vault SV071/122",
-    "cost": "Not PSA Graded: $1.12",
+    "cost": "UnGraded: $1.12",
     "img": "https://images.pokemontcg.io/swsh45sv/SV071.png"
   },
   {
-    "set": "Battle Styles 82/183",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "082/163",
+    "set": "Battle Styles 082/163",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh5/82.png"
   },
   {
-    "set": "Chilling Reign 89/233",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "089/198",
+    "set": "Chilling Reign 089/198",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/swsh6/89.png"
   },
   {
-    "set": "Chilling Reign 90/233",
-    "cost": "Not PSA Graded: $1.82",
+    "code": "090/198",
+    "set": "Chilling Reign 090/198",
+    "cost": "UnGraded: $1.82",
     "img": "https://images.pokemontcg.io/swsh6/90.png"
   },
   {
-    "set": "Chilling Reign 175/233",
-    "cost": "Not PSA Graded: $1.47",
+    "code": "175/198",
+    "set": "Chilling Reign 175/198",
+    "cost": "UnGraded: $1.47",
     "img": "https://images.pokemontcg.io/swsh6/175.png"
   },
   {
-    "set": "Chilling Reign 206/233",
-    "cost": "Not PSA Graded: $6.85",
+    "code": "206/198",
+    "set": "Chilling Reign 206/198",
+    "cost": "UnGraded: $6.85",
     "img": "https://images.pokemontcg.io/swsh6/206.png"
   },
   {
-    "set": "Fusion Strike 252/284",
-    "cost": "Not PSA Graded: $4.72",
+    "code": "252/264",
+    "set": "Fusion Strike 252/264",
+    "cost": "UnGraded: $4.72",
     "img": "https://images.pokemontcg.io/swsh8/252.png"
   },
   {
-    "set": "Scarlet & Violet 120/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "120/198",
+    "set": "Scarlet & Violet 120/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/120.png"
   },
   {
-    "set": "Journey Together 87/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "087/159",
+    "set": "Journey Together 087/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv9/87.png"
   }
 ]

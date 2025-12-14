@@ -1,87 +1,104 @@
 [
   {
-    "set": "Sword & Shield 4/216",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "004/202",
+    "set": "Sword & Shield 004/202",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh1/4.png"
   },
   {
-    "set": "Ultra Prism 5/178",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "005/156",
+    "set": "Ultra Prism 005/156",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/sm5/5.png"
   },
   {
-    "set": "Flashfire 9/110",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "009/106",
+    "set": "Flashfire 009/106",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/xy2/9.png"
   },
   {
-    "set": "Diamond & Pearl 13/130",
-    "cost": "Not PSA Graded: $11.28",
+    "code": "013/130",
+    "set": "Diamond & Pearl 013/130",
+    "cost": "UnGraded: $11.28",
     "img": "https://images.pokemontcg.io/dp1/13.png"
   },
   {
-    "set": "Secret Wonders 17/132",
-    "cost": "Not PSA Graded: $3.19",
+    "code": "017/132",
+    "set": "Secret Wonders 017/132",
+    "cost": "UnGraded: $3.19",
     "img": "https://images.pokemontcg.io/dp3/17.png"
   },
   {
-    "set": "Dragons Exalted 14/128",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "014/124",
+    "set": "Dragons Exalted 014/124",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/bw6/14.png"
   },
   {
-    "set": "Dragons Exalted 15/128",
-    "cost": "Not PSA Graded: $27.31",
+    "code": "015/124",
+    "set": "Dragons Exalted 015/124",
+    "cost": "UnGraded: $27.31",
     "img": "https://images.pokemontcg.io/bw6/15.png"
   },
   {
-    "set": "Rising Rivals 12/120",
-    "cost": "Not PSA Graded: $5.46",
+    "code": "012/111",
+    "set": "Rising Rivals 012/111",
+    "cost": "UnGraded: $5.46",
     "img": "https://images.pokemontcg.io/pl2/12.png"
   },
   {
-    "set": "HS—Unleashed 23/96",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "023/95",
+    "set": "HS—Unleashed 023/95",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/hgss2/23.png"
   },
   {
-    "set": "Stormfront 23/106",
-    "cost": "Not PSA Graded: $1.19",
+    "code": "023/100",
+    "set": "Stormfront 023/100",
+    "cost": "UnGraded: $1.19",
     "img": "https://images.pokemontcg.io/dp7/23.png"
   },
   {
-    "set": "Supreme Victors 40/153",
-    "cost": "Not PSA Graded: $3.36",
+    "code": "040/147",
+    "set": "Supreme Victors 040/147",
+    "cost": "UnGraded: $3.36",
     "img": "https://images.pokemontcg.io/pl3/40.png"
   },
   {
-    "set": "Supreme Victors 81/153",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "081/147",
+    "set": "Supreme Victors 081/147",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/pl3/81.png"
   },
   {
-    "set": "Lost Origin 15/217",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "015/196",
+    "set": "Lost Origin 015/196",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh11/15.png"
   },
   {
+    "code": "TG02/30",
     "set": "Lost Origin Trainer Gallery TG02/30",
-    "cost": "Not PSA Graded: $1.48",
+    "cost": "UnGraded: $1.48",
     "img": "https://images.pokemontcg.io/swsh11tg/TG02.png"
   },
   {
-    "set": "Temporal Forces 9/218",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "009/162",
+    "set": "Temporal Forces 009/162",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv5/9.png"
   },
   {
-    "set": "Destined Rivals 8/244",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "008/182",
+    "set": "Destined Rivals 008/182",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sv10/8.png"
   },
   {
-    "set": "Destined Rivals 184/244",
-    "cost": "Not PSA Graded: $10.39",
+    "code": "184/182",
+    "set": "Destined Rivals 184/182",
+    "cost": "UnGraded: $10.39",
     "img": "https://images.pokemontcg.io/sv10/184.png"
   }
 ]

@@ -1,42 +1,50 @@
 [
   {
-    "set": "SM Black Star Promos SM10/250",
-    "cost": "Not PSA Graded: $17.63",
+    "code": "SM10/248",
+    "set": "SM Black Star Promos SM10/248",
+    "cost": "UnGraded: $17.63",
     "img": "https://images.pokemontcg.io/smp/SM10.png"
   },
   {
-    "set": "Sun & Moon 17/173",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "017/149",
+    "set": "Sun & Moon 017/149",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/sm1/17.png"
   },
   {
-    "set": "Darkness Ablaze 80/201",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "080/189",
+    "set": "Darkness Ablaze 080/189",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh3/80.png"
   },
   {
-    "set": "Ultra Prism 93/178",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "093/156",
+    "set": "Ultra Prism 093/156",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/sm5/93.png"
   },
   {
-    "set": "Burning Shadows 98/177",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "098/147",
+    "set": "Burning Shadows 098/147",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm3/98.png"
   },
   {
-    "set": "Lost Thunder 148/240",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "148/214",
+    "set": "Lost Thunder 148/214",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm8/148.png"
   },
   {
-    "set": "Surging Sparks 9/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "009/191",
+    "set": "Surging Sparks 009/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/9.png"
   },
   {
-    "set": "Surging Sparks 194/252",
-    "cost": "Not PSA Graded: $2.11",
+    "code": "194/191",
+    "set": "Surging Sparks 194/191",
+    "cost": "UnGraded: $2.11",
     "img": "https://images.pokemontcg.io/sv8/194.png"
   }
 ]

@@ -1,17 +1,20 @@
 [
   {
-    "set": "Rebel Clash 102/209",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "102/192",
+    "set": "Rebel Clash 102/192",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/swsh2/102.png"
   },
   {
+    "code": "SV066/122",
     "set": "Shining Fates Shiny Vault SV066/122",
-    "cost": "Not PSA Graded: $2.83",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/swsh45sv/SV066.png"
   },
   {
-    "set": "Chilling Reign 83/233",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "083/198",
+    "set": "Chilling Reign 083/198",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/swsh6/83.png"
   }
 ]

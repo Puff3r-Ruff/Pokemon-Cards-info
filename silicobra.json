@@ -1,32 +1,38 @@
 [
   {
-    "set": "Sword & Shield 107/216",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "107/202",
+    "set": "Sword & Shield 107/202",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh1/107.png"
   },
   {
-    "set": "Sword & Shield 108/216",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "108/202",
+    "set": "Sword & Shield 108/202",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh1/108.png"
   },
   {
+    "code": "SV070/122",
     "set": "Shining Fates Shiny Vault SV070/122",
-    "cost": "Not PSA Graded: $1.38",
+    "cost": "UnGraded: $1.38",
     "img": "https://images.pokemontcg.io/swsh45sv/SV070.png"
   },
   {
-    "set": "Battle Styles 81/183",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "081/163",
+    "set": "Battle Styles 081/163",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh5/81.png"
   },
   {
-    "set": "Scarlet & Violet 119/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "119/198",
+    "set": "Scarlet & Violet 119/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/119.png"
   },
   {
-    "set": "Journey Together 86/190",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "086/159",
+    "set": "Journey Together 086/159",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv9/86.png"
   }
 ]

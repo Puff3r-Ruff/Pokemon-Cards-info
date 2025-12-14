@@ -1,42 +1,50 @@
 [
   {
-    "set": "Evolving Skies 124/237",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "124/203",
+    "set": "Evolving Skies 124/203",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh7/124.png"
   },
   {
-    "set": "Astral Radiance 118/216",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "118/189",
+    "set": "Astral Radiance 118/189",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh10/118.png"
   },
   {
-    "set": "Silver Tempest 135/215",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "135/195",
+    "set": "Silver Tempest 135/195",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/swsh12/135.png"
   },
   {
-    "set": "Silver Tempest 136/215",
-    "cost": "Not PSA Graded: $1.01",
+    "code": "136/195",
+    "set": "Silver Tempest 136/195",
+    "cost": "UnGraded: $1.01",
     "img": "https://images.pokemontcg.io/swsh12/136.png"
   },
   {
-    "set": "Silver Tempest 183/215",
-    "cost": "Not PSA Graded: $2.06",
+    "code": "183/195",
+    "set": "Silver Tempest 183/195",
+    "cost": "UnGraded: $2.06",
     "img": "https://images.pokemontcg.io/swsh12/183.png"
   },
   {
-    "set": "Silver Tempest 184/215",
-    "cost": "Not PSA Graded: $19.07",
+    "code": "184/195",
+    "set": "Silver Tempest 184/195",
+    "cost": "UnGraded: $19.07",
     "img": "https://images.pokemontcg.io/swsh12/184.png"
   },
   {
-    "set": "Silver Tempest 201/215",
-    "cost": "Not PSA Graded: $6.24",
+    "code": "201/195",
+    "set": "Silver Tempest 201/195",
+    "cost": "UnGraded: $6.24",
     "img": "https://images.pokemontcg.io/swsh12/201.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH281/304",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "SWSH281/307",
+    "set": "SWSH Black Star Promos SWSH281/307",
+    "cost": "UnGraded: $0.63",
     "img": "https://images.pokemontcg.io/swshp/SWSH281.png"
   }
 ]

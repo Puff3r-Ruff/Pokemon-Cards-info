@@ -1,42 +1,50 @@
 [
   {
-    "set": "Dragons Exalted 7/128",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "007/124",
+    "set": "Dragons Exalted 007/124",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/bw6/7.png"
   },
   {
-    "set": "Roaring Skies 4/112",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "004/108",
+    "set": "Roaring Skies 004/108",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy6/4.png"
   },
   {
-    "set": "Lost Thunder 25/240",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "025/214",
+    "set": "Lost Thunder 025/214",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm8/25.png"
   },
   {
-    "set": "Deoxys 46/108",
-    "cost": "Not PSA Graded: $1.36",
+    "code": "046/107",
+    "set": "Deoxys 046/107",
+    "cost": "UnGraded: $1.36",
     "img": "https://images.pokemontcg.io/ex8/46.png"
   },
   {
-    "set": "Ruby & Sapphire 43/109",
-    "cost": "Not PSA Graded: $1.85",
+    "code": "043/109",
+    "set": "Ruby & Sapphire 043/109",
+    "cost": "UnGraded: $1.85",
     "img": "https://images.pokemontcg.io/ex1/43.png"
   },
   {
-    "set": "Diamond & Pearl 63/130",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "063/130",
+    "set": "Diamond & Pearl 063/130",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/dp1/63.png"
   },
   {
-    "set": "Platinum 63/133",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "063/127",
+    "set": "Platinum 063/127",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/pl1/63.png"
   },
   {
-    "set": "Lost Origin 7/217",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "007/196",
+    "set": "Lost Origin 007/196",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh11/7.png"
   }
 ]

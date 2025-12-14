@@ -1,147 +1,176 @@
 [
   {
-    "set": "Dragon Vault 8/21",
-    "cost": "Not PSA Graded: $4.18",
+    "code": "008/20",
+    "set": "Dragon Vault 008/20",
+    "cost": "UnGraded: $4.18",
     "img": "https://images.pokemontcg.io/dv1/8.png"
   },
   {
-    "set": "Arceus 8/111",
-    "cost": "Not PSA Graded: $6.22",
+    "code": "008/99",
+    "set": "Arceus 008/99",
+    "cost": "UnGraded: $6.22",
     "img": "https://images.pokemontcg.io/pl4/8.png"
   },
   {
-    "set": "Dragon 10/100",
-    "cost": "Not PSA Graded: $69.44",
+    "code": "010/97",
+    "set": "Dragon 010/97",
+    "cost": "UnGraded: $69.44",
     "img": "https://images.pokemontcg.io/ex3/10.png"
   },
   {
-    "set": "Delta Species 14/114",
-    "cost": "Not PSA Graded: $30.45",
+    "code": "014/113",
+    "set": "Delta Species 014/113",
+    "cost": "UnGraded: $30.45",
     "img": "https://images.pokemontcg.io/ex11/14.png"
   },
   {
-    "set": "Secret Wonders 18/132",
-    "cost": "Not PSA Graded: $25.65",
+    "code": "018/132",
+    "set": "Secret Wonders 018/132",
+    "cost": "UnGraded: $25.65",
     "img": "https://images.pokemontcg.io/dp3/18.png"
   },
   {
-    "set": "Dragon 19/100",
-    "cost": "Not PSA Graded: $1.42",
+    "code": "019/97",
+    "set": "Dragon 019/97",
+    "cost": "UnGraded: $1.42",
     "img": "https://images.pokemontcg.io/ex3/19.png"
   },
   {
-    "set": "Stormfront 24/106",
-    "cost": "Not PSA Graded: $1.86",
+    "code": "024/100",
+    "set": "Stormfront 024/100",
+    "cost": "UnGraded: $1.86",
     "img": "https://images.pokemontcg.io/dp7/24.png"
   },
   {
-    "set": "Dragon Majesty 44/80",
-    "cost": "Not PSA Graded: $7.79",
+    "code": "044/70",
+    "set": "Dragon Majesty 044/70",
+    "cost": "UnGraded: $7.79",
     "img": "https://images.pokemontcg.io/sm75/44.png"
   },
   {
-    "set": "Roaring Skies 57/112",
-    "cost": "Not PSA Graded: $1.24",
+    "code": "057/108",
+    "set": "Roaring Skies 057/108",
+    "cost": "UnGraded: $1.24",
     "img": "https://images.pokemontcg.io/xy6/57.png"
   },
   {
-    "set": "Plasma Blast 64/105",
-    "cost": "Not PSA Graded: $5.48",
+    "code": "064/101",
+    "set": "Plasma Blast 064/101",
+    "cost": "UnGraded: $5.48",
     "img": "https://images.pokemontcg.io/bw10/64.png"
   },
   {
-    "set": "XY Black Star Promos XY59/216",
-    "cost": "Not PSA Graded: $34.78",
+    "code": "XY59/211",
+    "set": "XY Black Star Promos XY59/211",
+    "cost": "UnGraded: $34.78",
     "img": "https://images.pokemontcg.io/xyp/XY59.png"
   },
   {
-    "set": "Dragon Majesty 73/80",
-    "cost": "Not PSA Graded: $42.57",
+    "code": "073/70",
+    "set": "Dragon Majesty 073/70",
+    "cost": "UnGraded: $42.57",
     "img": "https://images.pokemontcg.io/sm75/73.png"
   },
   {
-    "set": "Arceus 98/111",
-    "cost": "Not PSA Graded: $48.86",
+    "code": "098/99",
+    "set": "Arceus 098/99",
+    "cost": "UnGraded: $48.86",
     "img": "https://images.pokemontcg.io/pl4/98.png"
   },
   {
-    "set": "Power Keepers 96/108",
-    "cost": "Not PSA Graded: $108.07",
+    "code": "096/108",
+    "set": "Power Keepers 096/108",
+    "cost": "UnGraded: $108.07",
     "img": "https://images.pokemontcg.io/ex16/96.png"
   },
   {
-    "set": "Deoxys 103/108",
-    "cost": "Not PSA Graded: $169.22",
+    "code": "103/107",
+    "set": "Deoxys 103/107",
+    "cost": "UnGraded: $169.22",
     "img": "https://images.pokemontcg.io/ex8/103.png"
   },
   {
-    "set": "Celestial Storm 106/187",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "106/168",
+    "set": "Celestial Storm 106/168",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/sm7/106.png"
   },
   {
-    "set": "Dragon Frontiers 98/101",
-    "cost": "Not PSA Graded: $171.1",
+    "code": "098/101",
+    "set": "Dragon Frontiers 098/101",
+    "cost": "UnGraded: $171.1",
     "img": "https://images.pokemontcg.io/ex15/98.png"
   },
   {
-    "set": "SM Black Star Promos SM139/250",
-    "cost": "Not PSA Graded: $13.08",
+    "code": "SM139/248",
+    "set": "SM Black Star Promos SM139/248",
+    "cost": "UnGraded: $13.08",
     "img": "https://images.pokemontcg.io/smp/SM139.png"
   },
   {
-    "set": "SM Black Star Promos SM140/250",
-    "cost": "Not PSA Graded: $4.67",
+    "code": "SM140/248",
+    "set": "SM Black Star Promos SM140/248",
+    "cost": "UnGraded: $4.67",
     "img": "https://images.pokemontcg.io/smp/SM140.png"
   },
   {
-    "set": "Darkness Ablaze 143/201",
-    "cost": "Not PSA Graded: $1",
+    "code": "143/189",
+    "set": "Darkness Ablaze 143/189",
+    "cost": "UnGraded: $1",
     "img": "https://images.pokemontcg.io/swsh3/143.png"
   },
   {
-    "set": "Darkness Ablaze 144/201",
-    "cost": "Not PSA Graded: $2.85",
+    "code": "144/189",
+    "set": "Darkness Ablaze 144/189",
+    "cost": "UnGraded: $2.85",
     "img": "https://images.pokemontcg.io/swsh3/144.png"
   },
   {
-    "set": "XY Black Star Promos XY170/216",
-    "cost": "Not PSA Graded: $15.43",
+    "code": "XY170/211",
+    "set": "XY Black Star Promos XY170/211",
+    "cost": "UnGraded: $15.43",
     "img": "https://images.pokemontcg.io/xyp/XY170.png"
   },
   {
-    "set": "XY Black Star Promos XY171/216",
-    "cost": "Not PSA Graded: $55.38",
+    "code": "XY171/211",
+    "set": "XY Black Star Promos XY171/211",
+    "cost": "UnGraded: $55.38",
     "img": "https://images.pokemontcg.io/xyp/XY171.png"
   },
   {
-    "set": "Darkness Ablaze 185/201",
-    "cost": "Not PSA Graded: $3.43",
+    "code": "185/189",
+    "set": "Darkness Ablaze 185/189",
+    "cost": "UnGraded: $3.43",
     "img": "https://images.pokemontcg.io/swsh3/185.png"
   },
   {
-    "set": "Darkness Ablaze 194/201",
-    "cost": "Not PSA Graded: $11.55",
+    "code": "194/189",
+    "set": "Darkness Ablaze 194/189",
+    "cost": "UnGraded: $11.55",
     "img": "https://images.pokemontcg.io/swsh3/194.png"
   },
   {
-    "set": "Evolving Skies 109/237",
-    "cost": "Not PSA Graded: $0.49",
+    "code": "109/203",
+    "set": "Evolving Skies 109/203",
+    "cost": "UnGraded: $0.49",
     "img": "https://images.pokemontcg.io/swsh7/109.png"
   },
   {
-    "set": "Journey Together 114/190",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "114/159",
+    "set": "Journey Together 114/159",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/sv9/114.png"
   },
   {
-    "set": "Journey Together 177/190",
-    "cost": "Not PSA Graded: $1.67",
+    "code": "177/159",
+    "set": "Journey Together 177/159",
+    "cost": "UnGraded: $1.67",
     "img": "https://images.pokemontcg.io/sv9/177.png"
   },
   {
-    "set": "Journey Together 187/190",
-    "cost": "Not PSA Graded: $72.1",
+    "code": "187/159",
+    "set": "Journey Together 187/159",
+    "cost": "UnGraded: $72.1",
     "img": "https://images.pokemontcg.io/sv9/187.png"
   }
 ]

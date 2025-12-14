@@ -1,47 +1,56 @@
 [
   {
-    "set": "Steam Siege 28/116",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "028/114",
+    "set": "Steam Siege 028/114",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy11/28.png"
   },
   {
-    "set": "Crimson Invasion 29/126",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "029/111",
+    "set": "Crimson Invasion 029/111",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm4/29.png"
   },
   {
-    "set": "Majestic Dawn 73/100",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "073/100",
+    "set": "Majestic Dawn 073/100",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/dp5/73.png"
   },
   {
-    "set": "Rising Rivals 79/120",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "079/111",
+    "set": "Rising Rivals 079/111",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/pl2/79.png"
   },
   {
-    "set": "Rising Rivals 80/120",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "080/111",
+    "set": "Rising Rivals 080/111",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/pl2/80.png"
   },
   {
+    "code": "106/132",
     "set": "Secret Wonders 106/132",
-    "cost": "Not PSA Graded: $0.39",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/dp3/106.png"
   },
   {
+    "code": "107/132",
     "set": "Secret Wonders 107/132",
-    "cost": "Not PSA Graded: $0.68",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/dp3/107.png"
   },
   {
-    "set": "Lost Origin 39/217",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "039/196",
+    "set": "Lost Origin 039/196",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh11/39.png"
   },
   {
-    "set": "Surging Sparks 46/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "046/191",
+    "set": "Surging Sparks 046/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/46.png"
   }
 ]

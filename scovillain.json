@@ -1,37 +1,44 @@
 [
   {
-    "set": "Scarlet & Violet 29/258",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "029/198",
+    "set": "Scarlet & Violet 029/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv1/29.png"
   },
   {
-    "set": "Scarlet & Violet 202/258",
-    "cost": "Not PSA Graded: $3.62",
+    "code": "202/198",
+    "set": "Scarlet & Violet 202/198",
+    "cost": "UnGraded: $3.62",
     "img": "https://images.pokemontcg.io/sv1/202.png"
   },
   {
-    "set": "Obsidian Flames 25/230",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "025/197",
+    "set": "Obsidian Flames 025/197",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv3/25.png"
   },
   {
-    "set": "Paldean Fates 107/245",
-    "cost": "Not PSA Graded: $1.56",
+    "code": "107/91",
+    "set": "Paldean Fates 107/91",
+    "cost": "UnGraded: $1.56",
     "img": "https://images.pokemontcg.io/sv4pt5/107.png"
   },
   {
-    "set": "Temporal Forces 22/218",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "022/162",
+    "set": "Temporal Forces 022/162",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/sv5/22.png"
   },
   {
-    "set": "Surging Sparks 37/252",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "037/191",
+    "set": "Surging Sparks 037/191",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/sv8/37.png"
   },
   {
-    "set": "Surging Sparks 216/252",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "216/191",
+    "set": "Surging Sparks 216/191",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/sv8/216.png"
   }
 ]

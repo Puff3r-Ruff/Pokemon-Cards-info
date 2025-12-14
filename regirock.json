@@ -1,92 +1,110 @@
 [
   {
-    "set": "Holon Phantoms 28/111",
-    "cost": "Not PSA Graded: $2.83",
+    "code": "028/110",
+    "set": "Holon Phantoms 028/110",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/ex13/28.png"
   },
   {
-    "set": "Ancient Origins 40/100",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "040/98",
+    "set": "Ancient Origins 040/98",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/xy7/40.png"
   },
   {
-    "set": "Fates Collide 43/129",
-    "cost": "Not PSA Graded: $2.18",
+    "code": "043/124",
+    "set": "Fates Collide 043/124",
+    "cost": "UnGraded: $2.18",
     "img": "https://images.pokemontcg.io/xy10/43.png"
   },
   {
-    "set": "Legends Awakened 38/146",
-    "cost": "Not PSA Graded: $3.04",
+    "code": "038/146",
+    "set": "Legends Awakened 038/146",
+    "cost": "UnGraded: $3.04",
     "img": "https://images.pokemontcg.io/dp6/38.png"
   },
   {
-    "set": "Fates Collide 43a/129",
+    "code": "43a/124",
+    "set": "Fates Collide 43a/124",
     "cost": null,
     "img": "https://images.pokemontcg.io/xy10/43a.png"
   },
   {
-    "set": "XY Black Star Promos XY49/216",
-    "cost": "Not PSA Graded: $4.73",
+    "code": "XY49/211",
+    "set": "XY Black Star Promos XY49/211",
+    "cost": "UnGraded: $4.73",
     "img": "https://images.pokemontcg.io/xyp/XY49.png"
   },
   {
-    "set": "Crimson Invasion 53/126",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "053/111",
+    "set": "Crimson Invasion 053/111",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm4/53.png"
   },
   {
-    "set": "Celestial Storm 80/187",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "080/168",
+    "set": "Celestial Storm 080/168",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/sm7/80.png"
   },
   {
-    "set": "SM Black Star Promos SM74/250",
-    "cost": "Not PSA Graded: $4.23",
+    "code": "SM74/248",
+    "set": "SM Black Star Promos SM74/248",
+    "cost": "UnGraded: $4.23",
     "img": "https://images.pokemontcg.io/smp/SM74.png"
   },
   {
-    "set": "Legend Maker 91/93",
-    "cost": "Not PSA Graded: $504.98",
+    "code": "091/92",
+    "set": "Legend Maker 091/92",
+    "cost": "UnGraded: $504.98",
     "img": "https://images.pokemontcg.io/ex12/91.png"
   },
   {
-    "set": "Vivid Voltage 89/203",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "089/185",
+    "set": "Vivid Voltage 089/185",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/swsh4/89.png"
   },
   {
-    "set": "Emerald 99/107",
-    "cost": "Not PSA Graded: $166.78",
+    "code": "099/106",
+    "set": "Emerald 099/106",
+    "cost": "UnGraded: $166.78",
     "img": "https://images.pokemontcg.io/ex9/99.png"
   },
   {
-    "set": "Sword & Shield 104/216",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "104/202",
+    "set": "Sword & Shield 104/202",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/swsh1/104.png"
   },
   {
-    "set": "Hidden Legends 98/102",
-    "cost": "Not PSA Graded: $399.99",
+    "code": "098/101",
+    "set": "Hidden Legends 098/101",
+    "cost": "UnGraded: $399.99",
     "img": "https://images.pokemontcg.io/ex5/98.png"
   },
   {
-    "set": "Astral Radiance 75/216",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "075/189",
+    "set": "Astral Radiance 075/189",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh10/75.png"
   },
   {
-    "set": "Journey Together 82/190",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "082/159",
+    "set": "Journey Together 082/159",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv9/82.png"
   },
   {
-    "set": "Destined Rivals 101/244",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "101/182",
+    "set": "Destined Rivals 101/182",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/sv10/101.png"
   },
   {
-    "set": "Destined Rivals 214/244",
-    "cost": "Not PSA Graded: $1.09",
+    "code": "214/182",
+    "set": "Destined Rivals 214/182",
+    "cost": "UnGraded: $1.09",
     "img": "https://images.pokemontcg.io/sv10/214.png"
   }
 ]

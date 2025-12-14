@@ -1,22 +1,26 @@
 [
   {
-    "set": "Paradox Rift 108/266",
-    "cost": "Not PSA Graded: $0.55",
+    "code": "108/182",
+    "set": "Paradox Rift 108/182",
+    "cost": "UnGraded: $0.55",
     "img": "https://images.pokemontcg.io/sv4/108.png"
   },
   {
-    "set": "Paradox Rift 228/266",
-    "cost": "Not PSA Graded: $1.85",
+    "code": "228/182",
+    "set": "Paradox Rift 228/182",
+    "cost": "UnGraded: $1.85",
     "img": "https://images.pokemontcg.io/sv4/228.png"
   },
   {
-    "set": "Paradox Rift 250/266",
-    "cost": "Not PSA Graded: $6.15",
+    "code": "250/182",
+    "set": "Paradox Rift 250/182",
+    "cost": "UnGraded: $6.15",
     "img": "https://images.pokemontcg.io/sv4/250.png"
   },
   {
-    "set": "Temporal Forces 98/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "098/162",
+    "set": "Temporal Forces 098/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/98.png"
   }
 ]

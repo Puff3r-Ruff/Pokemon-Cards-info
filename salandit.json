@@ -1,67 +1,80 @@
 [
   {
-    "set": "Dragon Majesty 13/80",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "013/70",
+    "set": "Dragon Majesty 013/70",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm75/13.png"
   },
   {
-    "set": "Guardians Rising 15/180",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "015/145",
+    "set": "Guardians Rising 015/145",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm2/15.png"
   },
   {
-    "set": "Ultra Prism 25/178",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "025/156",
+    "set": "Ultra Prism 025/156",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm5/25.png"
   },
   {
-    "set": "Sword & Shield 27/216",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "027/202",
+    "set": "Sword & Shield 027/202",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh1/27.png"
   },
   {
-    "set": "Unbroken Bonds 30/234",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "030/214",
+    "set": "Unbroken Bonds 030/214",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm10/30.png"
   },
   {
-    "set": "Unified Minds 33/260",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "033/236",
+    "set": "Unified Minds 033/236",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm11/33.png"
   },
   {
-    "set": "Crimson Invasion 46/126",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "046/111",
+    "set": "Crimson Invasion 046/111",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sm4/46.png"
   },
   {
-    "set": "Unified Minds 98/260",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "098/236",
+    "set": "Unified Minds 098/236",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm11/98.png"
   },
   {
-    "set": "SM Black Star Promos SM154/250",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "SM154/248",
+    "set": "SM Black Star Promos SM154/248",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/smp/SM154.png"
   },
   {
-    "set": "Battle Styles 27/183",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "027/163",
+    "set": "Battle Styles 027/163",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh5/27.png"
   },
   {
-    "set": "Crown Zenith 27/160",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "027/159",
+    "set": "Crown Zenith 027/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12pt5/27.png"
   },
   {
-    "set": "Obsidian Flames 139/230",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "139/197",
+    "set": "Obsidian Flames 139/197",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv3/139.png"
   },
   {
-    "set": "Stellar Crown 23/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "023/142",
+    "set": "Stellar Crown 023/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/23.png"
   }
 ]

@@ -1,37 +1,44 @@
 [
   {
-    "set": "Paldea Evolved 145/279",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "145/193",
+    "set": "Paldea Evolved 145/193",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv2/145.png"
   },
   {
-    "set": "Paldea Evolved 144/279",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "144/193",
+    "set": "Paldea Evolved 144/193",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv2/144.png"
   },
   {
-    "set": "Paldean Fates 189/245",
-    "cost": "Not PSA Graded: $1.85",
+    "code": "189/91",
+    "set": "Paldean Fates 189/91",
+    "cost": "UnGraded: $1.85",
     "img": "https://images.pokemontcg.io/sv4pt5/189.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 99/196",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "099/215",
+    "set": "Scarlet & Violet Black Star Promos 099/215",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/svp/99.png"
   },
   {
-    "set": "Surging Sparks 120/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "120/191",
+    "set": "Surging Sparks 120/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/120.png"
   },
   {
-    "set": "Mega Evolution 91/188",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "091/132",
+    "set": "Mega Evolution 091/132",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me1/91.png"
   },
   {
-    "set": "Mega Evolution 149/188",
-    "cost": "Not PSA Graded: $1.63",
+    "code": "149/132",
+    "set": "Mega Evolution 149/132",
+    "cost": "UnGraded: $1.63",
     "img": "https://images.pokemontcg.io/me1/149.png"
   }
 ]

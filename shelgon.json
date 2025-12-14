@@ -1,92 +1,110 @@
 [
   {
-    "set": "Dragon Vault 7/21",
-    "cost": "Not PSA Graded: $1.48",
+    "code": "007/20",
+    "set": "Dragon Vault 007/20",
+    "cost": "UnGraded: $1.48",
     "img": "https://images.pokemontcg.io/dv1/7.png"
   },
   {
-    "set": "Dragon 20/100",
-    "cost": "Not PSA Graded: $1.25",
+    "code": "020/97",
+    "set": "Dragon 020/97",
+    "cost": "UnGraded: $1.25",
     "img": "https://images.pokemontcg.io/ex3/20.png"
   },
   {
-    "set": "Dragon 41/100",
-    "cost": "Not PSA Graded: $1.29",
+    "code": "041/97",
+    "set": "Dragon 041/97",
+    "cost": "UnGraded: $1.29",
     "img": "https://images.pokemontcg.io/ex3/41.png"
   },
   {
-    "set": "Dragon 42/100",
-    "cost": "Not PSA Graded: $1.55",
+    "code": "042/97",
+    "set": "Dragon 042/97",
+    "cost": "UnGraded: $1.55",
     "img": "https://images.pokemontcg.io/ex3/42.png"
   },
   {
-    "set": "Dragon Majesty 43/80",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "043/70",
+    "set": "Dragon Majesty 043/70",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/sm75/43.png"
   },
   {
-    "set": "Deoxys 45/108",
-    "cost": "Not PSA Graded: $1.09",
+    "code": "045/107",
+    "set": "Deoxys 045/107",
+    "cost": "UnGraded: $1.09",
     "img": "https://images.pokemontcg.io/ex8/45.png"
   },
   {
-    "set": "Arceus 48/111",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "048/99",
+    "set": "Arceus 048/99",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/pl4/48.png"
   },
   {
-    "set": "Power Keepers 39/108",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "039/108",
+    "set": "Power Keepers 039/108",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/ex16/39.png"
   },
   {
-    "set": "Dragon Frontiers 38/101",
-    "cost": "Not PSA Graded: $1.02",
+    "code": "038/101",
+    "set": "Dragon Frontiers 038/101",
+    "cost": "UnGraded: $1.02",
     "img": "https://images.pokemontcg.io/ex15/38.png"
   },
   {
-    "set": "Delta Species 53/114",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "053/113",
+    "set": "Delta Species 053/113",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/ex11/53.png"
   },
   {
-    "set": "Delta Species 54/114",
-    "cost": "Not PSA Graded: $2.45",
+    "code": "054/113",
+    "set": "Delta Species 054/113",
+    "cost": "UnGraded: $2.45",
     "img": "https://images.pokemontcg.io/ex11/54.png"
   },
   {
-    "set": "Stormfront 50/106",
-    "cost": "Not PSA Graded: $1.13",
+    "code": "050/100",
+    "set": "Stormfront 050/100",
+    "cost": "UnGraded: $1.13",
     "img": "https://images.pokemontcg.io/dp7/50.png"
   },
   {
-    "set": "Roaring Skies 56/112",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "056/108",
+    "set": "Roaring Skies 056/108",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy6/56.png"
   },
   {
-    "set": "Plasma Blast 63/105",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "063/101",
+    "set": "Plasma Blast 063/101",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/bw10/63.png"
   },
   {
-    "set": "Secret Wonders 64/132",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "064/132",
+    "set": "Secret Wonders 064/132",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/dp3/64.png"
   },
   {
-    "set": "Celestial Storm 105/187",
-    "cost": "Not PSA Graded: $7.36",
+    "code": "105/168",
+    "set": "Celestial Storm 105/168",
+    "cost": "UnGraded: $7.36",
     "img": "https://images.pokemontcg.io/sm7/105.png"
   },
   {
-    "set": "Evolving Skies 108/237",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "108/203",
+    "set": "Evolving Skies 108/203",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh7/108.png"
   },
   {
-    "set": "Journey Together 113/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "113/159",
+    "set": "Journey Together 113/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/113.png"
   }
 ]
