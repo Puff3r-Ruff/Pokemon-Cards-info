@@ -1,92 +1,110 @@
 [
   {
-    "set": "POP Series 6 6/17",
-    "cost": "Not PSA Graded: $30.97",
+    "code": "006/17",
+    "set": "POP Series 6 006/17",
+    "cost": "UnGraded: $30.97",
     "img": "https://images.pokemontcg.io/pop6/6.png"
   },
   {
-    "set": "Plasma Blast 34/105",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "034/101",
+    "set": "Plasma Blast 034/101",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw10/34.png"
   },
   {
-    "set": "Steam Siege 46/116",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "046/114",
+    "set": "Steam Siege 046/114",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy11/46.png"
   },
   {
-    "set": "Diamond & Pearl 46/130",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "046/130",
+    "set": "Diamond & Pearl 046/130",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/dp1/46.png"
   },
   {
-    "set": "HS—Undaunted 46/91",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "046/90",
+    "set": "HS—Undaunted 046/90",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/hgss3/46.png"
   },
   {
-    "set": "Dragons Exalted 49/128",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "049/124",
+    "set": "Dragons Exalted 049/124",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/bw6/49.png"
   },
   {
-    "set": "Dragons Exalted 50/128",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "050/124",
+    "set": "Dragons Exalted 050/124",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/bw6/50.png"
   },
   {
-    "set": "Ultra Prism 51/178",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "051/156",
+    "set": "Ultra Prism 051/156",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/sm5/51.png"
   },
   {
-    "set": "Majestic Dawn 61/100",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "061/100",
+    "set": "Majestic Dawn 061/100",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/dp5/61.png"
   },
   {
-    "set": "Stormfront 58/106",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "058/100",
+    "set": "Stormfront 058/100",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/dp7/58.png"
   },
   {
-    "set": "Unified Minds 80/260",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "080/236",
+    "set": "Unified Minds 080/236",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm11/80.png"
   },
   {
-    "set": "Legends Awakened 92/146",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "092/146",
+    "set": "Legends Awakened 092/146",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/dp6/92.png"
   },
   {
-    "set": "Supreme Victors 103/153",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "103/147",
+    "set": "Supreme Victors 103/147",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/pl3/103.png"
   },
   {
-    "set": "Stormfront SH1/106",
+    "code": "SH1/100",
+    "set": "Stormfront SH1/100",
     "cost": null,
     "img": "https://images.pokemontcg.io/dp7/SH1.png"
   },
   {
-    "set": "Astral Radiance 63/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "063/189",
+    "set": "Astral Radiance 063/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh10/63.png"
   },
   {
-    "set": "Scarlet & Violet 89/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "089/198",
+    "set": "Scarlet & Violet 089/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/89.png"
   },
   {
-    "set": "Paldean Fates 155/245",
-    "cost": "Not PSA Graded: $5.08",
+    "code": "155/91",
+    "set": "Paldean Fates 155/91",
+    "cost": "UnGraded: $5.08",
     "img": "https://images.pokemontcg.io/sv4pt5/155.png"
   },
   {
-    "set": "Stellar Crown 60/175",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "060/142",
+    "set": "Stellar Crown 060/142",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv7/60.png"
   }
 ]

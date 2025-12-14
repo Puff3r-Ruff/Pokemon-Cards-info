@@ -1,47 +1,56 @@
 [
   {
-    "set": "Flashfire 42/110",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "042/106",
+    "set": "Flashfire 042/106",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/xy2/42.png"
   },
   {
-    "set": "Forbidden Light 44/150",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "044/131",
+    "set": "Forbidden Light 044/131",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm6/44.png"
   },
   {
-    "set": "Burning Shadows 59/177",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "059/147",
+    "set": "Burning Shadows 059/147",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm3/59.png"
   },
   {
-    "set": "BREAKpoint 58/126",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "058/122",
+    "set": "BREAKpoint 058/122",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy9/58.png"
   },
   {
-    "set": "Unbroken Bonds 79/234",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "079/214",
+    "set": "Unbroken Bonds 079/214",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm10/79.png"
   },
   {
-    "set": "Generations RC14/117",
-    "cost": "Not PSA Graded: $11.17",
+    "code": "RC14/83",
+    "set": "Generations RC14/83",
+    "cost": "UnGraded: $11.17",
     "img": "https://images.pokemontcg.io/g1/RC14.png"
   },
   {
-    "set": "Battle Styles 60/183",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "060/163",
+    "set": "Battle Styles 060/163",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh5/60.png"
   },
   {
-    "set": "Silver Tempest 81/215",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "081/195",
+    "set": "Silver Tempest 081/195",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh12/81.png"
   },
   {
-    "set": "Surging Sparks 84/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "084/191",
+    "set": "Surging Sparks 084/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/84.png"
   }
 ]

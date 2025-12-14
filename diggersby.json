@@ -1,47 +1,56 @@
 [
   {
-    "set": "Primal Clash 90/164",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "090/160",
+    "set": "Primal Clash 090/160",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/xy5/90.png"
   },
   {
-    "set": "Phantom Forces 88/124",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "088/119",
+    "set": "Phantom Forces 088/119",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/xy4/88.png"
   },
   {
-    "set": "Crimson Invasion 88/126",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "088/111",
+    "set": "Crimson Invasion 088/111",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm4/88.png"
   },
   {
-    "set": "Darkness Ablaze 96/201",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "096/189",
+    "set": "Darkness Ablaze 096/189",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh3/96.png"
   },
   {
-    "set": "Forbidden Light 98/150",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "098/131",
+    "set": "Forbidden Light 098/131",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm6/98.png"
   },
   {
+    "code": "112/146",
     "set": "XY 112/146",
-    "cost": "Not PSA Graded: $0.2",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy1/112.png"
   },
   {
-    "set": "Rebel Clash 147/209",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "147/192",
+    "set": "Rebel Clash 147/192",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh2/147.png"
   },
   {
-    "set": "Fusion Strike 215/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "215/264",
+    "set": "Fusion Strike 215/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/215.png"
   },
   {
-    "set": "Obsidian Flames 113/230",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "113/197",
+    "set": "Obsidian Flames 113/197",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv3/113.png"
   }
 ]

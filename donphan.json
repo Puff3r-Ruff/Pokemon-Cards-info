@@ -1,102 +1,122 @@
 [
   {
-    "set": "Neo Destiny 3/113",
+    "code": "003/105",
+    "set": "Neo Destiny 003/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/3.png"
   },
   {
-    "set": "POP Series 3 8/17",
-    "cost": "Not PSA Graded: $16.55",
+    "code": "008/17",
+    "set": "POP Series 3 008/17",
+    "cost": "UnGraded: $16.55",
     "img": "https://images.pokemontcg.io/pop3/8.png"
   },
   {
-    "set": "Ruby & Sapphire 17/109",
-    "cost": "Not PSA Graded: $1.33",
+    "code": "017/109",
+    "set": "Ruby & Sapphire 017/109",
+    "cost": "UnGraded: $1.33",
     "img": "https://images.pokemontcg.io/ex1/17.png"
   },
   {
-    "set": "Neo Genesis 21/111",
+    "code": "021/111",
+    "set": "Neo Genesis 021/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/21.png"
   },
   {
-    "set": "Deoxys 30/108",
-    "cost": "Not PSA Graded: $4.67",
+    "code": "030/107",
+    "set": "Deoxys 030/107",
+    "cost": "UnGraded: $4.67",
     "img": "https://images.pokemontcg.io/ex8/30.png"
   },
   {
-    "set": "Aquapolis 7/182",
-    "cost": "Not PSA Graded: $13.33",
+    "code": "007/147",
+    "set": "Aquapolis 007/147",
+    "cost": "UnGraded: $13.33",
     "img": "https://images.pokemontcg.io/ecard2/7.png"
   },
   {
-    "set": "HeartGold & SoulSilver 40/124",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "040/123",
+    "set": "HeartGold & SoulSilver 040/123",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/hgss1/40.png"
   },
   {
-    "set": "Holon Phantoms 40/111",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "040/110",
+    "set": "Holon Phantoms 040/110",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/ex13/40.png"
   },
   {
-    "set": "Call of Legends 42/106",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "042/95",
+    "set": "Call of Legends 042/95",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/col1/42.png"
   },
   {
-    "set": "Secret Wonders 48/132",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "048/132",
+    "set": "Secret Wonders 048/132",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/dp3/48.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH067/304",
-    "cost": "Not PSA Graded: $3.46",
+    "code": "SWSH067/307",
+    "set": "SWSH Black Star Promos SWSH067/307",
+    "cost": "UnGraded: $3.46",
     "img": "https://images.pokemontcg.io/swshp/SWSH067.png"
   },
   {
-    "set": "Plasma Storm 72/138",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "072/135",
+    "set": "Plasma Storm 072/135",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/bw8/72.png"
   },
   {
-    "set": "Celestial Storm 73/187",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "073/168",
+    "set": "Celestial Storm 073/168",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/sm7/73.png"
   },
   {
-    "set": "Vivid Voltage 87/203",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "087/185",
+    "set": "Vivid Voltage 087/185",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh4/87.png"
   },
   {
-    "set": "HeartGold & SoulSilver 107/124",
-    "cost": "Not PSA Graded: $20.49",
+    "code": "107/123",
+    "set": "HeartGold & SoulSilver 107/123",
+    "cost": "UnGraded: $20.49",
     "img": "https://images.pokemontcg.io/hgss1/107.png"
   },
   {
-    "set": "Lost Thunder 112/240",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "112/214",
+    "set": "Lost Thunder 112/214",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/sm8/112.png"
   },
   {
+    "code": "107/25",
     "set": "Celebrations: Classic Collection 107/25",
-    "cost": "Not PSA Graded: $0.9",
+    "cost": "UnGraded: $0.9",
     "img": "https://images.pokemontcg.io/cel25c/107_A.png"
   },
   {
-    "set": "Silver Tempest 92/215",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "092/195",
+    "set": "Silver Tempest 092/195",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12/92.png"
   },
   {
-    "set": "Paldean Fates 49/245",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "049/91",
+    "set": "Paldean Fates 049/91",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4pt5/49.png"
   },
   {
-    "set": "Surging Sparks 103/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "103/191",
+    "set": "Surging Sparks 103/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/103.png"
   }
 ]

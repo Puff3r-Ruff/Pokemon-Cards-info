@@ -1,42 +1,50 @@
 [
   {
-    "set": "Scarlet & Violet 103/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "103/198",
+    "set": "Scarlet & Violet 103/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/103.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 10/196",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "010/215",
+    "set": "Scarlet & Violet Black Star Promos 010/215",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/svp/10.png"
   },
   {
-    "set": "Paradox Rift 81/266",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "081/182",
+    "set": "Paradox Rift 081/182",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv4/81.png"
   },
   {
-    "set": "Paradox Rift 197/266",
-    "cost": "Not PSA Graded: $5.05",
+    "code": "197/182",
+    "set": "Paradox Rift 197/182",
+    "cost": "UnGraded: $5.05",
     "img": "https://images.pokemontcg.io/sv4/197.png"
   },
   {
-    "set": "Paldean Fates 6/245",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "006/91",
+    "set": "Paldean Fates 006/91",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/sv4pt5/6.png"
   },
   {
-    "set": "Paldean Fates 214/245",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "214/91",
+    "set": "Paldean Fates 214/91",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/sv4pt5/214.png"
   },
   {
-    "set": "Stellar Crown 69/175",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "069/142",
+    "set": "Stellar Crown 069/142",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv7/69.png"
   },
   {
-    "set": "Surging Sparks 95/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "095/191",
+    "set": "Surging Sparks 095/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/95.png"
   }
 ]

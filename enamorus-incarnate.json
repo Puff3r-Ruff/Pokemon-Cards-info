@@ -1,32 +1,38 @@
 [
   {
-    "set": "Lost Origin 82/217",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "082/196",
+    "set": "Lost Origin 082/196",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/swsh11/82.png"
   },
   {
-    "set": "Lost Origin 178/217",
-    "cost": "Not PSA Graded: $1.75",
+    "code": "178/196",
+    "set": "Lost Origin 178/196",
+    "cost": "UnGraded: $1.75",
     "img": "https://images.pokemontcg.io/swsh11/178.png"
   },
   {
+    "code": "TG18/30",
     "set": "Lost Origin Trainer Gallery TG18/30",
-    "cost": "Not PSA Graded: $7.88",
+    "cost": "UnGraded: $7.88",
     "img": "https://images.pokemontcg.io/swsh11tg/TG18.png"
   },
   {
-    "set": "Crown Zenith 67/160",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "067/159",
+    "set": "Crown Zenith 067/159",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh12pt5/67.png"
   },
   {
-    "set": "Twilight Masquerade 93/226",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "093/167",
+    "set": "Twilight Masquerade 093/167",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv6/93.png"
   },
   {
-    "set": "Twilight Masquerade 180/226",
-    "cost": "Not PSA Graded: $4.41",
+    "code": "180/167",
+    "set": "Twilight Masquerade 180/167",
+    "cost": "UnGraded: $4.41",
     "img": "https://images.pokemontcg.io/sv6/180.png"
   }
 ]

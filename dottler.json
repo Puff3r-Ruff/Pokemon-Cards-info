@@ -1,37 +1,44 @@
 [
   {
-    "set": "Sword & Shield 18/216",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "018/202",
+    "set": "Sword & Shield 018/202",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh1/18.png"
   },
   {
+    "code": "SV008/122",
     "set": "Shining Fates Shiny Vault SV008/122",
-    "cost": "Not PSA Graded: $1.11",
+    "cost": "UnGraded: $1.11",
     "img": "https://images.pokemontcg.io/swsh45sv/SV008.png"
   },
   {
-    "set": "Battle Styles 64/183",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "064/163",
+    "set": "Battle Styles 064/163",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh5/64.png"
   },
   {
-    "set": "Lost Origin 19/217",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "019/196",
+    "set": "Lost Origin 019/196",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh11/19.png"
   },
   {
-    "set": "Paradox Rift 11/266",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "011/182",
+    "set": "Paradox Rift 011/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv4/11.png"
   },
   {
-    "set": "Paradox Rift 184/266",
-    "cost": "Not PSA Graded: $3.15",
+    "code": "184/182",
+    "set": "Paradox Rift 184/182",
+    "cost": "UnGraded: $3.15",
     "img": "https://images.pokemontcg.io/sv4/184.png"
   },
   {
-    "set": "Destined Rivals 88/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "088/182",
+    "set": "Destined Rivals 088/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/88.png"
   }
 ]

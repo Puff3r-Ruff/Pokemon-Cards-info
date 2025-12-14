@@ -1,32 +1,38 @@
 [
   {
-    "set": "Paldea Evolved 157/279",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "157/193",
+    "set": "Paldea Evolved 157/193",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv2/157.png"
   },
   {
-    "set": "Paldea Evolved 229/279",
-    "cost": "Not PSA Graded: $5.82",
+    "code": "229/193",
+    "set": "Paldea Evolved 229/193",
+    "cost": "UnGraded: $5.82",
     "img": "https://images.pokemontcg.io/sv2/229.png"
   },
   {
-    "set": "Temporal Forces 129/218",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "129/162",
+    "set": "Temporal Forces 129/162",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sv5/129.png"
   },
   {
-    "set": "Prismatic Evolutions 80/180",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "080/131",
+    "set": "Prismatic Evolutions 080/131",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sv8pt5/80.png"
   },
   {
-    "set": "Journey Together 121/190",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "121/159",
+    "set": "Journey Together 121/159",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/sv9/121.png"
   },
   {
-    "set": "Journey Together 178/190",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "178/159",
+    "set": "Journey Together 178/159",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/sv9/178.png"
   }
 ]

@@ -1,27 +1,32 @@
 [
   {
-    "set": "Sword & Shield 56/216",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "056/202",
+    "set": "Sword & Shield 056/202",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh1/56.png"
   },
   {
-    "set": "Sword & Shield 57/216",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "057/202",
+    "set": "Sword & Shield 057/202",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh1/57.png"
   },
   {
+    "code": "SV026/122",
     "set": "Shining Fates Shiny Vault SV026/122",
-    "cost": "Not PSA Graded: $3.09",
+    "cost": "UnGraded: $3.09",
     "img": "https://images.pokemontcg.io/swsh45sv/SV026.png"
   },
   {
-    "set": "Chilling Reign 42/233",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "042/198",
+    "set": "Chilling Reign 042/198",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh6/42.png"
   },
   {
-    "set": "Mega Evolution 40/188",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "040/132",
+    "set": "Mega Evolution 040/132",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me1/40.png"
   }
 ]

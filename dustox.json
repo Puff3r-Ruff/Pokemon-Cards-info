@@ -1,47 +1,56 @@
 [
   {
-    "set": "Roaring Skies 7/112",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "007/108",
+    "set": "Roaring Skies 007/108",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy6/7.png"
   },
   {
-    "set": "Roaring Skies 8/112",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "008/108",
+    "set": "Roaring Skies 008/108",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/xy6/8.png"
   },
   {
-    "set": "Ruby & Sapphire 6/109",
-    "cost": "Not PSA Graded: $14.44",
+    "code": "006/109",
+    "set": "Ruby & Sapphire 006/109",
+    "cost": "UnGraded: $14.44",
     "img": "https://images.pokemontcg.io/ex1/6.png"
   },
   {
-    "set": "Diamond & Pearl 25/130",
-    "cost": "Not PSA Graded: $1.56",
+    "code": "025/130",
+    "set": "Diamond & Pearl 025/130",
+    "cost": "UnGraded: $1.56",
     "img": "https://images.pokemontcg.io/dp1/25.png"
   },
   {
-    "set": "Platinum 25/133",
-    "cost": "Not PSA Graded: $1.36",
+    "code": "025/127",
+    "set": "Platinum 025/127",
+    "cost": "UnGraded: $1.36",
     "img": "https://images.pokemontcg.io/pl1/25.png"
   },
   {
-    "set": "Lost Thunder 28/240",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "028/214",
+    "set": "Lost Thunder 028/214",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/sm8/28.png"
   },
   {
-    "set": "Dragons Exalted 47/128",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "047/124",
+    "set": "Dragons Exalted 047/124",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/bw6/47.png"
   },
   {
-    "set": "Legend Maker 86/93",
-    "cost": "Not PSA Graded: $50",
+    "code": "086/92",
+    "set": "Legend Maker 086/92",
+    "cost": "UnGraded: $50",
     "img": "https://images.pokemontcg.io/ex12/86.png"
   },
   {
-    "set": "Lost Origin 10/217",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "010/196",
+    "set": "Lost Origin 010/196",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh11/10.png"
   }
 ]

@@ -1,72 +1,86 @@
 [
   {
-    "set": "Plasma Blast 29/105",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "029/101",
+    "set": "Plasma Blast 029/101",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/bw10/29.png"
   },
   {
+    "code": "BW17/101",
     "set": "BW Black Star Promos BW17/101",
-    "cost": "Not PSA Graded: $1.23",
+    "cost": "UnGraded: $1.23",
     "img": "https://images.pokemontcg.io/bwp/BW17.png"
   },
   {
-    "set": "Emerging Powers 26/98",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "026/98",
+    "set": "Emerging Powers 026/98",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw2/26.png"
   },
   {
-    "set": "Black & White 36/115",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "036/114",
+    "set": "Black & White 036/114",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw1/36.png"
   },
   {
-    "set": "Boundaries Crossed 42/153",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "042/149",
+    "set": "Boundaries Crossed 042/149",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/bw7/42.png"
   },
   {
-    "set": "Dark Explorers 35/111",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "035/108",
+    "set": "Dark Explorers 035/108",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/bw5/35.png"
   },
   {
-    "set": "BREAKpoint 36/126",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "036/122",
+    "set": "BREAKpoint 036/122",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy9/36.png"
   },
   {
-    "set": "Cosmic Eclipse 59/272",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "059/236",
+    "set": "Cosmic Eclipse 059/236",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm12/59.png"
   },
   {
-    "set": "Darkness Ablaze 148/201",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "148/189",
+    "set": "Darkness Ablaze 148/189",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh3/148.png"
   },
   {
+    "code": "SV095/122",
     "set": "Shining Fates Shiny Vault SV095/122",
-    "cost": "Not PSA Graded: $3",
+    "cost": "UnGraded: $3",
     "img": "https://images.pokemontcg.io/swsh45sv/SV095.png"
   },
   {
-    "set": "Lost Origin 46/217",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "046/196",
+    "set": "Lost Origin 046/196",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh11/46.png"
   },
   {
-    "set": "Twilight Masquerade 139/226",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "139/167",
+    "set": "Twilight Masquerade 139/167",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv6/139.png"
   },
   {
-    "set": "White Flare 25/173",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "025/86",
+    "set": "White Flare 025/86",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/rsv10pt5/25.png"
   },
   {
-    "set": "White Flare 109/173",
-    "cost": "Not PSA Graded: $15.63",
+    "code": "109/86",
+    "set": "White Flare 109/86",
+    "cost": "UnGraded: $15.63",
     "img": "https://images.pokemontcg.io/rsv10pt5/109.png"
   }
 ]

@@ -1,62 +1,74 @@
 [
   {
-    "set": "Rebel Clash 22/209",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "022/192",
+    "set": "Rebel Clash 022/192",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/swsh2/22.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH022/304",
-    "cost": "Not PSA Graded: $45.71",
+    "code": "SWSH022/307",
+    "set": "SWSH Black Star Promos SWSH022/307",
+    "cost": "UnGraded: $45.71",
     "img": "https://images.pokemontcg.io/swshp/SWSH022.png"
   },
   {
+    "code": "SV013/122",
     "set": "Shining Fates Shiny Vault SV013/122",
-    "cost": "Not PSA Graded: $2.92",
+    "cost": "UnGraded: $2.92",
     "img": "https://images.pokemontcg.io/swsh45sv/SV013.png"
   },
   {
-    "set": "Battle Styles 18/183",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "018/163",
+    "set": "Battle Styles 018/163",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/swsh5/18.png"
   },
   {
-    "set": "Battle Styles 19/183",
-    "cost": "Not PSA Graded: $1.77",
+    "code": "019/163",
+    "set": "Battle Styles 019/163",
+    "cost": "UnGraded: $1.77",
     "img": "https://images.pokemontcg.io/swsh5/19.png"
   },
   {
-    "set": "Battle Styles 143/183",
-    "cost": "Not PSA Graded: $2.62",
+    "code": "143/163",
+    "set": "Battle Styles 143/163",
+    "cost": "UnGraded: $2.62",
     "img": "https://images.pokemontcg.io/swsh5/143.png"
   },
   {
-    "set": "Battle Styles 164/183",
-    "cost": "Not PSA Graded: $9.85",
+    "code": "164/163",
+    "set": "Battle Styles 164/163",
+    "cost": "UnGraded: $9.85",
     "img": "https://images.pokemontcg.io/swsh5/164.png"
   },
   {
-    "set": "Evolving Skies 120/237",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "120/203",
+    "set": "Evolving Skies 120/203",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh7/120.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH189/304",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "SWSH189/307",
+    "set": "SWSH Black Star Promos SWSH189/307",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/swshp/SWSH189.png"
   },
   {
+    "code": "TG02/30",
     "set": "Astral Radiance Trainer Gallery TG02/30",
-    "cost": "Not PSA Graded: $1.46",
+    "cost": "UnGraded: $1.46",
     "img": "https://images.pokemontcg.io/swsh10tg/TG02.png"
   },
   {
-    "set": "Surging Sparks 139/252",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "139/191",
+    "set": "Surging Sparks 139/191",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv8/139.png"
   },
   {
-    "set": "Surging Sparks 210/252",
-    "cost": "Not PSA Graded: $2.46",
+    "code": "210/191",
+    "set": "Surging Sparks 210/191",
+    "cost": "UnGraded: $2.46",
     "img": "https://images.pokemontcg.io/sv8/210.png"
   }
 ]

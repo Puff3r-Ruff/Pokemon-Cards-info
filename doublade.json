@@ -1,52 +1,62 @@
 [
   {
-    "set": "Forbidden Light 48/150",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "048/131",
+    "set": "Forbidden Light 048/131",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm6/48.png"
   },
   {
-    "set": "BREAKpoint 61/126",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "061/122",
+    "set": "BREAKpoint 061/122",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/xy9/61.png"
   },
   {
-    "set": "XY 84/146",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "084/146",
+    "set": "XY 084/146",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy1/84.png"
   },
   {
-    "set": "Primal Clash 99/164",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "099/160",
+    "set": "Primal Clash 099/160",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy5/99.png"
   },
   {
-    "set": "Unified Minds 94/260",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "094/236",
+    "set": "Unified Minds 094/236",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm11/94.png"
   },
   {
-    "set": "Team Up 108/198",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "108/181",
+    "set": "Team Up 108/181",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm9/108.png"
   },
   {
-    "set": "Rebel Clash 134/209",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "134/192",
+    "set": "Rebel Clash 134/192",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh2/134.png"
   },
   {
-    "set": "Battle Styles 106/183",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "106/163",
+    "set": "Battle Styles 106/163",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh5/106.png"
   },
   {
-    "set": "Paradox Rift 132/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "132/182",
+    "set": "Paradox Rift 132/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/132.png"
   },
   {
-    "set": "Paradox Rift 133/266",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "133/182",
+    "set": "Paradox Rift 133/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv4/133.png"
   }
 ]

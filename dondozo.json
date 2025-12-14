@@ -1,37 +1,44 @@
 [
   {
-    "set": "Scarlet & Violet 61/258",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "061/198",
+    "set": "Scarlet & Violet 061/198",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv1/61.png"
   },
   {
-    "set": "Scarlet & Violet 207/258",
-    "cost": "Not PSA Graded: $9.01",
+    "code": "207/198",
+    "set": "Scarlet & Violet 207/198",
+    "cost": "UnGraded: $9.01",
     "img": "https://images.pokemontcg.io/sv1/207.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 12/196",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "012/215",
+    "set": "Scarlet & Violet Black Star Promos 012/215",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/svp/12.png"
   },
   {
-    "set": "Paradox Rift 55/266",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "055/182",
+    "set": "Paradox Rift 055/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4/55.png"
   },
   {
-    "set": "Paldean Fates 126/245",
-    "cost": "Not PSA Graded: $2.34",
+    "code": "126/91",
+    "set": "Paldean Fates 126/91",
+    "cost": "UnGraded: $2.34",
     "img": "https://images.pokemontcg.io/sv4pt5/126.png"
   },
   {
-    "set": "Destined Rivals 66/244",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "066/182",
+    "set": "Destined Rivals 066/182",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/sv10/66.png"
   },
   {
-    "set": "Destined Rivals 211/244",
-    "cost": "Not PSA Graded: $0.86",
+    "code": "211/182",
+    "set": "Destined Rivals 211/182",
+    "cost": "UnGraded: $0.86",
     "img": "https://images.pokemontcg.io/sv10/211.png"
   }
 ]

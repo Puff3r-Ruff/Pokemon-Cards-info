@@ -1,32 +1,38 @@
 [
   {
-    "set": "Twilight Masquerade 18/226",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "018/167",
+    "set": "Twilight Masquerade 018/167",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sv6/18.png"
   },
   {
-    "set": "Twilight Masquerade 127/226",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "127/167",
+    "set": "Twilight Masquerade 127/167",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv6/127.png"
   },
   {
-    "set": "Twilight Masquerade 170/226",
-    "cost": "Not PSA Graded: $5.83",
+    "code": "170/167",
+    "set": "Twilight Masquerade 170/167",
+    "cost": "UnGraded: $5.83",
     "img": "https://images.pokemontcg.io/sv6/170.png"
   },
   {
-    "set": "Stellar Crown 13/175",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "013/142",
+    "set": "Stellar Crown 013/142",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv7/13.png"
   },
   {
-    "set": "Prismatic Evolutions 10/180",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "010/131",
+    "set": "Prismatic Evolutions 010/131",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8pt5/10.png"
   },
   {
-    "set": "Destined Rivals 17/244",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "017/182",
+    "set": "Destined Rivals 017/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv10/17.png"
   }
 ]

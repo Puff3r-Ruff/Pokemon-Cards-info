@@ -1,47 +1,56 @@
 [
   {
-    "set": "Fates Collide 34/129",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "034/124",
+    "set": "Fates Collide 034/124",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy10/34.png"
   },
   {
-    "set": "Plasma Blast 43/105",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "043/101",
+    "set": "Plasma Blast 043/101",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/bw10/43.png"
   },
   {
-    "set": "Noble Victories 51/102",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "051/101",
+    "set": "Noble Victories 051/101",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/bw3/51.png"
   },
   {
-    "set": "Black & White 56/115",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "056/114",
+    "set": "Black & White 056/114",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/bw1/56.png"
   },
   {
-    "set": "Legendary Treasures 75/140",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "075/113",
+    "set": "Legendary Treasures 075/113",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/bw11/75.png"
   },
   {
-    "set": "Silver Tempest 77/215",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "077/195",
+    "set": "Silver Tempest 077/195",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12/77.png"
   },
   {
-    "set": "Temporal Forces 71/218",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "071/162",
+    "set": "Temporal Forces 071/162",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv5/71.png"
   },
   {
-    "set": "Black Bolt 38/172",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "038/86",
+    "set": "Black Bolt 038/86",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/zsv10pt5/38.png"
   },
   {
-    "set": "Black Bolt 119/172",
-    "cost": "Not PSA Graded: $11.53",
+    "code": "119/86",
+    "set": "Black Bolt 119/86",
+    "cost": "UnGraded: $11.53",
     "img": "https://images.pokemontcg.io/zsv10pt5/119.png"
   }
 ]

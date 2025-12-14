@@ -1,97 +1,116 @@
 [
   {
-    "set": "Flashfire 22/110",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "022/106",
+    "set": "Flashfire 022/106",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy2/22.png"
   },
   {
-    "set": "Dragons Exalted 27/128",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "027/124",
+    "set": "Dragons Exalted 027/124",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/bw6/27.png"
   },
   {
-    "set": "Dragon Majesty 28/80",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "028/70",
+    "set": "Dragon Majesty 028/70",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/sm75/28.png"
   },
   {
-    "set": "Crimson Invasion 26/126",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "026/111",
+    "set": "Crimson Invasion 026/111",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm4/26.png"
   },
   {
-    "set": "Darkness Ablaze 38/201",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "038/189",
+    "set": "Darkness Ablaze 038/189",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh3/38.png"
   },
   {
-    "set": "Primal Clash 43/164",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "043/160",
+    "set": "Primal Clash 043/160",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy5/43.png"
   },
   {
-    "set": "Emerald 49/107",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "049/106",
+    "set": "Emerald 049/106",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/ex9/49.png"
   },
   {
-    "set": "Emerald 50/107",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "050/106",
+    "set": "Emerald 050/106",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/ex9/50.png"
   },
   {
-    "set": "Dragon Frontiers 49/101",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "049/101",
+    "set": "Dragon Frontiers 049/101",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/ex15/49.png"
   },
   {
-    "set": "Hidden Legends 61/102",
-    "cost": "Not PSA Graded: $1.59",
+    "code": "061/101",
+    "set": "Hidden Legends 061/101",
+    "cost": "UnGraded: $1.59",
     "img": "https://images.pokemontcg.io/ex5/61.png"
   },
   {
-    "set": "Great Encounters 67/106",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "067/106",
+    "set": "Great Encounters 067/106",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/dp4/67.png"
   },
   {
-    "set": "Supreme Victors 104/153",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "104/147",
+    "set": "Supreme Victors 104/147",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/pl3/104.png"
   },
   {
-    "set": "Evolving Skies 37/237",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "037/203",
+    "set": "Evolving Skies 037/203",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh7/37.png"
   },
   {
-    "set": "Silver Tempest 39/215",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "039/195",
+    "set": "Silver Tempest 039/195",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/swsh12/39.png"
   },
   {
-    "set": "Paradox Rift 35/266",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "035/182",
+    "set": "Paradox Rift 035/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv4/35.png"
   },
   {
-    "set": "Twilight Masquerade 49/226",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "049/167",
+    "set": "Twilight Masquerade 049/167",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv6/49.png"
   },
   {
-    "set": "Surging Sparks 41/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "041/191",
+    "set": "Surging Sparks 041/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/41.png"
   },
   {
-    "set": "Surging Sparks 198/252",
-    "cost": "Not PSA Graded: $4.83",
+    "code": "198/191",
+    "set": "Surging Sparks 198/191",
+    "cost": "UnGraded: $4.83",
     "img": "https://images.pokemontcg.io/sv8/198.png"
   },
   {
-    "set": "Destined Rivals 52/244",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "052/182",
+    "set": "Destined Rivals 052/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv10/52.png"
   }
 ]

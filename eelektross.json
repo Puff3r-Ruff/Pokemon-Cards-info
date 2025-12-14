@@ -1,62 +1,74 @@
 [
   {
-    "set": "Plasma Blast 33/105",
-    "cost": "Not PSA Graded: $1.15",
+    "code": "033/101",
+    "set": "Plasma Blast 033/101",
+    "cost": "UnGraded: $1.15",
     "img": "https://images.pokemontcg.io/bw10/33.png"
   },
   {
-    "set": "Noble Victories 41/102",
-    "cost": "Not PSA Graded: $2.15",
+    "code": "041/101",
+    "set": "Noble Victories 041/101",
+    "cost": "UnGraded: $2.15",
     "img": "https://images.pokemontcg.io/bw3/41.png"
   },
   {
-    "set": "Burning Shadows 46/177",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "046/147",
+    "set": "Burning Shadows 046/147",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm3/46.png"
   },
   {
-    "set": "Dark Explorers 47/111",
-    "cost": "Not PSA Graded: $1.52",
+    "code": "047/108",
+    "set": "Dark Explorers 047/108",
+    "cost": "UnGraded: $1.52",
     "img": "https://images.pokemontcg.io/bw5/47.png"
   },
   {
-    "set": "Primal Clash 65/164",
-    "cost": "Not PSA Graded: $0.75",
+    "code": "065/160",
+    "set": "Primal Clash 065/160",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/xy5/65.png"
   },
   {
-    "set": "Vivid Voltage 59/203",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "059/185",
+    "set": "Vivid Voltage 059/185",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh4/59.png"
   },
   {
-    "set": "Unified Minds 66/260",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "066/236",
+    "set": "Unified Minds 066/236",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/sm11/66.png"
   },
   {
-    "set": "Fusion Strike 97/284",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "097/264",
+    "set": "Fusion Strike 097/264",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh8/97.png"
   },
   {
-    "set": "Lost Origin 61/217",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "061/196",
+    "set": "Lost Origin 061/196",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh11/61.png"
   },
   {
-    "set": "Obsidian Flames 69/230",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "069/197",
+    "set": "Obsidian Flames 069/197",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv3/69.png"
   },
   {
-    "set": "Black Bolt 32/172",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "032/86",
+    "set": "Black Bolt 032/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/zsv10pt5/32.png"
   },
   {
-    "set": "Black Bolt 115/172",
-    "cost": "Not PSA Graded: $16.54",
+    "code": "115/86",
+    "set": "Black Bolt 115/86",
+    "cost": "UnGraded: $16.54",
     "img": "https://images.pokemontcg.io/zsv10pt5/115.png"
   }
 ]

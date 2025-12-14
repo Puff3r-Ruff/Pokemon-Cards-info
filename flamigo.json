@@ -1,37 +1,44 @@
 [
   {
-    "set": "Scarlet & Violet 165/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "165/198",
+    "set": "Scarlet & Violet 165/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/165.png"
   },
   {
-    "set": "Paldea Evolved 170/279",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "170/193",
+    "set": "Paldea Evolved 170/193",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv2/170.png"
   },
   {
-    "set": "Paldea Evolved 227/279",
-    "cost": "Not PSA Graded: $5.94",
+    "code": "227/193",
+    "set": "Paldea Evolved 227/193",
+    "cost": "UnGraded: $5.94",
     "img": "https://images.pokemontcg.io/sv2/227.png"
   },
   {
-    "set": "Obsidian Flames 185/230",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "185/197",
+    "set": "Obsidian Flames 185/197",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3/185.png"
   },
   {
-    "set": "Paradox Rift 106/266",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "106/182",
+    "set": "Paradox Rift 106/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4/106.png"
   },
   {
-    "set": "Paldean Fates 211/245",
-    "cost": "Not PSA Graded: $3.19",
+    "code": "211/91",
+    "set": "Paldean Fates 211/91",
+    "cost": "UnGraded: $3.19",
     "img": "https://images.pokemontcg.io/sv4pt5/211.png"
   },
   {
-    "set": "Surging Sparks 160/252",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "160/191",
+    "set": "Surging Sparks 160/191",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/sv8/160.png"
   }
 ]

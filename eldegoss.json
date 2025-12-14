@@ -1,57 +1,68 @@
 [
   {
-    "set": "Champion's Path 5/80",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "005/73",
+    "set": "Champion's Path 005/73",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/swsh35/5.png"
   },
   {
-    "set": "Sword & Shield 21/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "021/202",
+    "set": "Sword & Shield 021/202",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh1/21.png"
   },
   {
-    "set": "Rebel Clash 19/209",
-    "cost": "Not PSA Graded: $0.83",
+    "code": "019/192",
+    "set": "Rebel Clash 019/192",
+    "cost": "UnGraded: $0.83",
     "img": "https://images.pokemontcg.io/swsh2/19.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH046/304",
-    "cost": "Not PSA Graded: $0.9",
+    "code": "SWSH046/307",
+    "set": "SWSH Black Star Promos SWSH046/307",
+    "cost": "UnGraded: $0.9",
     "img": "https://images.pokemontcg.io/swshp/SWSH046.png"
   },
   {
-    "set": "Rebel Clash 176/209",
-    "cost": "Not PSA Graded: $1.73",
+    "code": "176/192",
+    "set": "Rebel Clash 176/192",
+    "cost": "UnGraded: $1.73",
     "img": "https://images.pokemontcg.io/swsh2/176.png"
   },
   {
+    "code": "SV011/122",
     "set": "Shining Fates Shiny Vault SV011/122",
-    "cost": "Not PSA Graded: $1.04",
+    "cost": "UnGraded: $1.04",
     "img": "https://images.pokemontcg.io/swsh45sv/SV011.png"
   },
   {
-    "set": "Shining Fates 15/73",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "015/72",
+    "set": "Shining Fates 015/72",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh45/15.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH084/304",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "SWSH084/307",
+    "set": "SWSH Black Star Promos SWSH084/307",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/swshp/SWSH084.png"
   },
   {
-    "set": "Evolving Skies 16/237",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "016/203",
+    "set": "Evolving Skies 016/203",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh7/16.png"
   },
   {
-    "set": "Fusion Strike 25/284",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "025/264",
+    "set": "Fusion Strike 025/264",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh8/25.png"
   },
   {
-    "set": "Stellar Crown 11/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "011/142",
+    "set": "Stellar Crown 011/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/11.png"
   }
 ]

@@ -1,62 +1,74 @@
 [
   {
-    "set": "XY Black Star Promos XY02/216",
-    "cost": "Not PSA Graded: $4.02",
+    "code": "XY02/211",
+    "set": "XY Black Star Promos XY02/211",
+    "cost": "UnGraded: $4.02",
     "img": "https://images.pokemontcg.io/xyp/XY02.png"
   },
   {
-    "set": "Fates Collide 10/129",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "010/124",
+    "set": "Fates Collide 010/124",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy10/10.png"
   },
   {
-    "set": "Fates Collide 11/129",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "011/124",
+    "set": "Fates Collide 011/124",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy10/11.png"
   },
   {
-    "set": "McDonald's Collection 2016 3/12",
+    "code": "003/12",
+    "set": "McDonald's Collection 2016 003/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd16/3.png"
   },
   {
-    "set": "Kalos Starter Set 8/39",
-    "cost": "Not PSA Graded: $1.94",
+    "code": "008/39",
+    "set": "Kalos Starter Set 008/39",
+    "cost": "UnGraded: $1.94",
     "img": "https://images.pokemontcg.io/xy0/8.png"
   },
   {
-    "set": "Forbidden Light 14/150",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "014/131",
+    "set": "Forbidden Light 014/131",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm6/14.png"
   },
   {
-    "set": "Forbidden Light 15/150",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "015/131",
+    "set": "Forbidden Light 015/131",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm6/15.png"
   },
   {
-    "set": "XY 24/146",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "024/146",
+    "set": "XY 024/146",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/xy1/24.png"
   },
   {
-    "set": "BREAKthrough 25/165",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "025/162",
+    "set": "BREAKthrough 025/162",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy8/25.png"
   },
   {
-    "set": "McDonald's Collection 2014 3/12",
+    "code": "003/12",
+    "set": "McDonald's Collection 2014 003/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd14/3.png"
   },
   {
-    "set": "McDonald's Collection 2021 14/25",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "014/25",
+    "set": "McDonald's Collection 2021 014/25",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/mcd21/14.png"
   },
   {
-    "set": "Silver Tempest 25/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "025/195",
+    "set": "Silver Tempest 025/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/25.png"
   }
 ]

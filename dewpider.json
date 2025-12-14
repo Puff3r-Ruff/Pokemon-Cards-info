@@ -1,42 +1,50 @@
 [
   {
-    "set": "Ultra Prism 16/178",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "016/156",
+    "set": "Ultra Prism 016/156",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm5/16.png"
   },
   {
-    "set": "Burning Shadows 14/177",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "014/147",
+    "set": "Burning Shadows 014/147",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sm3/14.png"
   },
   {
-    "set": "Forbidden Light 32/150",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "032/131",
+    "set": "Forbidden Light 032/131",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm6/32.png"
   },
   {
-    "set": "Sun & Moon 45/173",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "045/149",
+    "set": "Sun & Moon 045/149",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sm1/45.png"
   },
   {
-    "set": "Unified Minds 48/260",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "048/236",
+    "set": "Unified Minds 048/236",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm11/48.png"
   },
   {
-    "set": "Cosmic Eclipse 64/272",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "064/236",
+    "set": "Cosmic Eclipse 064/236",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm12/64.png"
   },
   {
-    "set": "Fusion Strike 19/284",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "019/264",
+    "set": "Fusion Strike 019/264",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh8/19.png"
   },
   {
-    "set": "Silver Tempest 47/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "047/195",
+    "set": "Silver Tempest 047/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/47.png"
   }
 ]

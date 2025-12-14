@@ -1,87 +1,104 @@
 [
   {
-    "set": "McDonald's Collection 2012 6/12",
-    "cost": "Not PSA Graded: $9.19",
+    "code": "006/12",
+    "set": "McDonald's Collection 2012 006/12",
+    "cost": "UnGraded: $9.19",
     "img": "https://images.pokemontcg.io/mcd12/6.png"
   },
   {
-    "set": "Emerging Powers 32/98",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "032/98",
+    "set": "Emerging Powers 032/98",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/bw2/32.png"
   },
   {
-    "set": "Noble Victories 37/102",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "037/101",
+    "set": "Noble Victories 037/101",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/bw3/37.png"
   },
   {
-    "set": "Dragons Exalted 45/128",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "045/124",
+    "set": "Dragons Exalted 045/124",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/bw6/45.png"
   },
   {
-    "set": "Crimson Invasion 35/126",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "035/111",
+    "set": "Crimson Invasion 035/111",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm4/35.png"
   },
   {
-    "set": "Next Destinies 49/103",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "049/99",
+    "set": "Next Destinies 049/99",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/bw4/49.png"
   },
   {
-    "set": "Team Up 46/198",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "046/181",
+    "set": "Team Up 046/181",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm9/46.png"
   },
   {
-    "set": "Legendary Treasures 49/140",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "049/113",
+    "set": "Legendary Treasures 049/113",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/bw11/49.png"
   },
   {
-    "set": "XY 46/146",
-    "cost": "Not PSA Graded: $6.97",
+    "code": "046/146",
+    "set": "XY 046/146",
+    "cost": "UnGraded: $6.97",
     "img": "https://images.pokemontcg.io/xy1/46.png"
   },
   {
-    "set": "Legendary Treasures RC23/140",
-    "cost": "Not PSA Graded: $55.78",
+    "code": "RC23/113",
+    "set": "Legendary Treasures RC23/113",
+    "cost": "UnGraded: $55.78",
     "img": "https://images.pokemontcg.io/bw11/RC23.png"
   },
   {
+    "code": "143/146",
     "set": "XY 143/146",
-    "cost": "Not PSA Graded: $32.77",
+    "cost": "UnGraded: $32.77",
     "img": "https://images.pokemontcg.io/xy1/143.png"
   },
   {
-    "set": "Evolving Skies 57/237",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "057/203",
+    "set": "Evolving Skies 057/203",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh7/57.png"
   },
   {
-    "set": "Silver Tempest 54/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "054/195",
+    "set": "Silver Tempest 054/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/54.png"
   },
   {
-    "set": "Crown Zenith 47/160",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "047/159",
+    "set": "Crown Zenith 047/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12pt5/47.png"
   },
   {
-    "set": "Twilight Masquerade 69/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "069/167",
+    "set": "Twilight Masquerade 069/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/69.png"
   },
   {
-    "set": "Black Bolt 29/172",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "029/86",
+    "set": "Black Bolt 029/86",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/zsv10pt5/29.png"
   },
   {
-    "set": "Black Bolt 112/172",
-    "cost": "Not PSA Graded: $9.51",
+    "code": "112/86",
+    "set": "Black Bolt 112/86",
+    "cost": "UnGraded: $9.51",
     "img": "https://images.pokemontcg.io/zsv10pt5/112.png"
   }
 ]

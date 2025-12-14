@@ -1,17 +1,20 @@
 [
   {
-    "set": "Temporal Forces 78/218",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "078/162",
+    "set": "Temporal Forces 078/162",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv5/78.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 97/196",
-    "cost": "Not PSA Graded: $2.24",
+    "code": "097/215",
+    "set": "Scarlet & Violet Black Star Promos 097/215",
+    "cost": "UnGraded: $2.24",
     "img": "https://images.pokemontcg.io/svp/97.png"
   },
   {
-    "set": "Surging Sparks 96/252",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "096/191",
+    "set": "Surging Sparks 096/191",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv8/96.png"
   }
 ]

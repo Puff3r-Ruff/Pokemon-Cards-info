@@ -1,77 +1,92 @@
 [
   {
-    "set": "Dragon Vault 17/21",
-    "cost": "Not PSA Graded: $2.47",
+    "code": "017/20",
+    "set": "Dragon Vault 017/20",
+    "cost": "UnGraded: $2.47",
     "img": "https://images.pokemontcg.io/dv1/17.png"
   },
   {
-    "set": "Dragon Majesty 45/80",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "045/70",
+    "set": "Dragon Majesty 045/70",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/sm75/45.png"
   },
   {
-    "set": "Flashfire 70/110",
-    "cost": "Not PSA Graded: $0.57",
+    "code": "070/106",
+    "set": "Flashfire 070/106",
+    "cost": "UnGraded: $0.57",
     "img": "https://images.pokemontcg.io/xy2/70.png"
   },
   {
-    "set": "Plasma Blast 70/105",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "070/101",
+    "set": "Plasma Blast 070/101",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw10/70.png"
   },
   {
-    "set": "Steam Siege 83/116",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "083/114",
+    "set": "Steam Siege 083/114",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/xy11/83.png"
   },
   {
+    "code": "BW80/101",
     "set": "BW Black Star Promos BW80/101",
-    "cost": "Not PSA Graded: $11",
+    "cost": "UnGraded: $11",
     "img": "https://images.pokemontcg.io/bwp/BW80.png"
   },
   {
-    "set": "Noble Victories 89/102",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "089/101",
+    "set": "Noble Victories 089/101",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/bw3/89.png"
   },
   {
-    "set": "Plasma Storm 94/138",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "094/135",
+    "set": "Plasma Storm 094/135",
+    "cost": "UnGraded: $0.78",
     "img": "https://images.pokemontcg.io/bw8/94.png"
   },
   {
-    "set": "Legendary Treasures 106/140",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "106/113",
+    "set": "Legendary Treasures 106/113",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/bw11/106.png"
   },
   {
-    "set": "Unified Minds 157/260",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "157/236",
+    "set": "Unified Minds 157/236",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm11/157.png"
   },
   {
-    "set": "Brilliant Stars 113/186",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "113/172",
+    "set": "Brilliant Stars 113/172",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh9/113.png"
   },
   {
+    "code": "TG09/30",
     "set": "Silver Tempest Trainer Gallery TG09/30",
-    "cost": "Not PSA Graded: $2.18",
+    "cost": "UnGraded: $2.18",
     "img": "https://images.pokemontcg.io/swsh12tg/TG09.png"
   },
   {
-    "set": "Journey Together 115/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "115/159",
+    "set": "Journey Together 115/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/115.png"
   },
   {
-    "set": "White Flare 71/173",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "071/86",
+    "set": "White Flare 071/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/rsv10pt5/71.png"
   },
   {
-    "set": "White Flare 151/173",
-    "cost": "Not PSA Graded: $12.63",
+    "code": "151/86",
+    "set": "White Flare 151/86",
+    "cost": "UnGraded: $12.63",
     "img": "https://images.pokemontcg.io/rsv10pt5/151.png"
   }
 ]

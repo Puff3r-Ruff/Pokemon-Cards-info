@@ -1,52 +1,62 @@
 [
   {
-    "set": "Flashfire 64/110",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "064/106",
+    "set": "Flashfire 064/106",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/xy2/64.png"
   },
   {
-    "set": "Flashfire 65/110",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "065/106",
+    "set": "Flashfire 065/106",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/xy2/65.png"
   },
   {
-    "set": "Forbidden Light 85/150",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "085/131",
+    "set": "Forbidden Light 085/131",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/sm6/85.png"
   },
   {
-    "set": "BREAKthrough 102/165",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "102/162",
+    "set": "BREAKthrough 102/162",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy8/102.png"
   },
   {
-    "set": "Generations RC18/117",
-    "cost": "Not PSA Graded: $2.42",
+    "code": "RC18/83",
+    "set": "Generations RC18/83",
+    "cost": "UnGraded: $2.42",
     "img": "https://images.pokemontcg.io/g1/RC18.png"
   },
   {
-    "set": "XY Black Star Promos XY139/216",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "XY139/211",
+    "set": "XY Black Star Promos XY139/211",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/xyp/XY139.png"
   },
   {
-    "set": "Cosmic Eclipse 151/272",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "151/236",
+    "set": "Cosmic Eclipse 151/236",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/sm12/151.png"
   },
   {
-    "set": "Evolving Skies 72/237",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "072/203",
+    "set": "Evolving Skies 072/203",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh7/72.png"
   },
   {
-    "set": "Scarlet & Violet 92/258",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "092/198",
+    "set": "Scarlet & Violet 092/198",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv1/92.png"
   },
   {
-    "set": "Twilight Masquerade 87/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "087/167",
+    "set": "Twilight Masquerade 087/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/87.png"
   }
 ]

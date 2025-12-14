@@ -1,77 +1,92 @@
 [
   {
-    "set": "Rebel Clash 91/209",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "091/192",
+    "set": "Rebel Clash 091/192",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/swsh2/91.png"
   },
   {
-    "set": "Rebel Clash 92/209",
-    "cost": "Not PSA Graded: $1.8",
+    "code": "092/192",
+    "set": "Rebel Clash 092/192",
+    "cost": "UnGraded: $1.8",
     "img": "https://images.pokemontcg.io/swsh2/92.png"
   },
   {
-    "set": "Rebel Clash 93/209",
-    "cost": "Not PSA Graded: $2.87",
+    "code": "093/192",
+    "set": "Rebel Clash 093/192",
+    "cost": "UnGraded: $2.87",
     "img": "https://images.pokemontcg.io/swsh2/93.png"
   },
   {
-    "set": "Rebel Clash 183/209",
-    "cost": "Not PSA Graded: $9.34",
+    "code": "183/192",
+    "set": "Rebel Clash 183/192",
+    "cost": "UnGraded: $9.34",
     "img": "https://images.pokemontcg.io/swsh2/183.png"
   },
   {
-    "set": "Rebel Clash 197/209",
-    "cost": "Not PSA Graded: $20.94",
+    "code": "197/192",
+    "set": "Rebel Clash 197/192",
+    "cost": "UnGraded: $20.94",
     "img": "https://images.pokemontcg.io/swsh2/197.png"
   },
   {
+    "code": "SV062/122",
     "set": "Shining Fates Shiny Vault SV062/122",
-    "cost": "Not PSA Graded: $1.69",
+    "cost": "UnGraded: $1.69",
     "img": "https://images.pokemontcg.io/swsh45sv/SV062.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH096/304",
-    "cost": "Not PSA Graded: $2.13",
+    "code": "SWSH096/307",
+    "set": "SWSH Black Star Promos SWSH096/307",
+    "cost": "UnGraded: $2.13",
     "img": "https://images.pokemontcg.io/swshp/SWSH096.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH097/304",
-    "cost": "Not PSA Graded: $2.5",
+    "code": "SWSH097/307",
+    "set": "SWSH Black Star Promos SWSH097/307",
+    "cost": "UnGraded: $2.5",
     "img": "https://images.pokemontcg.io/swshp/SWSH097.png"
   },
   {
-    "set": "Fusion Strike 130/284",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "130/264",
+    "set": "Fusion Strike 130/264",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/swsh8/130.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH132/304",
-    "cost": "Not PSA Graded: $6.59",
+    "code": "SWSH132/307",
+    "set": "SWSH Black Star Promos SWSH132/307",
+    "cost": "UnGraded: $6.59",
     "img": "https://images.pokemontcg.io/swshp/SWSH132.png"
   },
   {
-    "set": "Silver Tempest 89/215",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "089/195",
+    "set": "Silver Tempest 089/195",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/swsh12/89.png"
   },
   {
-    "set": "Twilight Masquerade 130/226",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "130/167",
+    "set": "Twilight Masquerade 130/167",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/sv6/130.png"
   },
   {
-    "set": "Twilight Masquerade 200/226",
-    "cost": "Not PSA Graded: $6.91",
+    "code": "200/167",
+    "set": "Twilight Masquerade 200/167",
+    "cost": "UnGraded: $6.91",
     "img": "https://images.pokemontcg.io/sv6/200.png"
   },
   {
-    "set": "Prismatic Evolutions 73/180",
-    "cost": "Not PSA Graded: $0.86",
+    "code": "073/131",
+    "set": "Prismatic Evolutions 073/131",
+    "cost": "UnGraded: $0.86",
     "img": "https://images.pokemontcg.io/sv8pt5/73.png"
   },
   {
-    "set": "Prismatic Evolutions 165/180",
-    "cost": "Not PSA Graded: $92.09",
+    "code": "165/131",
+    "set": "Prismatic Evolutions 165/131",
+    "cost": "UnGraded: $92.09",
     "img": "https://images.pokemontcg.io/sv8pt5/165.png"
   }
 ]

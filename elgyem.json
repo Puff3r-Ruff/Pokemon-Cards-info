@@ -1,62 +1,74 @@
 [
   {
-    "set": "Next Destinies 61/103",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "061/99",
+    "set": "Next Destinies 061/99",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/bw4/61.png"
   },
   {
-    "set": "Noble Victories 54/102",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "054/101",
+    "set": "Noble Victories 054/101",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw3/54.png"
   },
   {
-    "set": "Noble Victories 55/102",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "055/101",
+    "set": "Noble Victories 055/101",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/bw3/55.png"
   },
   {
+    "code": "BW55/101",
     "set": "BW Black Star Promos BW55/101",
-    "cost": "Not PSA Graded: $3.32",
+    "cost": "UnGraded: $3.32",
     "img": "https://images.pokemontcg.io/bwp/BW55.png"
   },
   {
-    "set": "Plasma Storm 68/138",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "068/135",
+    "set": "Plasma Storm 068/135",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/bw8/68.png"
   },
   {
-    "set": "Plasma Storm 69/138",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "069/135",
+    "set": "Plasma Storm 069/135",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/bw8/69.png"
   },
   {
-    "set": "BREAKthrough 73/165",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "073/162",
+    "set": "BREAKthrough 073/162",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/xy8/73.png"
   },
   {
-    "set": "Unified Minds 90/260",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "090/236",
+    "set": "Unified Minds 090/236",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm11/90.png"
   },
   {
-    "set": "Silver Tempest 79/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "079/195",
+    "set": "Silver Tempest 079/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/79.png"
   },
   {
-    "set": "Temporal Forces 73/218",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "073/162",
+    "set": "Temporal Forces 073/162",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv5/73.png"
   },
   {
-    "set": "Black Bolt 40/172",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "040/86",
+    "set": "Black Bolt 040/86",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/zsv10pt5/40.png"
   },
   {
-    "set": "Black Bolt 120/172",
-    "cost": "Not PSA Graded: $7.12",
+    "code": "120/86",
+    "set": "Black Bolt 120/86",
+    "cost": "UnGraded: $7.12",
     "img": "https://images.pokemontcg.io/zsv10pt5/120.png"
   }
 ]

@@ -1,102 +1,122 @@
 [
   {
-    "set": "SWSH Black Star Promos SWSH028/304",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "SWSH028/307",
+    "set": "SWSH Black Star Promos SWSH028/307",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/swshp/SWSH028.png"
   },
   {
-    "set": "Champion's Path 47/80",
-    "cost": "Not PSA Graded: $0.83",
+    "code": "047/73",
+    "set": "Champion's Path 047/73",
+    "cost": "UnGraded: $0.83",
     "img": "https://images.pokemontcg.io/swsh35/47.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH060/304",
-    "cost": "Not PSA Graded: $1.84",
+    "code": "SWSH060/307",
+    "set": "SWSH Black Star Promos SWSH060/307",
+    "cost": "UnGraded: $1.84",
     "img": "https://images.pokemontcg.io/swshp/SWSH060.png"
   },
   {
-    "set": "Vivid Voltage 129/203",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "129/185",
+    "set": "Vivid Voltage 129/185",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh4/129.png"
   },
   {
-    "set": "Rebel Clash 138/209",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "138/192",
+    "set": "Rebel Clash 138/192",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/swsh2/138.png"
   },
   {
+    "code": "SV092/122",
     "set": "Shining Fates Shiny Vault SV092/122",
-    "cost": "Not PSA Graded: $2.57",
+    "cost": "UnGraded: $2.57",
     "img": "https://images.pokemontcg.io/swsh45sv/SV092.png"
   },
   {
-    "set": "Evolving Skies 122/237",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "122/203",
+    "set": "Evolving Skies 122/203",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/swsh7/122.png"
   },
   {
-    "set": "Evolving Skies 123/237",
-    "cost": "Not PSA Graded: $1.44",
+    "code": "123/203",
+    "set": "Evolving Skies 123/203",
+    "cost": "UnGraded: $1.44",
     "img": "https://images.pokemontcg.io/swsh7/123.png"
   },
   {
-    "set": "Evolving Skies 197/237",
-    "cost": "Not PSA Graded: $2.06",
+    "code": "197/203",
+    "set": "Evolving Skies 197/203",
+    "cost": "UnGraded: $2.06",
     "img": "https://images.pokemontcg.io/swsh7/197.png"
   },
   {
-    "set": "Evolving Skies 198/237",
-    "cost": "Not PSA Graded: $20.79",
+    "code": "198/203",
+    "set": "Evolving Skies 198/203",
+    "cost": "UnGraded: $20.79",
     "img": "https://images.pokemontcg.io/swsh7/198.png"
   },
   {
-    "set": "Evolving Skies 219/237",
-    "cost": "Not PSA Graded: $6.71",
+    "code": "219/203",
+    "set": "Evolving Skies 219/203",
+    "cost": "UnGraded: $6.71",
     "img": "https://images.pokemontcg.io/swsh7/219.png"
   },
   {
-    "set": "Evolving Skies 220/237",
-    "cost": "Not PSA Graded: $19.01",
+    "code": "220/203",
+    "set": "Evolving Skies 220/203",
+    "cost": "UnGraded: $19.01",
     "img": "https://images.pokemontcg.io/swsh7/220.png"
   },
   {
+    "code": "TG21/30",
     "set": "Silver Tempest Trainer Gallery TG21/30",
-    "cost": "Not PSA Graded: $9.45",
+    "cost": "UnGraded: $9.45",
     "img": "https://images.pokemontcg.io/swsh12tg/TG21.png"
   },
   {
+    "code": "TG30/30",
     "set": "Silver Tempest Trainer Gallery TG30/30",
-    "cost": "Not PSA Graded: $2.88",
+    "cost": "UnGraded: $2.88",
     "img": "https://images.pokemontcg.io/swsh12tg/TG30.png"
   },
   {
-    "set": "Crown Zenith 103/160",
-    "cost": "Not PSA Graded: $0.75",
+    "code": "103/159",
+    "set": "Crown Zenith 103/159",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/swsh12pt5/103.png"
   },
   {
-    "set": "Crown Zenith 104/160",
-    "cost": "Not PSA Graded: $1.5",
+    "code": "104/159",
+    "set": "Crown Zenith 104/159",
+    "cost": "UnGraded: $1.5",
     "img": "https://images.pokemontcg.io/swsh12pt5/104.png"
   },
   {
-    "set": "Stellar Crown 106/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "106/142",
+    "set": "Stellar Crown 106/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/106.png"
   },
   {
-    "set": "Surging Sparks 129/252",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "129/191",
+    "set": "Surging Sparks 129/191",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8/129.png"
   },
   {
-    "set": "Prismatic Evolutions 69/180",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "069/131",
+    "set": "Prismatic Evolutions 069/131",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv8pt5/69.png"
   },
   {
-    "set": "Phantasmal Flames 74/130",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "074/94",
+    "set": "Phantasmal Flames 074/94",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/me2/74.png"
   }
 ]

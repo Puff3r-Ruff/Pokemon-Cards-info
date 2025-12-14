@@ -1,57 +1,68 @@
 [
   {
-    "set": "Emerald 3/107",
-    "cost": "Not PSA Graded: $13.55",
+    "code": "003/106",
+    "set": "Emerald 003/106",
+    "cost": "UnGraded: $13.55",
     "img": "https://images.pokemontcg.io/ex9/3.png"
   },
   {
-    "set": "Hidden Legends 6/102",
-    "cost": "Not PSA Graded: $17.4",
+    "code": "006/101",
+    "set": "Hidden Legends 006/101",
+    "cost": "UnGraded: $17.4",
     "img": "https://images.pokemontcg.io/ex5/6.png"
   },
   {
-    "set": "Great Encounters 17/106",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "017/106",
+    "set": "Great Encounters 017/106",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/dp4/17.png"
   },
   {
-    "set": "Supreme Victors 28/153",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "028/147",
+    "set": "Supreme Victors 028/147",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/pl3/28.png"
   },
   {
-    "set": "Fates Collide 82/129",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "082/124",
+    "set": "Fates Collide 082/124",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/xy10/82.png"
   },
   {
-    "set": "Phantom Forces 85/124",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "085/119",
+    "set": "Phantom Forces 085/119",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/xy4/85.png"
   },
   {
-    "set": "Crystal Guardians 92/100",
-    "cost": "Not PSA Graded: $45.64",
+    "code": "092/100",
+    "set": "Crystal Guardians 092/100",
+    "cost": "UnGraded: $45.64",
     "img": "https://images.pokemontcg.io/ex14/92.png"
   },
   {
-    "set": "Plasma Storm 107/138",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "107/135",
+    "set": "Plasma Storm 107/135",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/bw8/107.png"
   },
   {
-    "set": "Celestial Storm 119/187",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "119/168",
+    "set": "Celestial Storm 119/168",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/sm7/119.png"
   },
   {
-    "set": "Vivid Voltage 137/203",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "137/185",
+    "set": "Vivid Voltage 137/185",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh4/137.png"
   },
   {
-    "set": "Paradox Rift 150/266",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "150/182",
+    "set": "Paradox Rift 150/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv4/150.png"
   }
 ]

@@ -1,62 +1,74 @@
 [
   {
-    "set": "Rebel Clash 54/209",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "054/192",
+    "set": "Rebel Clash 054/192",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh2/54.png"
   },
   {
-    "set": "Rebel Clash 55/209",
-    "cost": "Not PSA Graded: $1.04",
+    "code": "055/192",
+    "set": "Rebel Clash 055/192",
+    "cost": "UnGraded: $1.04",
     "img": "https://images.pokemontcg.io/swsh2/55.png"
   },
   {
+    "code": "SV035/122",
     "set": "Shining Fates Shiny Vault SV035/122",
-    "cost": "Not PSA Graded: $3.16",
+    "cost": "UnGraded: $3.16",
     "img": "https://images.pokemontcg.io/swsh45sv/SV035.png"
   },
   {
-    "set": "Evolving Skies 47/237",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "047/203",
+    "set": "Evolving Skies 047/203",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh7/47.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH128/304",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "SWSH128/307",
+    "set": "SWSH Black Star Promos SWSH128/307",
+    "cost": "UnGraded: $0.78",
     "img": "https://images.pokemontcg.io/swshp/SWSH128.png"
   },
   {
-    "set": "Brilliant Stars 44/186",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "044/172",
+    "set": "Brilliant Stars 044/172",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh9/44.png"
   },
   {
-    "set": "Paldea Evolved 48/279",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "048/193",
+    "set": "Paldea Evolved 048/193",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv2/48.png"
   },
   {
-    "set": "Paldea Evolved 205/279",
-    "cost": "Not PSA Graded: $13.66",
+    "code": "205/193",
+    "set": "Paldea Evolved 205/193",
+    "cost": "UnGraded: $13.66",
     "img": "https://images.pokemontcg.io/sv2/205.png"
   },
   {
-    "set": "Obsidian Flames 42/230",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "042/197",
+    "set": "Obsidian Flames 042/197",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/sv3/42.png"
   },
   {
-    "set": "Obsidian Flames 222/230",
-    "cost": "Not PSA Graded: $4.97",
+    "code": "222/197",
+    "set": "Obsidian Flames 222/197",
+    "cost": "UnGraded: $4.97",
     "img": "https://images.pokemontcg.io/sv3/222.png"
   },
   {
-    "set": "Obsidian Flames 210/230",
-    "cost": "Not PSA Graded: $1.18",
+    "code": "210/197",
+    "set": "Obsidian Flames 210/197",
+    "cost": "UnGraded: $1.18",
     "img": "https://images.pokemontcg.io/sv3/210.png"
   },
   {
-    "set": "Mega Evolution 44/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "044/132",
+    "set": "Mega Evolution 044/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/44.png"
   }
 ]

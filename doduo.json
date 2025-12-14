@@ -1,107 +1,128 @@
 [
   {
-    "set": "Emerald 45/107",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "045/106",
+    "set": "Emerald 045/106",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/ex9/45.png"
   },
   {
-    "set": "Base 48/102",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "048/102",
+    "set": "Base 048/102",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/base1/48.png"
   },
   {
-    "set": "HS—Undaunted 45/91",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "045/90",
+    "set": "HS—Undaunted 045/90",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/hgss3/45.png"
   },
   {
-    "set": "Gym Challenge 61/132",
+    "code": "061/132",
+    "set": "Gym Challenge 061/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/61.png"
   },
   {
-    "set": "FireRed & LeafGreen 62/116",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "062/112",
+    "set": "FireRed & LeafGreen 062/112",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/ex6/62.png"
   },
   {
-    "set": "Generations 55/117",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "055/83",
+    "set": "Generations 055/83",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/g1/55.png"
   },
   {
-    "set": "Hidden Legends 60/102",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "060/101",
+    "set": "Hidden Legends 060/101",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/ex5/60.png"
   },
   {
-    "set": "Evolutions 69/113",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "069/108",
+    "set": "Evolutions 069/108",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/xy12/69.png"
   },
   {
-    "set": "Base Set 2 72/130",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "072/130",
+    "set": "Base Set 2 072/130",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/base4/72.png"
   },
   {
-    "set": "Legendary Collection 71/110",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "071/110",
+    "set": "Legendary Collection 071/110",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/base6/71.png"
   },
   {
-    "set": "Mysterious Treasures 80/124",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "080/123",
+    "set": "Mysterious Treasures 080/123",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/dp2/80.png"
   },
   {
-    "set": "XY 98/146",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "098/146",
+    "set": "XY 098/146",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy1/98.png"
   },
   {
-    "set": "Aquapolis 73/182",
-    "cost": "Not PSA Graded: $2.56",
+    "code": "073/147",
+    "set": "Aquapolis 073/147",
+    "cost": "UnGraded: $2.56",
     "img": "https://images.pokemontcg.io/ecard2/73.png"
   },
   {
-    "set": "Plasma Storm 99/138",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "099/135",
+    "set": "Plasma Storm 099/135",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/bw8/99.png"
   },
   {
-    "set": "Supreme Victors 102/153",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "102/147",
+    "set": "Supreme Victors 102/147",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/pl3/102.png"
   },
   {
-    "set": "Evolutions 112/113",
-    "cost": "Not PSA Graded: $2.55",
+    "code": "112/108",
+    "set": "Evolutions 112/108",
+    "cost": "UnGraded: $2.51",
     "img": "https://images.pokemontcg.io/xy12/112.png"
   },
   {
-    "set": "BREAKthrough 115/165",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "115/162",
+    "set": "BREAKthrough 115/162",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy8/115.png"
   },
   {
-    "set": "BREAKthrough 116/165",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "116/162",
+    "set": "BREAKthrough 116/162",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy8/116.png"
   },
   {
-    "set": "Unbroken Bonds 150/234",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "150/214",
+    "set": "Unbroken Bonds 150/214",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm10/150.png"
   },
   {
-    "set": "151 84/207",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "084/165",
+    "set": "151 084/165",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv3pt5/84.png"
   },
   {
-    "set": "Paldean Fates 199/245",
-    "cost": "Not PSA Graded: $3.1",
+    "code": "199/91",
+    "set": "Paldean Fates 199/91",
+    "cost": "UnGraded: $3.12",
     "img": "https://images.pokemontcg.io/sv4pt5/199.png"
   }
 ]

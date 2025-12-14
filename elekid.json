@@ -1,42 +1,50 @@
 [
   {
-    "set": "HS—Triumphant 21/103",
-    "cost": "Not PSA Graded: $2.27",
+    "code": "021/102",
+    "set": "HS—Triumphant 021/102",
+    "cost": "UnGraded: $2.27",
     "img": "https://images.pokemontcg.io/hgss4/21.png"
   },
   {
-    "set": "Unseen Forces 23/145",
-    "cost": "Not PSA Graded: $4.59",
+    "code": "023/115",
+    "set": "Unseen Forces 023/115",
+    "cost": "UnGraded: $4.59",
     "img": "https://images.pokemontcg.io/ex10/23.png"
   },
   {
-    "set": "Neo Genesis 22/111",
+    "code": "022/111",
+    "set": "Neo Genesis 022/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/22.png"
   },
   {
-    "set": "Aquapolis 9/182",
-    "cost": "Not PSA Graded: $10.44",
+    "code": "009/147",
+    "set": "Aquapolis 009/147",
+    "cost": "UnGraded: $10.44",
     "img": "https://images.pokemontcg.io/ecard2/9.png"
   },
   {
-    "set": "Sandstorm 36/100",
-    "cost": "Not PSA Graded: $2.03",
+    "code": "036/100",
+    "set": "Sandstorm 036/100",
+    "cost": "UnGraded: $2.03",
     "img": "https://images.pokemontcg.io/ex2/36.png"
   },
   {
-    "set": "Diamond & Pearl 48/130",
-    "cost": "Not PSA Graded: $1.47",
+    "code": "048/130",
+    "set": "Diamond & Pearl 048/130",
+    "cost": "UnGraded: $1.47",
     "img": "https://images.pokemontcg.io/dp1/48.png"
   },
   {
-    "set": "Dragon Frontiers 48/101",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "048/101",
+    "set": "Dragon Frontiers 048/101",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/ex15/48.png"
   },
   {
-    "set": "Paradox Rift 59/266",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "059/182",
+    "set": "Paradox Rift 059/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv4/59.png"
   }
 ]

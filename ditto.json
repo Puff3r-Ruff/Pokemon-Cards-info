@@ -1,157 +1,188 @@
 [
   {
-    "set": "Fossil 3/62",
+    "code": "003/62",
+    "set": "Fossil 003/62",
     "cost": null,
     "img": "https://images.pokemontcg.io/base3/3.png"
   },
   {
-    "set": "FireRed & LeafGreen 4/116",
-    "cost": "Not PSA Graded: $49.14",
+    "code": "004/112",
+    "set": "FireRed & LeafGreen 004/112",
+    "cost": "UnGraded: $49.14",
     "img": "https://images.pokemontcg.io/ex6/4.png"
   },
   {
-    "set": "Gym Challenge 10/132",
+    "code": "010/132",
+    "set": "Gym Challenge 010/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/10.png"
   },
   {
-    "set": "POP Series 3 12/17",
-    "cost": "Not PSA Graded: $21.64",
+    "code": "012/17",
+    "set": "POP Series 3 012/17",
+    "cost": "UnGraded: $21.64",
     "img": "https://images.pokemontcg.io/pop3/12.png"
   },
   {
-    "set": "HS—Triumphant 17/103",
-    "cost": "Not PSA Graded: $7.13",
+    "code": "017/102",
+    "set": "HS—Triumphant 017/102",
+    "cost": "UnGraded: $7.13",
     "img": "https://images.pokemontcg.io/hgss4/17.png"
   },
   {
-    "set": "Detective Pikachu 17/18",
-    "cost": "Not PSA Graded: $4.69",
+    "code": "017/18",
+    "set": "Detective Pikachu 017/18",
+    "cost": "UnGraded: $4.69",
     "img": "https://images.pokemontcg.io/det1/17.png"
   },
   {
-    "set": "Fossil 18/62",
+    "code": "018/62",
+    "set": "Fossil 018/62",
     "cost": null,
     "img": "https://images.pokemontcg.io/base3/18.png"
   },
   {
-    "set": "Legends Awakened 27/146",
-    "cost": "Not PSA Graded: $15.09",
+    "code": "027/146",
+    "set": "Legends Awakened 027/146",
+    "cost": "UnGraded: $15.09",
     "img": "https://images.pokemontcg.io/dp6/27.png"
   },
   {
-    "set": "Delta Species 35/114",
-    "cost": "Not PSA Graded: $33.91",
+    "code": "035/113",
+    "set": "Delta Species 035/113",
+    "cost": "UnGraded: $33.91",
     "img": "https://images.pokemontcg.io/ex11/35.png"
   },
   {
-    "set": "Delta Species 36/114",
-    "cost": "Not PSA Graded: $59.82",
+    "code": "036/113",
+    "set": "Delta Species 036/113",
+    "cost": "UnGraded: $59.82",
     "img": "https://images.pokemontcg.io/ex11/36.png"
   },
   {
-    "set": "Delta Species 37/114",
-    "cost": "Not PSA Graded: $28.58",
+    "code": "037/113",
+    "set": "Delta Species 037/113",
+    "cost": "UnGraded: $28.58",
     "img": "https://images.pokemontcg.io/ex11/37.png"
   },
   {
-    "set": "Delta Species 38/114",
-    "cost": "Not PSA Graded: $22.96",
+    "code": "038/113",
+    "set": "Delta Species 038/113",
+    "cost": "UnGraded: $23.62",
     "img": "https://images.pokemontcg.io/ex11/38.png"
   },
   {
-    "set": "Delta Species 39/114",
-    "cost": "Not PSA Graded: $48.12",
+    "code": "039/113",
+    "set": "Delta Species 039/113",
+    "cost": "UnGraded: $52.6",
     "img": "https://images.pokemontcg.io/ex11/39.png"
   },
   {
-    "set": "Delta Species 40/114",
-    "cost": "Not PSA Graded: $45.69",
+    "code": "040/113",
+    "set": "Delta Species 040/113",
+    "cost": "UnGraded: $45.69",
     "img": "https://images.pokemontcg.io/ex11/40.png"
   },
   {
-    "set": "XY Black Star Promos XY40/216",
-    "cost": "Not PSA Graded: $46.73",
+    "code": "XY40/211",
+    "set": "XY Black Star Promos XY40/211",
+    "cost": "UnGraded: $46.73",
     "img": "https://images.pokemontcg.io/xyp/XY40.png"
   },
   {
-    "set": "Delta Species 61/114",
-    "cost": "Not PSA Graded: $24",
+    "code": "061/113",
+    "set": "Delta Species 061/113",
+    "cost": "UnGraded: $24",
     "img": "https://images.pokemontcg.io/ex11/61.png"
   },
   {
-    "set": "Delta Species 62/114",
-    "cost": "Not PSA Graded: $13.99",
+    "code": "062/113",
+    "set": "Delta Species 062/113",
+    "cost": "UnGraded: $13.99",
     "img": "https://images.pokemontcg.io/ex11/62.png"
   },
   {
-    "set": "Delta Species 63/114",
-    "cost": "Not PSA Graded: $35.99",
+    "code": "063/113",
+    "set": "Delta Species 063/113",
+    "cost": "UnGraded: $35.99",
     "img": "https://images.pokemontcg.io/ex11/63.png"
   },
   {
-    "set": "Delta Species 64/114",
-    "cost": "Not PSA Graded: $25.54",
+    "code": "064/113",
+    "set": "Delta Species 064/113",
+    "cost": "UnGraded: $26.64",
     "img": "https://images.pokemontcg.io/ex11/64.png"
   },
   {
-    "set": "Skyridge 51/182",
-    "cost": "Not PSA Graded: $43.45",
+    "code": "051/144",
+    "set": "Skyridge 051/144",
+    "cost": "UnGraded: $43.58",
     "img": "https://images.pokemontcg.io/ecard3/51.png"
   },
   {
-    "set": "Boundaries Crossed 108/153",
-    "cost": "Not PSA Graded: $25.68",
+    "code": "108/149",
+    "set": "Boundaries Crossed 108/149",
+    "cost": "UnGraded: $25.68",
     "img": "https://images.pokemontcg.io/bw7/108.png"
   },
   {
-    "set": "Lost Thunder 154/240",
-    "cost": "Not PSA Graded: $10.98",
+    "code": "154/214",
+    "set": "Lost Thunder 154/214",
+    "cost": "UnGraded: $11.1",
     "img": "https://images.pokemontcg.io/sm8/154.png"
   },
   {
-    "set": "Shining Fates 50/73",
-    "cost": "Not PSA Graded: $0.95",
+    "code": "050/72",
+    "set": "Shining Fates 050/72",
+    "cost": "UnGraded: $0.98",
     "img": "https://images.pokemontcg.io/swsh45/50.png"
   },
   {
-    "set": "Shining Fates 51/73",
-    "cost": "Not PSA Graded: $2.98",
+    "code": "051/72",
+    "set": "Shining Fates 051/72",
+    "cost": "UnGraded: $2.61",
     "img": "https://images.pokemontcg.io/swsh45/51.png"
   },
   {
+    "code": "SV118/122",
     "set": "Shining Fates Shiny Vault SV118/122",
-    "cost": "Not PSA Graded: $4.02",
+    "cost": "UnGraded: $3.71",
     "img": "https://images.pokemontcg.io/swsh45sv/SV118.png"
   },
   {
+    "code": "SV119/122",
     "set": "Shining Fates Shiny Vault SV119/122",
-    "cost": "Not PSA Graded: $9.52",
+    "cost": "UnGraded: $9.43",
     "img": "https://images.pokemontcg.io/swsh45sv/SV119.png"
   },
   {
-    "set": "Pokémon GO 53/88",
-    "cost": "Not PSA Graded: $3.03",
+    "code": "053/78",
+    "set": "Pokémon GO 053/78",
+    "cost": "UnGraded: $3.02",
     "img": "https://images.pokemontcg.io/pgo/53.png"
   },
   {
-    "set": "Crown Zenith 107/160",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "107/159",
+    "set": "Crown Zenith 107/159",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/swsh12pt5/107.png"
   },
   {
+    "code": "GG22/70",
     "set": "Crown Zenith Galarian Gallery GG22/70",
-    "cost": "Not PSA Graded: $7.09",
+    "cost": "UnGraded: $6.76",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG22.png"
   },
   {
-    "set": "151 132/207",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "132/165",
+    "set": "151 132/165",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/sv3pt5/132.png"
   },
   {
-    "set": "Paldean Fates 201/245",
-    "cost": "Not PSA Graded: $21.31",
+    "code": "201/91",
+    "set": "Paldean Fates 201/91",
+    "cost": "UnGraded: $21.31",
     "img": "https://images.pokemontcg.io/sv4pt5/201.png"
   }
 ]

@@ -1,27 +1,32 @@
 [
   {
-    "set": "Obsidian Flames 60/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "060/197",
+    "set": "Obsidian Flames 060/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/60.png"
   },
   {
-    "set": "Obsidian Flames 61/230",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "061/197",
+    "set": "Obsidian Flames 061/197",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv3/61.png"
   },
   {
-    "set": "Paldean Fates 123/245",
-    "cost": "Not PSA Graded: $3.95",
+    "code": "123/91",
+    "set": "Paldean Fates 123/91",
+    "cost": "UnGraded: $3.95",
     "img": "https://images.pokemontcg.io/sv4pt5/123.png"
   },
   {
-    "set": "Temporal Forces 48/218",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "048/162",
+    "set": "Temporal Forces 048/162",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv5/48.png"
   },
   {
-    "set": "Twilight Masquerade 59/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "059/167",
+    "set": "Twilight Masquerade 059/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/59.png"
   }
 ]

@@ -1,62 +1,74 @@
 [
   {
-    "set": "Rebel Clash 109/209",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "109/192",
+    "set": "Rebel Clash 109/192",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh2/109.png"
   },
   {
-    "set": "Rebel Clash 110/209",
-    "cost": "Not PSA Graded: $0.91",
+    "code": "110/192",
+    "set": "Rebel Clash 110/192",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/swsh2/110.png"
   },
   {
-    "set": "Rebel Clash 185/209",
-    "cost": "Not PSA Graded: $2.68",
+    "code": "185/192",
+    "set": "Rebel Clash 185/192",
+    "cost": "UnGraded: $2.68",
     "img": "https://images.pokemontcg.io/swsh2/185.png"
   },
   {
+    "code": "SV074/122",
     "set": "Shining Fates Shiny Vault SV074/122",
-    "cost": "Not PSA Graded: $0.9",
+    "cost": "UnGraded: $0.9",
     "img": "https://images.pokemontcg.io/swsh45sv/SV074.png"
   },
   {
+    "code": "SV115/122",
     "set": "Shining Fates Shiny Vault SV115/122",
-    "cost": "Not PSA Graded: $1.09",
+    "cost": "UnGraded: $1.09",
     "img": "https://images.pokemontcg.io/swsh45sv/SV115.png"
   },
   {
-    "set": "Battle Styles 83/183",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "083/163",
+    "set": "Battle Styles 083/163",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh5/83.png"
   },
   {
-    "set": "Fusion Strike 154/284",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "154/264",
+    "set": "Fusion Strike 154/264",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/swsh8/154.png"
   },
   {
-    "set": "Fusion Strike 155/284",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "155/264",
+    "set": "Fusion Strike 155/264",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh8/155.png"
   },
   {
+    "code": "TG07/30",
     "set": "Astral Radiance Trainer Gallery TG07/30",
-    "cost": "Not PSA Graded: $1.86",
+    "cost": "UnGraded: $1.86",
     "img": "https://images.pokemontcg.io/swsh10tg/TG07.png"
   },
   {
-    "set": "Lost Origin 110/217",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "110/196",
+    "set": "Lost Origin 110/196",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh11/110.png"
   },
   {
-    "set": "Paldea Evolved 119/279",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "119/193",
+    "set": "Paldea Evolved 119/193",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv2/119.png"
   },
   {
-    "set": "Stellar Crown 88/175",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "088/142",
+    "set": "Stellar Crown 088/142",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv7/88.png"
   }
 ]
