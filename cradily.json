@@ -1,47 +1,56 @@
 [
   {
-    "set": "Holon Phantoms 2/111",
-    "cost": "Not PSA Graded: $11.98",
+    "code": "002/110",
+    "set": "Holon Phantoms 002/110",
+    "cost": "UnGraded: $11.98",
     "img": "https://images.pokemontcg.io/ex13/2.png"
   },
   {
-    "set": "Legend Maker 3/93",
-    "cost": "Not PSA Graded: $7.3",
+    "code": "003/92",
+    "set": "Legend Maker 003/92",
+    "cost": "UnGraded: $7.3",
     "img": "https://images.pokemontcg.io/ex12/3.png"
   },
   {
-    "set": "Plasma Blast 4/105",
-    "cost": "Not PSA Graded: $1.53",
+    "code": "004/101",
+    "set": "Plasma Blast 004/101",
+    "cost": "UnGraded: $1.53",
     "img": "https://images.pokemontcg.io/bw10/4.png"
   },
   {
-    "set": "Sandstorm 3/100",
-    "cost": "Not PSA Graded: $9.18",
+    "code": "003/100",
+    "set": "Sandstorm 003/100",
+    "cost": "UnGraded: $9.18",
     "img": "https://images.pokemontcg.io/ex2/3.png"
   },
   {
-    "set": "Cosmic Eclipse 11/272",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "011/236",
+    "set": "Cosmic Eclipse 011/236",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/sm12/11.png"
   },
   {
-    "set": "Power Keepers 7/108",
-    "cost": "Not PSA Graded: $6.39",
+    "code": "007/108",
+    "set": "Power Keepers 007/108",
+    "cost": "UnGraded: $6.39",
     "img": "https://images.pokemontcg.io/ex16/7.png"
   },
   {
-    "set": "Legends Awakened 21/146",
-    "cost": "Not PSA Graded: $3.55",
+    "code": "021/146",
+    "set": "Legends Awakened 021/146",
+    "cost": "UnGraded: $3.55",
     "img": "https://images.pokemontcg.io/dp6/21.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 90/97",
-    "cost": "Not PSA Graded: $73.85",
+    "code": "090/95",
+    "set": "Team Magma vs Team Aqua 090/95",
+    "cost": "UnGraded: $73.85",
     "img": "https://images.pokemontcg.io/ex4/90.png"
   },
   {
-    "set": "Stellar Crown 6/175",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "006/142",
+    "set": "Stellar Crown 006/142",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sv7/6.png"
   }
 ]

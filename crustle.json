@@ -1,62 +1,74 @@
 [
   {
-    "set": "Dark Explorers 8/111",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "008/108",
+    "set": "Dark Explorers 008/108",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/bw5/8.png"
   },
   {
-    "set": "Legendary Treasures 14/140",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "014/113",
+    "set": "Legendary Treasures 014/113",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/bw11/14.png"
   },
   {
-    "set": "Noble Victories 7/102",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "007/101",
+    "set": "Noble Victories 007/101",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/bw3/7.png"
   },
   {
-    "set": "Unified Minds 11/260",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "011/236",
+    "set": "Unified Minds 011/236",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/sm11/11.png"
   },
   {
-    "set": "Boundaries Crossed 85/153",
-    "cost": "Not PSA Graded: $2.98",
+    "code": "085/149",
+    "set": "Boundaries Crossed 085/149",
+    "cost": "UnGraded: $2.98",
     "img": "https://images.pokemontcg.io/bw7/85.png"
   },
   {
-    "set": "Evolving Skies 12/237",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "012/203",
+    "set": "Evolving Skies 012/203",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh7/12.png"
   },
   {
-    "set": "Paradox Rift 7/266",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "007/182",
+    "set": "Paradox Rift 007/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4/7.png"
   },
   {
-    "set": "Paradox Rift 183/266",
-    "cost": "Not PSA Graded: $3.57",
+    "code": "183/182",
+    "set": "Paradox Rift 183/182",
+    "cost": "UnGraded: $3.57",
     "img": "https://images.pokemontcg.io/sv4/183.png"
   },
   {
-    "set": "Destined Rivals 12/244",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "012/182",
+    "set": "Destined Rivals 012/182",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv10/12.png"
   },
   {
-    "set": "Destined Rivals 186/244",
-    "cost": "Not PSA Graded: $2.25",
+    "code": "186/182",
+    "set": "Destined Rivals 186/182",
+    "cost": "UnGraded: $2.25",
     "img": "https://images.pokemontcg.io/sv10/186.png"
   },
   {
-    "set": "Black Bolt 52/172",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "052/86",
+    "set": "Black Bolt 052/86",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/zsv10pt5/52.png"
   },
   {
-    "set": "Black Bolt 130/172",
-    "cost": "Not PSA Graded: $4.5",
+    "code": "130/86",
+    "set": "Black Bolt 130/86",
+    "cost": "UnGraded: $4.5",
     "img": "https://images.pokemontcg.io/zsv10pt5/130.png"
   }
 ]

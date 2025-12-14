@@ -1,46 +1,55 @@
 [
   {
-    "set": "SM Black Star Promos SM42/250",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "SM42/248",
+    "set": "SM Black Star Promos SM42/248",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/smp/SM42.png"
   },
   {
-    "set": "Ultra Prism 60/178",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "060/156",
+    "set": "Ultra Prism 060/156",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm5/60.png"
   },
   {
-    "set": "Team Up 69/198",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "069/181",
+    "set": "Team Up 069/181",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm9/69.png"
   },
   {
-    "set": "Sun & Moon 64/173",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "064/149",
+    "set": "Sun & Moon 064/149",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm1/64.png"
   },
   {
-    "set": "Cosmic Eclipse 99/272",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "099/236",
+    "set": "Cosmic Eclipse 099/236",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm12/99.png"
   },
   {
-    "set": "Cosmic Eclipse 100/272",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "100/236",
+    "set": "Cosmic Eclipse 100/236",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm12/100.png"
   },
   {
-    "set": "Unified Minds 100/260",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "100/236",
+    "set": "Unified Minds 100/236",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm11/100.png"
   },
   {
-    "set": "Celebrations 13/25",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "013/25",
+    "set": "Celebrations 013/25",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/cel25/13.png"
   },
   {
-    "set": "McDonald's Collection 2017 6/12",
+    "code": "006/12",
+    "set": "McDonald's Collection 2017 006/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd17/6.png"
   }

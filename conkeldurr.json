@@ -1,57 +1,68 @@
 [
   {
-    "set": "XY 67/146",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "067/146",
+    "set": "XY 067/146",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/xy1/67.png"
   },
   {
-    "set": "Noble Victories 64/102",
-    "cost": "Not PSA Graded: $2.3",
+    "code": "064/101",
+    "set": "Noble Victories 064/101",
+    "cost": "UnGraded: $2.3",
     "img": "https://images.pokemontcg.io/bw3/64.png"
   },
   {
-    "set": "Noble Victories 65/102",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "065/101",
+    "set": "Noble Victories 065/101",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/bw3/65.png"
   },
   {
-    "set": "Plasma Storm 81/138",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "081/135",
+    "set": "Plasma Storm 081/135",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/bw8/81.png"
   },
   {
-    "set": "Battle Styles 75/183",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "075/163",
+    "set": "Battle Styles 075/163",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh5/75.png"
   },
   {
-    "set": "Pokémon GO 40/88",
-    "cost": "Not PSA Graded: $0.67",
+    "code": "040/78",
+    "set": "Pokémon GO 040/78",
+    "cost": "UnGraded: $0.67",
     "img": "https://images.pokemontcg.io/pgo/40.png"
   },
   {
-    "set": "Pokémon GO 73/88",
-    "cost": "Not PSA Graded: $1.58",
+    "code": "073/78",
+    "set": "Pokémon GO 073/78",
+    "cost": "UnGraded: $1.58",
     "img": "https://images.pokemontcg.io/pgo/73.png"
   },
   {
-    "set": "Pokémon GO 74/88",
-    "cost": "Not PSA Graded: $4.45",
+    "code": "074/78",
+    "set": "Pokémon GO 074/78",
+    "cost": "UnGraded: $4.45",
     "img": "https://images.pokemontcg.io/pgo/74.png"
   },
   {
-    "set": "Twilight Masquerade 105/226",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "105/167",
+    "set": "Twilight Masquerade 105/167",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv6/105.png"
   },
   {
-    "set": "Black Bolt 49/172",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "049/86",
+    "set": "Black Bolt 049/86",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/zsv10pt5/49.png"
   },
   {
-    "set": "Black Bolt 127/172",
-    "cost": "Not PSA Graded: $20.32",
+    "code": "127/86",
+    "set": "Black Bolt 127/86",
+    "cost": "UnGraded: $20.32",
     "img": "https://images.pokemontcg.io/zsv10pt5/127.png"
   }
 ]

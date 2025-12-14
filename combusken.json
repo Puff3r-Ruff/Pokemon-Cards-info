@@ -1,112 +1,134 @@
 [
   {
-    "set": "Dragon Majesty 5/80",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "005/70",
+    "set": "Dragon Majesty 005/70",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/sm75/5.png"
   },
   {
-    "set": "POP Series 4 6/17",
-    "cost": "Not PSA Graded: $6.22",
+    "code": "006/17",
+    "set": "POP Series 4 006/17",
+    "cost": "UnGraded: $6.22",
     "img": "https://images.pokemontcg.io/pop4/6.png"
   },
   {
-    "set": "POP Series 3 7/17",
-    "cost": "Not PSA Graded: $10.38",
+    "code": "007/17",
+    "set": "POP Series 3 007/17",
+    "cost": "UnGraded: $10.38",
     "img": "https://images.pokemontcg.io/pop3/7.png"
   },
   {
-    "set": "Crystal Guardians 16/100",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "016/100",
+    "set": "Crystal Guardians 016/100",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/ex14/16.png"
   },
   {
-    "set": "Nintendo Black Star Promos 9/40",
-    "cost": "Not PSA Graded: $33.28",
+    "code": "009/40",
+    "set": "Nintendo Black Star Promos 009/40",
+    "cost": "UnGraded: $33.28",
     "img": "https://images.pokemontcg.io/np/9.png"
   },
   {
-    "set": "Dark Explorers 16/111",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "016/108",
+    "set": "Dark Explorers 016/108",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/bw5/16.png"
   },
   {
-    "set": "Furious Fists 13/114",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "013/111",
+    "set": "Furious Fists 013/111",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/xy3/13.png"
   },
   {
-    "set": "Emerald 25/107",
-    "cost": "Not PSA Graded: $0.91",
+    "code": "025/106",
+    "set": "Emerald 025/106",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/ex9/25.png"
   },
   {
-    "set": "Dragon 25/100",
-    "cost": "Not PSA Graded: $0.95",
+    "code": "025/97",
+    "set": "Dragon 025/97",
+    "cost": "UnGraded: $0.95",
     "img": "https://images.pokemontcg.io/ex3/25.png"
   },
   {
-    "set": "Primal Clash 27/164",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "027/160",
+    "set": "Primal Clash 027/160",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/xy5/27.png"
   },
   {
-    "set": "Darkness Ablaze 23/201",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "023/189",
+    "set": "Darkness Ablaze 023/189",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh3/23.png"
   },
   {
-    "set": "Celestial Storm 27/187",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "027/168",
+    "set": "Celestial Storm 027/168",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/sm7/27.png"
   },
   {
-    "set": "Crystal Guardians 31/100",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "031/100",
+    "set": "Crystal Guardians 031/100",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/ex14/31.png"
   },
   {
-    "set": "Power Keepers 29/108",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "029/108",
+    "set": "Power Keepers 029/108",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/ex16/29.png"
   },
   {
-    "set": "Ruby & Sapphire 27/109",
-    "cost": "Not PSA Graded: $1.05",
+    "code": "027/109",
+    "set": "Ruby & Sapphire 027/109",
+    "cost": "UnGraded: $1.05",
     "img": "https://images.pokemontcg.io/ex1/27.png"
   },
   {
-    "set": "Ruby & Sapphire 28/109",
-    "cost": "Not PSA Graded: $2.31",
+    "code": "028/109",
+    "set": "Ruby & Sapphire 028/109",
+    "cost": "UnGraded: $2.31",
     "img": "https://images.pokemontcg.io/ex1/28.png"
   },
   {
-    "set": "Holon Phantoms 39/111",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "039/110",
+    "set": "Holon Phantoms 039/110",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/ex13/39.png"
   },
   {
-    "set": "Great Encounters 35/106",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "035/106",
+    "set": "Great Encounters 035/106",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/dp4/35.png"
   },
   {
-    "set": "Platinum 45/133",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "045/127",
+    "set": "Platinum 045/127",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/pl1/45.png"
   },
   {
-    "set": "EX Trainer Kit Latias 2/10",
+    "code": "002/10",
+    "set": "EX Trainer Kit Latias 002/10",
     "cost": null,
     "img": "https://images.pokemontcg.io/tk1a/2.png"
   },
   {
-    "set": "Journey Together 23/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "023/159",
+    "set": "Journey Together 023/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv9/23.png"
   },
   {
-    "set": "Destined Rivals 41/244",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "041/182",
+    "set": "Destined Rivals 041/182",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv10/41.png"
   }
 ]

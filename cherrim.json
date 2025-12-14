@@ -1,57 +1,68 @@
 [
   {
-    "set": "Pokémon Rumble 2/16",
-    "cost": "Not PSA Graded: $45.05",
+    "code": "002/16",
+    "set": "Pokémon Rumble 002/16",
+    "cost": "UnGraded: $45.05",
     "img": "https://images.pokemontcg.io/ru1/2.png"
   },
   {
-    "set": "Plasma Storm 7/138",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "007/135",
+    "set": "Plasma Storm 007/135",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/bw8/7.png"
   },
   {
-    "set": "Ultra Prism 11/178",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "011/156",
+    "set": "Ultra Prism 011/156",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/sm5/11.png"
   },
   {
-    "set": "POP Series 8 6/17",
-    "cost": "Not PSA Graded: $2.48",
+    "code": "006/17",
+    "set": "POP Series 8 006/17",
+    "cost": "UnGraded: $2.48",
     "img": "https://images.pokemontcg.io/pop8/6.png"
   },
   {
-    "set": "Arceus 15/111",
-    "cost": "Not PSA Graded: $4.36",
+    "code": "015/99",
+    "set": "Arceus 015/99",
+    "cost": "UnGraded: $4.36",
     "img": "https://images.pokemontcg.io/pl4/15.png"
   },
   {
-    "set": "Stormfront 14/106",
-    "cost": "Not PSA Graded: $1.2",
+    "code": "014/100",
+    "set": "Stormfront 014/100",
+    "cost": "UnGraded: $1.2",
     "img": "https://images.pokemontcg.io/dp7/14.png"
   },
   {
-    "set": "HS—Unleashed 28/96",
-    "cost": "Not PSA Graded: $0.56",
+    "code": "028/95",
+    "set": "HS—Unleashed 028/95",
+    "cost": "UnGraded: $0.56",
     "img": "https://images.pokemontcg.io/hgss2/28.png"
   },
   {
-    "set": "Diamond & Pearl 45/130",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "045/130",
+    "set": "Diamond & Pearl 045/130",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/dp1/45.png"
   },
   {
-    "set": "Supreme Victors 55/153",
-    "cost": "Not PSA Graded: $1.27",
+    "code": "055/147",
+    "set": "Supreme Victors 055/147",
+    "cost": "UnGraded: $1.27",
     "img": "https://images.pokemontcg.io/pl3/55.png"
   },
   {
-    "set": "Battle Styles 8/183",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "008/163",
+    "set": "Battle Styles 008/163",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/swsh5/8.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH088/304",
-    "cost": "Not PSA Graded: $8.08",
+    "code": "SWSH088/307",
+    "set": "SWSH Black Star Promos SWSH088/307",
+    "cost": "UnGraded: $8.08",
     "img": "https://images.pokemontcg.io/swshp/SWSH088.png"
   }
 ]

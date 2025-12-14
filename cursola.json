@@ -1,27 +1,32 @@
 [
   {
-    "set": "Champion's Path 21/80",
-    "cost": "Not PSA Graded: $0.86",
+    "code": "021/73",
+    "set": "Champion's Path 021/73",
+    "cost": "UnGraded: $0.86",
     "img": "https://images.pokemontcg.io/swsh35/21.png"
   },
   {
-    "set": "Champion's Path 71/80",
-    "cost": "Not PSA Graded: $1.43",
+    "code": "071/73",
+    "set": "Champion's Path 071/73",
+    "cost": "UnGraded: $1.43",
     "img": "https://images.pokemontcg.io/swsh35/71.png"
   },
   {
-    "set": "Rebel Clash 79/209",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "079/192",
+    "set": "Rebel Clash 079/192",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/swsh2/79.png"
   },
   {
+    "code": "SV050/122",
     "set": "Shining Fates Shiny Vault SV050/122",
-    "cost": "Not PSA Graded: $1.79",
+    "cost": "UnGraded: $1.79",
     "img": "https://images.pokemontcg.io/swsh45sv/SV050.png"
   },
   {
-    "set": "Fusion Strike 118/284",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "118/264",
+    "set": "Fusion Strike 118/264",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh8/118.png"
   }
 ]

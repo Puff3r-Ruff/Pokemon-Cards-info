@@ -1,82 +1,98 @@
 [
   {
-    "set": "Legendary Treasures 5/140",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "005/113",
+    "set": "Legendary Treasures 005/113",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/bw11/5.png"
   },
   {
-    "set": "Dark Explorers 5/111",
-    "cost": "Not PSA Graded: $1.16",
+    "code": "005/108",
+    "set": "Dark Explorers 005/108",
+    "cost": "UnGraded: $1.16",
     "img": "https://images.pokemontcg.io/bw5/5.png"
   },
   {
-    "set": "Ultra Prism 12/178",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "012/156",
+    "set": "Ultra Prism 012/156",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm5/12.png"
   },
   {
-    "set": "Darkness Ablaze 5/201",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "005/189",
+    "set": "Darkness Ablaze 005/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh3/5.png"
   },
   {
-    "set": "POP Series 8 7/17",
-    "cost": "Not PSA Graded: $5.98",
+    "code": "007/17",
+    "set": "POP Series 8 007/17",
+    "cost": "UnGraded: $5.98",
     "img": "https://images.pokemontcg.io/pop8/7.png"
   },
   {
-    "set": "HS—Triumphant 16/103",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "016/102",
+    "set": "HS—Triumphant 016/102",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/hgss4/16.png"
   },
   {
-    "set": "Shining Legends 6/81",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "006/73",
+    "set": "Shining Legends 006/73",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm35/6.png"
   },
   {
-    "set": "Diamond & Pearl 21/130",
-    "cost": "Not PSA Graded: $1.2",
+    "code": "021/130",
+    "set": "Diamond & Pearl 021/130",
+    "cost": "UnGraded: $1.2",
     "img": "https://images.pokemontcg.io/dp1/21.png"
   },
   {
+    "code": "DP42/56",
     "set": "DP Black Star Promos DP42/56",
-    "cost": "Not PSA Graded: $4.38",
+    "cost": "UnGraded: $4.38",
     "img": "https://images.pokemontcg.io/dpp/DP42.png"
   },
   {
-    "set": "Platinum 43/133",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "043/127",
+    "set": "Platinum 043/127",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/pl1/43.png"
   },
   {
-    "set": "HS—Unleashed 46/96",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "046/95",
+    "set": "HS—Unleashed 046/95",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/hgss2/46.png"
   },
   {
-    "set": "Supreme Victors 53/153",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "053/147",
+    "set": "Supreme Victors 053/147",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/pl3/53.png"
   },
   {
-    "set": "Platinum 68/133",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "068/127",
+    "set": "Platinum 068/127",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/pl1/68.png"
   },
   {
-    "set": "Battle Styles 9/183",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "009/163",
+    "set": "Battle Styles 009/163",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh5/9.png"
   },
   {
-    "set": "Crown Zenith 12/160",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "012/159",
+    "set": "Crown Zenith 012/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12pt5/12.png"
   },
   {
-    "set": "Stellar Crown 7/175",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "007/142",
+    "set": "Stellar Crown 007/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/7.png"
   }
 ]

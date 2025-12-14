@@ -1,72 +1,86 @@
 [
   {
-    "set": "Phantom Forces 16/124",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "016/119",
+    "set": "Phantom Forces 016/119",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/xy4/16.png"
   },
   {
-    "set": "Dragon Majesty 23/80",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "023/70",
+    "set": "Dragon Majesty 023/70",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/sm75/23.png"
   },
   {
-    "set": "Shining Legends 19/81",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "019/73",
+    "set": "Shining Legends 019/73",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm35/19.png"
   },
   {
-    "set": "Neo Destiny 32/113",
+    "code": "032/105",
+    "set": "Neo Destiny 032/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/32.png"
   },
   {
-    "set": "HeartGold & SoulSilver 38/124",
-    "cost": "Not PSA Graded: $1.73",
+    "code": "038/123",
+    "set": "HeartGold & SoulSilver 038/123",
+    "cost": "UnGraded: $1.73",
     "img": "https://images.pokemontcg.io/hgss1/38.png"
   },
   {
-    "set": "Neo Genesis 31/111",
+    "code": "031/111",
+    "set": "Neo Genesis 031/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/31.png"
   },
   {
-    "set": "Neo Genesis 32/111",
+    "code": "032/111",
+    "set": "Neo Genesis 032/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/32.png"
   },
   {
-    "set": "Dragon Frontiers 27/101",
-    "cost": "Not PSA Graded: $1.97",
+    "code": "027/101",
+    "set": "Dragon Frontiers 027/101",
+    "cost": "UnGraded: $1.97",
     "img": "https://images.pokemontcg.io/ex15/27.png"
   },
   {
-    "set": "Unseen Forces 38/145",
-    "cost": "Not PSA Graded: $1.21",
+    "code": "038/115",
+    "set": "Unseen Forces 038/115",
+    "cost": "UnGraded: $1.21",
     "img": "https://images.pokemontcg.io/ex10/38.png"
   },
   {
-    "set": "Call of Legends 41/106",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "041/95",
+    "set": "Call of Legends 041/95",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/col1/41.png"
   },
   {
-    "set": "Mysterious Treasures 44/124",
-    "cost": "Not PSA Graded: $1.55",
+    "code": "044/123",
+    "set": "Mysterious Treasures 044/123",
+    "cost": "UnGraded: $1.55",
     "img": "https://images.pokemontcg.io/dp2/44.png"
   },
   {
-    "set": "Expedition Base Set 74/165",
-    "cost": "Not PSA Graded: $4.03",
+    "code": "074/165",
+    "set": "Expedition Base Set 074/165",
+    "cost": "UnGraded: $4.03",
     "img": "https://images.pokemontcg.io/ecard1/74.png"
   },
   {
-    "set": "Fusion Strike 56/284",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "056/264",
+    "set": "Fusion Strike 056/264",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh8/56.png"
   },
   {
-    "set": "Temporal Forces 40/218",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "040/162",
+    "set": "Temporal Forces 040/162",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sv5/40.png"
   }
 ]

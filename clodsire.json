@@ -1,37 +1,44 @@
 [
   {
-    "set": "Paldea Evolved 130/279",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "130/193",
+    "set": "Paldea Evolved 130/193",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/sv2/130.png"
   },
   {
-    "set": "Paldea Evolved 244/279",
-    "cost": "Not PSA Graded: $1.64",
+    "code": "244/193",
+    "set": "Paldea Evolved 244/193",
+    "cost": "UnGraded: $1.64",
     "img": "https://images.pokemontcg.io/sv2/244.png"
   },
   {
-    "set": "Obsidian Flames 129/230",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "129/197",
+    "set": "Obsidian Flames 129/197",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv3/129.png"
   },
   {
-    "set": "Obsidian Flames 128/230",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "128/197",
+    "set": "Obsidian Flames 128/197",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv3/128.png"
   },
   {
-    "set": "Paldean Fates 59/245",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "059/91",
+    "set": "Paldean Fates 059/91",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/sv4pt5/59.png"
   },
   {
-    "set": "Paldean Fates 219/245",
-    "cost": "Not PSA Graded: $1.85",
+    "code": "219/91",
+    "set": "Paldean Fates 219/91",
+    "cost": "UnGraded: $1.85",
     "img": "https://images.pokemontcg.io/sv4pt5/219.png"
   },
   {
-    "set": "Journey Together 94/190",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "094/159",
+    "set": "Journey Together 094/159",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/sv9/94.png"
   }
 ]

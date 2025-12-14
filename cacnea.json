@@ -1,82 +1,98 @@
 [
   {
-    "set": "BREAKthrough 4/165",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "004/162",
+    "set": "BREAKthrough 004/162",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/xy8/4.png"
   },
   {
-    "set": "Plasma Freeze 9/122",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "009/116",
+    "set": "Plasma Freeze 009/116",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/bw9/9.png"
   },
   {
-    "set": "Crimson Invasion 5/126",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "005/111",
+    "set": "Crimson Invasion 005/111",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm4/5.png"
   },
   {
-    "set": "POP Series 2 13/17",
-    "cost": "Not PSA Graded: $0.9",
+    "code": "013/17",
+    "set": "POP Series 2 013/17",
+    "cost": "UnGraded: $0.9",
     "img": "https://images.pokemontcg.io/pop2/13.png"
   },
   {
-    "set": "Celestial Storm 19/187",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "019/168",
+    "set": "Celestial Storm 019/168",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm7/19.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 24/97",
-    "cost": "Not PSA Graded: $1.94",
+    "code": "024/95",
+    "set": "Team Magma vs Team Aqua 024/95",
+    "cost": "UnGraded: $1.94",
     "img": "https://images.pokemontcg.io/ex4/24.png"
   },
   {
-    "set": "Emerald 44/107",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "044/106",
+    "set": "Emerald 044/106",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/ex9/44.png"
   },
   {
-    "set": "Crystal Guardians 47/100",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "047/100",
+    "set": "Crystal Guardians 047/100",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/ex14/47.png"
   },
   {
-    "set": "Power Keepers 46/108",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "046/108",
+    "set": "Power Keepers 046/108",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/ex16/46.png"
   },
   {
-    "set": "Sandstorm 57/100",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "057/100",
+    "set": "Sandstorm 057/100",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/ex2/57.png"
   },
   {
-    "set": "Sandstorm 58/100",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "058/100",
+    "set": "Sandstorm 058/100",
+    "cost": "UnGraded: $0.78",
     "img": "https://images.pokemontcg.io/ex2/58.png"
   },
   {
-    "set": "Platinum 67/133",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "067/127",
+    "set": "Platinum 067/127",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/pl1/67.png"
   },
   {
-    "set": "Great Encounters 62/106",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "062/106",
+    "set": "Great Encounters 062/106",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/dp4/62.png"
   },
   {
-    "set": "Shining Fates 4/73",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "004/72",
+    "set": "Shining Fates 004/72",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh45/4.png"
   },
   {
-    "set": "Battle Styles 4/183",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "004/163",
+    "set": "Battle Styles 004/163",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh5/4.png"
   },
   {
-    "set": "Scarlet & Violet 5/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "005/198",
+    "set": "Scarlet & Violet 005/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/5.png"
   }
 ]

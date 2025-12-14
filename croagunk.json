@@ -1,107 +1,128 @@
 [
   {
-    "set": "POP Series 9 7/17",
-    "cost": "Not PSA Graded: $3.21",
+    "code": "007/17",
+    "set": "POP Series 9 007/17",
+    "cost": "UnGraded: $3.21",
     "img": "https://images.pokemontcg.io/pop9/7.png"
   },
   {
-    "set": "POP Series 8 13/17",
-    "cost": "Not PSA Graded: $9.99",
+    "code": "013/17",
+    "set": "POP Series 8 013/17",
+    "cost": "UnGraded: $9.99",
     "img": "https://images.pokemontcg.io/pop8/13.png"
   },
   {
-    "set": "Steam Siege 58/116",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "058/114",
+    "set": "Steam Siege 058/114",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/xy11/58.png"
   },
   {
-    "set": "Ultra Prism 56/178",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "056/156",
+    "set": "Ultra Prism 056/156",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm5/56.png"
   },
   {
-    "set": "Burning Shadows 54/177",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "054/147",
+    "set": "Burning Shadows 054/147",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm3/54.png"
   },
   {
-    "set": "Legendary Treasures 62/140",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "062/113",
+    "set": "Legendary Treasures 062/113",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/bw11/62.png"
   },
   {
-    "set": "Arceus 61/111",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "061/99",
+    "set": "Arceus 061/99",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/pl4/61.png"
   },
   {
-    "set": "Boundaries Crossed 64/153",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "064/149",
+    "set": "Boundaries Crossed 064/149",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/bw7/64.png"
   },
   {
-    "set": "Majestic Dawn 60/100",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "060/100",
+    "set": "Majestic Dawn 060/100",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/dp5/60.png"
   },
   {
-    "set": "Boundaries Crossed 65/153",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "065/149",
+    "set": "Boundaries Crossed 065/149",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/bw7/65.png"
   },
   {
-    "set": "Forbidden Light 63/150",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "063/131",
+    "set": "Forbidden Light 063/131",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm6/63.png"
   },
   {
-    "set": "Mysterious Treasures 78/124",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "078/123",
+    "set": "Mysterious Treasures 078/123",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/dp2/78.png"
   },
   {
-    "set": "Supreme Victors 101/153",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "101/147",
+    "set": "Supreme Victors 101/147",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/pl3/101.png"
   },
   {
-    "set": "Sword & Shield 123/216",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "123/202",
+    "set": "Sword & Shield 123/202",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh1/123.png"
   },
   {
-    "set": "Fusion Strike 165/284",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "165/264",
+    "set": "Fusion Strike 165/264",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh8/165.png"
   },
   {
-    "set": "Silver Tempest 109/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "109/195",
+    "set": "Silver Tempest 109/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/109.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH245/304",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "SWSH245/307",
+    "set": "SWSH Black Star Promos SWSH245/307",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/swshp/SWSH245.png"
   },
   {
-    "set": "Scarlet & Violet 130/258",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "130/198",
+    "set": "Scarlet & Violet 130/198",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv1/130.png"
   },
   {
-    "set": "Paldea Evolved 114/279",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "114/193",
+    "set": "Paldea Evolved 114/193",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv2/114.png"
   },
   {
-    "set": "Shrouded Fable 23/99",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "023/64",
+    "set": "Shrouded Fable 023/64",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6pt5/23.png"
   },
   {
-    "set": "Mega Evolution 78/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "078/132",
+    "set": "Mega Evolution 078/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/78.png"
   }
 ]

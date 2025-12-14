@@ -1,182 +1,218 @@
 [
   {
-    "set": "Team Up 1/198",
-    "cost": "Not PSA Graded: $48.08",
+    "code": "001/181",
+    "set": "Team Up 001/181",
+    "cost": "UnGraded: $48.39",
     "img": "https://images.pokemontcg.io/sm9/1.png"
   },
   {
-    "set": "HS—Triumphant 3/103",
-    "cost": "Not PSA Graded: $6.92",
+    "code": "003/102",
+    "set": "HS—Triumphant 003/102",
+    "cost": "UnGraded: $6.92",
     "img": "https://images.pokemontcg.io/hgss4/3.png"
   },
   {
-    "set": "Sword & Shield 1/216",
-    "cost": "Not PSA Graded: $1.37",
+    "code": "001/202",
+    "set": "Sword & Shield 001/202",
+    "cost": "UnGraded: $1.32",
     "img": "https://images.pokemontcg.io/swsh1/1.png"
   },
   {
-    "set": "Neo Revelation 3/66",
+    "code": "003/64",
+    "set": "Neo Revelation 003/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/3.png"
   },
   {
-    "set": "Boundaries Crossed 9/153",
-    "cost": "Not PSA Graded: $27.46",
+    "code": "009/149",
+    "set": "Boundaries Crossed 009/149",
+    "cost": "UnGraded: $27.46",
     "img": "https://images.pokemontcg.io/bw7/9.png"
   },
   {
-    "set": "Unified Minds 4/260",
-    "cost": "Not PSA Graded: $1.8",
+    "code": "004/236",
+    "set": "Unified Minds 004/236",
+    "cost": "UnGraded: $1.8",
     "img": "https://images.pokemontcg.io/sm11/4.png"
   },
   {
-    "set": "Hidden Legends 4/102",
-    "cost": "Not PSA Graded: $34.32",
+    "code": "004/101",
+    "set": "Hidden Legends 004/101",
+    "cost": "UnGraded: $34.32",
     "img": "https://images.pokemontcg.io/ex5/4.png"
   },
   {
-    "set": "Vivid Voltage 9/203",
-    "cost": "Not PSA Graded: $4.73",
+    "code": "009/185",
+    "set": "Vivid Voltage 009/185",
+    "cost": "UnGraded: $4.68",
     "img": "https://images.pokemontcg.io/swsh4/9.png"
   },
   {
-    "set": "Mysterious Treasures 7/124",
-    "cost": "Not PSA Graded: $24.4",
+    "code": "007/123",
+    "set": "Mysterious Treasures 007/123",
+    "cost": "UnGraded: $24.4",
     "img": "https://images.pokemontcg.io/dp2/7.png"
   },
   {
-    "set": "Neo Revelation 16/66",
+    "code": "016/64",
+    "set": "Neo Revelation 016/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/16.png"
   },
   {
-    "set": "Lost Thunder 19/240",
-    "cost": "Not PSA Graded: $5.62",
+    "code": "019/214",
+    "set": "Lost Thunder 019/214",
+    "cost": "UnGraded: $5.62",
     "img": "https://images.pokemontcg.io/sm8/19.png"
   },
   {
-    "set": "POP Series 2 17/17",
-    "cost": "Not PSA Graded: $39.99",
+    "code": "017/17",
+    "set": "POP Series 2 017/17",
+    "cost": "UnGraded: $39.99",
     "img": "https://images.pokemontcg.io/pop2/17.png"
   },
   {
-    "set": "Nintendo Black Star Promos 29/40",
-    "cost": "Not PSA Graded: $33.96",
+    "code": "029/40",
+    "set": "Nintendo Black Star Promos 029/40",
+    "cost": "UnGraded: $33.96",
     "img": "https://images.pokemontcg.io/np/29.png"
   },
   {
-    "set": "Wizards Black Star Promos 50/53",
-    "cost": "Not PSA Graded: $33.76",
+    "code": "050/53",
+    "set": "Wizards Black Star Promos 050/53",
+    "cost": "UnGraded: $33.76",
     "img": "https://images.pokemontcg.io/basep/50.png"
   },
   {
-    "set": "SM Black Star Promos SM79/250",
-    "cost": "Not PSA Graded: $28.55",
+    "code": "SM79/248",
+    "set": "SM Black Star Promos SM79/248",
+    "cost": "UnGraded: $28.55",
     "img": "https://images.pokemontcg.io/smp/SM79.png"
   },
   {
-    "set": "HS—Triumphant 92/103",
-    "cost": "Not PSA Graded: $53.94",
+    "code": "092/102",
+    "set": "HS—Triumphant 092/102",
+    "cost": "UnGraded: $55.18",
     "img": "https://images.pokemontcg.io/hgss4/92.png"
   },
   {
-    "set": "XY Black Star Promos XY93/216",
-    "cost": "Not PSA Graded: $12.7",
+    "code": "XY93/211",
+    "set": "XY Black Star Promos XY93/211",
+    "cost": "UnGraded: $12.7",
     "img": "https://images.pokemontcg.io/xyp/XY93.png"
   },
   {
+    "code": "100/100",
     "set": "Crystal Guardians 100/100",
-    "cost": "Not PSA Graded: $1200",
+    "cost": "UnGraded: $1200",
     "img": "https://images.pokemontcg.io/ex14/100.png"
   },
   {
-    "set": "Neo Destiny 106/113",
+    "code": "106/105",
+    "set": "Neo Destiny 106/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/106.png"
   },
   {
-    "set": "Unseen Forces 117/145",
-    "cost": "Not PSA Graded: $499.99",
+    "code": "117/115",
+    "set": "Unseen Forces 117/115",
+    "cost": "UnGraded: $499.99",
     "img": "https://images.pokemontcg.io/ex10/117.png"
   },
   {
-    "set": "XY Black Star Promos XY111/216",
-    "cost": "Not PSA Graded: $36.85",
+    "code": "XY111/211",
+    "set": "XY Black Star Promos XY111/211",
+    "cost": "UnGraded: $36.85",
     "img": "https://images.pokemontcg.io/xyp/XY111.png"
   },
   {
-    "set": "Boundaries Crossed 141/153",
-    "cost": "Not PSA Graded: $187.78",
+    "code": "141/149",
+    "set": "Boundaries Crossed 141/149",
+    "cost": "UnGraded: $187.78",
     "img": "https://images.pokemontcg.io/bw7/141.png"
   },
   {
-    "set": "Team Up 159/198",
-    "cost": "Not PSA Graded: $62.57",
+    "code": "159/181",
+    "set": "Team Up 159/181",
+    "cost": "UnGraded: $62.57",
     "img": "https://images.pokemontcg.io/sm9/159.png"
   },
   {
-    "set": "SM Black Star Promos SM167/250",
-    "cost": "Not PSA Graded: $69.11",
+    "code": "SM167/248",
+    "set": "SM Black Star Promos SM167/248",
+    "cost": "UnGraded: $69.11",
     "img": "https://images.pokemontcg.io/smp/SM167.png"
   },
   {
-    "set": "Team Up 182/198",
-    "cost": "Not PSA Graded: $117.66",
+    "code": "182/181",
+    "set": "Team Up 182/181",
+    "cost": "UnGraded: $117.66",
     "img": "https://images.pokemontcg.io/sm9/182.png"
   },
   {
-    "set": "Skyridge 145/182",
+    "code": "145/144",
+    "set": "Skyridge 145/144",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard3/145.png"
   },
   {
-    "set": "XY Black Star Promos XY187/216",
-    "cost": "Not PSA Graded: $6.82",
+    "code": "XY187/211",
+    "set": "XY Black Star Promos XY187/211",
+    "cost": "UnGraded: $6.82",
     "img": "https://images.pokemontcg.io/xyp/XY187.png"
   },
   {
-    "set": "SM Black Star Promos SM224/250",
-    "cost": "Not PSA Graded: $4.56",
+    "code": "SM224/248",
+    "set": "SM Black Star Promos SM224/248",
+    "cost": "UnGraded: $4.56",
     "img": "https://images.pokemontcg.io/smp/SM224.png"
   },
   {
-    "set": "Shining Fates 3/73",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "003/72",
+    "set": "Shining Fates 003/72",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh45/3.png"
   },
   {
-    "set": "Chilling Reign 7/233",
-    "cost": "Not PSA Graded: $1.01",
+    "code": "007/198",
+    "set": "Chilling Reign 007/198",
+    "cost": "UnGraded: $0.95",
     "img": "https://images.pokemontcg.io/swsh6/7.png"
   },
   {
-    "set": "Chilling Reign 8/233",
-    "cost": "Not PSA Graded: $2.89",
+    "code": "008/198",
+    "set": "Chilling Reign 008/198",
+    "cost": "UnGraded: $2.89",
     "img": "https://images.pokemontcg.io/swsh6/8.png"
   },
   {
-    "set": "Chilling Reign 160/233",
-    "cost": "Not PSA Graded: $9.88",
+    "code": "160/198",
+    "set": "Chilling Reign 160/198",
+    "cost": "UnGraded: $9.04",
     "img": "https://images.pokemontcg.io/swsh6/160.png"
   },
   {
-    "set": "Chilling Reign 199/233",
-    "cost": "Not PSA Graded: $20.46",
+    "code": "199/198",
+    "set": "Chilling Reign 199/198",
+    "cost": "UnGraded: $20.5",
     "img": "https://images.pokemontcg.io/swsh6/199.png"
   },
   {
-    "set": "Fusion Strike 245/284",
-    "cost": "Not PSA Graded: $59.44",
+    "code": "245/264",
+    "set": "Fusion Strike 245/264",
+    "cost": "UnGraded: $59.41",
     "img": "https://images.pokemontcg.io/swsh8/245.png"
   },
   {
-    "set": "Stellar Crown 4/175",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "004/142",
+    "set": "Stellar Crown 004/142",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv7/4.png"
   },
   {
-    "set": "Mega Evolution 12/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "012/132",
+    "set": "Mega Evolution 012/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/12.png"
   }
 ]

@@ -1,67 +1,80 @@
 [
   {
-    "set": "Sword & Shield 135/216",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "135/202",
+    "set": "Sword & Shield 135/202",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh1/135.png"
   },
   {
-    "set": "Darkness Ablaze 156/201",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "156/189",
+    "set": "Darkness Ablaze 156/189",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/swsh3/156.png"
   },
   {
+    "code": "SV089/122",
     "set": "Shining Fates Shiny Vault SV089/122",
-    "cost": "Not PSA Graded: $0.99",
+    "cost": "UnGraded: $0.99",
     "img": "https://images.pokemontcg.io/swsh45sv/SV089.png"
   },
   {
-    "set": "Battle Styles 109/183",
-    "cost": "Not PSA Graded: $0.92",
+    "code": "109/163",
+    "set": "Battle Styles 109/163",
+    "cost": "UnGraded: $0.92",
     "img": "https://images.pokemontcg.io/swsh5/109.png"
   },
   {
-    "set": "Battle Styles 110/183",
-    "cost": "Not PSA Graded: $2.06",
+    "code": "110/163",
+    "set": "Battle Styles 110/163",
+    "cost": "UnGraded: $2.06",
     "img": "https://images.pokemontcg.io/swsh5/110.png"
   },
   {
-    "set": "Battle Styles 156/183",
-    "cost": "Not PSA Graded: $4.17",
+    "code": "156/163",
+    "set": "Battle Styles 156/163",
+    "cost": "UnGraded: $4.17",
     "img": "https://images.pokemontcg.io/swsh5/156.png"
   },
   {
-    "set": "Battle Styles 171/183",
-    "cost": "Not PSA Graded: $10.28",
+    "code": "171/163",
+    "set": "Battle Styles 171/163",
+    "cost": "UnGraded: $10.28",
     "img": "https://images.pokemontcg.io/swsh5/171.png"
   },
   {
-    "set": "Fusion Strike 190/284",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "190/264",
+    "set": "Fusion Strike 190/264",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh8/190.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH200/304",
-    "cost": "Not PSA Graded: $1.03",
+    "code": "SWSH200/307",
+    "set": "SWSH Black Star Promos SWSH200/307",
+    "cost": "UnGraded: $1.03",
     "img": "https://images.pokemontcg.io/swshp/SWSH200.png"
   },
   {
+    "code": "TG18/30",
     "set": "Silver Tempest Trainer Gallery TG18/30",
-    "cost": "Not PSA Graded: $9.05",
+    "cost": "UnGraded: $9.05",
     "img": "https://images.pokemontcg.io/swsh12tg/TG18.png"
   },
   {
+    "code": "TG19/30",
     "set": "Silver Tempest Trainer Gallery TG19/30",
-    "cost": "Not PSA Graded: $7.33",
+    "cost": "UnGraded: $7.33",
     "img": "https://images.pokemontcg.io/swsh12tg/TG19.png"
   },
   {
-    "set": "Paldea Evolved 148/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "148/193",
+    "set": "Paldea Evolved 148/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/148.png"
   },
   {
-    "set": "Journey Together 108/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "108/159",
+    "set": "Journey Together 108/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/108.png"
   }
 ]

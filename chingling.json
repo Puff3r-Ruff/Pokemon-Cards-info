@@ -1,22 +1,26 @@
 [
   {
-    "set": "Mysterious Treasures 42/124",
-    "cost": "Not PSA Graded: $8.53",
+    "code": "042/123",
+    "set": "Mysterious Treasures 042/123",
+    "cost": "UnGraded: $8.53",
     "img": "https://images.pokemontcg.io/dp2/42.png"
   },
   {
-    "set": "Majestic Dawn 58/100",
-    "cost": "Not PSA Graded: $4.5",
+    "code": "058/100",
+    "set": "Majestic Dawn 058/100",
+    "cost": "UnGraded: $4.5",
     "img": "https://images.pokemontcg.io/dp5/58.png"
   },
   {
-    "set": "Supreme Victors 98/153",
-    "cost": "Not PSA Graded: $3.43",
+    "code": "098/147",
+    "set": "Supreme Victors 098/147",
+    "cost": "UnGraded: $3.43",
     "img": "https://images.pokemontcg.io/pl3/98.png"
   },
   {
-    "set": "Destined Rivals 85/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "085/182",
+    "set": "Destined Rivals 085/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/85.png"
   }
 ]

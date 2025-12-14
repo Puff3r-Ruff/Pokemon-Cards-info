@@ -1,112 +1,134 @@
 [
   {
-    "set": "Dragon Majesty 9/80",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "009/70",
+    "set": "Dragon Majesty 009/70",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm75/9.png"
   },
   {
-    "set": "Black & White 25/115",
-    "cost": "Not PSA Graded: $0.83",
+    "code": "025/114",
+    "set": "Black & White 025/114",
+    "cost": "UnGraded: $0.83",
     "img": "https://images.pokemontcg.io/bw1/25.png"
   },
   {
-    "set": "Boundaries Crossed 28/153",
-    "cost": "Not PSA Graded: $0.45",
+    "code": "028/149",
+    "set": "Boundaries Crossed 028/149",
+    "cost": "UnGraded: $0.45",
     "img": "https://images.pokemontcg.io/bw7/28.png"
   },
   {
-    "set": "Emerging Powers 21/98",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "021/98",
+    "set": "Emerging Powers 021/98",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/bw2/21.png"
   },
   {
-    "set": "Unbroken Bonds 24/234",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "024/214",
+    "set": "Unbroken Bonds 024/214",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm10/24.png"
   },
   {
-    "set": "Darkness Ablaze 28/201",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "028/189",
+    "set": "Darkness Ablaze 028/189",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh3/28.png"
   },
   {
-    "set": "Vivid Voltage 36/203",
-    "cost": "Not PSA Graded: $0.65",
+    "code": "036/185",
+    "set": "Vivid Voltage 036/185",
+    "cost": "UnGraded: $0.65",
     "img": "https://images.pokemontcg.io/swsh4/36.png"
   },
   {
-    "set": "Vivid Voltage 37/203",
-    "cost": "Not PSA Graded: $1.45",
+    "code": "037/185",
+    "set": "Vivid Voltage 037/185",
+    "cost": "UnGraded: $1.45",
     "img": "https://images.pokemontcg.io/swsh4/37.png"
   },
   {
-    "set": "Darkness Ablaze 44/201",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "044/189",
+    "set": "Darkness Ablaze 044/189",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh3/44.png"
   },
   {
-    "set": "Rebel Clash 48/209",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "048/192",
+    "set": "Rebel Clash 048/192",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh2/48.png"
   },
   {
-    "set": "Next Destinies 60/103",
-    "cost": "Not PSA Graded: $4.28",
+    "code": "060/99",
+    "set": "Next Destinies 060/99",
+    "cost": "UnGraded: $4.28",
     "img": "https://images.pokemontcg.io/bw4/60.png"
   },
   {
-    "set": "Vivid Voltage 169/203",
-    "cost": "Not PSA Graded: $1.45",
+    "code": "169/185",
+    "set": "Vivid Voltage 169/185",
+    "cost": "UnGraded: $1.45",
     "img": "https://images.pokemontcg.io/swsh4/169.png"
   },
   {
-    "set": "Vivid Voltage 187/203",
-    "cost": "Not PSA Graded: $6.48",
+    "code": "187/185",
+    "set": "Vivid Voltage 187/185",
+    "cost": "UnGraded: $6.48",
     "img": "https://images.pokemontcg.io/swsh4/187.png"
   },
   {
+    "code": "SV024/122",
     "set": "Shining Fates Shiny Vault SV024/122",
-    "cost": "Not PSA Graded: $1.14",
+    "cost": "UnGraded: $1.14",
     "img": "https://images.pokemontcg.io/swsh45sv/SV024.png"
   },
   {
-    "set": "Fusion Strike 72/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "072/264",
+    "set": "Fusion Strike 072/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/72.png"
   },
   {
-    "set": "Obsidian Flames 35/230",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "035/197",
+    "set": "Obsidian Flames 035/197",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv3/35.png"
   },
   {
-    "set": "Twilight Masquerade 35/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "035/167",
+    "set": "Twilight Masquerade 035/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/35.png"
   },
   {
-    "set": "Journey Together 27/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "027/159",
+    "set": "Journey Together 027/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/27.png"
   },
   {
-    "set": "Scarlet & Violet Promos 181/148",
-    "cost": "Not PSA Graded: $5.75",
+    "code": "181/150",
+    "set": "Scarlet & Violet Promos 181/150",
+    "cost": "UnGraded: $5.75",
     "img": "https://images.pokemontcg.io/svp/181.png"
   },
   {
-    "set": "Black Bolt 14/172",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "014/86",
+    "set": "Black Bolt 014/86",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/zsv10pt5/14.png"
   },
   {
-    "set": "Black Bolt 98/172",
-    "cost": "Not PSA Graded: $5.94",
+    "code": "098/86",
+    "set": "Black Bolt 098/86",
+    "cost": "UnGraded: $5.94",
     "img": "https://images.pokemontcg.io/zsv10pt5/98.png"
   },
   {
-    "set": "Phantasmal Flames 16/130",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "016/94",
+    "set": "Phantasmal Flames 016/94",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/me2/16.png"
   }
 ]

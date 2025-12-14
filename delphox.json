@@ -1,47 +1,56 @@
 [
   {
-    "set": "Fates Collide 13/129",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "013/124",
+    "set": "Fates Collide 013/124",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/xy10/13.png"
   },
   {
-    "set": "Fates Collide 14/129",
-    "cost": "Not PSA Graded: $2.71",
+    "code": "014/124",
+    "set": "Fates Collide 014/124",
+    "cost": "UnGraded: $2.71",
     "img": "https://images.pokemontcg.io/xy10/14.png"
   },
   {
-    "set": "Kalos Starter Set 10/39",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "010/39",
+    "set": "Kalos Starter Set 010/39",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/xy0/10.png"
   },
   {
-    "set": "Forbidden Light 17/150",
-    "cost": "Not PSA Graded: $1.57",
+    "code": "017/131",
+    "set": "Forbidden Light 017/131",
+    "cost": "UnGraded: $1.57",
     "img": "https://images.pokemontcg.io/sm6/17.png"
   },
   {
-    "set": "XY 26/146",
-    "cost": "Not PSA Graded: $1.5",
+    "code": "026/146",
+    "set": "XY 026/146",
+    "cost": "UnGraded: $1.5",
     "img": "https://images.pokemontcg.io/xy1/26.png"
   },
   {
-    "set": "XY Black Star Promos XY19/216",
-    "cost": "Not PSA Graded: $6.01",
+    "code": "XY19/211",
+    "set": "XY Black Star Promos XY19/211",
+    "cost": "UnGraded: $6.01",
     "img": "https://images.pokemontcg.io/xyp/XY19.png"
   },
   {
-    "set": "Lost Origin 27/217",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "027/196",
+    "set": "Lost Origin 027/196",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/swsh11/27.png"
   },
   {
-    "set": "Lost Origin 173/217",
-    "cost": "Not PSA Graded: $2.54",
+    "code": "173/196",
+    "set": "Lost Origin 173/196",
+    "cost": "UnGraded: $2.54",
     "img": "https://images.pokemontcg.io/swsh11/173.png"
   },
   {
-    "set": "Silver Tempest 27/215",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "027/195",
+    "set": "Silver Tempest 027/195",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh12/27.png"
   }
 ]

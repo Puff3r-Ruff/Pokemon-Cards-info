@@ -1,47 +1,56 @@
 [
   {
-    "set": "XY Black Star Promos XY01/216",
-    "cost": "Not PSA Graded: $3.98",
+    "code": "XY01/211",
+    "set": "XY Black Star Promos XY01/211",
+    "cost": "UnGraded: $3.98",
     "img": "https://images.pokemontcg.io/xyp/XY01.png"
   },
   {
-    "set": "Kalos Starter Set 3/39",
-    "cost": "Not PSA Graded: $0.96",
+    "code": "003/39",
+    "set": "Kalos Starter Set 003/39",
+    "cost": "UnGraded: $0.96",
     "img": "https://images.pokemontcg.io/xy0/3.png"
   },
   {
-    "set": "BREAKthrough 7/165",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "007/162",
+    "set": "BREAKthrough 007/162",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/xy8/7.png"
   },
   {
-    "set": "BREAKthrough 8/165",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "008/162",
+    "set": "BREAKthrough 008/162",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/xy8/8.png"
   },
   {
-    "set": "BREAKthrough 9/165",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "009/162",
+    "set": "BREAKthrough 009/162",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/xy8/9.png"
   },
   {
-    "set": "XY 12/146",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "012/146",
+    "set": "XY 012/146",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/xy1/12.png"
   },
   {
-    "set": "XY Black Star Promos XY88/216",
-    "cost": "Not PSA Graded: $2.42",
+    "code": "XY88/211",
+    "set": "XY Black Star Promos XY88/211",
+    "cost": "UnGraded: $2.42",
     "img": "https://images.pokemontcg.io/xyp/XY88.png"
   },
   {
-    "set": "McDonald's Collection 2014 2/12",
+    "code": "002/12",
+    "set": "McDonald's Collection 2014 002/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd14/2.png"
   },
   {
-    "set": "McDonald's Collection 2021 6/25",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "006/25",
+    "set": "McDonald's Collection 2021 006/25",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/mcd21/6.png"
   }
 ]

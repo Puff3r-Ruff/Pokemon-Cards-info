@@ -1,47 +1,56 @@
 [
   {
-    "set": "Sun & Moon 92/173",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "092/149",
+    "set": "Sun & Moon 092/149",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm1/92.png"
   },
   {
-    "set": "Burning Shadows 95/177",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "095/147",
+    "set": "Burning Shadows 095/147",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm3/95.png"
   },
   {
-    "set": "Lost Thunder 145/240",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "145/214",
+    "set": "Lost Thunder 145/214",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sm8/145.png"
   },
   {
-    "set": "Evolving Skies 78/237",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "078/203",
+    "set": "Evolving Skies 078/203",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh7/78.png"
   },
   {
-    "set": "McDonald's Collection 2017 10/12",
+    "code": "010/12",
+    "set": "McDonald's Collection 2017 010/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd17/10.png"
   },
   {
-    "set": "McDonald's Collection 2022 11/15",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "011/15",
+    "set": "McDonald's Collection 2022 011/15",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/mcd22/11.png"
   },
   {
-    "set": "Temporal Forces 75/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "075/162",
+    "set": "Temporal Forces 075/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/75.png"
   },
   {
-    "set": "Temporal Forces 172/218",
-    "cost": "Not PSA Graded: $4.83",
+    "code": "172/162",
+    "set": "Temporal Forces 172/162",
+    "cost": "UnGraded: $4.83",
     "img": "https://images.pokemontcg.io/sv5/172.png"
   },
   {
-    "set": "Journey Together 66/190",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "066/159",
+    "set": "Journey Together 066/159",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv9/66.png"
   }
 ]

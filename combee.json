@@ -1,62 +1,74 @@
 [
   {
-    "set": "Plasma Storm 4/138",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "004/135",
+    "set": "Plasma Storm 004/135",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw8/4.png"
   },
   {
-    "set": "Ancient Origins 9/100",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "009/98",
+    "set": "Ancient Origins 009/98",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/xy7/9.png"
   },
   {
-    "set": "Lost Thunder 31/240",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "031/214",
+    "set": "Lost Thunder 031/214",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm8/31.png"
   },
   {
-    "set": "HS—Undaunted 44/91",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "044/90",
+    "set": "HS—Undaunted 044/90",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/hgss3/44.png"
   },
   {
-    "set": "Majestic Dawn 59/100",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "059/100",
+    "set": "Majestic Dawn 059/100",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/dp5/59.png"
   },
   {
-    "set": "Stormfront 57/106",
-    "cost": "Not PSA Graded: $0.37",
+    "code": "057/100",
+    "set": "Stormfront 057/100",
+    "cost": "UnGraded: $0.37",
     "img": "https://images.pokemontcg.io/dp7/57.png"
   },
   {
-    "set": "Platinum 71/133",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "071/127",
+    "set": "Platinum 071/127",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/pl1/71.png"
   },
   {
-    "set": "Diamond & Pearl 79/130",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "079/130",
+    "set": "Diamond & Pearl 079/130",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/dp1/79.png"
   },
   {
-    "set": "Supreme Victors 99/153",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "099/147",
+    "set": "Supreme Victors 099/147",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/pl3/99.png"
   },
   {
-    "set": "Astral Radiance 11/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "011/189",
+    "set": "Astral Radiance 011/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh10/11.png"
   },
   {
-    "set": "Paldea Evolved 8/279",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "008/193",
+    "set": "Paldea Evolved 008/193",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv2/8.png"
   },
   {
-    "set": "Obsidian Flames 8/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "008/197",
+    "set": "Obsidian Flames 008/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/8.png"
   }
 ]

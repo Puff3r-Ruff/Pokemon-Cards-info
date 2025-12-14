@@ -1,42 +1,50 @@
 [
   {
-    "set": "Kalos Starter Set 15/39",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "015/39",
+    "set": "Kalos Starter Set 015/39",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/xy0/15.png"
   },
   {
-    "set": "Forbidden Light 25/150",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "025/131",
+    "set": "Forbidden Light 025/131",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm6/25.png"
   },
   {
-    "set": "Steam Siege 33/116",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "033/114",
+    "set": "Steam Siege 033/114",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy11/33.png"
   },
   {
-    "set": "Furious Fists 23/114",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "023/111",
+    "set": "Furious Fists 023/111",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy3/23.png"
   },
   {
-    "set": "Fusion Strike 74/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "074/264",
+    "set": "Fusion Strike 074/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/74.png"
   },
   {
-    "set": "Scarlet & Violet 49/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "049/198",
+    "set": "Scarlet & Violet 049/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/49.png"
   },
   {
-    "set": "Scarlet & Violet 205/258",
-    "cost": "Not PSA Graded: $3.98",
+    "code": "205/198",
+    "set": "Scarlet & Violet 205/198",
+    "cost": "UnGraded: $3.98",
     "img": "https://images.pokemontcg.io/sv1/205.png"
   },
   {
-    "set": "Mega Evolution 37/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "037/132",
+    "set": "Mega Evolution 037/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/37.png"
   }
 ]

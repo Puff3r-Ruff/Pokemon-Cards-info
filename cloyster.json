@@ -1,72 +1,86 @@
 [
   {
-    "set": "Expedition Base Set 8/165",
-    "cost": "Not PSA Graded: $84.18",
+    "code": "008/165",
+    "set": "Expedition Base Set 008/165",
+    "cost": "UnGraded: $84.18",
     "img": "https://images.pokemontcg.io/ecard1/8.png"
   },
   {
-    "set": "FireRed & LeafGreen 20/116",
-    "cost": "Not PSA Graded: $1.62",
+    "code": "020/112",
+    "set": "FireRed & LeafGreen 020/112",
+    "cost": "UnGraded: $1.62",
     "img": "https://images.pokemontcg.io/ex6/20.png"
   },
   {
-    "set": "Dragon Frontiers 14/101",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "014/101",
+    "set": "Dragon Frontiers 014/101",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/ex15/14.png"
   },
   {
-    "set": "Gym Heroes 29/132",
+    "code": "029/132",
+    "set": "Gym Heroes 029/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/29.png"
   },
   {
-    "set": "Fossil 32/62",
+    "code": "032/62",
+    "set": "Fossil 032/62",
     "cost": null,
     "img": "https://images.pokemontcg.io/base3/32.png"
   },
   {
-    "set": "Generations 20/117",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "020/83",
+    "set": "Generations 020/83",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/g1/20.png"
   },
   {
-    "set": "XY 32/146",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "032/146",
+    "set": "XY 032/146",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/xy1/32.png"
   },
   {
-    "set": "BREAKpoint 24/126",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "024/122",
+    "set": "BREAKpoint 024/122",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy9/24.png"
   },
   {
-    "set": "Sun & Moon 34/173",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "034/149",
+    "set": "Sun & Moon 034/149",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm1/34.png"
   },
   {
-    "set": "Sword & Shield 41/216",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "041/202",
+    "set": "Sword & Shield 041/202",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh1/41.png"
   },
   {
-    "set": "Secret Wonders 47/132",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "047/132",
+    "set": "Secret Wonders 047/132",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/dp3/47.png"
   },
   {
-    "set": "Expedition Base Set 42/165",
-    "cost": "Not PSA Graded: $8",
+    "code": "042/165",
+    "set": "Expedition Base Set 042/165",
+    "cost": "UnGraded: $8",
     "img": "https://images.pokemontcg.io/ecard1/42.png"
   },
   {
-    "set": "Fusion Strike 51/284",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "051/264",
+    "set": "Fusion Strike 051/264",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh8/51.png"
   },
   {
-    "set": "151 91/207",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "091/165",
+    "set": "151 091/165",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3pt5/91.png"
   }
 ]

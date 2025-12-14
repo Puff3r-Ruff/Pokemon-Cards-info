@@ -1,47 +1,56 @@
 [
   {
+    "code": "SV3/94",
     "set": "Hidden Fates Shiny Vault SV3/94",
-    "cost": "Not PSA Graded: $1.44",
+    "cost": "UnGraded: $1.44",
     "img": "https://images.pokemontcg.io/sma/SV3.png"
   },
   {
-    "set": "Sun & Moon 10/173",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "010/149",
+    "set": "Sun & Moon 010/149",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm1/10.png"
   },
   {
-    "set": "Darkness Ablaze 12/201",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "012/189",
+    "set": "Darkness Ablaze 012/189",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh3/12.png"
   },
   {
-    "set": "Cosmic Eclipse 19/272",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "019/236",
+    "set": "Cosmic Eclipse 019/236",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm12/19.png"
   },
   {
+    "code": "SV002/122",
     "set": "Shining Fates Shiny Vault SV002/122",
-    "cost": "Not PSA Graded: $2.83",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/swsh45sv/SV002.png"
   },
   {
-    "set": "Shining Fates 7/73",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "007/72",
+    "set": "Shining Fates 007/72",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh45/7.png"
   },
   {
-    "set": "Astral Radiance 20/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "020/189",
+    "set": "Astral Radiance 020/189",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh10/20.png"
   },
   {
-    "set": "Obsidian Flames 14/230",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "014/197",
+    "set": "Obsidian Flames 014/197",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv3/14.png"
   },
   {
-    "set": "Shrouded Fable 4/99",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "004/64",
+    "set": "Shrouded Fable 004/64",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv6pt5/4.png"
   }
 ]

@@ -1,97 +1,116 @@
 [
   {
-    "set": "BREAKthrough 18/165",
-    "cost": "Not PSA Graded: $0.5",
+    "code": "018/162",
+    "set": "BREAKthrough 018/162",
+    "cost": "UnGraded: $0.5",
     "img": "https://images.pokemontcg.io/xy8/18.png"
   },
   {
-    "set": "Lost Thunder 39/240",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "039/214",
+    "set": "Lost Thunder 039/214",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm8/39.png"
   },
   {
-    "set": "Lost Thunder 40/240",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "040/214",
+    "set": "Lost Thunder 040/214",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm8/40.png"
   },
   {
-    "set": "Unseen Forces 54/145",
-    "cost": "Not PSA Graded: $0.88",
+    "code": "054/115",
+    "set": "Unseen Forces 054/115",
+    "cost": "UnGraded: $0.88",
     "img": "https://images.pokemontcg.io/ex10/54.png"
   },
   {
-    "set": "Call of Legends 55/106",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "055/95",
+    "set": "Call of Legends 055/95",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/col1/55.png"
   },
   {
-    "set": "HeartGold & SoulSilver 61/124",
-    "cost": "Not PSA Graded: $1.24",
+    "code": "061/123",
+    "set": "HeartGold & SoulSilver 061/123",
+    "cost": "UnGraded: $1.24",
     "img": "https://images.pokemontcg.io/hgss1/61.png"
   },
   {
-    "set": "Dragon Frontiers 45/101",
-    "cost": "Not PSA Graded: $0.91",
+    "code": "045/101",
+    "set": "Dragon Frontiers 045/101",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/ex15/45.png"
   },
   {
-    "set": "Neo Destiny 61/113",
+    "code": "061/105",
+    "set": "Neo Destiny 061/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/61.png"
   },
   {
-    "set": "Neo Genesis 56/111",
+    "code": "056/111",
+    "set": "Neo Genesis 056/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/56.png"
   },
   {
-    "set": "Neo Genesis 57/111",
+    "code": "057/111",
+    "set": "Neo Genesis 057/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/57.png"
   },
   {
-    "set": "Sandstorm 59/100",
-    "cost": "Not PSA Graded: $1.28",
+    "code": "059/100",
+    "set": "Sandstorm 059/100",
+    "cost": "UnGraded: $1.28",
     "img": "https://images.pokemontcg.io/ex2/59.png"
   },
   {
-    "set": "Hidden Legends 59/102",
-    "cost": "Not PSA Graded: $0.63",
+    "code": "059/101",
+    "set": "Hidden Legends 059/101",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/ex5/59.png"
   },
   {
-    "set": "Mysterious Treasures 79/124",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "079/123",
+    "set": "Mysterious Treasures 079/123",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/dp2/79.png"
   },
   {
+    "code": "104/165",
     "set": "Expedition Base Set 104/165",
-    "cost": "Not PSA Graded: $5.85",
+    "cost": "UnGraded: $5.85",
     "img": "https://images.pokemontcg.io/ecard1/104.png"
   },
   {
+    "code": "105/165",
     "set": "Expedition Base Set 105/165",
-    "cost": "Not PSA Graded: $5.97",
+    "cost": "UnGraded: $5.97",
     "img": "https://images.pokemontcg.io/ecard1/105.png"
   },
   {
-    "set": "McDonald's Collection 2021 10/25",
-    "cost": "Not PSA Graded: $1.29",
+    "code": "010/25",
+    "set": "McDonald's Collection 2021 010/25",
+    "cost": "UnGraded: $1.29",
     "img": "https://images.pokemontcg.io/mcd21/10.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH221/304",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "SWSH221/307",
+    "set": "SWSH Black Star Promos SWSH221/307",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/swshp/SWSH221.png"
   },
   {
-    "set": "Astral Radiance 23/216",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "023/189",
+    "set": "Astral Radiance 023/189",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh10/23.png"
   },
   {
-    "set": "Destined Rivals 32/244",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "032/182",
+    "set": "Destined Rivals 032/182",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv10/32.png"
   }
 ]

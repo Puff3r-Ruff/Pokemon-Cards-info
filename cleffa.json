@@ -1,87 +1,104 @@
 [
   {
-    "set": "HeartGold & SoulSilver 17/124",
-    "cost": "Not PSA Graded: $3.67",
+    "code": "017/123",
+    "set": "HeartGold & SoulSilver 017/123",
+    "cost": "UnGraded: $3.67",
     "img": "https://images.pokemontcg.io/hgss1/17.png"
   },
   {
+    "code": "HGSS12/25",
     "set": "HGSS Black Star Promos HGSS12/25",
-    "cost": "Not PSA Graded: $16.11",
+    "cost": "UnGraded: $16.99",
     "img": "https://images.pokemontcg.io/hsp/HGSS12.png"
   },
   {
-    "set": "Unseen Forces 21/145",
-    "cost": "Not PSA Graded: $9.32",
+    "code": "021/115",
+    "set": "Unseen Forces 021/115",
+    "cost": "UnGraded: $9.32",
     "img": "https://images.pokemontcg.io/ex10/21.png"
   },
   {
-    "set": "Call of Legends 24/106",
-    "cost": "Not PSA Graded: $3.63",
+    "code": "024/95",
+    "set": "Call of Legends 024/95",
+    "cost": "UnGraded: $3.63",
     "img": "https://images.pokemontcg.io/col1/24.png"
   },
   {
-    "set": "Neo Genesis 20/111",
+    "code": "020/111",
+    "set": "Neo Genesis 020/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/20.png"
   },
   {
-    "set": "Wizards Black Star Promos 31/53",
-    "cost": "Not PSA Graded: $8.13",
+    "code": "031/53",
+    "set": "Wizards Black Star Promos 031/53",
+    "cost": "UnGraded: $8.13",
     "img": "https://images.pokemontcg.io/basep/31.png"
   },
   {
-    "set": "Diamond & Pearl 78/130",
-    "cost": "Not PSA Graded: $0.71",
+    "code": "078/130",
+    "set": "Diamond & Pearl 078/130",
+    "cost": "UnGraded: $0.71",
     "img": "https://images.pokemontcg.io/dp1/78.png"
   },
   {
-    "set": "Skyridge 48/182",
-    "cost": "Not PSA Graded: $14.35",
+    "code": "048/144",
+    "set": "Skyridge 048/144",
+    "cost": "UnGraded: $14.35",
     "img": "https://images.pokemontcg.io/ecard3/48.png"
   },
   {
-    "set": "Unbroken Bonds 131/234",
-    "cost": "Not PSA Graded: $4.06",
+    "code": "131/214",
+    "set": "Unbroken Bonds 131/214",
+    "cost": "UnGraded: $4.14",
     "img": "https://images.pokemontcg.io/sm10/131.png"
   },
   {
-    "set": "Cosmic Eclipse 143/272",
-    "cost": "Not PSA Graded: $36.99",
+    "code": "143/236",
+    "set": "Cosmic Eclipse 143/236",
+    "cost": "UnGraded: $36.97",
     "img": "https://images.pokemontcg.io/sm12/143.png"
   },
   {
-    "set": "Cosmic Eclipse 143a/272",
+    "code": "143a/236",
+    "set": "Cosmic Eclipse 143a/236",
     "cost": null,
     "img": "https://images.pokemontcg.io/sm12/143a.png"
   },
   {
-    "set": "Celebrations: Classic Collection 20/25",
-    "cost": "Not PSA Graded: $1.36",
+    "code": "020/25",
+    "set": "Celebrations: Classic Collection 020/25",
+    "cost": "UnGraded: $1.37",
     "img": "https://images.pokemontcg.io/cel25c/20_A.png"
   },
   {
-    "set": "Obsidian Flames 80/230",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "080/197",
+    "set": "Obsidian Flames 080/197",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sv3/80.png"
   },
   {
-    "set": "Obsidian Flames 202/230",
-    "cost": "Not PSA Graded: $18.32",
+    "code": "202/197",
+    "set": "Obsidian Flames 202/197",
+    "cost": "UnGraded: $18.67",
     "img": "https://images.pokemontcg.io/sv3/202.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 37/196",
-    "cost": "Not PSA Graded: $8.41",
+    "code": "037/215",
+    "set": "Scarlet & Violet Black Star Promos 037/215",
+    "cost": "UnGraded: $8.43",
     "img": "https://images.pokemontcg.io/svp/37.png"
   },
   {
-    "set": "Paldean Fates 150/245",
-    "cost": "Not PSA Graded: $2.99",
+    "code": "150/91",
+    "set": "Paldean Fates 150/91",
+    "cost": "UnGraded: $3.03",
     "img": "https://images.pokemontcg.io/sv4pt5/150.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 95/196",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "095/215",
+    "set": "Scarlet & Violet Black Star Promos 095/215",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/svp/95.png"
   }
 ]

@@ -1,27 +1,32 @@
 [
   {
-    "set": "Ultra Prism 61/178",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "061/156",
+    "set": "Ultra Prism 061/156",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm5/61.png"
   },
   {
-    "set": "Team Up 70/198",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "070/181",
+    "set": "Team Up 070/181",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm9/70.png"
   },
   {
-    "set": "Sun & Moon 65/173",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "065/149",
+    "set": "Sun & Moon 065/149",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm1/65.png"
   },
   {
-    "set": "Cosmic Eclipse 101/272",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "101/236",
+    "set": "Cosmic Eclipse 101/236",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/sm12/101.png"
   },
   {
-    "set": "Celebrations 14/25",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "014/25",
+    "set": "Celebrations 014/25",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/cel25/14.png"
   }
 ]

@@ -1,77 +1,92 @@
 [
   {
-    "set": "POP Series 4 1/17",
-    "cost": "Not PSA Graded: $566.11",
+    "code": "001/17",
+    "set": "POP Series 4 001/17",
+    "cost": "UnGraded: $566.11",
     "img": "https://images.pokemontcg.io/pop4/1.png"
   },
   {
-    "set": "Emerald 12/107",
-    "cost": "Not PSA Graded: $1.97",
+    "code": "012/106",
+    "set": "Emerald 012/106",
+    "cost": "UnGraded: $1.97",
     "img": "https://images.pokemontcg.io/ex9/12.png"
   },
   {
-    "set": "Supreme Victors 21/153",
-    "cost": "Not PSA Graded: $1.3",
+    "code": "021/147",
+    "set": "Supreme Victors 021/147",
+    "cost": "UnGraded: $1.3",
     "img": "https://images.pokemontcg.io/pl3/21.png"
   },
   {
-    "set": "Hidden Legends 17/102",
-    "cost": "Not PSA Graded: $1.3",
+    "code": "017/101",
+    "set": "Hidden Legends 017/101",
+    "cost": "UnGraded: $1.3",
     "img": "https://images.pokemontcg.io/ex5/17.png"
   },
   {
-    "set": "Mysterious Treasures 22/124",
-    "cost": "Not PSA Graded: $0.98",
+    "code": "022/123",
+    "set": "Mysterious Treasures 022/123",
+    "cost": "UnGraded: $0.98",
     "img": "https://images.pokemontcg.io/dp2/22.png"
   },
   {
-    "set": "Nintendo Black Star Promos 24/40",
-    "cost": "Not PSA Graded: $5.51",
+    "code": "024/40",
+    "set": "Nintendo Black Star Promos 024/40",
+    "cost": "UnGraded: $5.51",
     "img": "https://images.pokemontcg.io/np/24.png"
   },
   {
-    "set": "Holon Phantoms 37/111",
-    "cost": "Not PSA Graded: $1.25",
+    "code": "037/110",
+    "set": "Holon Phantoms 037/110",
+    "cost": "UnGraded: $1.25",
     "img": "https://images.pokemontcg.io/ex13/37.png"
   },
   {
-    "set": "Crimson Invasion 43/126",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "043/111",
+    "set": "Crimson Invasion 043/111",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm4/43.png"
   },
   {
-    "set": "Vivid Voltage 72/203",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "072/185",
+    "set": "Vivid Voltage 072/185",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh4/72.png"
   },
   {
-    "set": "Battle Styles 59/183",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "059/163",
+    "set": "Battle Styles 059/163",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh5/59.png"
   },
   {
-    "set": "Brilliant Stars 63/186",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "063/172",
+    "set": "Brilliant Stars 063/172",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/swsh9/63.png"
   },
   {
-    "set": "Silver Tempest 74/215",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "074/195",
+    "set": "Silver Tempest 074/195",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/swsh12/74.png"
   },
   {
-    "set": "Paldean Fates 30/245",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "030/91",
+    "set": "Paldean Fates 030/91",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv4pt5/30.png"
   },
   {
-    "set": "Twilight Masquerade 85/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "085/167",
+    "set": "Twilight Masquerade 085/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/85.png"
   },
   {
-    "set": "Twilight Masquerade 179/226",
-    "cost": "Not PSA Graded: $2.78",
+    "code": "179/167",
+    "set": "Twilight Masquerade 179/167",
+    "cost": "UnGraded: $2.78",
     "img": "https://images.pokemontcg.io/sv6/179.png"
   }
 ]

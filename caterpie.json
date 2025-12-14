@@ -1,107 +1,128 @@
 [
   {
-    "set": "McDonald's Collection 2019 1/12",
-    "cost": "Not PSA Graded: $10.76",
+    "code": "001/12",
+    "set": "McDonald's Collection 2019 001/12",
+    "cost": "UnGraded: $10.76",
     "img": "https://images.pokemontcg.io/mcd19/1.png"
   },
   {
-    "set": "Flashfire 1/110",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "001/106",
+    "set": "Flashfire 001/106",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/xy2/1.png"
   },
   {
-    "set": "Hidden Fates 1/69",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "001/68",
+    "set": "Hidden Fates 001/68",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sm115/1.png"
   },
   {
-    "set": "Burning Shadows 1/177",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "001/147",
+    "set": "Burning Shadows 001/147",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm3/1.png"
   },
   {
-    "set": "Sun & Moon 1/173",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "001/149",
+    "set": "Sun & Moon 001/149",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm1/1.png"
   },
   {
-    "set": "Rebel Clash 1/209",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "001/192",
+    "set": "Rebel Clash 001/192",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh2/1.png"
   },
   {
-    "set": "Unbroken Bonds 2/234",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "002/214",
+    "set": "Unbroken Bonds 002/214",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm10/2.png"
   },
   {
-    "set": "Evolutions 3/113",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "003/108",
+    "set": "Evolutions 003/108",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/xy12/3.png"
   },
   {
-    "set": "Generations 3/117",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "003/83",
+    "set": "Generations 003/83",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/g1/3.png"
   },
   {
-    "set": "Base 45/102",
-    "cost": "Not PSA Graded: $1.4",
+    "code": "045/102",
+    "set": "Base 045/102",
+    "cost": "UnGraded: $1.4",
     "img": "https://images.pokemontcg.io/base1/45.png"
   },
   {
-    "set": "HeartGold & SoulSilver 57/124",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "057/123",
+    "set": "HeartGold & SoulSilver 057/123",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/hgss1/57.png"
   },
   {
-    "set": "FireRed & LeafGreen 56/116",
-    "cost": "Not PSA Graded: $0.91",
+    "code": "056/112",
+    "set": "FireRed & LeafGreen 056/112",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/ex6/56.png"
   },
   {
-    "set": "Neo Discovery 53/75",
+    "code": "053/75",
+    "set": "Neo Discovery 053/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/53.png"
   },
   {
-    "set": "Great Encounters 63/106",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "063/106",
+    "set": "Great Encounters 063/106",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/dp4/63.png"
   },
   {
-    "set": "Base Set 2 68/130",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "068/130",
+    "set": "Base Set 2 068/130",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/base4/68.png"
   },
   {
-    "set": "Legendary Collection 69/110",
-    "cost": "Not PSA Graded: $0.75",
+    "code": "069/110",
+    "set": "Legendary Collection 069/110",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/base6/69.png"
   },
   {
-    "set": "Expedition Base Set 96/165",
-    "cost": "Not PSA Graded: $3.34",
+    "code": "096/165",
+    "set": "Expedition Base Set 096/165",
+    "cost": "UnGraded: $3.34",
     "img": "https://images.pokemontcg.io/ecard1/96.png"
   },
   {
-    "set": "Fusion Strike 1/284",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "001/264",
+    "set": "Fusion Strike 001/264",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh8/1.png"
   },
   {
-    "set": "151 10/207",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "010/165",
+    "set": "151 010/165",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3pt5/10.png"
   },
   {
-    "set": "151 172/207",
-    "cost": "Not PSA Graded: $10.22",
+    "code": "172/165",
+    "set": "151 172/165",
+    "cost": "UnGraded: $10.22",
     "img": "https://images.pokemontcg.io/sv3pt5/172.png"
   },
   {
-    "set": "Journey Together 1/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "001/159",
+    "set": "Journey Together 001/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/1.png"
   }
 ]

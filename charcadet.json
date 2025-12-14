@@ -1,67 +1,80 @@
 [
   {
-    "set": "Scarlet & Violet 40/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "040/198",
+    "set": "Scarlet & Violet 040/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/40.png"
   },
   {
-    "set": "Scarlet & Violet 39/258",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "039/198",
+    "set": "Scarlet & Violet 039/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv1/39.png"
   },
   {
-    "set": "Paldea Evolved 39/279",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "039/193",
+    "set": "Paldea Evolved 039/193",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv2/39.png"
   },
   {
-    "set": "Paldea Evolved 38/279",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "038/193",
+    "set": "Paldea Evolved 038/193",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv2/38.png"
   },
   {
-    "set": "Obsidian Flames 43/230",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "043/197",
+    "set": "Obsidian Flames 043/197",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3/43.png"
   },
   {
-    "set": "Paradox Rift 25/266",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "025/182",
+    "set": "Paradox Rift 025/182",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv4/25.png"
   },
   {
-    "set": "Paradox Rift 26/266",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "026/182",
+    "set": "Paradox Rift 026/182",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv4/26.png"
   },
   {
-    "set": "Paldean Fates 14/245",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "014/91",
+    "set": "Paldean Fates 014/91",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv4pt5/14.png"
   },
   {
-    "set": "Paldean Fates 114/245",
-    "cost": "Not PSA Graded: $5.29",
+    "code": "114/91",
+    "set": "Paldean Fates 114/91",
+    "cost": "UnGraded: $5.29",
     "img": "https://images.pokemontcg.io/sv4pt5/114.png"
   },
   {
-    "set": "Stellar Crown 29/175",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "029/142",
+    "set": "Stellar Crown 029/142",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv7/29.png"
   },
   {
-    "set": "Surging Sparks 32/252",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "032/191",
+    "set": "Surging Sparks 032/191",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv8/32.png"
   },
   {
-    "set": "Surging Sparks 33/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "033/191",
+    "set": "Surging Sparks 033/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/33.png"
   },
   {
-    "set": "Phantasmal Flames 19/130",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "019/94",
+    "set": "Phantasmal Flames 019/94",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/me2/19.png"
   }
 ]

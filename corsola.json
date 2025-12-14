@@ -1,72 +1,86 @@
 [
   {
-    "set": "POP Series 7 13/17",
-    "cost": "Not PSA Graded: $0.92",
+    "code": "013/17",
+    "set": "POP Series 7 013/17",
+    "cost": "UnGraded: $0.92",
     "img": "https://images.pokemontcg.io/pop7/13.png"
   },
   {
-    "set": "Dragon Majesty 27/80",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "027/70",
+    "set": "Dragon Majesty 027/70",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm75/27.png"
   },
   {
-    "set": "HeartGold & SoulSilver 37/124",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "037/123",
+    "set": "HeartGold & SoulSilver 037/123",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/hgss1/37.png"
   },
   {
-    "set": "XY 36/146",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "036/146",
+    "set": "XY 036/146",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/xy1/36.png"
   },
   {
-    "set": "BREAKpoint 29/126",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "029/122",
+    "set": "BREAKpoint 029/122",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy9/29.png"
   },
   {
-    "set": "Sun & Moon 36/173",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "036/149",
+    "set": "Sun & Moon 036/149",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm1/36.png"
   },
   {
-    "set": "Unseen Forces 37/145",
-    "cost": "Not PSA Graded: $1.38",
+    "code": "037/115",
+    "set": "Unseen Forces 037/115",
+    "cost": "UnGraded: $1.38",
     "img": "https://images.pokemontcg.io/ex10/37.png"
   },
   {
-    "set": "Hidden Legends 32/102",
-    "cost": "Not PSA Graded: $1.19",
+    "code": "032/101",
+    "set": "Hidden Legends 032/101",
+    "cost": "UnGraded: $1.19",
     "img": "https://images.pokemontcg.io/ex5/32.png"
   },
   {
-    "set": "Neo Discovery 37/75",
+    "code": "037/75",
+    "set": "Neo Discovery 037/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/37.png"
   },
   {
-    "set": "Secret Wonders 84/132",
-    "cost": "Not PSA Graded: $0.42",
+    "code": "084/132",
+    "set": "Secret Wonders 084/132",
+    "cost": "UnGraded: $0.42",
     "img": "https://images.pokemontcg.io/dp3/84.png"
   },
   {
-    "set": "Rebel Clash 78/209",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "078/192",
+    "set": "Rebel Clash 078/192",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh2/78.png"
   },
   {
+    "code": "102/165",
     "set": "Expedition Base Set 102/165",
-    "cost": "Not PSA Graded: $2.37",
+    "cost": "UnGraded: $2.37",
     "img": "https://images.pokemontcg.io/ecard1/102.png"
   },
   {
+    "code": "SV049/122",
     "set": "Shining Fates Shiny Vault SV049/122",
-    "cost": "Not PSA Graded: $1.7",
+    "cost": "UnGraded: $1.7",
     "img": "https://images.pokemontcg.io/swsh45sv/SV049.png"
   },
   {
-    "set": "Fusion Strike 117/284",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "117/264",
+    "set": "Fusion Strike 117/264",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh8/117.png"
   }
 ]

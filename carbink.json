@@ -1,47 +1,56 @@
 [
   {
-    "set": "Fates Collide 49/129",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "049/124",
+    "set": "Fates Collide 049/124",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/xy10/49.png"
   },
   {
-    "set": "Roaring Skies 47/112",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "047/108",
+    "set": "Roaring Skies 047/108",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/xy6/47.png"
   },
   {
-    "set": "Fates Collide 50/129",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "050/124",
+    "set": "Fates Collide 050/124",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/xy10/50.png"
   },
   {
-    "set": "Fates Collide 51/129",
-    "cost": "Not PSA Graded: $2.22",
+    "code": "051/124",
+    "set": "Fates Collide 051/124",
+    "cost": "UnGraded: $2.22",
     "img": "https://images.pokemontcg.io/xy10/51.png"
   },
   {
-    "set": "Flashfire 68/110",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "068/106",
+    "set": "Flashfire 068/106",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/xy2/68.png"
   },
   {
-    "set": "Lost Thunder 117/240",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "117/214",
+    "set": "Lost Thunder 117/214",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm8/117.png"
   },
   {
-    "set": "Lost Thunder 143/240",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "143/214",
+    "set": "Lost Thunder 143/214",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm8/143.png"
   },
   {
-    "set": "Lost Origin 108/217",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "108/196",
+    "set": "Lost Origin 108/196",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh11/108.png"
   },
   {
-    "set": "Destined Rivals 86/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "086/182",
+    "set": "Destined Rivals 086/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/86.png"
   }
 ]

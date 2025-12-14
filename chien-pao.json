@@ -1,47 +1,56 @@
 [
   {
-    "set": "Paldea Evolved 61/279",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "061/193",
+    "set": "Paldea Evolved 061/193",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/sv2/61.png"
   },
   {
-    "set": "Paldea Evolved 261/279",
-    "cost": "Not PSA Graded: $20.52",
+    "code": "261/193",
+    "set": "Paldea Evolved 261/193",
+    "cost": "UnGraded: $20.52",
     "img": "https://images.pokemontcg.io/sv2/261.png"
   },
   {
-    "set": "Paldea Evolved 236/279",
-    "cost": "Not PSA Graded: $2.55",
+    "code": "236/193",
+    "set": "Paldea Evolved 236/193",
+    "cost": "UnGraded: $2.55",
     "img": "https://images.pokemontcg.io/sv2/236.png"
   },
   {
-    "set": "Paldea Evolved 274/279",
-    "cost": "Not PSA Graded: $4.82",
+    "code": "274/193",
+    "set": "Paldea Evolved 274/193",
+    "cost": "UnGraded: $4.82",
     "img": "https://images.pokemontcg.io/sv2/274.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 30/196",
-    "cost": "Not PSA Graded: $3.64",
+    "code": "030/215",
+    "set": "Scarlet & Violet Black Star Promos 030/215",
+    "cost": "UnGraded: $3.64",
     "img": "https://images.pokemontcg.io/svp/30.png"
   },
   {
-    "set": "Paradox Rift 57/266",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "057/182",
+    "set": "Paradox Rift 057/182",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv4/57.png"
   },
   {
-    "set": "Paldean Fates 242/245",
-    "cost": "Not PSA Graded: $6.21",
+    "code": "242/91",
+    "set": "Paldean Fates 242/91",
+    "cost": "UnGraded: $6.21",
     "img": "https://images.pokemontcg.io/sv4pt5/242.png"
   },
   {
-    "set": "Surging Sparks 56/252",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "056/191",
+    "set": "Surging Sparks 056/191",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv8/56.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 152/196",
-    "cost": "Not PSA Graded: $5.88",
+    "code": "152/215",
+    "set": "Scarlet & Violet Black Star Promos 152/215",
+    "cost": "UnGraded: $5.88",
     "img": "https://images.pokemontcg.io/svp/152.png"
   }
 ]

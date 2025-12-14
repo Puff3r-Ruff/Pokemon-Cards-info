@@ -1,92 +1,110 @@
 [
   {
-    "set": "Champion's Path 10/80",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "010/73",
+    "set": "Champion's Path 010/73",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh35/10.png"
   },
   {
-    "set": "Darkness Ablaze 33/201",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "033/189",
+    "set": "Darkness Ablaze 033/189",
+    "cost": "UnGraded: $0.84",
     "img": "https://images.pokemontcg.io/swsh3/33.png"
   },
   {
-    "set": "Darkness Ablaze 34/201",
-    "cost": "Not PSA Graded: $1.98",
+    "code": "034/189",
+    "set": "Darkness Ablaze 034/189",
+    "cost": "UnGraded: $1.98",
     "img": "https://images.pokemontcg.io/swsh3/34.png"
   },
   {
-    "set": "Sword & Shield 39/216",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "039/202",
+    "set": "Sword & Shield 039/202",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/swsh1/39.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH048/304",
-    "cost": "Not PSA Graded: $1.19",
+    "code": "SWSH048/307",
+    "set": "SWSH Black Star Promos SWSH048/307",
+    "cost": "UnGraded: $1.19",
     "img": "https://images.pokemontcg.io/swshp/SWSH048.png"
   },
   {
-    "set": "Darkness Ablaze 179/201",
-    "cost": "Not PSA Graded: $1.76",
+    "code": "179/189",
+    "set": "Darkness Ablaze 179/189",
+    "cost": "UnGraded: $1.76",
     "img": "https://images.pokemontcg.io/swsh3/179.png"
   },
   {
-    "set": "Darkness Ablaze 191/201",
-    "cost": "Not PSA Graded: $6.36",
+    "code": "191/189",
+    "set": "Darkness Ablaze 191/189",
+    "cost": "UnGraded: $6.36",
     "img": "https://images.pokemontcg.io/swsh3/191.png"
   },
   {
+    "code": "SV019/122",
     "set": "Shining Fates Shiny Vault SV019/122",
-    "cost": "Not PSA Graded: $1.71",
+    "cost": "UnGraded: $1.71",
     "img": "https://images.pokemontcg.io/swsh45sv/SV019.png"
   },
   {
+    "code": "SV108/122",
     "set": "Shining Fates Shiny Vault SV108/122",
-    "cost": "Not PSA Graded: $1.04",
+    "cost": "UnGraded: $1.04",
     "img": "https://images.pokemontcg.io/swsh45sv/SV108.png"
   },
   {
+    "code": "SV109/122",
     "set": "Shining Fates Shiny Vault SV109/122",
-    "cost": "Not PSA Graded: $2.25",
+    "cost": "UnGraded: $2.25",
     "img": "https://images.pokemontcg.io/swsh45sv/SV109.png"
   },
   {
-    "set": "Battle Styles 30/183",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "030/163",
+    "set": "Battle Styles 030/163",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh5/30.png"
   },
   {
-    "set": "Fusion Strike 48/284",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "048/264",
+    "set": "Fusion Strike 048/264",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh8/48.png"
   },
   {
-    "set": "Fusion Strike 49/284",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "049/264",
+    "set": "Fusion Strike 049/264",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh8/49.png"
   },
   {
+    "code": "TG14/30",
     "set": "Lost Origin Trainer Gallery TG14/30",
-    "cost": "Not PSA Graded: $3.62",
+    "cost": "UnGraded: $3.62",
     "img": "https://images.pokemontcg.io/swsh11tg/TG14.png"
   },
   {
+    "code": "TG15/30",
     "set": "Lost Origin Trainer Gallery TG15/30",
-    "cost": "Not PSA Graded: $5.58",
+    "cost": "UnGraded: $5.58",
     "img": "https://images.pokemontcg.io/swsh11tg/TG15.png"
   },
   {
-    "set": "Temporal Forces 37/218",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "037/162",
+    "set": "Temporal Forces 037/162",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv5/37.png"
   },
   {
-    "set": "Surging Sparks 28/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "028/191",
+    "set": "Surging Sparks 028/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/28.png"
   },
   {
-    "set": "Mega Evolution 30/188",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "030/132",
+    "set": "Mega Evolution 030/132",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me1/30.png"
   }
 ]

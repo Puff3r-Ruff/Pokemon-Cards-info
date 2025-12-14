@@ -1,97 +1,116 @@
 [
   {
-    "set": "Sun & Moon 11/173",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "011/149",
+    "set": "Sun & Moon 011/149",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm1/11.png"
   },
   {
-    "set": "Sun & Moon 12/173",
-    "cost": "Not PSA Graded: $1.79",
+    "code": "012/149",
+    "set": "Sun & Moon 012/149",
+    "cost": "UnGraded: $1.79",
     "img": "https://images.pokemontcg.io/sm1/12.png"
   },
   {
-    "set": "Darkness Ablaze 13/201",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "013/189",
+    "set": "Darkness Ablaze 013/189",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh3/13.png"
   },
   {
-    "set": "Cosmic Eclipse 20/272",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "020/236",
+    "set": "Cosmic Eclipse 020/236",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/sm12/20.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH035/304",
-    "cost": "Not PSA Graded: $5.73",
+    "code": "SWSH035/307",
+    "set": "SWSH Black Star Promos SWSH035/307",
+    "cost": "UnGraded: $5.73",
     "img": "https://images.pokemontcg.io/swshp/SWSH035.png"
   },
   {
-    "set": "SM Black Star Promos SM37/250",
-    "cost": "Not PSA Graded: $6.19",
+    "code": "SM37/248",
+    "set": "SM Black Star Promos SM37/248",
+    "cost": "UnGraded: $6.19",
     "img": "https://images.pokemontcg.io/smp/SM37.png"
   },
   {
+    "code": "SV47/94",
     "set": "Hidden Fates Shiny Vault SV47/94",
-    "cost": "Not PSA Graded: $16.77",
+    "cost": "UnGraded: $16.77",
     "img": "https://images.pokemontcg.io/sma/SV47.png"
   },
   {
-    "set": "SM Black Star Promos SM55/250",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "SM55/248",
+    "set": "SM Black Star Promos SM55/248",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/smp/SM55.png"
   },
   {
-    "set": "Guardians Rising 146/180",
-    "cost": "Not PSA Graded: $33.27",
+    "code": "146/145",
+    "set": "Guardians Rising 146/145",
+    "cost": "UnGraded: $33.27",
     "img": "https://images.pokemontcg.io/sm2/146.png"
   },
   {
+    "code": "SV003/122",
     "set": "Shining Fates Shiny Vault SV003/122",
-    "cost": "Not PSA Graded: $4.09",
+    "cost": "UnGraded: $4.09",
     "img": "https://images.pokemontcg.io/swsh45sv/SV003.png"
   },
   {
-    "set": "Shining Fates 8/73",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "008/72",
+    "set": "Shining Fates 008/72",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh45/8.png"
   },
   {
-    "set": "Astral Radiance 82/216",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "082/189",
+    "set": "Astral Radiance 082/189",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh10/82.png"
   },
   {
-    "set": "Astral Radiance 83/216",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "083/189",
+    "set": "Astral Radiance 083/189",
+    "cost": "UnGraded: $0.78",
     "img": "https://images.pokemontcg.io/swsh10/83.png"
   },
   {
-    "set": "Astral Radiance 84/216",
-    "cost": "Not PSA Graded: $1.3",
+    "code": "084/189",
+    "set": "Astral Radiance 084/189",
+    "cost": "UnGraded: $1.3",
     "img": "https://images.pokemontcg.io/swsh10/84.png"
   },
   {
-    "set": "Astral Radiance 173/216",
-    "cost": "Not PSA Graded: $1.58",
+    "code": "173/189",
+    "set": "Astral Radiance 173/189",
+    "cost": "UnGraded: $1.58",
     "img": "https://images.pokemontcg.io/swsh10/173.png"
   },
   {
-    "set": "Astral Radiance 195/216",
-    "cost": "Not PSA Graded: $7.55",
+    "code": "195/189",
+    "set": "Astral Radiance 195/189",
+    "cost": "UnGraded: $7.55",
     "img": "https://images.pokemontcg.io/swsh10/195.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH238/304",
-    "cost": "Not PSA Graded: $0.98",
+    "code": "SWSH238/307",
+    "set": "SWSH Black Star Promos SWSH238/307",
+    "cost": "UnGraded: $0.98",
     "img": "https://images.pokemontcg.io/swshp/SWSH238.png"
   },
   {
-    "set": "Obsidian Flames 15/230",
-    "cost": "Not PSA Graded: $0.76",
+    "code": "015/197",
+    "set": "Obsidian Flames 015/197",
+    "cost": "UnGraded: $0.76",
     "img": "https://images.pokemontcg.io/sv3/15.png"
   },
   {
-    "set": "Shrouded Fable 5/99",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "005/64",
+    "set": "Shrouded Fable 005/64",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv6pt5/5.png"
   }
 ]

@@ -1,32 +1,38 @@
 [
   {
-    "set": "Guardians Rising 93/180",
-    "cost": "Not PSA Graded: $0.77",
+    "code": "093/145",
+    "set": "Guardians Rising 093/145",
+    "cost": "UnGraded: $0.77",
     "img": "https://images.pokemontcg.io/sm2/93.png"
   },
   {
-    "set": "Lost Origin 79/217",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "079/196",
+    "set": "Lost Origin 079/196",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh11/79.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH242/304",
-    "cost": "Not PSA Graded: $1.02",
+    "code": "SWSH242/307",
+    "set": "SWSH Black Star Promos SWSH242/307",
+    "cost": "UnGraded: $1.02",
     "img": "https://images.pokemontcg.io/swshp/SWSH242.png"
   },
   {
+    "code": "GG14/70",
     "set": "Crown Zenith Galarian Gallery GG14/70",
-    "cost": "Not PSA Graded: $1.42",
+    "cost": "UnGraded: $1.42",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG14.png"
   },
   {
-    "set": "Stellar Crown 63/175",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "063/142",
+    "set": "Stellar Crown 063/142",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv7/63.png"
   },
   {
-    "set": "Journey Together 68/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "068/159",
+    "set": "Journey Together 068/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/68.png"
   }
 ]

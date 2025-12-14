@@ -1,32 +1,38 @@
 [
   {
-    "set": "Scarlet & Violet 99/258",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "099/198",
+    "set": "Scarlet & Violet 099/198",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv1/99.png"
   },
   {
-    "set": "Paldean Fates 39/245",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "039/91",
+    "set": "Paldean Fates 039/91",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv4pt5/39.png"
   },
   {
-    "set": "Paldean Fates 161/245",
-    "cost": "Not PSA Graded: $4.56",
+    "code": "161/91",
+    "set": "Paldean Fates 161/91",
+    "cost": "UnGraded: $4.56",
     "img": "https://images.pokemontcg.io/sv4pt5/161.png"
   },
   {
-    "set": "Stellar Crown 67/175",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "067/142",
+    "set": "Stellar Crown 067/142",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/sv7/67.png"
   },
   {
-    "set": "Stellar Crown 160/175",
-    "cost": "Not PSA Graded: $2.83",
+    "code": "160/142",
+    "set": "Stellar Crown 160/142",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/sv7/160.png"
   },
   {
-    "set": "Stellar Crown 169/175",
-    "cost": "Not PSA Graded: $29.26",
+    "code": "169/142",
+    "set": "Stellar Crown 169/142",
+    "cost": "UnGraded: $29.26",
     "img": "https://images.pokemontcg.io/sv7/169.png"
   }
 ]

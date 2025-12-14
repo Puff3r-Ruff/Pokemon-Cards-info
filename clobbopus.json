@@ -1,47 +1,56 @@
 [
   {
-    "set": "Vivid Voltage 100/203",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "100/185",
+    "set": "Vivid Voltage 100/185",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh4/100.png"
   },
   {
-    "set": "Sword & Shield 111/216",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "111/202",
+    "set": "Sword & Shield 111/202",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh1/111.png"
   },
   {
-    "set": "Sword & Shield 112/216",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "112/202",
+    "set": "Sword & Shield 112/202",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh1/112.png"
   },
   {
+    "code": "SV072/122",
     "set": "Shining Fates Shiny Vault SV072/122",
-    "cost": "Not PSA Graded: $1.75",
+    "cost": "UnGraded: $1.75",
     "img": "https://images.pokemontcg.io/swsh45sv/SV072.png"
   },
   {
-    "set": "Chilling Reign 91/233",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "091/198",
+    "set": "Chilling Reign 091/198",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh6/91.png"
   },
   {
-    "set": "Fusion Strike 152/284",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "152/264",
+    "set": "Fusion Strike 152/264",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh8/152.png"
   },
   {
-    "set": "Paldean Fates 51/245",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "051/91",
+    "set": "Paldean Fates 051/91",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv4pt5/51.png"
   },
   {
-    "set": "Surging Sparks 112/252",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "112/191",
+    "set": "Surging Sparks 112/191",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv8/112.png"
   },
   {
-    "set": "Surging Sparks 207/252",
-    "cost": "Not PSA Graded: $4.73",
+    "code": "207/191",
+    "set": "Surging Sparks 207/191",
+    "cost": "UnGraded: $4.73",
     "img": "https://images.pokemontcg.io/sv8/207.png"
   }
 ]

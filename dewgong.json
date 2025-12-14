@@ -1,92 +1,110 @@
 [
   {
-    "set": "FireRed & LeafGreen 3/116",
-    "cost": "Not PSA Graded: $21.85",
+    "code": "003/112",
+    "set": "FireRed & LeafGreen 003/112",
+    "cost": "UnGraded: $21.85",
     "img": "https://images.pokemontcg.io/ex6/3.png"
   },
   {
-    "set": "Skyridge H6/182",
+    "code": "0H6/144",
+    "set": "Skyridge 0H6/144",
     "cost": null,
     "img": "https://images.pokemontcg.io/ecard3/H6.png"
   },
   {
-    "set": "Fates Collide 16/129",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "016/124",
+    "set": "Fates Collide 016/124",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy10/16.png"
   },
   {
-    "set": "Base 25/102",
-    "cost": "Not PSA Graded: $2.6",
+    "code": "025/102",
+    "set": "Base 025/102",
+    "cost": "UnGraded: $2.6",
     "img": "https://images.pokemontcg.io/base1/25.png"
   },
   {
-    "set": "Supreme Victors 24/153",
-    "cost": "Not PSA Graded: $1.34",
+    "code": "024/147",
+    "set": "Supreme Victors 024/147",
+    "cost": "UnGraded: $1.34",
     "img": "https://images.pokemontcg.io/pl3/24.png"
   },
   {
-    "set": "Dragon Frontiers 15/101",
-    "cost": "Not PSA Graded: $2.28",
+    "code": "015/101",
+    "set": "Dragon Frontiers 015/101",
+    "cost": "UnGraded: $2.28",
     "img": "https://images.pokemontcg.io/ex15/15.png"
   },
   {
-    "set": "Base Set 2 36/130",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "036/130",
+    "set": "Base Set 2 036/130",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/base4/36.png"
   },
   {
-    "set": "Evolutions 29/113",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "029/108",
+    "set": "Evolutions 029/108",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy12/29.png"
   },
   {
-    "set": "Skyridge 7/182",
-    "cost": "Not PSA Graded: $20.79",
+    "code": "007/144",
+    "set": "Skyridge 007/144",
+    "cost": "UnGraded: $20.79",
     "img": "https://images.pokemontcg.io/ecard3/7.png"
   },
   {
-    "set": "Legendary Collection 40/110",
-    "cost": "Not PSA Graded: $1.75",
+    "code": "040/110",
+    "set": "Legendary Collection 040/110",
+    "cost": "UnGraded: $1.75",
     "img": "https://images.pokemontcg.io/base6/40.png"
   },
   {
-    "set": "Neo Destiny 45/113",
+    "code": "045/105",
+    "set": "Neo Destiny 045/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/45.png"
   },
   {
-    "set": "Mysterious Treasures 45/124",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "045/123",
+    "set": "Mysterious Treasures 045/123",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/dp2/45.png"
   },
   {
-    "set": "Gym Challenge 54/132",
+    "code": "054/132",
+    "set": "Gym Challenge 054/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/54.png"
   },
   {
-    "set": "Unbroken Bonds 45/234",
-    "cost": "Not PSA Graded: $0.4",
+    "code": "045/214",
+    "set": "Unbroken Bonds 045/214",
+    "cost": "UnGraded: $0.4",
     "img": "https://images.pokemontcg.io/sm10/45.png"
   },
   {
-    "set": "Lost Origin 34/217",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "034/196",
+    "set": "Lost Origin 034/196",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh11/34.png"
   },
   {
-    "set": "151 87/207",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "087/165",
+    "set": "151 087/165",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3pt5/87.png"
   },
   {
-    "set": "Phantasmal Flames 22/130",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "022/94",
+    "set": "Phantasmal Flames 022/94",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me2/22.png"
   },
   {
-    "set": "Phantasmal Flames 97/130",
-    "cost": "Not PSA Graded: $3.7",
+    "code": "097/94",
+    "set": "Phantasmal Flames 097/94",
+    "cost": "UnGraded: $3.7",
     "img": "https://images.pokemontcg.io/me2/97.png"
   }
 ]

@@ -1,87 +1,104 @@
 [
   {
-    "set": "Legend Maker 4/93",
-    "cost": "Not PSA Graded: $9.91",
+    "code": "004/92",
+    "set": "Legend Maker 004/92",
+    "cost": "UnGraded: $9.91",
     "img": "https://images.pokemontcg.io/ex12/4.png"
   },
   {
-    "set": "Platinum 4/133",
-    "cost": "Not PSA Graded: $9.15",
+    "code": "004/127",
+    "set": "Platinum 004/127",
+    "cost": "UnGraded: $9.15",
     "img": "https://images.pokemontcg.io/pl1/4.png"
   },
   {
-    "set": "Ruby & Sapphire 5/109",
-    "cost": "Not PSA Graded: $14.4",
+    "code": "005/109",
+    "set": "Ruby & Sapphire 005/109",
+    "cost": "UnGraded: $14.4",
     "img": "https://images.pokemontcg.io/ex1/5.png"
   },
   {
-    "set": "Power Keepers 8/108",
-    "cost": "Not PSA Graded: $8.38",
+    "code": "008/108",
+    "set": "Power Keepers 008/108",
+    "cost": "UnGraded: $8.38",
     "img": "https://images.pokemontcg.io/ex16/8.png"
   },
   {
-    "set": "Legends Awakened 23/146",
-    "cost": "Not PSA Graded: $1.3",
+    "code": "023/146",
+    "set": "Legends Awakened 023/146",
+    "cost": "UnGraded: $1.3",
     "img": "https://images.pokemontcg.io/dp6/23.png"
   },
   {
-    "set": "Ruby & Sapphire 29/109",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "029/109",
+    "set": "Ruby & Sapphire 029/109",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/ex1/29.png"
   },
   {
-    "set": "Sandstorm 34/100",
-    "cost": "Not PSA Graded: $1.43",
+    "code": "034/100",
+    "set": "Sandstorm 034/100",
+    "cost": "UnGraded: $1.43",
     "img": "https://images.pokemontcg.io/ex2/34.png"
   },
   {
-    "set": "Crystal Guardians 91/100",
-    "cost": "Not PSA Graded: $54.47",
+    "code": "091/100",
+    "set": "Crystal Guardians 091/100",
+    "cost": "UnGraded: $54.47",
     "img": "https://images.pokemontcg.io/ex14/91.png"
   },
   {
+    "code": "105/146",
     "set": "XY 105/146",
-    "cost": "Not PSA Graded: $0.21",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/xy1/105.png"
   },
   {
-    "set": "Primal Clash 114/164",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "114/160",
+    "set": "Primal Clash 114/160",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/xy5/114.png"
   },
   {
-    "set": "Boundaries Crossed 114/153",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "114/149",
+    "set": "Boundaries Crossed 114/149",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/bw7/114.png"
   },
   {
-    "set": "Celestial Storm 121/187",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "121/168",
+    "set": "Celestial Storm 121/168",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/sm7/121.png"
   },
   {
-    "set": "SM Black Star Promos SM132/250",
-    "cost": "Not PSA Graded: $5.04",
+    "code": "SM132/248",
+    "set": "SM Black Star Promos SM132/248",
+    "cost": "UnGraded: $5.04",
     "img": "https://images.pokemontcg.io/smp/SM132.png"
   },
   {
-    "set": "Darkness Ablaze 142/201",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "142/189",
+    "set": "Darkness Ablaze 142/189",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/swsh3/142.png"
   },
   {
-    "set": "Fusion Strike 211/284",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "211/264",
+    "set": "Fusion Strike 211/264",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/swsh8/211.png"
   },
   {
-    "set": "EX Trainer Kit Latias 3/10",
+    "code": "003/10",
+    "set": "EX Trainer Kit Latias 003/10",
     "cost": null,
     "img": "https://images.pokemontcg.io/tk1a/3.png"
   },
   {
-    "set": "Temporal Forces 131/218",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "131/162",
+    "set": "Temporal Forces 131/162",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv5/131.png"
   }
 ]

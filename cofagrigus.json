@@ -1,57 +1,68 @@
 [
   {
-    "set": "Noble Victories 46/102",
-    "cost": "Not PSA Graded: $2.11",
+    "code": "046/101",
+    "set": "Noble Victories 046/101",
+    "cost": "UnGraded: $2.11",
     "img": "https://images.pokemontcg.io/bw3/46.png"
   },
   {
-    "set": "Noble Victories 47/102",
-    "cost": "Not PSA Graded: $2.26",
+    "code": "047/101",
+    "set": "Noble Victories 047/101",
+    "cost": "UnGraded: $2.26",
     "img": "https://images.pokemontcg.io/bw3/47.png"
   },
   {
-    "set": "Plasma Freeze 56/122",
-    "cost": "Not PSA Graded: $5.8",
+    "code": "056/116",
+    "set": "Plasma Freeze 056/116",
+    "cost": "UnGraded: $5.8",
     "img": "https://images.pokemontcg.io/bw9/56.png"
   },
   {
-    "set": "Plasma Freeze 57/122",
-    "cost": "Not PSA Graded: $1.64",
+    "code": "057/116",
+    "set": "Plasma Freeze 057/116",
+    "cost": "UnGraded: $1.64",
     "img": "https://images.pokemontcg.io/bw9/57.png"
   },
   {
-    "set": "Dark Explorers 52/111",
-    "cost": "Not PSA Graded: $1.43",
+    "code": "052/108",
+    "set": "Dark Explorers 052/108",
+    "cost": "UnGraded: $1.43",
     "img": "https://images.pokemontcg.io/bw5/52.png"
   },
   {
-    "set": "Lost Thunder 100/240",
-    "cost": "Not PSA Graded: $1.43",
+    "code": "100/214",
+    "set": "Lost Thunder 100/214",
+    "cost": "UnGraded: $1.43",
     "img": "https://images.pokemontcg.io/sm8/100.png"
   },
   {
-    "set": "Paradox Rift 76/266",
-    "cost": "Not PSA Graded: $0.75",
+    "code": "076/182",
+    "set": "Paradox Rift 076/182",
+    "cost": "UnGraded: $0.75",
     "img": "https://images.pokemontcg.io/sv4/76.png"
   },
   {
-    "set": "Paradox Rift 224/266",
-    "cost": "Not PSA Graded: $1.75",
+    "code": "224/182",
+    "set": "Paradox Rift 224/182",
+    "cost": "UnGraded: $1.75",
     "img": "https://images.pokemontcg.io/sv4/224.png"
   },
   {
-    "set": "Surging Sparks 83/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "083/191",
+    "set": "Surging Sparks 083/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/83.png"
   },
   {
-    "set": "White Flare 40/173",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "040/86",
+    "set": "White Flare 040/86",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/rsv10pt5/40.png"
   },
   {
-    "set": "White Flare 123/173",
-    "cost": "Not PSA Graded: $18.58",
+    "code": "123/86",
+    "set": "White Flare 123/86",
+    "cost": "UnGraded: $18.58",
     "img": "https://images.pokemontcg.io/rsv10pt5/123.png"
   }
 ]

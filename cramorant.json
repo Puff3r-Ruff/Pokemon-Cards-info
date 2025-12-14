@@ -1,77 +1,92 @@
 [
   {
-    "set": "Vivid Voltage 40/203",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "040/185",
+    "set": "Vivid Voltage 040/185",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh4/40.png"
   },
   {
-    "set": "Rebel Clash 51/209",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "051/192",
+    "set": "Rebel Clash 051/192",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/swsh2/51.png"
   },
   {
-    "set": "Sword & Shield 62/216",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "062/202",
+    "set": "Sword & Shield 062/202",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/swsh1/62.png"
   },
   {
-    "set": "Sword & Shield 155/216",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "155/202",
+    "set": "Sword & Shield 155/202",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/swsh1/155.png"
   },
   {
-    "set": "Sword & Shield 198/216",
-    "cost": "Not PSA Graded: $2.04",
+    "code": "198/202",
+    "set": "Sword & Shield 198/202",
+    "cost": "UnGraded: $2.04",
     "img": "https://images.pokemontcg.io/swsh1/198.png"
   },
   {
-    "set": "Shining Fates 28/73",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "028/72",
+    "set": "Shining Fates 028/72",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh45/28.png"
   },
   {
+    "code": "SV030/122",
     "set": "Shining Fates Shiny Vault SV030/122",
-    "cost": "Not PSA Graded: $0.8",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/swsh45sv/SV030.png"
   },
   {
-    "set": "Shining Fates 54/73",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "054/72",
+    "set": "Shining Fates 054/72",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/swsh45/54.png"
   },
   {
-    "set": "Shining Fates 55/73",
-    "cost": "Not PSA Graded: $1.27",
+    "code": "055/72",
+    "set": "Shining Fates 055/72",
+    "cost": "UnGraded: $1.27",
     "img": "https://images.pokemontcg.io/swsh45/55.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH086/304",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "SWSH086/307",
+    "set": "SWSH Black Star Promos SWSH086/307",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/swshp/SWSH086.png"
   },
   {
-    "set": "Lost Origin 50/217",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "050/196",
+    "set": "Lost Origin 050/196",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh11/50.png"
   },
   {
-    "set": "Twilight Masquerade 58/226",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "058/167",
+    "set": "Twilight Masquerade 058/167",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv6/58.png"
   },
   {
-    "set": "Twilight Masquerade 176/226",
-    "cost": "Not PSA Graded: $2.95",
+    "code": "176/167",
+    "set": "Twilight Masquerade 176/167",
+    "cost": "UnGraded: $2.95",
     "img": "https://images.pokemontcg.io/sv6/176.png"
   },
   {
-    "set": "Journey Together 137/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "137/159",
+    "set": "Journey Together 137/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/137.png"
   },
   {
-    "set": "Journey Together 138/190",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "138/159",
+    "set": "Journey Together 138/159",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv9/138.png"
   }
 ]

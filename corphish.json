@@ -1,92 +1,110 @@
 [
   {
-    "set": "Team Magma vs Team Aqua 26/97",
-    "cost": "Not PSA Graded: $1.11",
+    "code": "026/95",
+    "set": "Team Magma vs Team Aqua 026/95",
+    "cost": "UnGraded: $1.11",
     "img": "https://images.pokemontcg.io/ex4/26.png"
   },
   {
-    "set": "Crimson Invasion 24/126",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "024/111",
+    "set": "Crimson Invasion 024/111",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sm4/24.png"
   },
   {
-    "set": "Primal Clash 42/164",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "042/160",
+    "set": "Primal Clash 042/160",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy5/42.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 50/97",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "050/95",
+    "set": "Team Magma vs Team Aqua 050/95",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/ex4/50.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 51/97",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "051/95",
+    "set": "Team Magma vs Team Aqua 051/95",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/ex4/51.png"
   },
   {
-    "set": "Dragon 52/100",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "052/97",
+    "set": "Dragon 052/97",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/ex3/52.png"
   },
   {
-    "set": "Dragon 53/100",
-    "cost": "Not PSA Graded: $0.53",
+    "code": "053/97",
+    "set": "Dragon 053/97",
+    "cost": "UnGraded: $0.53",
     "img": "https://images.pokemontcg.io/ex3/53.png"
   },
   {
-    "set": "Dragon 54/100",
-    "cost": "Not PSA Graded: $1.16",
+    "code": "054/97",
+    "set": "Dragon 054/97",
+    "cost": "UnGraded: $1.16",
     "img": "https://images.pokemontcg.io/ex3/54.png"
   },
   {
-    "set": "Deoxys 57/108",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "057/107",
+    "set": "Deoxys 057/107",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/ex8/57.png"
   },
   {
-    "set": "Holon Phantoms 62/111",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "062/110",
+    "set": "Holon Phantoms 062/110",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/ex13/62.png"
   },
   {
-    "set": "Holon Phantoms 63/111",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "063/110",
+    "set": "Holon Phantoms 063/110",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/ex13/63.png"
   },
   {
-    "set": "Legends Awakened 89/146",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "089/146",
+    "set": "Legends Awakened 089/146",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/dp6/89.png"
   },
   {
-    "set": "Supreme Victors 100/153",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "100/147",
+    "set": "Supreme Victors 100/147",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/pl3/100.png"
   },
   {
-    "set": "Battle Styles 38/183",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "038/163",
+    "set": "Battle Styles 038/163",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh5/38.png"
   },
   {
-    "set": "Brilliant Stars 32/186",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "032/172",
+    "set": "Brilliant Stars 032/172",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh9/32.png"
   },
   {
-    "set": "Crown Zenith 33/160",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "033/159",
+    "set": "Crown Zenith 033/159",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12pt5/33.png"
   },
   {
-    "set": "Twilight Masquerade 47/226",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "047/167",
+    "set": "Twilight Masquerade 047/167",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/sv6/47.png"
   },
   {
-    "set": "Mega Evolution 33/188",
-    "cost": "Not PSA Graded: $0.02",
+    "code": "033/132",
+    "set": "Mega Evolution 033/132",
+    "cost": "UnGraded: $0.02",
     "img": "https://images.pokemontcg.io/me1/33.png"
   }
 ]
