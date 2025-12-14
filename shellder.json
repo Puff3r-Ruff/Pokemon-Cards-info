@@ -1,0 +1,72 @@
+[
+  {
+    "set": "BREAKpoint 22/126",
+    "cost": "Not PSA Graded: $0.13",
+    "img": "https://images.pokemontcg.io/xy9/22.png"
+  },
+  {
+    "set": "XY 31/146",
+    "cost": "Not PSA Graded: $0.17",
+    "img": "https://images.pokemontcg.io/xy1/31.png"
+  },
+  {
+    "set": "Generations 19/117",
+    "cost": "Not PSA Graded: $0.13",
+    "img": "https://images.pokemontcg.io/g1/19.png"
+  },
+  {
+    "set": "BREAKpoint 23/126",
+    "cost": "Not PSA Graded: $0.12",
+    "img": "https://images.pokemontcg.io/xy9/23.png"
+  },
+  {
+    "set": "Sun & Moon 33/173",
+    "cost": "Not PSA Graded: $0.12",
+    "img": "https://images.pokemontcg.io/sm1/33.png"
+  },
+  {
+    "set": "Sword & Shield 40/216",
+    "cost": "Not PSA Graded: $0.07",
+    "img": "https://images.pokemontcg.io/swsh1/40.png"
+  },
+  {
+    "set": "Fossil 54/62",
+    "cost": null,
+    "img": "https://images.pokemontcg.io/base3/54.png"
+  },
+  {
+    "set": "Dragon Frontiers 63/101",
+    "cost": "Not PSA Graded: $0.37",
+    "img": "https://images.pokemontcg.io/ex15/63.png"
+  },
+  {
+    "set": "FireRed & LeafGreen 79/116",
+    "cost": "Not PSA Graded: $0.6",
+    "img": "https://images.pokemontcg.io/ex6/79.png"
+  },
+  {
+    "set": "Gym Heroes 89/132",
+    "cost": null,
+    "img": "https://images.pokemontcg.io/gym1/89.png"
+  },
+  {
+    "set": "Secret Wonders 105/132",
+    "cost": "Not PSA Graded: $0.3",
+    "img": "https://images.pokemontcg.io/dp3/105.png"
+  },
+  {
+    "set": "Expedition Base Set 129/165",
+    "cost": "Not PSA Graded: $2.05",
+    "img": "https://images.pokemontcg.io/ecard1/129.png"
+  },
+  {
+    "set": "Fusion Strike 50/284",
+    "cost": "Not PSA Graded: $0.06",
+    "img": "https://images.pokemontcg.io/swsh8/50.png"
+  },
+  {
+    "set": "151 90/207",
+    "cost": "Not PSA Graded: $0.06",
+    "img": "https://images.pokemontcg.io/sv3pt5/90.png"
+  }
+]
