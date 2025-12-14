@@ -1,0 +1,102 @@
+[
+  {
+    "set": "Flashfire 4/110",
+    "cost": "Not PSA Graded: $0.14",
+    "img": "https://images.pokemontcg.io/xy2/4.png"
+  },
+  {
+    "set": "Vivid Voltage 8/203",
+    "cost": "Not PSA Graded: $0.1",
+    "img": "https://images.pokemontcg.io/swsh4/8.png"
+  },
+  {
+    "set": "Lost Thunder 15/240",
+    "cost": "Not PSA Graded: $0.11",
+    "img": "https://images.pokemontcg.io/sm8/15.png"
+  },
+  {
+    "set": "HS—Undaunted 62/91",
+    "cost": "Not PSA Graded: $0.28",
+    "img": "https://images.pokemontcg.io/hgss3/62.png"
+  },
+  {
+    "set": "HS—Undaunted 63/91",
+    "cost": "Not PSA Graded: $0.25",
+    "img": "https://images.pokemontcg.io/hgss3/63.png"
+  },
+  {
+    "set": "Unseen Forces 66/145",
+    "cost": "Not PSA Graded: $0.29",
+    "img": "https://images.pokemontcg.io/ex10/66.png"
+  },
+  {
+    "set": "Call of Legends 68/106",
+    "cost": "Not PSA Graded: $0.24",
+    "img": "https://images.pokemontcg.io/col1/68.png"
+  },
+  {
+    "set": "Neo Discovery 61/75",
+    "cost": null,
+    "img": "https://images.pokemontcg.io/neo2/61.png"
+  },
+  {
+    "set": "Dragon 71/100",
+    "cost": "Not PSA Graded: $0.6",
+    "img": "https://images.pokemontcg.io/ex3/71.png"
+  },
+  {
+    "set": "Neo Destiny 77/113",
+    "cost": null,
+    "img": "https://images.pokemontcg.io/neo4/77.png"
+  },
+  {
+    "set": "Legends Awakened 113/146",
+    "cost": "Not PSA Graded: $0.24",
+    "img": "https://images.pokemontcg.io/dp6/113.png"
+  },
+  {
+    "set": "Skyridge 85/182",
+    "cost": "Not PSA Graded: $6.75",
+    "img": "https://images.pokemontcg.io/ecard3/85.png"
+  },
+  {
+    "set": "Skyridge 86/182",
+    "cost": "Not PSA Graded: $7.76",
+    "img": "https://images.pokemontcg.io/ecard3/86.png"
+  },
+  {
+    "set": "Scarlet & Violet 1/258",
+    "cost": "Not PSA Graded: $0.08",
+    "img": "https://images.pokemontcg.io/sv1/1.png"
+  },
+  {
+    "set": "Paldea Evolved 4/279",
+    "cost": "Not PSA Graded: $0.08",
+    "img": "https://images.pokemontcg.io/sv2/4.png"
+  },
+  {
+    "set": "Paldean Fates 1/245",
+    "cost": "Not PSA Graded: $0.06",
+    "img": "https://images.pokemontcg.io/sv4pt5/1.png"
+  },
+  {
+    "set": "Paldean Fates 99/245",
+    "cost": "Not PSA Graded: $2.22",
+    "img": "https://images.pokemontcg.io/sv4pt5/99.png"
+  },
+  {
+    "set": "Scarlet & Violet Black Star Promos 61/196",
+    "cost": "Not PSA Graded: $0.22",
+    "img": "https://images.pokemontcg.io/svp/61.png"
+  },
+  {
+    "set": "Temporal Forces 2/218",
+    "cost": "Not PSA Graded: $0.05",
+    "img": "https://images.pokemontcg.io/sv5/2.png"
+  },
+  {
+    "set": "Destined Rivals 4/244",
+    "cost": "Not PSA Graded: $0.05",
+    "img": "https://images.pokemontcg.io/sv10/4.png"
+  }
+]
