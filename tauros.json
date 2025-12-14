@@ -1,0 +1,177 @@
+[
+  {
+    "set": "POP Series 2 5/17",
+    "cost": "Not PSA Graded: $2.28",
+    "img": "https://images.pokemontcg.io/pop2/5.png"
+  },
+  {
+    "set": "Crystal Guardians 12/100",
+    "cost": "Not PSA Graded: $8.37",
+    "img": "https://images.pokemontcg.io/ex14/12.png"
+  },
+  {
+    "set": "FireRed & LeafGreen 16/116",
+    "cost": "Not PSA Graded: $19.52",
+    "img": "https://images.pokemontcg.io/ex6/16.png"
+  },
+  {
+    "set": "HS—Unleashed 41/96",
+    "cost": "Not PSA Graded: $1.12",
+    "img": "https://images.pokemontcg.io/hgss2/41.png"
+  },
+  {
+    "set": "Jungle 47/64",
+    "cost": null,
+    "img": "https://images.pokemontcg.io/base2/47.png"
+  },
+  {
+    "set": "Base Set 2 62/130",
+    "cost": "Not PSA Graded: $3.13",
+    "img": "https://images.pokemontcg.io/base4/62.png"
+  },
+  {
+    "set": "Gym Heroes 64/132",
+    "cost": null,
+    "img": "https://images.pokemontcg.io/gym1/64.png"
+  },
+  {
+    "set": "Generations 57/117",
+    "cost": "Not PSA Graded: $0.42",
+    "img": "https://images.pokemontcg.io/g1/57.png"
+  },
+  {
+    "set": "Legendary Collection 65/110",
+    "cost": "Not PSA Graded: $1.32",
+    "img": "https://images.pokemontcg.io/base6/65.png"
+  },
+  {
+    "set": "Legends Awakened 74/146",
+    "cost": "Not PSA Graded: $0.69",
+    "img": "https://images.pokemontcg.io/dp6/74.png"
+  },
+  {
+    "set": "Platinum 98/133",
+    "cost": "Not PSA Graded: $0.34",
+    "img": "https://images.pokemontcg.io/pl1/98.png"
+  },
+  {
+    "set": "XY 100/146",
+    "cost": "Not PSA Graded: $0.67",
+    "img": "https://images.pokemontcg.io/xy1/100.png"
+  },
+  {
+    "set": "Sun & Moon 100/173",
+    "cost": "Not PSA Graded: $2.36",
+    "img": "https://images.pokemontcg.io/sm1/100.png"
+  },
+  {
+    "set": "Team Up 129/198",
+    "cost": "Not PSA Graded: $0.19",
+    "img": "https://images.pokemontcg.io/sm9/129.png"
+  },
+  {
+    "set": "Expedition Base Set 133/165",
+    "cost": "Not PSA Graded: $4.05",
+    "img": "https://images.pokemontcg.io/ecard1/133.png"
+  },
+  {
+    "set": "Darkness Ablaze 134/201",
+    "cost": "Not PSA Graded: $0.1",
+    "img": "https://images.pokemontcg.io/swsh3/134.png"
+  },
+  {
+    "set": "Sun & Moon 144/173",
+    "cost": "Not PSA Graded: $3.09",
+    "img": "https://images.pokemontcg.io/sm1/144.png"
+  },
+  {
+    "set": "Sun & Moon 156/173",
+    "cost": "Not PSA Graded: $7.99",
+    "img": "https://images.pokemontcg.io/sm1/156.png"
+  },
+  {
+    "set": "Unified Minds 164/260",
+    "cost": "Not PSA Graded: $0.17",
+    "img": "https://images.pokemontcg.io/sm11/164.png"
+  },
+  {
+    "set": "Chilling Reign 115/233",
+    "cost": "Not PSA Graded: $0.26",
+    "img": "https://images.pokemontcg.io/swsh6/115.png"
+  },
+  {
+    "set": "Crown Zenith 106/160",
+    "cost": "Not PSA Graded: $0.08",
+    "img": "https://images.pokemontcg.io/swsh12pt5/106.png"
+  },
+  {
+    "set": "Paldea Evolved 28/279",
+    "cost": "Not PSA Graded: $0.12",
+    "img": "https://images.pokemontcg.io/sv2/28.png"
+  },
+  {
+    "set": "Paldea Evolved 41/279",
+    "cost": "Not PSA Graded: $0.08",
+    "img": "https://images.pokemontcg.io/sv2/41.png"
+  },
+  {
+    "set": "Paldea Evolved 108/279",
+    "cost": "Not PSA Graded: $0.11",
+    "img": "https://images.pokemontcg.io/sv2/108.png"
+  },
+  {
+    "set": "Paldea Evolved 218/279",
+    "cost": "Not PSA Graded: $10.9",
+    "img": "https://images.pokemontcg.io/sv2/218.png"
+  },
+  {
+    "set": "151 128/207",
+    "cost": "Not PSA Graded: $0.1",
+    "img": "https://images.pokemontcg.io/sv3pt5/128.png"
+  },
+  {
+    "set": "Paldean Fates 111/245",
+    "cost": "Not PSA Graded: $2.26",
+    "img": "https://images.pokemontcg.io/sv4pt5/111.png"
+  },
+  {
+    "set": "Paldean Fates 120/245",
+    "cost": "Not PSA Graded: $2.17",
+    "img": "https://images.pokemontcg.io/sv4pt5/120.png"
+  },
+  {
+    "set": "Paldean Fates 172/245",
+    "cost": "Not PSA Graded: $1.83",
+    "img": "https://images.pokemontcg.io/sv4pt5/172.png"
+  },
+  {
+    "set": "Stellar Crown 112/175",
+    "cost": "Not PSA Graded: $0.05",
+    "img": "https://images.pokemontcg.io/sv7/112.png"
+  },
+  {
+    "set": "Surging Sparks 18/252",
+    "cost": "Not PSA Graded: $0.05",
+    "img": "https://images.pokemontcg.io/sv8/18.png"
+  },
+  {
+    "set": "Surging Sparks 39/252",
+    "cost": "Not PSA Graded: $0.07",
+    "img": "https://images.pokemontcg.io/sv8/39.png"
+  },
+  {
+    "set": "Surging Sparks 101/252",
+    "cost": "Not PSA Graded: $0.06",
+    "img": "https://images.pokemontcg.io/sv8/101.png"
+  },
+  {
+    "set": "Destined Rivals 152/244",
+    "cost": "Not PSA Graded: $0.08",
+    "img": "https://images.pokemontcg.io/sv10/152.png"
+  },
+  {
+    "set": "Phantasmal Flames 48/130",
+    "cost": "Not PSA Graded: $0.03",
+    "img": "https://images.pokemontcg.io/me2/48.png"
+  }
+]
