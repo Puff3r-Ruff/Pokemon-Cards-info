@@ -1,117 +1,140 @@
 [
   {
-    "set": "Team Magma vs Team Aqua 20/97",
-    "cost": "Not PSA Graded: $2.38",
+    "code": "020/95",
+    "set": "Team Magma vs Team Aqua 020/95",
+    "cost": "UnGraded: $2.38",
     "img": "https://images.pokemontcg.io/ex4/20.png"
   },
   {
-    "set": "Double Crisis 13/34",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "013/34",
+    "set": "Double Crisis 013/34",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/dc1/13.png"
   },
   {
-    "set": "HS—Undaunted 29/91",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "029/90",
+    "set": "HS—Undaunted 029/90",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/hgss3/29.png"
   },
   {
-    "set": "HS—Triumphant 37/103",
-    "cost": "Not PSA Graded: $0.36",
+    "code": "037/102",
+    "set": "HS—Triumphant 037/102",
+    "cost": "UnGraded: $0.36",
     "img": "https://images.pokemontcg.io/hgss4/37.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 36/97",
-    "cost": "Not PSA Graded: $0.81",
+    "code": "036/95",
+    "set": "Team Magma vs Team Aqua 036/95",
+    "cost": "UnGraded: $0.81",
     "img": "https://images.pokemontcg.io/ex4/36.png"
   },
   {
-    "set": "Legend Maker 38/93",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "038/92",
+    "set": "Legend Maker 038/92",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/ex12/38.png"
   },
   {
-    "set": "Crystal Guardians 36/100",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "036/100",
+    "set": "Crystal Guardians 036/100",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/ex14/36.png"
   },
   {
-    "set": "Power Keepers 32/108",
-    "cost": "Not PSA Graded: $1.31",
+    "code": "032/108",
+    "set": "Power Keepers 032/108",
+    "cost": "UnGraded: $1.31",
     "img": "https://images.pokemontcg.io/ex16/32.png"
   },
   {
-    "set": "Holon Phantoms 45/111",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "045/110",
+    "set": "Holon Phantoms 045/110",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/ex13/45.png"
   },
   {
-    "set": "Ruby & Sapphire 36/109",
-    "cost": "Not PSA Graded: $1.98",
+    "code": "036/109",
+    "set": "Ruby & Sapphire 036/109",
+    "cost": "UnGraded: $1.98",
     "img": "https://images.pokemontcg.io/ex1/36.png"
   },
   {
-    "set": "Ruby & Sapphire 37/109",
-    "cost": "Not PSA Graded: $1.51",
+    "code": "037/109",
+    "set": "Ruby & Sapphire 037/109",
+    "cost": "UnGraded: $1.51",
     "img": "https://images.pokemontcg.io/ex1/37.png"
   },
   {
-    "set": "Rising Rivals 44/120",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "044/111",
+    "set": "Rising Rivals 044/111",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/pl2/44.png"
   },
   {
-    "set": "Sandstorm 41/100",
-    "cost": "Not PSA Graded: $1.89",
+    "code": "041/100",
+    "set": "Sandstorm 041/100",
+    "cost": "UnGraded: $1.89",
     "img": "https://images.pokemontcg.io/ex2/41.png"
   },
   {
-    "set": "Plasma Blast 58/105",
-    "cost": "Not PSA Graded: $0.8",
+    "code": "058/101",
+    "set": "Plasma Blast 058/101",
+    "cost": "UnGraded: $0.8",
     "img": "https://images.pokemontcg.io/bw10/58.png"
   },
   {
-    "set": "Mysterious Treasures 53/124",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "053/123",
+    "set": "Mysterious Treasures 053/123",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/dp2/53.png"
   },
   {
-    "set": "Crimson Invasion 66/126",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "066/111",
+    "set": "Crimson Invasion 066/111",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm4/66.png"
   },
   {
-    "set": "Dragons Exalted 79/128",
-    "cost": "Not PSA Graded: $0.31",
+    "code": "079/124",
+    "set": "Dragons Exalted 079/124",
+    "cost": "UnGraded: $0.31",
     "img": "https://images.pokemontcg.io/bw6/79.png"
   },
   {
-    "set": "Darkness Ablaze 122/201",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "122/189",
+    "set": "Darkness Ablaze 122/189",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh3/122.png"
   },
   {
-    "set": "Unbroken Bonds 124/234",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "124/214",
+    "set": "Unbroken Bonds 124/214",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm10/124.png"
   },
   {
-    "set": "Chilling Reign 110/233",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "110/198",
+    "set": "Chilling Reign 110/198",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh6/110.png"
   },
   {
-    "set": "Crown Zenith 88/160",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "088/159",
+    "set": "Crown Zenith 088/159",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12pt5/88.png"
   },
   {
-    "set": "Twilight Masquerade 121/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "121/167",
+    "set": "Twilight Masquerade 121/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/121.png"
   },
   {
-    "set": "Twilight Masquerade 184/226",
-    "cost": "Not PSA Graded: $2.63",
+    "code": "184/167",
+    "set": "Twilight Masquerade 184/167",
+    "cost": "UnGraded: $2.63",
     "img": "https://images.pokemontcg.io/sv6/184.png"
   }
 ]

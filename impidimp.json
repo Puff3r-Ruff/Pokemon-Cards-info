@@ -1,37 +1,44 @@
 [
   {
-    "set": "Rebel Clash 123/209",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "123/192",
+    "set": "Rebel Clash 123/192",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh2/123.png"
   },
   {
+    "code": "SV083/122",
     "set": "Shining Fates Shiny Vault SV083/122",
-    "cost": "Not PSA Graded: $1.56",
+    "cost": "UnGraded: $1.56",
     "img": "https://images.pokemontcg.io/swsh45sv/SV083.png"
   },
   {
-    "set": "Fusion Strike 176/284",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "176/264",
+    "set": "Fusion Strike 176/264",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh8/176.png"
   },
   {
-    "set": "Brilliant Stars 92/186",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "092/172",
+    "set": "Brilliant Stars 092/172",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh9/92.png"
   },
   {
-    "set": "Stellar Crown 94/175",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "094/142",
+    "set": "Stellar Crown 094/142",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv7/94.png"
   },
   {
-    "set": "Journey Together 71/190",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "071/159",
+    "set": "Journey Together 071/159",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv9/71.png"
   },
   {
-    "set": "Destined Rivals 134/244",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "134/182",
+    "set": "Destined Rivals 134/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv10/134.png"
   }
 ]

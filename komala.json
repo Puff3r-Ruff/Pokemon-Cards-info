@@ -1,27 +1,32 @@
 [
   {
-    "set": "SM Black Star Promos SM41/250",
-    "cost": "Not PSA Graded: $0.55",
+    "code": "SM41/248",
+    "set": "SM Black Star Promos SM41/248",
+    "cost": "UnGraded: $0.55",
     "img": "https://images.pokemontcg.io/smp/SM41.png"
   },
   {
-    "set": "Guardians Rising 114/180",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "114/145",
+    "set": "Guardians Rising 114/145",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sm2/114.png"
   },
   {
-    "set": "Unified Minds 185/260",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "185/236",
+    "set": "Unified Minds 185/236",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm11/185.png"
   },
   {
-    "set": "Lost Origin 149/217",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "149/196",
+    "set": "Lost Origin 149/196",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh11/149.png"
   },
   {
-    "set": "Journey Together 129/190",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "129/159",
+    "set": "Journey Together 129/159",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv9/129.png"
   }
 ]

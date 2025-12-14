@@ -1,72 +1,86 @@
 [
   {
-    "set": "Southern Islands 7/18",
+    "code": "007/18",
+    "set": "Southern Islands 007/18",
     "cost": null,
     "img": "https://images.pokemontcg.io/si1/7.png"
   },
   {
-    "set": "XY 6/146",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "006/146",
+    "set": "XY 006/146",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/xy1/6.png"
   },
   {
-    "set": "Burning Shadows 9/177",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "009/147",
+    "set": "Burning Shadows 009/147",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm3/9.png"
   },
   {
-    "set": "Dragon Frontiers 53/101",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "053/101",
+    "set": "Dragon Frontiers 053/101",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/ex15/53.png"
   },
   {
-    "set": "HeartGold & SoulSilver 71/124",
-    "cost": "Not PSA Graded: $0.9",
+    "code": "071/123",
+    "set": "HeartGold & SoulSilver 071/123",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/hgss1/71.png"
   },
   {
-    "set": "Team Rocket Returns 64/111",
-    "cost": "Not PSA Graded: $0.48",
+    "code": "064/109",
+    "set": "Team Rocket Returns 064/109",
+    "cost": "UnGraded: $0.48",
     "img": "https://images.pokemontcg.io/ex7/64.png"
   },
   {
-    "set": "Neo Genesis 63/111",
+    "code": "063/111",
+    "set": "Neo Genesis 063/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/63.png"
   },
   {
-    "set": "Neo Destiny 71/113",
+    "code": "071/105",
+    "set": "Neo Destiny 071/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/71.png"
   },
   {
+    "code": "104/146",
     "set": "Legends Awakened 104/146",
-    "cost": "Not PSA Graded: $0.33",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/dp6/104.png"
   },
   {
-    "set": "Skyridge 72/182",
-    "cost": "Not PSA Graded: $8.14",
+    "code": "072/144",
+    "set": "Skyridge 072/144",
+    "cost": "UnGraded: $8.14",
     "img": "https://images.pokemontcg.io/ecard3/72.png"
   },
   {
-    "set": "Skyridge 73/182",
-    "cost": "Not PSA Graded: $10.99",
+    "code": "073/144",
+    "set": "Skyridge 073/144",
+    "cost": "UnGraded: $10.99",
     "img": "https://images.pokemontcg.io/ecard3/73.png"
   },
   {
-    "set": "Chilling Reign 4/233",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "004/198",
+    "set": "Chilling Reign 004/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh6/4.png"
   },
   {
-    "set": "McDonald's Collection 2022 1/15",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "001/15",
+    "set": "McDonald's Collection 2022 001/15",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/mcd22/1.png"
   },
   {
-    "set": "Stellar Crown 2/175",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "002/142",
+    "set": "Stellar Crown 002/142",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv7/2.png"
   }
 ]

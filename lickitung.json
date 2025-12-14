@@ -1,107 +1,128 @@
 [
   {
-    "set": "Southern Islands 16/18",
-    "cost": "Not PSA Graded: $23.43",
+    "code": "016/18",
+    "set": "Southern Islands 016/18",
+    "cost": "UnGraded: $23.43",
     "img": "https://images.pokemontcg.io/si1/16.png"
   },
   {
-    "set": "Detective Pikachu 16/18",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "016/18",
+    "set": "Detective Pikachu 016/18",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/det1/16.png"
   },
   {
-    "set": "Dragon Frontiers 19/101",
-    "cost": "Not PSA Graded: $1.66",
+    "code": "019/101",
+    "set": "Dragon Frontiers 019/101",
+    "cost": "UnGraded: $1.66",
     "img": "https://images.pokemontcg.io/ex15/19.png"
   },
   {
-    "set": "FireRed & LeafGreen 37/116",
-    "cost": "Not PSA Graded: $4.02",
+    "code": "037/112",
+    "set": "FireRed & LeafGreen 037/112",
+    "cost": "UnGraded: $4.02",
     "img": "https://images.pokemontcg.io/ex6/37.png"
   },
   {
-    "set": "Gym Heroes 41/132",
+    "code": "041/132",
+    "set": "Gym Heroes 041/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/41.png"
   },
   {
-    "set": "Majestic Dawn 39/100",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "039/100",
+    "set": "Majestic Dawn 039/100",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/dp5/39.png"
   },
   {
-    "set": "Jungle 38/64",
+    "code": "038/64",
+    "set": "Jungle 038/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/base2/38.png"
   },
   {
-    "set": "Base Set 2 48/130",
-    "cost": "Not PSA Graded: $2.2",
+    "code": "048/130",
+    "set": "Base Set 2 048/130",
+    "cost": "UnGraded: $2.2",
     "img": "https://images.pokemontcg.io/base4/48.png"
   },
   {
-    "set": "HS—Triumphant 66/103",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "066/102",
+    "set": "HS—Triumphant 066/102",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/hgss4/66.png"
   },
   {
-    "set": "Platinum 80/133",
-    "cost": "Not PSA Graded: $3.14",
+    "code": "080/127",
+    "set": "Platinum 080/127",
+    "cost": "UnGraded: $3.14",
     "img": "https://images.pokemontcg.io/pl1/80.png"
   },
   {
-    "set": "Secret Wonders 91/132",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "091/132",
+    "set": "Secret Wonders 091/132",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/dp3/91.png"
   },
   {
-    "set": "Furious Fists 78/114",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "078/111",
+    "set": "Furious Fists 078/111",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy3/78.png"
   },
   {
-    "set": "Ultra Prism 102/178",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "102/156",
+    "set": "Ultra Prism 102/156",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm5/102.png"
   },
   {
-    "set": "Aquapolis 90/182",
-    "cost": "Not PSA Graded: $13.37",
+    "code": "090/147",
+    "set": "Aquapolis 090/147",
+    "cost": "UnGraded: $13.37",
     "img": "https://images.pokemontcg.io/ecard2/90.png"
   },
   {
-    "set": "Unbroken Bonds 152/234",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "152/214",
+    "set": "Unbroken Bonds 152/214",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm10/152.png"
   },
   {
-    "set": "Unified Minds 161/260",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "161/236",
+    "set": "Unified Minds 161/236",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sm11/161.png"
   },
   {
-    "set": "Battle Styles 113/183",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "113/163",
+    "set": "Battle Styles 113/163",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh5/113.png"
   },
   {
-    "set": "Lost Origin 138/217",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "138/196",
+    "set": "Lost Origin 138/196",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh11/138.png"
   },
   {
-    "set": "151 108/207",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "108/165",
+    "set": "151 108/165",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3pt5/108.png"
   },
   {
-    "set": "Temporal Forces 124/218",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "124/162",
+    "set": "Temporal Forces 124/162",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv5/124.png"
   },
   {
-    "set": "Temporal Forces 180/218",
-    "cost": "Not PSA Graded: $12.68",
+    "code": "180/162",
+    "set": "Temporal Forces 180/162",
+    "cost": "UnGraded: $12.68",
     "img": "https://images.pokemontcg.io/sv5/180.png"
   }
 ]

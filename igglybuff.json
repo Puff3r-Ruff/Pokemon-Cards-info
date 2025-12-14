@@ -1,52 +1,62 @@
 [
   {
-    "set": "Crystal Guardians 21/100",
-    "cost": "Not PSA Graded: $3.4",
+    "code": "021/100",
+    "set": "Crystal Guardians 021/100",
+    "cost": "UnGraded: $3.54",
     "img": "https://images.pokemontcg.io/ex14/21.png"
   },
   {
-    "set": "HeartGold & SoulSilver 44/124",
-    "cost": "Not PSA Graded: $2.02",
+    "code": "044/123",
+    "set": "HeartGold & SoulSilver 044/123",
+    "cost": "UnGraded: $2.04",
     "img": "https://images.pokemontcg.io/hgss1/44.png"
   },
   {
-    "set": "Wizards Black Star Promos 36/53",
-    "cost": "Not PSA Graded: $9.18",
+    "code": "036/53",
+    "set": "Wizards Black Star Promos 036/53",
+    "cost": "UnGraded: $9.21",
     "img": "https://images.pokemontcg.io/basep/36.png"
   },
   {
-    "set": "Hidden Legends 37/102",
-    "cost": "Not PSA Graded: $3.3",
+    "code": "037/101",
+    "set": "Hidden Legends 037/101",
+    "cost": "UnGraded: $3.3",
     "img": "https://images.pokemontcg.io/ex5/37.png"
   },
   {
-    "set": "Neo Discovery 40/75",
+    "code": "040/75",
+    "set": "Neo Discovery 040/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/40.png"
   },
   {
-    "set": "Great Encounters 70/106",
-    "cost": "Not PSA Graded: $3.41",
+    "code": "070/106",
+    "set": "Great Encounters 070/106",
+    "cost": "UnGraded: $3.51",
     "img": "https://images.pokemontcg.io/dp4/70.png"
   },
   {
-    "set": "Skyridge 67/182",
-    "cost": "Not PSA Graded: $22.87",
+    "code": "067/144",
+    "set": "Skyridge 067/144",
+    "cost": "UnGraded: $22.87",
     "img": "https://images.pokemontcg.io/ecard3/67.png"
   },
   {
-    "set": "Cosmic Eclipse 143/272",
-    "cost": "Not PSA Graded: $36.99",
+    "code": "143/236",
+    "set": "Cosmic Eclipse 143/236",
+    "cost": "UnGraded: $36.97",
     "img": "https://images.pokemontcg.io/sm12/143.png"
   },
   {
-    "set": "Cosmic Eclipse 143a/272",
+    "code": "143a/236",
+    "set": "Cosmic Eclipse 143a/236",
     "cost": null,
     "img": "https://images.pokemontcg.io/sm12/143a.png"
   },
   {
-    "set": "Cosmic Eclipse 168/272",
-    "cost": "Not PSA Graded: $1.09",
+    "code": "168/236",
+    "set": "Cosmic Eclipse 168/236",
+    "cost": "UnGraded: $1.1",
     "img": "https://images.pokemontcg.io/sm12/168.png"
   }
 ]

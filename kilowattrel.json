@@ -1,52 +1,62 @@
 [
   {
-    "set": "Scarlet & Violet 79/258",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "079/198",
+    "set": "Scarlet & Violet 079/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv1/79.png"
   },
   {
-    "set": "Paldea Evolved 82/279",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "082/193",
+    "set": "Paldea Evolved 082/193",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv2/82.png"
   },
   {
-    "set": "Paldean Fates 22/245",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "022/91",
+    "set": "Paldean Fates 022/91",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4pt5/22.png"
   },
   {
-    "set": "Paldean Fates 146/245",
-    "cost": "Not PSA Graded: $1.74",
+    "code": "146/91",
+    "set": "Paldean Fates 146/91",
+    "cost": "UnGraded: $1.74",
     "img": "https://images.pokemontcg.io/sv4pt5/146.png"
   },
   {
-    "set": "Twilight Masquerade 76/226",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "076/167",
+    "set": "Twilight Masquerade 076/167",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6/76.png"
   },
   {
-    "set": "Surging Sparks 67/252",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "067/191",
+    "set": "Surging Sparks 067/191",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv8/67.png"
   },
   {
-    "set": "Surging Sparks 68/252",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "068/191",
+    "set": "Surging Sparks 068/191",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/sv8/68.png"
   },
   {
-    "set": "Journey Together 55/190",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "055/159",
+    "set": "Journey Together 055/159",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/sv9/55.png"
   },
   {
-    "set": "Journey Together 163/190",
-    "cost": "Not PSA Graded: $4.34",
+    "code": "163/159",
+    "set": "Journey Together 163/159",
+    "cost": "UnGraded: $4.34",
     "img": "https://images.pokemontcg.io/sv9/163.png"
   },
   {
-    "set": "Scarlet & Violet Promos 182/148",
-    "cost": "Not PSA Graded: $3.51",
+    "code": "182/150",
+    "set": "Scarlet & Violet Promos 182/150",
+    "cost": "UnGraded: $3.51",
     "img": "https://images.pokemontcg.io/svp/182.png"
   }
 ]

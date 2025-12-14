@@ -1,82 +1,98 @@
 [
   {
-    "set": "McDonald's Collection 2011 10/12",
-    "cost": "Not PSA Graded: $2.87",
+    "code": "010/12",
+    "set": "McDonald's Collection 2011 010/12",
+    "cost": "UnGraded: $2.87",
     "img": "https://images.pokemontcg.io/mcd11/10.png"
   },
   {
-    "set": "Steam Siege 71/116",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "071/114",
+    "set": "Steam Siege 071/114",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/xy11/71.png"
   },
   {
-    "set": "Black & White 74/115",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "074/114",
+    "set": "Black & White 074/114",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/bw1/74.png"
   },
   {
-    "set": "Dark Explorers 75/111",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "075/108",
+    "set": "Dark Explorers 075/108",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw5/75.png"
   },
   {
-    "set": "Emerging Powers 74/98",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "074/98",
+    "set": "Emerging Powers 074/98",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/bw2/74.png"
   },
   {
-    "set": "Plasma Storm 88/138",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "088/135",
+    "set": "Plasma Storm 088/135",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/bw8/88.png"
   },
   {
-    "set": "Boundaries Crossed 97/153",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "097/149",
+    "set": "Boundaries Crossed 097/149",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/bw7/97.png"
   },
   {
-    "set": "Darkness Ablaze 125/201",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "125/189",
+    "set": "Darkness Ablaze 125/189",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh3/125.png"
   },
   {
-    "set": "Brilliant Stars 102/186",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "102/172",
+    "set": "Brilliant Stars 102/172",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh9/102.png"
   },
   {
-    "set": "Silver Tempest 123/215",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "123/195",
+    "set": "Silver Tempest 123/195",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/swsh12/123.png"
   },
   {
-    "set": "Stellar Crown 99/175",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "099/142",
+    "set": "Stellar Crown 099/142",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv7/99.png"
   },
   {
-    "set": "Journey Together 103/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "103/159",
+    "set": "Journey Together 103/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv9/103.png"
   },
   {
-    "set": "Black Bolt 61/172",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "061/86",
+    "set": "Black Bolt 061/86",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/zsv10pt5/61.png"
   },
   {
-    "set": "Black Bolt 63/172",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "063/86",
+    "set": "Black Bolt 063/86",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/zsv10pt5/63.png"
   },
   {
-    "set": "Black Bolt 139/172",
-    "cost": "Not PSA Graded: $4.81",
+    "code": "139/86",
+    "set": "Black Bolt 139/86",
+    "cost": "UnGraded: $4.81",
     "img": "https://images.pokemontcg.io/zsv10pt5/139.png"
   },
   {
-    "set": "Black Bolt 141/172",
-    "cost": "Not PSA Graded: $15.68",
+    "code": "141/86",
+    "set": "Black Bolt 141/86",
+    "cost": "UnGraded: $15.68",
     "img": "https://images.pokemontcg.io/zsv10pt5/141.png"
   }
 ]

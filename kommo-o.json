@@ -1,37 +1,44 @@
 [
   {
-    "set": "Dragon Majesty 54/80",
-    "cost": "Not PSA Graded: $0.91",
+    "code": "054/70",
+    "set": "Dragon Majesty 054/70",
+    "cost": "UnGraded: $0.91",
     "img": "https://images.pokemontcg.io/sm75/54.png"
   },
   {
-    "set": "SM Black Star Promos SM71/250",
-    "cost": "Not PSA Graded: $4.11",
+    "code": "SM71/248",
+    "set": "SM Black Star Promos SM71/248",
+    "cost": "UnGraded: $4.11",
     "img": "https://images.pokemontcg.io/smp/SM71.png"
   },
   {
-    "set": "Crimson Invasion 77/126",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "077/111",
+    "set": "Crimson Invasion 077/111",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/sm4/77.png"
   },
   {
-    "set": "Guardians Rising 100/180",
-    "cost": "Not PSA Graded: $2.81",
+    "code": "100/145",
+    "set": "Guardians Rising 100/145",
+    "cost": "UnGraded: $2.81",
     "img": "https://images.pokemontcg.io/sm2/100.png"
   },
   {
-    "set": "Guardians Rising 141/180",
-    "cost": "Not PSA Graded: $4.29",
+    "code": "141/145",
+    "set": "Guardians Rising 141/145",
+    "cost": "UnGraded: $4.29",
     "img": "https://images.pokemontcg.io/sm2/141.png"
   },
   {
-    "set": "Guardians Rising 159/180",
-    "cost": "Not PSA Graded: $15.48",
+    "code": "159/145",
+    "set": "Guardians Rising 159/145",
+    "cost": "UnGraded: $15.48",
     "img": "https://images.pokemontcg.io/sm2/159.png"
   },
   {
-    "set": "Cosmic Eclipse 163/272",
-    "cost": "Not PSA Graded: $1.16",
+    "code": "163/236",
+    "set": "Cosmic Eclipse 163/236",
+    "cost": "UnGraded: $1.16",
     "img": "https://images.pokemontcg.io/sm12/163.png"
   }
 ]

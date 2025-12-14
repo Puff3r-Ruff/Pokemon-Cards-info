@@ -1,82 +1,98 @@
 [
   {
-    "set": "Primal Clash 10/164",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "010/160",
+    "set": "Primal Clash 010/160",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/xy5/10.png"
   },
   {
-    "set": "Rebel Clash 7/209",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "007/192",
+    "set": "Rebel Clash 007/192",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh2/7.png"
   },
   {
-    "set": "Plasma Storm 29/138",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "029/135",
+    "set": "Plasma Storm 029/135",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/bw8/29.png"
   },
   {
-    "set": "Deoxys 35/108",
-    "cost": "Not PSA Graded: $0.93",
+    "code": "035/107",
+    "set": "Deoxys 035/107",
+    "cost": "UnGraded: $0.93",
     "img": "https://images.pokemontcg.io/ex8/35.png"
   },
   {
-    "set": "Celestial Storm 36/187",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "036/168",
+    "set": "Celestial Storm 036/168",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm7/36.png"
   },
   {
-    "set": "Crystal Guardians 55/100",
-    "cost": "Not PSA Graded: $0.51",
+    "code": "055/100",
+    "set": "Crystal Guardians 055/100",
+    "cost": "UnGraded: $0.51",
     "img": "https://images.pokemontcg.io/ex14/55.png"
   },
   {
-    "set": "Deoxys 63/108",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "063/107",
+    "set": "Deoxys 063/107",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/ex8/63.png"
   },
   {
-    "set": "Sandstorm 66/100",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "066/100",
+    "set": "Sandstorm 066/100",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/ex2/66.png"
   },
   {
-    "set": "Sandstorm 67/100",
-    "cost": "Not PSA Graded: $1.1",
+    "code": "067/100",
+    "set": "Sandstorm 067/100",
+    "cost": "UnGraded: $1.1",
     "img": "https://images.pokemontcg.io/ex2/67.png"
   },
   {
-    "set": "Platinum 81/133",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "081/127",
+    "set": "Platinum 081/127",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/pl1/81.png"
   },
   {
-    "set": "Secret Wonders 92/132",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "092/132",
+    "set": "Secret Wonders 092/132",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/dp3/92.png"
   },
   {
-    "set": "Platinum SH4/133",
+    "code": "SH4/127",
+    "set": "Platinum SH4/127",
     "cost": null,
     "img": "https://images.pokemontcg.io/pl1/SH4.png"
   },
   {
-    "set": "Evolving Skies 32/237",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "032/203",
+    "set": "Evolving Skies 032/203",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh7/32.png"
   },
   {
-    "set": "McDonald's Collection 2015 2/12",
+    "code": "002/12",
+    "set": "McDonald's Collection 2015 002/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd15/2.png"
   },
   {
-    "set": "Journey Together 35/190",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "035/159",
+    "set": "Journey Together 035/159",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv9/35.png"
   },
   {
-    "set": "Phantasmal Flames 5/130",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "005/94",
+    "set": "Phantasmal Flames 005/94",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/me2/5.png"
   }
 ]

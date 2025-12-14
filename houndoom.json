@@ -1,227 +1,272 @@
 [
   {
-    "set": "Team Rocket Returns 5/111",
-    "cost": "Not PSA Graded: $66.21",
+    "code": "005/109",
+    "set": "Team Rocket Returns 005/109",
+    "cost": "UnGraded: $66.21",
     "img": "https://images.pokemontcg.io/ex7/5.png"
   },
   {
-    "set": "Neo Destiny 7/113",
+    "code": "007/105",
+    "set": "Neo Destiny 007/105",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo4/7.png"
   },
   {
-    "set": "Unseen Forces 7/145",
-    "cost": "Not PSA Graded: $46.78",
+    "code": "007/115",
+    "set": "Unseen Forces 007/115",
+    "cost": "UnGraded: $46.78",
     "img": "https://images.pokemontcg.io/ex10/7.png"
   },
   {
-    "set": "Aquapolis H11/182",
-    "cost": "Not PSA Graded: $292.5",
+    "code": "H11/147",
+    "set": "Aquapolis H11/147",
+    "cost": "UnGraded: $292.5",
     "img": "https://images.pokemontcg.io/ecard2/H11.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 10/97",
-    "cost": "Not PSA Graded: $157.5",
+    "code": "010/95",
+    "set": "Team Magma vs Team Aqua 010/95",
+    "cost": "UnGraded: $157.5",
     "img": "https://images.pokemontcg.io/ex4/10.png"
   },
   {
-    "set": "Neo Revelation 8/66",
+    "code": "008/64",
+    "set": "Neo Revelation 008/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/8.png"
   },
   {
-    "set": "HS—Undaunted 5/91",
-    "cost": "Not PSA Graded: $9.09",
+    "code": "005/90",
+    "set": "HS—Undaunted 005/90",
+    "cost": "UnGraded: $9.09",
     "img": "https://images.pokemontcg.io/hgss3/5.png"
   },
   {
-    "set": "Call of Legends 10/106",
-    "cost": "Not PSA Graded: $13.57",
+    "code": "010/95",
+    "set": "Call of Legends 010/95",
+    "cost": "UnGraded: $13.57",
     "img": "https://images.pokemontcg.io/col1/10.png"
   },
   {
-    "set": "Neo Discovery 4/75",
+    "code": "004/75",
+    "set": "Neo Discovery 004/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/4.png"
   },
   {
-    "set": "Skyridge H11/182",
-    "cost": "Not PSA Graded: $306.49",
+    "code": "H11/144",
+    "set": "Skyridge H11/144",
+    "cost": "UnGraded: $306.49",
     "img": "https://images.pokemontcg.io/ecard3/H11.png"
   },
   {
-    "set": "Great Encounters 18/106",
-    "cost": "Not PSA Graded: $1.94",
+    "code": "018/106",
+    "set": "Great Encounters 018/106",
+    "cost": "UnGraded: $1.94",
     "img": "https://images.pokemontcg.io/dp4/18.png"
   },
   {
-    "set": "BREAKthrough 21/165",
-    "cost": "Not PSA Graded: $5.99",
+    "code": "021/162",
+    "set": "BREAKthrough 021/162",
+    "cost": "UnGraded: $5.99",
     "img": "https://images.pokemontcg.io/xy8/21.png"
   },
   {
-    "set": "BREAKthrough 22/165",
-    "cost": "Not PSA Graded: $20.8",
+    "code": "022/162",
+    "set": "BREAKthrough 022/162",
+    "cost": "UnGraded: $20.8",
     "img": "https://images.pokemontcg.io/xy8/22.png"
   },
   {
-    "set": "Darkness Ablaze 21/201",
-    "cost": "Not PSA Graded: $1.39",
+    "code": "021/189",
+    "set": "Darkness Ablaze 021/189",
+    "cost": "UnGraded: $1.39",
     "img": "https://images.pokemontcg.io/swsh3/21.png"
   },
   {
-    "set": "Neo Discovery 23/75",
+    "code": "023/75",
+    "set": "Neo Discovery 023/75",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo2/23.png"
   },
   {
-    "set": "Team Magma vs Team Aqua 34/97",
-    "cost": "Not PSA Graded: $2.15",
+    "code": "034/95",
+    "set": "Team Magma vs Team Aqua 034/95",
+    "cost": "UnGraded: $2.15",
     "img": "https://images.pokemontcg.io/ex4/34.png"
   },
   {
-    "set": "Dragon 34/100",
-    "cost": "Not PSA Graded: $3.57",
+    "code": "034/97",
+    "set": "Dragon 034/97",
+    "cost": "UnGraded: $3.57",
     "img": "https://images.pokemontcg.io/ex3/34.png"
   },
   {
-    "set": "Team Rocket Returns 37/111",
-    "cost": "Not PSA Graded: $16.11",
+    "code": "037/109",
+    "set": "Team Rocket Returns 037/109",
+    "cost": "UnGraded: $16.11",
     "img": "https://images.pokemontcg.io/ex7/37.png"
   },
   {
-    "set": "Aquapolis 14/182",
-    "cost": "Not PSA Graded: $27.02",
+    "code": "014/147",
+    "set": "Aquapolis 014/147",
+    "cost": "UnGraded: $27.02",
     "img": "https://images.pokemontcg.io/ecard2/14.png"
   },
   {
-    "set": "Aquapolis 15/182",
-    "cost": "Not PSA Graded: $59.88",
+    "code": "015/147",
+    "set": "Aquapolis 015/147",
+    "cost": "UnGraded: $59.88",
     "img": "https://images.pokemontcg.io/ecard2/15.png"
   },
   {
-    "set": "Skyridge 12/182",
-    "cost": "Not PSA Graded: $41.77",
+    "code": "012/144",
+    "set": "Skyridge 012/144",
+    "cost": "UnGraded: $41.77",
     "img": "https://images.pokemontcg.io/ecard3/12.png"
   },
   {
-    "set": "Lost Thunder 46/240",
-    "cost": "Not PSA Graded: $0.58",
+    "code": "046/214",
+    "set": "Lost Thunder 046/214",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/sm8/46.png"
   },
   {
-    "set": "Platinum 50/133",
-    "cost": "Not PSA Graded: $2.26",
+    "code": "050/127",
+    "set": "Platinum 050/127",
+    "cost": "UnGraded: $2.26",
     "img": "https://images.pokemontcg.io/pl1/50.png"
   },
   {
-    "set": "Plasma Blast 56/105",
-    "cost": "Not PSA Graded: $2.83",
+    "code": "056/101",
+    "set": "Plasma Blast 056/101",
+    "cost": "UnGraded: $2.83",
     "img": "https://images.pokemontcg.io/bw10/56.png"
   },
   {
-    "set": "Legends Awakened 57/146",
-    "cost": "Not PSA Graded: $1.83",
+    "code": "057/146",
+    "set": "Legends Awakened 057/146",
+    "cost": "UnGraded: $1.83",
     "img": "https://images.pokemontcg.io/dp6/57.png"
   },
   {
-    "set": "Crimson Invasion 59/126",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "059/111",
+    "set": "Crimson Invasion 059/111",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/sm4/59.png"
   },
   {
-    "set": "Rising Rivals 65/120",
-    "cost": "Not PSA Graded: $1.11",
+    "code": "065/111",
+    "set": "Rising Rivals 065/111",
+    "cost": "UnGraded: $1.11",
     "img": "https://images.pokemontcg.io/pl2/65.png"
   },
   {
-    "set": "Dragons Exalted 75/128",
-    "cost": "Not PSA Graded: $3.45",
+    "code": "075/124",
+    "set": "Dragons Exalted 075/124",
+    "cost": "UnGraded: $3.45",
     "img": "https://images.pokemontcg.io/bw6/75.png"
   },
   {
-    "set": "HS—Undaunted 82/91",
-    "cost": "Not PSA Graded: $126.03",
+    "code": "082/90",
+    "set": "HS—Undaunted 082/90",
+    "cost": "UnGraded: $126.03",
     "img": "https://images.pokemontcg.io/hgss3/82.png"
   },
   {
-    "set": "BREAKthrough 153/165",
-    "cost": "Not PSA Graded: $32.8",
+    "code": "153/162",
+    "set": "BREAKthrough 153/162",
+    "cost": "UnGraded: $32.8",
     "img": "https://images.pokemontcg.io/xy8/153.png"
   },
   {
-    "set": "BREAKthrough 154/165",
-    "cost": "Not PSA Graded: $67.06",
+    "code": "154/162",
+    "set": "BREAKthrough 154/162",
+    "cost": "UnGraded: $67.06",
     "img": "https://images.pokemontcg.io/xy8/154.png"
   },
   {
-    "set": "Darkness Ablaze 178/201",
-    "cost": "Not PSA Graded: $5.27",
+    "code": "178/189",
+    "set": "Darkness Ablaze 178/189",
+    "cost": "UnGraded: $5.27",
     "img": "https://images.pokemontcg.io/swsh3/178.png"
   },
   {
-    "set": "Battle Styles 96/183",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "096/163",
+    "set": "Battle Styles 096/163",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/swsh5/96.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH090/304",
-    "cost": "Not PSA Graded: $8.92",
+    "code": "SWSH090/307",
+    "set": "SWSH Black Star Promos SWSH090/307",
+    "cost": "UnGraded: $8.92",
     "img": "https://images.pokemontcg.io/swshp/SWSH090.png"
   },
   {
-    "set": "Battle Styles 179/183",
-    "cost": "Not PSA Graded: $21.87",
+    "code": "179/163",
+    "set": "Battle Styles 179/163",
+    "cost": "UnGraded: $21.87",
     "img": "https://images.pokemontcg.io/swsh5/179.png"
   },
   {
+    "code": "TG10/30",
     "set": "Brilliant Stars Trainer Gallery TG10/30",
-    "cost": "Not PSA Graded: $1.68",
+    "cost": "UnGraded: $1.68",
     "img": "https://images.pokemontcg.io/swsh9tg/TG10.png"
   },
   {
-    "set": "Scarlet & Violet 34/258",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "034/198",
+    "set": "Scarlet & Violet 034/198",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv1/34.png"
   },
   {
-    "set": "Obsidian Flames 133/230",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "133/197",
+    "set": "Obsidian Flames 133/197",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv3/133.png"
   },
   {
-    "set": "Obsidian Flames 134/230",
-    "cost": "Not PSA Graded: $0.82",
+    "code": "134/197",
+    "set": "Obsidian Flames 134/197",
+    "cost": "UnGraded: $0.82",
     "img": "https://images.pokemontcg.io/sv3/134.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 103/196",
-    "cost": "Not PSA Graded: $3.56",
+    "code": "103/215",
+    "set": "Scarlet & Violet Black Star Promos 103/215",
+    "cost": "UnGraded: $3.56",
     "img": "https://images.pokemontcg.io/svp/103.png"
   },
   {
-    "set": "Shrouded Fable 8/99",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "008/64",
+    "set": "Shrouded Fable 008/64",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv6pt5/8.png"
   },
   {
-    "set": "Shrouded Fable 66/99",
-    "cost": "Not PSA Graded: $33.43",
+    "code": "066/64",
+    "set": "Shrouded Fable 066/64",
+    "cost": "UnGraded: $33.43",
     "img": "https://images.pokemontcg.io/sv6pt5/66.png"
   },
   {
-    "set": "Prismatic Evolutions 63/180",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "063/131",
+    "set": "Prismatic Evolutions 063/131",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8pt5/63.png"
   },
   {
-    "set": "Destined Rivals 38/244",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "038/182",
+    "set": "Destined Rivals 038/182",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv10/38.png"
   },
   {
-    "set": "Destined Rivals 191/244",
-    "cost": "Not PSA Graded: $11.23",
+    "code": "191/182",
+    "set": "Destined Rivals 191/182",
+    "cost": "UnGraded: $11.23",
     "img": "https://images.pokemontcg.io/sv10/191.png"
   }
 ]

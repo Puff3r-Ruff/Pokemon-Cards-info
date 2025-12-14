@@ -1,67 +1,80 @@
 [
   {
-    "set": "Steam Siege 5/116",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "005/114",
+    "set": "Steam Siege 005/114",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/xy11/5.png"
   },
   {
-    "set": "HeartGold & SoulSilver 6/124",
-    "cost": "Not PSA Graded: $6.12",
+    "code": "006/123",
+    "set": "HeartGold & SoulSilver 006/123",
+    "cost": "UnGraded: $6.12",
     "img": "https://images.pokemontcg.io/hgss1/6.png"
   },
   {
-    "set": "Dragons Exalted 3/128",
-    "cost": "Not PSA Graded: $0.74",
+    "code": "003/124",
+    "set": "Dragons Exalted 003/124",
+    "cost": "UnGraded: $0.74",
     "img": "https://images.pokemontcg.io/bw6/3.png"
   },
   {
-    "set": "Secret Wonders 11/132",
-    "cost": "Not PSA Graded: $3.95",
+    "code": "011/132",
+    "set": "Secret Wonders 011/132",
+    "cost": "UnGraded: $3.95",
     "img": "https://images.pokemontcg.io/dp3/11.png"
   },
   {
-    "set": "Neo Revelation 9/66",
+    "code": "009/64",
+    "set": "Neo Revelation 009/64",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo3/9.png"
   },
   {
-    "set": "Aquapolis H13/182",
-    "cost": "Not PSA Graded: $89.98",
+    "code": "H13/147",
+    "set": "Aquapolis H13/147",
+    "cost": "UnGraded: $89.98",
     "img": "https://images.pokemontcg.io/ecard2/H13.png"
   },
   {
-    "set": "Team Rocket Returns 11/111",
-    "cost": "Not PSA Graded: $21.88",
+    "code": "011/109",
+    "set": "Team Rocket Returns 011/109",
+    "cost": "UnGraded: $21.88",
     "img": "https://images.pokemontcg.io/ex7/11.png"
   },
   {
-    "set": "Neo Genesis 7/111",
+    "code": "007/111",
+    "set": "Neo Genesis 007/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/7.png"
   },
   {
-    "set": "Lost Thunder 14/240",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "014/214",
+    "set": "Lost Thunder 014/214",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/sm8/14.png"
   },
   {
-    "set": "Aquapolis 17/182",
-    "cost": "Not PSA Graded: $16.53",
+    "code": "017/147",
+    "set": "Aquapolis 017/147",
+    "cost": "UnGraded: $16.53",
     "img": "https://images.pokemontcg.io/ecard2/17.png"
   },
   {
-    "set": "Evolving Skies 4/237",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "004/203",
+    "set": "Evolving Skies 004/203",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh7/4.png"
   },
   {
-    "set": "Paldea Evolved 3/279",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "003/193",
+    "set": "Paldea Evolved 003/193",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sv2/3.png"
   },
   {
-    "set": "Paldean Fates 98/245",
-    "cost": "Not PSA Graded: $2.6",
+    "code": "098/91",
+    "set": "Paldean Fates 098/91",
+    "cost": "UnGraded: $2.6",
     "img": "https://images.pokemontcg.io/sv4pt5/98.png"
   }
 ]

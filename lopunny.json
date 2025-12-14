@@ -1,97 +1,116 @@
 [
   {
-    "set": "POP Series 9 9/17",
-    "cost": "Not PSA Graded: $1.98",
+    "code": "009/17",
+    "set": "POP Series 9 009/17",
+    "cost": "UnGraded: $1.98",
     "img": "https://images.pokemontcg.io/pop9/9.png"
   },
   {
-    "set": "Arceus 21/111",
-    "cost": "Not PSA Graded: $1.72",
+    "code": "021/99",
+    "set": "Arceus 021/99",
+    "cost": "UnGraded: $1.72",
     "img": "https://images.pokemontcg.io/pl4/21.png"
   },
   {
-    "set": "Diamond & Pearl 30/130",
-    "cost": "Not PSA Graded: $3.05",
+    "code": "030/130",
+    "set": "Diamond & Pearl 030/130",
+    "cost": "UnGraded: $3.05",
     "img": "https://images.pokemontcg.io/dp1/30.png"
   },
   {
-    "set": "Legends Awakened 33/146",
-    "cost": "Not PSA Graded: $1.74",
+    "code": "033/146",
+    "set": "Legends Awakened 033/146",
+    "cost": "UnGraded: $1.74",
     "img": "https://images.pokemontcg.io/dp6/33.png"
   },
   {
-    "set": "Supreme Victors 63/153",
-    "cost": "Not PSA Graded: $1.18",
+    "code": "063/147",
+    "set": "Supreme Victors 063/147",
+    "cost": "UnGraded: $1.18",
     "img": "https://images.pokemontcg.io/pl3/63.png"
   },
   {
-    "set": "Flashfire 85/110",
-    "cost": "Not PSA Graded: $0.62",
+    "code": "085/106",
+    "set": "Flashfire 085/106",
+    "cost": "UnGraded: $0.62",
     "img": "https://images.pokemontcg.io/xy2/85.png"
   },
   {
-    "set": "Ultra Prism 107/178",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "107/156",
+    "set": "Ultra Prism 107/156",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm5/107.png"
   },
   {
-    "set": "Boundaries Crossed 117/153",
-    "cost": "Not PSA Graded: $0.46",
+    "code": "117/149",
+    "set": "Boundaries Crossed 117/149",
+    "cost": "UnGraded: $0.46",
     "img": "https://images.pokemontcg.io/bw7/117.png"
   },
   {
-    "set": "Cosmic Eclipse 165/272",
-    "cost": "Not PSA Graded: $23",
+    "code": "165/236",
+    "set": "Cosmic Eclipse 165/236",
+    "cost": "UnGraded: $23",
     "img": "https://images.pokemontcg.io/sm12/165.png"
   },
   {
-    "set": "Cosmic Eclipse 225/272",
-    "cost": "Not PSA Graded: $45.08",
+    "code": "225/236",
+    "set": "Cosmic Eclipse 225/236",
+    "cost": "UnGraded: $45.08",
     "img": "https://images.pokemontcg.io/sm12/225.png"
   },
   {
-    "set": "Cosmic Eclipse 226/272",
-    "cost": "Not PSA Graded: $231.04",
+    "code": "226/236",
+    "set": "Cosmic Eclipse 226/236",
+    "cost": "UnGraded: $231.04",
     "img": "https://images.pokemontcg.io/sm12/226.png"
   },
   {
-    "set": "Cosmic Eclipse 261/272",
-    "cost": "Not PSA Graded: $63.95",
+    "code": "261/236",
+    "set": "Cosmic Eclipse 261/236",
+    "cost": "UnGraded: $63.95",
     "img": "https://images.pokemontcg.io/sm12/261.png"
   },
   {
-    "set": "Fusion Strike 213/284",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "213/264",
+    "set": "Fusion Strike 213/264",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh8/213.png"
   },
   {
-    "set": "Silver Tempest 145/215",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "145/195",
+    "set": "Silver Tempest 145/195",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh12/145.png"
   },
   {
-    "set": "Prismatic Evolutions 84/180",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "084/131",
+    "set": "Prismatic Evolutions 084/131",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv8pt5/84.png"
   },
   {
-    "set": "Mega Evolution 108/188",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "108/132",
+    "set": "Mega Evolution 108/132",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me1/108.png"
   },
   {
-    "set": "Phantasmal Flames 84/130",
-    "cost": "Not PSA Graded: $0.86",
+    "code": "084/94",
+    "set": "Phantasmal Flames 084/94",
+    "cost": "UnGraded: $0.86",
     "img": "https://images.pokemontcg.io/me2/84.png"
   },
   {
-    "set": "Phantasmal Flames 115/130",
-    "cost": "Not PSA Graded: $4.55",
+    "code": "115/94",
+    "set": "Phantasmal Flames 115/94",
+    "cost": "UnGraded: $4.55",
     "img": "https://images.pokemontcg.io/me2/115.png"
   },
   {
-    "set": "Phantasmal Flames 128/130",
-    "cost": "Not PSA Graded: $31.41",
+    "code": "128/94",
+    "set": "Phantasmal Flames 128/94",
+    "cost": "UnGraded: $31.41",
     "img": "https://images.pokemontcg.io/me2/128.png"
   }
 ]

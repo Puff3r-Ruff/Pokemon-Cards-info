@@ -1,62 +1,74 @@
 [
   {
-    "set": "Phantom Forces 14/124",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "014/119",
+    "set": "Phantom Forces 014/119",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/xy4/14.png"
   },
   {
-    "set": "Expedition Base Set 15/165",
-    "cost": "Not PSA Graded: $49.99",
+    "code": "015/165",
+    "set": "Expedition Base Set 015/165",
+    "cost": "UnGraded: $49.99",
     "img": "https://images.pokemontcg.io/ecard1/15.png"
   },
   {
-    "set": "Great Encounters 20/106",
-    "cost": "Not PSA Graded: $1.45",
+    "code": "020/106",
+    "set": "Great Encounters 020/106",
+    "cost": "UnGraded: $1.53",
     "img": "https://images.pokemontcg.io/dp4/20.png"
   },
   {
-    "set": "Crystal Guardians 22/100",
-    "cost": "Not PSA Graded: $3.49",
+    "code": "022/100",
+    "set": "Crystal Guardians 022/100",
+    "cost": "UnGraded: $3.49",
     "img": "https://images.pokemontcg.io/ex14/22.png"
   },
   {
-    "set": "FireRed & LeafGreen 26/116",
-    "cost": "Not PSA Graded: $1.55",
+    "code": "026/112",
+    "set": "FireRed & LeafGreen 026/112",
+    "cost": "UnGraded: $1.55",
     "img": "https://images.pokemontcg.io/ex6/26.png"
   },
   {
-    "set": "Fossil 38/62",
+    "code": "038/62",
+    "set": "Fossil 038/62",
     "cost": null,
     "img": "https://images.pokemontcg.io/base3/38.png"
   },
   {
-    "set": "Sword & Shield 44/216",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "044/202",
+    "set": "Sword & Shield 044/202",
+    "cost": "UnGraded: $0.14",
     "img": "https://images.pokemontcg.io/swsh1/44.png"
   },
   {
-    "set": "Unbroken Bonds 47/234",
-    "cost": "Not PSA Graded: $0.39",
+    "code": "047/214",
+    "set": "Unbroken Bonds 047/214",
+    "cost": "UnGraded: $0.39",
     "img": "https://images.pokemontcg.io/sm10/47.png"
   },
   {
-    "set": "Expedition Base Set 50/165",
-    "cost": "Not PSA Graded: $5.48",
+    "code": "050/165",
+    "set": "Expedition Base Set 050/165",
+    "cost": "UnGraded: $5.48",
     "img": "https://images.pokemontcg.io/ecard1/50.png"
   },
   {
-    "set": "Brilliant Stars 28/186",
-    "cost": "Not PSA Graded: $0.89",
+    "code": "028/172",
+    "set": "Brilliant Stars 028/172",
+    "cost": "UnGraded: $0.86",
     "img": "https://images.pokemontcg.io/swsh9/28.png"
   },
   {
-    "set": "Brilliant Stars 29/186",
-    "cost": "Not PSA Graded: $2.17",
+    "code": "029/172",
+    "set": "Brilliant Stars 029/172",
+    "cost": "UnGraded: $2.21",
     "img": "https://images.pokemontcg.io/swsh9/29.png"
   },
   {
-    "set": "151 99/207",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "099/165",
+    "set": "151 099/165",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv3pt5/99.png"
   }
 ]

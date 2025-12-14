@@ -1,72 +1,86 @@
 [
   {
-    "set": "SM Black Star Promos SM02/250",
-    "cost": "Not PSA Graded: $1.24",
+    "code": "SM02/248",
+    "set": "SM Black Star Promos SM02/248",
+    "cost": "UnGraded: $1.24",
     "img": "https://images.pokemontcg.io/smp/SM02.png"
   },
   {
-    "set": "Dragon Majesty 12/80",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "012/70",
+    "set": "Dragon Majesty 012/70",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/sm75/12.png"
   },
   {
-    "set": "SM Black Star Promos SM08/250",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "SM08/248",
+    "set": "SM Black Star Promos SM08/248",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/smp/SM08.png"
   },
   {
-    "set": "Team Up 20/198",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "020/181",
+    "set": "Team Up 020/181",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm9/20.png"
   },
   {
-    "set": "Sun & Moon 24/173",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "024/149",
+    "set": "Sun & Moon 024/149",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sm1/24.png"
   },
   {
-    "set": "Shining Legends 15/81",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "015/73",
+    "set": "Shining Legends 015/73",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm35/15.png"
   },
   {
-    "set": "SM Black Star Promos SM23/250",
-    "cost": "Not PSA Graded: $1.49",
+    "code": "SM23/248",
+    "set": "SM Black Star Promos SM23/248",
+    "cost": "UnGraded: $1.49",
     "img": "https://images.pokemontcg.io/smp/SM23.png"
   },
   {
-    "set": "Unbroken Bonds 26/234",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "026/214",
+    "set": "Unbroken Bonds 026/214",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm10/26.png"
   },
   {
-    "set": "Unbroken Bonds 27/234",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "027/214",
+    "set": "Unbroken Bonds 027/214",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm10/27.png"
   },
   {
-    "set": "McDonald's Collection 2017 3/12",
+    "code": "003/12",
+    "set": "McDonald's Collection 2017 003/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd17/3.png"
   },
   {
-    "set": "McDonald's Collection 2021 15/25",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "015/25",
+    "set": "McDonald's Collection 2021 015/25",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/mcd21/15.png"
   },
   {
-    "set": "Silver Tempest 30/215",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "030/195",
+    "set": "Silver Tempest 030/195",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh12/30.png"
   },
   {
-    "set": "Temporal Forces 32/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "032/162",
+    "set": "Temporal Forces 032/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/32.png"
   },
   {
-    "set": "Temporal Forces 167/218",
-    "cost": "Not PSA Graded: $20.04",
+    "code": "167/162",
+    "set": "Temporal Forces 167/162",
+    "cost": "UnGraded: $20.04",
     "img": "https://images.pokemontcg.io/sv5/167.png"
   }
 ]

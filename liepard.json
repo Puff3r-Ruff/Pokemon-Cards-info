@@ -1,92 +1,110 @@
 [
   {
-    "set": "Champion's Path 40/80",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "040/73",
+    "set": "Champion's Path 040/73",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh35/40.png"
   },
   {
-    "set": "Shining Legends 49/81",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "049/73",
+    "set": "Shining Legends 049/73",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm35/49.png"
   },
   {
-    "set": "Phantom Forces 57/124",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "057/119",
+    "set": "Phantom Forces 057/119",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/xy4/57.png"
   },
   {
-    "set": "Black & White 67/115",
-    "cost": "Not PSA Graded: $1.01",
+    "code": "067/114",
+    "set": "Black & White 067/114",
+    "cost": "UnGraded: $1.01",
     "img": "https://images.pokemontcg.io/bw1/67.png"
   },
   {
-    "set": "Emerging Powers 65/98",
-    "cost": "Not PSA Graded: $1.72",
+    "code": "065/98",
+    "set": "Emerging Powers 065/98",
+    "cost": "UnGraded: $1.72",
     "img": "https://images.pokemontcg.io/bw2/65.png"
   },
   {
-    "set": "Plasma Storm 84/138",
-    "cost": "Not PSA Graded: $1.04",
+    "code": "084/135",
+    "set": "Plasma Storm 084/135",
+    "cost": "UnGraded: $1.04",
     "img": "https://images.pokemontcg.io/bw8/84.png"
   },
   {
-    "set": "Boundaries Crossed 91/153",
-    "cost": "Not PSA Graded: $3.89",
+    "code": "091/149",
+    "set": "Boundaries Crossed 091/149",
+    "cost": "UnGraded: $3.89",
     "img": "https://images.pokemontcg.io/bw7/91.png"
   },
   {
-    "set": "Darkness Ablaze 107/201",
-    "cost": "Not PSA Graded: $0.19",
+    "code": "107/189",
+    "set": "Darkness Ablaze 107/189",
+    "cost": "UnGraded: $0.19",
     "img": "https://images.pokemontcg.io/swsh3/107.png"
   },
   {
-    "set": "Unified Minds 136/260",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "136/236",
+    "set": "Unified Minds 136/236",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm11/136.png"
   },
   {
-    "set": "Chilling Reign 104/233",
-    "cost": "Not PSA Graded: $0.78",
+    "code": "104/198",
+    "set": "Chilling Reign 104/198",
+    "cost": "UnGraded: $0.78",
     "img": "https://images.pokemontcg.io/swsh6/104.png"
   },
   {
-    "set": "Chilling Reign 180/233",
-    "cost": "Not PSA Graded: $1.66",
+    "code": "180/198",
+    "set": "Chilling Reign 180/198",
+    "cost": "UnGraded: $1.66",
     "img": "https://images.pokemontcg.io/swsh6/180.png"
   },
   {
-    "set": "Brilliant Stars 91/186",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "091/172",
+    "set": "Brilliant Stars 091/172",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/swsh9/91.png"
   },
   {
-    "set": "SWSH Black Star Promos SWSH187/304",
-    "cost": "Not PSA Graded: $0.89",
+    "code": "SWSH187/307",
+    "set": "SWSH Black Star Promos SWSH187/307",
+    "cost": "UnGraded: $0.89",
     "img": "https://images.pokemontcg.io/swshp/SWSH187.png"
   },
   {
-    "set": "Crown Zenith 78/160",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "078/159",
+    "set": "Crown Zenith 078/159",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh12pt5/78.png"
   },
   {
-    "set": "Paradox Rift 115/266",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "115/182",
+    "set": "Paradox Rift 115/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv4/115.png"
   },
   {
-    "set": "Destined Rivals 131/244",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "131/182",
+    "set": "Destined Rivals 131/182",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv10/131.png"
   },
   {
-    "set": "White Flare 56/173",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "056/86",
+    "set": "White Flare 056/86",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/rsv10pt5/56.png"
   },
   {
-    "set": "White Flare 137/173",
-    "cost": "Not PSA Graded: $25.36",
+    "code": "137/86",
+    "set": "White Flare 137/86",
+    "cost": "UnGraded: $25.36",
     "img": "https://images.pokemontcg.io/rsv10pt5/137.png"
   }
 ]

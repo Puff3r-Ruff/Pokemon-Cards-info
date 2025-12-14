@@ -1,67 +1,80 @@
 [
   {
-    "set": "Champion's Path 8/80",
-    "cost": "Not PSA Graded: $1.16",
+    "code": "008/73",
+    "set": "Champion's Path 008/73",
+    "cost": "UnGraded: $1.16",
     "img": "https://images.pokemontcg.io/swsh35/8.png"
   },
   {
-    "set": "Sun & Moon 26/173",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "026/149",
+    "set": "Sun & Moon 026/149",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/sm1/26.png"
   },
   {
-    "set": "Sun & Moon 27/173",
-    "cost": "Not PSA Graded: $2.89",
+    "code": "027/149",
+    "set": "Sun & Moon 027/149",
+    "cost": "UnGraded: $2.89",
     "img": "https://images.pokemontcg.io/sm1/27.png"
   },
   {
-    "set": "Shining Legends 17/81",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "017/73",
+    "set": "Shining Legends 017/73",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/sm35/17.png"
   },
   {
-    "set": "Unbroken Bonds 29/234",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "029/214",
+    "set": "Unbroken Bonds 029/214",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/sm10/29.png"
   },
   {
-    "set": "SM Black Star Promos SM38/250",
-    "cost": "Not PSA Graded: $11.3",
+    "code": "SM38/248",
+    "set": "SM Black Star Promos SM38/248",
+    "cost": "UnGraded: $11.3",
     "img": "https://images.pokemontcg.io/smp/SM38.png"
   },
   {
-    "set": "Team Up 97/198",
-    "cost": "Not PSA Graded: $2.45",
+    "code": "097/181",
+    "set": "Team Up 097/181",
+    "cost": "UnGraded: $2.45",
     "img": "https://images.pokemontcg.io/sm9/97.png"
   },
   {
-    "set": "Guardians Rising 147/180",
-    "cost": "Not PSA Graded: $25.97",
+    "code": "147/145",
+    "set": "Guardians Rising 147/145",
+    "cost": "UnGraded: $25.97",
     "img": "https://images.pokemontcg.io/sm2/147.png"
   },
   {
-    "set": "Team Up 167/198",
-    "cost": "Not PSA Graded: $6.51",
+    "code": "167/181",
+    "set": "Team Up 167/181",
+    "cost": "UnGraded: $6.51",
     "img": "https://images.pokemontcg.io/sm9/167.png"
   },
   {
-    "set": "Team Up 188/198",
-    "cost": "Not PSA Graded: $20.75",
+    "code": "188/181",
+    "set": "Team Up 188/181",
+    "cost": "UnGraded: $20.75",
     "img": "https://images.pokemontcg.io/sm9/188.png"
   },
   {
-    "set": "Silver Tempest 32/215",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "032/195",
+    "set": "Silver Tempest 032/195",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh12/32.png"
   },
   {
-    "set": "Temporal Forces 34/218",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "034/162",
+    "set": "Temporal Forces 034/162",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/sv5/34.png"
   },
   {
-    "set": "Temporal Forces 187/218",
-    "cost": "Not PSA Graded: $2.04",
+    "code": "187/162",
+    "set": "Temporal Forces 187/162",
+    "cost": "UnGraded: $2.04",
     "img": "https://images.pokemontcg.io/sv5/187.png"
   }
 ]

@@ -1,47 +1,56 @@
 [
   {
-    "set": "Phantom Forces 21/124",
-    "cost": "Not PSA Graded: $0.66",
+    "code": "021/119",
+    "set": "Phantom Forces 021/119",
+    "cost": "UnGraded: $0.66",
     "img": "https://images.pokemontcg.io/xy4/21.png"
   },
   {
-    "set": "Next Destinies 35/103",
-    "cost": "Not PSA Graded: $1.17",
+    "code": "035/99",
+    "set": "Next Destinies 035/99",
+    "cost": "UnGraded: $1.17",
     "img": "https://images.pokemontcg.io/bw4/35.png"
   },
   {
-    "set": "Noble Victories 31/102",
-    "cost": "Not PSA Graded: $2.74",
+    "code": "031/101",
+    "set": "Noble Victories 031/101",
+    "cost": "UnGraded: $2.74",
     "img": "https://images.pokemontcg.io/bw3/31.png"
   },
   {
-    "set": "Plasma Storm 39/138",
-    "cost": "Not PSA Graded: $0.94",
+    "code": "039/135",
+    "set": "Plasma Storm 039/135",
+    "cost": "UnGraded: $0.94",
     "img": "https://images.pokemontcg.io/bw8/39.png"
   },
   {
-    "set": "Boundaries Crossed 45/153",
-    "cost": "Not PSA Graded: $0.73",
+    "code": "045/149",
+    "set": "Boundaries Crossed 045/149",
+    "cost": "UnGraded: $0.73",
     "img": "https://images.pokemontcg.io/bw7/45.png"
   },
   {
-    "set": "Battle Styles 42/183",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "042/163",
+    "set": "Battle Styles 042/163",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/swsh5/42.png"
   },
   {
-    "set": "White Flare 45/173",
-    "cost": "Not PSA Graded: $0.84",
+    "code": "045/86",
+    "set": "White Flare 045/86",
+    "cost": "UnGraded: $0.84",
     "img": "https://images.pokemontcg.io/rsv10pt5/45.png"
   },
   {
-    "set": "White Flare 160/173",
-    "cost": "Not PSA Graded: $1.26",
+    "code": "160/86",
+    "set": "White Flare 160/86",
+    "cost": "UnGraded: $1.26",
     "img": "https://images.pokemontcg.io/rsv10pt5/160.png"
   },
   {
-    "set": "White Flare 168/173",
-    "cost": "Not PSA Graded: $31.77",
+    "code": "168/86",
+    "set": "White Flare 168/86",
+    "cost": "UnGraded: $31.77",
     "img": "https://images.pokemontcg.io/rsv10pt5/168.png"
   }
 ]

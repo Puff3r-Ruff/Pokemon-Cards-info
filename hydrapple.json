@@ -1,32 +1,38 @@
 [
   {
-    "set": "Stellar Crown 14/175",
-    "cost": "Not PSA Graded: $0.68",
+    "code": "014/142",
+    "set": "Stellar Crown 014/142",
+    "cost": "UnGraded: $0.68",
     "img": "https://images.pokemontcg.io/sv7/14.png"
   },
   {
-    "set": "Stellar Crown 156/175",
-    "cost": "Not PSA Graded: $1.82",
+    "code": "156/142",
+    "set": "Stellar Crown 156/142",
+    "cost": "UnGraded: $1.82",
     "img": "https://images.pokemontcg.io/sv7/156.png"
   },
   {
-    "set": "Stellar Crown 167/175",
-    "cost": "Not PSA Graded: $22.41",
+    "code": "167/142",
+    "set": "Stellar Crown 167/142",
+    "cost": "UnGraded: $22.41",
     "img": "https://images.pokemontcg.io/sv7/167.png"
   },
   {
-    "set": "Prismatic Evolutions 11/180",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "011/131",
+    "set": "Prismatic Evolutions 011/131",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/sv8pt5/11.png"
   },
   {
-    "set": "Destined Rivals 18/244",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "018/182",
+    "set": "Destined Rivals 018/182",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv10/18.png"
   },
   {
-    "set": "Destined Rivals 188/244",
-    "cost": "Not PSA Graded: $3",
+    "code": "188/182",
+    "set": "Destined Rivals 188/182",
+    "cost": "UnGraded: $3",
     "img": "https://images.pokemontcg.io/sv10/188.png"
   }
 ]

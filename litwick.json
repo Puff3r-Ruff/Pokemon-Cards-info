@@ -1,92 +1,110 @@
 [
   {
-    "set": "Guardians Rising 11/180",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "011/145",
+    "set": "Guardians Rising 011/145",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm2/11.png"
   },
   {
-    "set": "Plasma Freeze 14/122",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "014/116",
+    "set": "Plasma Freeze 014/116",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/bw9/14.png"
   },
   {
-    "set": "Next Destinies 18/103",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "018/99",
+    "set": "Next Destinies 018/99",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/bw4/18.png"
   },
   {
-    "set": "Plasma Storm 21/138",
-    "cost": "Not PSA Graded: $0.26",
+    "code": "021/135",
+    "set": "Plasma Storm 021/135",
+    "cost": "UnGraded: $0.26",
     "img": "https://images.pokemontcg.io/bw8/21.png"
   },
   {
-    "set": "Unified Minds 27/260",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "027/236",
+    "set": "Unified Minds 027/236",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sm11/27.png"
   },
   {
-    "set": "Unified Minds 28/260",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "028/236",
+    "set": "Unified Minds 028/236",
+    "cost": "UnGraded: $0.23",
     "img": "https://images.pokemontcg.io/sm11/28.png"
   },
   {
-    "set": "Rebel Clash 31/209",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "031/192",
+    "set": "Rebel Clash 031/192",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh2/31.png"
   },
   {
+    "code": "BW27/101",
     "set": "BW Black Star Promos BW27/101",
-    "cost": "Not PSA Graded: $20.42",
+    "cost": "UnGraded: $20.42",
     "img": "https://images.pokemontcg.io/bwp/BW27.png"
   },
   {
-    "set": "Steam Siege 48/116",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "048/114",
+    "set": "Steam Siege 048/114",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/xy11/48.png"
   },
   {
-    "set": "Phantom Forces 41/124",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "041/119",
+    "set": "Phantom Forces 041/119",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/xy4/41.png"
   },
   {
-    "set": "Noble Victories 57/102",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "057/101",
+    "set": "Noble Victories 057/101",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/bw3/57.png"
   },
   {
-    "set": "Noble Victories 58/102",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "058/101",
+    "set": "Noble Victories 058/101",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/bw3/58.png"
   },
   {
-    "set": "Lost Thunder 101/240",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "101/214",
+    "set": "Lost Thunder 101/214",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/sm8/101.png"
   },
   {
-    "set": "Lost Origin 24/217",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "024/196",
+    "set": "Lost Origin 024/196",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh11/24.png"
   },
   {
-    "set": "Obsidian Flames 36/230",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "036/197",
+    "set": "Obsidian Flames 036/197",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv3/36.png"
   },
   {
-    "set": "Twilight Masquerade 36/226",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "036/167",
+    "set": "Twilight Masquerade 036/167",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv6/36.png"
   },
   {
-    "set": "White Flare 16/173",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "016/86",
+    "set": "White Flare 016/86",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/rsv10pt5/16.png"
   },
   {
-    "set": "White Flare 101/173",
-    "cost": "Not PSA Graded: $14.42",
+    "code": "101/86",
+    "set": "White Flare 101/86",
+    "cost": "UnGraded: $14.42",
     "img": "https://images.pokemontcg.io/rsv10pt5/101.png"
   }
 ]

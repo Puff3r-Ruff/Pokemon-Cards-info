@@ -1,82 +1,98 @@
 [
   {
+    "code": "HGSS05/25",
     "set": "HGSS Black Star Promos HGSS05/25",
-    "cost": "Not PSA Graded: $4.68",
+    "cost": "UnGraded: $4.68",
     "img": "https://images.pokemontcg.io/hsp/HGSS05.png"
   },
   {
-    "set": "Unseen Forces 59/145",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "059/115",
+    "set": "Unseen Forces 059/115",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/ex10/59.png"
   },
   {
-    "set": "HeartGold & SoulSilver 66/124",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "066/123",
+    "set": "HeartGold & SoulSilver 066/123",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/hgss1/66.png"
   },
   {
-    "set": "Neo Genesis 60/111",
+    "code": "060/111",
+    "set": "Neo Genesis 060/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/60.png"
   },
   {
-    "set": "Diamond & Pearl 85/130",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "085/130",
+    "set": "Diamond & Pearl 085/130",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/dp1/85.png"
   },
   {
-    "set": "Plasma Freeze 91/122",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "091/116",
+    "set": "Plasma Freeze 091/116",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/bw9/91.png"
   },
   {
-    "set": "Skyridge 65/182",
-    "cost": "Not PSA Graded: $7.77",
+    "code": "065/144",
+    "set": "Skyridge 065/144",
+    "cost": "UnGraded: $7.77",
     "img": "https://images.pokemontcg.io/ecard3/65.png"
   },
   {
-    "set": "Burning Shadows 106/177",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "106/147",
+    "set": "Burning Shadows 106/147",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm3/106.png"
   },
   {
-    "set": "BREAKthrough 119/165",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "119/162",
+    "set": "BREAKthrough 119/162",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/xy8/119.png"
   },
   {
-    "set": "Sword & Shield 143/216",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "143/202",
+    "set": "Sword & Shield 143/202",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh1/143.png"
   },
   {
-    "set": "Unified Minds 165/260",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "165/236",
+    "set": "Unified Minds 165/236",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm11/165.png"
   },
   {
-    "set": "Astral Radiance 120/216",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "120/189",
+    "set": "Astral Radiance 120/189",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/swsh10/120.png"
   },
   {
+    "code": "TG12/30",
     "set": "Astral Radiance Trainer Gallery TG12/30",
-    "cost": "Not PSA Graded: $3.05",
+    "cost": "UnGraded: $3.03",
     "img": "https://images.pokemontcg.io/swsh10tg/TG12.png"
   },
   {
-    "set": "Temporal Forces 126/218",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "126/162",
+    "set": "Temporal Forces 126/162",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv5/126.png"
   },
   {
-    "set": "Stellar Crown 114/175",
-    "cost": "Not PSA Graded: $0.23",
+    "code": "114/142",
+    "set": "Stellar Crown 114/142",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/sv7/114.png"
   },
   {
-    "set": "Prismatic Evolutions 77/180",
-    "cost": "Not PSA Graded: $0.14",
+    "code": "077/131",
+    "set": "Prismatic Evolutions 077/131",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv8pt5/77.png"
   }
 ]

@@ -1,87 +1,104 @@
 [
   {
-    "set": "Kalos Starter Set 18/39",
-    "cost": "Not PSA Graded: $0.92",
+    "code": "018/39",
+    "set": "Kalos Starter Set 018/39",
+    "cost": "UnGraded: $0.92",
     "img": "https://images.pokemontcg.io/xy0/18.png"
   },
   {
+    "code": "SV17/94",
     "set": "Hidden Fates Shiny Vault SV17/94",
-    "cost": "Not PSA Graded: $1.74",
+    "cost": "UnGraded: $1.74",
     "img": "https://images.pokemontcg.io/sma/SV17.png"
   },
   {
-    "set": "Champion's Path 44/80",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "044/73",
+    "set": "Champion's Path 044/73",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh35/44.png"
   },
   {
-    "set": "Roaring Skies 41/112",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "041/108",
+    "set": "Roaring Skies 041/108",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/xy6/41.png"
   },
   {
-    "set": "Ancient Origins 45/100",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "045/98",
+    "set": "Ancient Origins 045/98",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/xy7/45.png"
   },
   {
-    "set": "Forbidden Light 50/150",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "050/131",
+    "set": "Forbidden Light 050/131",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm6/50.png"
   },
   {
-    "set": "XY 74/146",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "074/146",
+    "set": "XY 074/146",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/xy1/74.png"
   },
   {
-    "set": "XY 75/146",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "075/146",
+    "set": "XY 075/146",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy1/75.png"
   },
   {
-    "set": "Burning Shadows 89/177",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "089/147",
+    "set": "Burning Shadows 089/147",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm3/89.png"
   },
   {
-    "set": "BREAKthrough 93/165",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "093/162",
+    "set": "BREAKthrough 093/162",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/xy8/93.png"
   },
   {
-    "set": "Unbroken Bonds 118/234",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "118/214",
+    "set": "Unbroken Bonds 118/214",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sm10/118.png"
   },
   {
-    "set": "Chilling Reign 69/233",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "069/198",
+    "set": "Chilling Reign 069/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh6/69.png"
   },
   {
-    "set": "McDonald's Collection 2014 6/12",
+    "code": "006/12",
+    "set": "McDonald's Collection 2014 006/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd14/6.png"
   },
   {
-    "set": "Lost Origin 77/217",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "077/196",
+    "set": "Lost Origin 077/196",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/swsh11/77.png"
   },
   {
-    "set": "Lost Origin 121/217",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "121/196",
+    "set": "Lost Origin 121/196",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/swsh11/121.png"
   },
   {
-    "set": "Obsidian Flames 137/230",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "137/197",
+    "set": "Obsidian Flames 137/197",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv3/137.png"
   },
   {
-    "set": "Shrouded Fable 33/99",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "033/64",
+    "set": "Shrouded Fable 033/64",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/sv6pt5/33.png"
   }
 ]

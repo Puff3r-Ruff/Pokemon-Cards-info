@@ -1,62 +1,74 @@
 [
   {
-    "set": "Sandstorm 18/100",
-    "cost": "Not PSA Graded: $1.28",
+    "code": "018/100",
+    "set": "Sandstorm 018/100",
+    "cost": "UnGraded: $1.28",
     "img": "https://images.pokemontcg.io/ex2/18.png"
   },
   {
-    "set": "Legend Maker 37/93",
-    "cost": "Not PSA Graded: $0.95",
+    "code": "037/92",
+    "set": "Legend Maker 037/92",
+    "cost": "UnGraded: $0.95",
     "img": "https://images.pokemontcg.io/ex12/37.png"
   },
   {
-    "set": "Secret Wonders 52/132",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "052/132",
+    "set": "Secret Wonders 052/132",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/dp3/52.png"
   },
   {
-    "set": "Rising Rivals 67/120",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "067/111",
+    "set": "Rising Rivals 067/111",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/pl2/67.png"
   },
   {
-    "set": "Plasma Freeze 94/122",
-    "cost": "Not PSA Graded: $1.25",
+    "code": "094/116",
+    "set": "Plasma Freeze 094/116",
+    "cost": "UnGraded: $1.25",
     "img": "https://images.pokemontcg.io/bw9/94.png"
   },
   {
-    "set": "Celestial Storm 122/187",
-    "cost": "Not PSA Graded: $0.3",
+    "code": "122/168",
+    "set": "Celestial Storm 122/168",
+    "cost": "UnGraded: $0.3",
     "img": "https://images.pokemontcg.io/sm7/122.png"
   },
   {
-    "set": "Lost Thunder 161/240",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "161/214",
+    "set": "Lost Thunder 161/214",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm8/161.png"
   },
   {
-    "set": "Lost Thunder 162/240",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "162/214",
+    "set": "Lost Thunder 162/214",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm8/162.png"
   },
   {
-    "set": "Chilling Reign 122/233",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "122/198",
+    "set": "Chilling Reign 122/198",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh6/122.png"
   },
   {
-    "set": "Surging Sparks 150/252",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "150/191",
+    "set": "Surging Sparks 150/191",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv8/150.png"
   },
   {
-    "set": "Surging Sparks 213/252",
-    "cost": "Not PSA Graded: $5.13",
+    "code": "213/191",
+    "set": "Surging Sparks 213/191",
+    "cost": "UnGraded: $5.13",
     "img": "https://images.pokemontcg.io/sv8/213.png"
   },
   {
-    "set": "Journey Together 122/190",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "122/159",
+    "set": "Journey Together 122/159",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv9/122.png"
   }
 ]

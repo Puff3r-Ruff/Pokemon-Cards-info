@@ -1,47 +1,56 @@
 [
   {
-    "set": "Next Destinies 3/103",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "003/99",
+    "set": "Next Destinies 003/99",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/bw4/3.png"
   },
   {
-    "set": "Cosmic Eclipse 13/272",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "013/236",
+    "set": "Cosmic Eclipse 013/236",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sm12/13.png"
   },
   {
-    "set": "BREAKpoint 5/126",
-    "cost": "Not PSA Graded: $0.16",
+    "code": "005/122",
+    "set": "BREAKpoint 005/122",
+    "cost": "UnGraded: $0.16",
     "img": "https://images.pokemontcg.io/xy9/5.png"
   },
   {
-    "set": "HS—Triumphant 65/103",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "065/102",
+    "set": "HS—Triumphant 065/102",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/hgss4/65.png"
   },
   {
-    "set": "Platinum 78/133",
-    "cost": "Not PSA Graded: $0.34",
+    "code": "078/127",
+    "set": "Platinum 078/127",
+    "cost": "UnGraded: $0.34",
     "img": "https://images.pokemontcg.io/pl1/78.png"
   },
   {
-    "set": "Mysterious Treasures 86/124",
-    "cost": "Not PSA Graded: $0.29",
+    "code": "086/123",
+    "set": "Mysterious Treasures 086/123",
+    "cost": "UnGraded: $0.29",
     "img": "https://images.pokemontcg.io/dp2/86.png"
   },
   {
-    "set": "Supreme Victors 109/153",
-    "cost": "Not PSA Graded: $0.35",
+    "code": "109/147",
+    "set": "Supreme Victors 109/147",
+    "cost": "UnGraded: $0.35",
     "img": "https://images.pokemontcg.io/pl3/109.png"
   },
   {
-    "set": "Astral Radiance 9/216",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "009/189",
+    "set": "Astral Radiance 009/189",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh10/9.png"
   },
   {
-    "set": "Crown Zenith 10/160",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "010/159",
+    "set": "Crown Zenith 010/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/swsh12pt5/10.png"
   }
 ]

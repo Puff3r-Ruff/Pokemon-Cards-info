@@ -1,52 +1,62 @@
 [
   {
-    "set": "Plasma Blast 3/105",
-    "cost": "Not PSA Graded: $0.64",
+    "code": "003/101",
+    "set": "Plasma Blast 003/101",
+    "cost": "UnGraded: $0.64",
     "img": "https://images.pokemontcg.io/bw10/3.png"
   },
   {
-    "set": "Cosmic Eclipse 10/272",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "010/236",
+    "set": "Cosmic Eclipse 010/236",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm12/10.png"
   },
   {
-    "set": "Sandstorm 42/100",
-    "cost": "Not PSA Graded: $1.12",
+    "code": "042/100",
+    "set": "Sandstorm 042/100",
+    "cost": "UnGraded: $1.12",
     "img": "https://images.pokemontcg.io/ex2/42.png"
   },
   {
-    "set": "Sandstorm 43/100",
-    "cost": "Not PSA Graded: $2",
+    "code": "043/100",
+    "set": "Sandstorm 043/100",
+    "cost": "UnGraded: $2",
     "img": "https://images.pokemontcg.io/ex2/43.png"
   },
   {
-    "set": "Legend Maker 56/93",
-    "cost": "Not PSA Graded: $0.38",
+    "code": "056/92",
+    "set": "Legend Maker 056/92",
+    "cost": "UnGraded: $0.38",
     "img": "https://images.pokemontcg.io/ex12/56.png"
   },
   {
-    "set": "Power Keepers 52/108",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "052/108",
+    "set": "Power Keepers 052/108",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/ex16/52.png"
   },
   {
-    "set": "Holon Phantoms 68/111",
-    "cost": "Not PSA Graded: $0.6",
+    "code": "068/110",
+    "set": "Holon Phantoms 068/110",
+    "cost": "UnGraded: $0.6",
     "img": "https://images.pokemontcg.io/ex13/68.png"
   },
   {
+    "code": "105/146",
     "set": "Legends Awakened 105/146",
-    "cost": "Not PSA Graded: $0.58",
+    "cost": "UnGraded: $0.58",
     "img": "https://images.pokemontcg.io/dp6/105.png"
   },
   {
-    "set": "Stellar Crown 5/175",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "005/142",
+    "set": "Stellar Crown 005/142",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv7/5.png"
   },
   {
-    "set": "Stellar Crown 145/175",
-    "cost": "Not PSA Graded: $4.12",
+    "code": "145/142",
+    "set": "Stellar Crown 145/142",
+    "cost": "UnGraded: $4.12",
     "img": "https://images.pokemontcg.io/sv7/145.png"
   }
 ]

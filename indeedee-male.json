@@ -1,67 +1,80 @@
 [
   {
-    "set": "Sword & Shield 91/216",
-    "cost": "Not PSA Graded: $0.87",
+    "code": "091/202",
+    "set": "Sword & Shield 091/202",
+    "cost": "UnGraded: $0.87",
     "img": "https://images.pokemontcg.io/swsh1/91.png"
   },
   {
-    "set": "Rebel Clash 88/209",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "088/192",
+    "set": "Rebel Clash 088/192",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/swsh2/88.png"
   },
   {
-    "set": "Sword & Shield 192/216",
-    "cost": "Not PSA Graded: $1.77",
+    "code": "192/202",
+    "set": "Sword & Shield 192/202",
+    "cost": "UnGraded: $1.77",
     "img": "https://images.pokemontcg.io/swsh1/192.png"
   },
   {
-    "set": "Shining Fates 39/73",
-    "cost": "Not PSA Graded: $0.61",
+    "code": "039/72",
+    "set": "Shining Fates 039/72",
+    "cost": "UnGraded: $0.61",
     "img": "https://images.pokemontcg.io/swsh45/39.png"
   },
   {
-    "set": "Shining Fates 56/73",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "056/72",
+    "set": "Shining Fates 056/72",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/swsh45/56.png"
   },
   {
+    "code": "SV059/122",
     "set": "Shining Fates Shiny Vault SV059/122",
-    "cost": "Not PSA Graded: $1.6",
+    "cost": "UnGraded: $1.6",
     "img": "https://images.pokemontcg.io/swsh45sv/SV059.png"
   },
   {
+    "code": "SV114/122",
     "set": "Shining Fates Shiny Vault SV114/122",
-    "cost": "Not PSA Graded: $0.89",
+    "cost": "UnGraded: $0.89",
     "img": "https://images.pokemontcg.io/swsh45sv/SV114.png"
   },
   {
-    "set": "Battle Styles 120/183",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "120/163",
+    "set": "Battle Styles 120/163",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/swsh5/120.png"
   },
   {
-    "set": "Fusion Strike 127/284",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "127/264",
+    "set": "Fusion Strike 127/264",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh8/127.png"
   },
   {
-    "set": "Silver Tempest 86/215",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "086/195",
+    "set": "Silver Tempest 086/195",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/swsh12/86.png"
   },
   {
-    "set": "Scarlet & Violet 153/258",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "153/198",
+    "set": "Scarlet & Violet 153/198",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv1/153.png"
   },
   {
-    "set": "Surging Sparks 93/252",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "093/191",
+    "set": "Surging Sparks 093/191",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv8/93.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 154/196",
-    "cost": "Not PSA Graded: $2.69",
+    "code": "154/215",
+    "set": "Scarlet & Violet Black Star Promos 154/215",
+    "cost": "UnGraded: $2.69",
     "img": "https://images.pokemontcg.io/svp/154.png"
   }
 ]

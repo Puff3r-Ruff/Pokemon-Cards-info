@@ -1,32 +1,38 @@
 [
   {
-    "set": "Temporal Forces 25/218",
-    "cost": "Not PSA Graded: $0.7",
+    "code": "025/162",
+    "set": "Temporal Forces 025/162",
+    "cost": "UnGraded: $0.7",
     "img": "https://images.pokemontcg.io/sv5/25.png"
   },
   {
-    "set": "Temporal Forces 186/218",
-    "cost": "Not PSA Graded: $1.61",
+    "code": "186/162",
+    "set": "Temporal Forces 186/162",
+    "cost": "UnGraded: $1.61",
     "img": "https://images.pokemontcg.io/sv5/186.png"
   },
   {
-    "set": "Temporal Forces 203/218",
-    "cost": "Not PSA Graded: $23.23",
+    "code": "203/162",
+    "set": "Temporal Forces 203/162",
+    "cost": "UnGraded: $23.23",
     "img": "https://images.pokemontcg.io/sv5/203.png"
   },
   {
-    "set": "Temporal Forces 213/218",
-    "cost": "Not PSA Graded: $7.38",
+    "code": "213/162",
+    "set": "Temporal Forces 213/162",
+    "cost": "UnGraded: $7.38",
     "img": "https://images.pokemontcg.io/sv5/213.png"
   },
   {
-    "set": "Twilight Masquerade 19/226",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "019/167",
+    "set": "Twilight Masquerade 019/167",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv6/19.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 128/196",
-    "cost": "Not PSA Graded: $0.59",
+    "code": "128/215",
+    "set": "Scarlet & Violet Black Star Promos 128/215",
+    "cost": "UnGraded: $0.59",
     "img": "https://images.pokemontcg.io/svp/128.png"
   }
 ]

@@ -1,37 +1,44 @@
 [
   {
-    "set": "Paradox Rift 89/266",
-    "cost": "Not PSA Graded: $0.79",
+    "code": "089/182",
+    "set": "Paradox Rift 089/182",
+    "cost": "UnGraded: $0.79",
     "img": "https://images.pokemontcg.io/sv4/89.png"
   },
   {
-    "set": "Paradox Rift 225/266",
-    "cost": "Not PSA Graded: $2.25",
+    "code": "225/182",
+    "set": "Paradox Rift 225/182",
+    "cost": "UnGraded: $2.25",
     "img": "https://images.pokemontcg.io/sv4/225.png"
   },
   {
-    "set": "Paradox Rift 249/266",
-    "cost": "Not PSA Graded: $21.85",
+    "code": "249/182",
+    "set": "Paradox Rift 249/182",
+    "cost": "UnGraded: $21.85",
     "img": "https://images.pokemontcg.io/sv4/249.png"
   },
   {
-    "set": "Paradox Rift 261/266",
-    "cost": "Not PSA Graded: $3.71",
+    "code": "261/182",
+    "set": "Paradox Rift 261/182",
+    "cost": "UnGraded: $3.71",
     "img": "https://images.pokemontcg.io/sv4/261.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 68/196",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "068/215",
+    "set": "Scarlet & Violet Black Star Promos 068/215",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/svp/68.png"
   },
   {
-    "set": "Temporal Forces 80/218",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "080/162",
+    "set": "Temporal Forces 080/162",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/sv5/80.png"
   },
   {
-    "set": "Temporal Forces 79/218",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "079/162",
+    "set": "Temporal Forces 079/162",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv5/79.png"
   }
 ]

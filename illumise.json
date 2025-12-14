@@ -1,47 +1,56 @@
 [
   {
-    "set": "XY 9/146",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "009/146",
+    "set": "XY 009/146",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/xy1/9.png"
   },
   {
-    "set": "Primal Clash 18/164",
-    "cost": "Not PSA Graded: $0.32",
+    "code": "018/160",
+    "set": "Primal Clash 018/160",
+    "cost": "UnGraded: $0.32",
     "img": "https://images.pokemontcg.io/xy5/18.png"
   },
   {
-    "set": "Celestial Storm 18/187",
-    "cost": "Not PSA Graded: $0.24",
+    "code": "018/168",
+    "set": "Celestial Storm 018/168",
+    "cost": "UnGraded: $0.24",
     "img": "https://images.pokemontcg.io/sm7/18.png"
   },
   {
-    "set": "Emerald 32/107",
-    "cost": "Not PSA Graded: $1.95",
+    "code": "032/106",
+    "set": "Emerald 032/106",
+    "cost": "UnGraded: $1.95",
     "img": "https://images.pokemontcg.io/ex9/32.png"
   },
   {
-    "set": "Sandstorm 38/100",
-    "cost": "Not PSA Graded: $1.83",
+    "code": "038/100",
+    "set": "Sandstorm 038/100",
+    "cost": "UnGraded: $1.83",
     "img": "https://images.pokemontcg.io/ex2/38.png"
   },
   {
-    "set": "Delta Species 45/114",
-    "cost": "Not PSA Graded: $1.02",
+    "code": "045/113",
+    "set": "Delta Species 045/113",
+    "cost": "UnGraded: $1.02",
     "img": "https://images.pokemontcg.io/ex11/45.png"
   },
   {
-    "set": "HS—Triumphant 64/103",
-    "cost": "Not PSA Graded: $0.33",
+    "code": "064/102",
+    "set": "HS—Triumphant 064/102",
+    "cost": "UnGraded: $0.33",
     "img": "https://images.pokemontcg.io/hgss4/64.png"
   },
   {
-    "set": "Great Encounters 71/106",
-    "cost": "Not PSA Graded: $0.27",
+    "code": "071/106",
+    "set": "Great Encounters 071/106",
+    "cost": "UnGraded: $0.27",
     "img": "https://images.pokemontcg.io/dp4/71.png"
   },
   {
-    "set": "Twilight Masquerade 10/226",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "010/167",
+    "set": "Twilight Masquerade 010/167",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv6/10.png"
   }
 ]

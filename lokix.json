@@ -1,27 +1,32 @@
 [
   {
-    "set": "Paldea Evolved 21/279",
-    "cost": "Not PSA Graded: $0.1",
+    "code": "021/193",
+    "set": "Paldea Evolved 021/193",
+    "cost": "UnGraded: $0.1",
     "img": "https://images.pokemontcg.io/sv2/21.png"
   },
   {
-    "set": "Paradox Rift 122/266",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "122/182",
+    "set": "Paradox Rift 122/182",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sv4/122.png"
   },
   {
-    "set": "Stellar Crown 16/175",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "016/142",
+    "set": "Stellar Crown 016/142",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/sv7/16.png"
   },
   {
-    "set": "Journey Together 100/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "100/159",
+    "set": "Journey Together 100/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv9/100.png"
   },
   {
-    "set": "Phantasmal Flames 10/130",
-    "cost": "Not PSA Graded: $0.04",
+    "code": "010/94",
+    "set": "Phantasmal Flames 010/94",
+    "cost": "UnGraded: $0.04",
     "img": "https://images.pokemontcg.io/me2/10.png"
   }
 ]

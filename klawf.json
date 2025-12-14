@@ -1,27 +1,32 @@
 [
   {
-    "set": "Scarlet & Violet 122/258",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "122/198",
+    "set": "Scarlet & Violet 122/198",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv1/122.png"
   },
   {
-    "set": "Scarlet & Violet 217/258",
-    "cost": "Not PSA Graded: $3.23",
+    "code": "217/198",
+    "set": "Scarlet & Violet 217/198",
+    "cost": "UnGraded: $3.23",
     "img": "https://images.pokemontcg.io/sv1/217.png"
   },
   {
-    "set": "Obsidian Flames 120/230",
-    "cost": "Not PSA Graded: $0.69",
+    "code": "120/197",
+    "set": "Obsidian Flames 120/197",
+    "cost": "UnGraded: $0.69",
     "img": "https://images.pokemontcg.io/sv3/120.png"
   },
   {
-    "set": "Paradox Rift 105/266",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "105/182",
+    "set": "Paradox Rift 105/182",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv4/105.png"
   },
   {
-    "set": "Journey Together 90/190",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "090/159",
+    "set": "Journey Together 090/159",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv9/90.png"
   }
 ]

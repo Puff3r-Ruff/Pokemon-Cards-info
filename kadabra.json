@@ -1,57 +1,68 @@
 [
   {
-    "set": "Base 32/102",
-    "cost": "Not PSA Graded: $1.22",
+    "code": "032/102",
+    "set": "Base 032/102",
+    "cost": "UnGraded: $1.22",
     "img": "https://images.pokemontcg.io/base1/32.png"
   },
   {
-    "set": "Team Rocket 39/83",
+    "code": "039/82",
+    "set": "Team Rocket 039/82",
     "cost": null,
     "img": "https://images.pokemontcg.io/base5/39.png"
   },
   {
-    "set": "Base Set 2 46/130",
-    "cost": "Not PSA Graded: $1.24",
+    "code": "046/130",
+    "set": "Base Set 2 046/130",
+    "cost": "UnGraded: $1.24",
     "img": "https://images.pokemontcg.io/base4/46.png"
   },
   {
-    "set": "Legendary Collection 49/110",
-    "cost": "Not PSA Graded: $5.08",
+    "code": "049/110",
+    "set": "Legendary Collection 049/110",
+    "cost": "UnGraded: $5.08",
     "img": "https://images.pokemontcg.io/base6/49.png"
   },
   {
-    "set": "Gym Challenge 58/132",
+    "code": "058/132",
+    "set": "Gym Challenge 058/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/58.png"
   },
   {
-    "set": "Expedition Base Set 84/165",
-    "cost": "Not PSA Graded: $4.57",
+    "code": "084/165",
+    "set": "Expedition Base Set 084/165",
+    "cost": "UnGraded: $4.57",
     "img": "https://images.pokemontcg.io/ecard1/84.png"
   },
   {
-    "set": "Skyridge 69/182",
-    "cost": "Not PSA Graded: $13.79",
+    "code": "069/144",
+    "set": "Skyridge 069/144",
+    "cost": "UnGraded: $13.79",
     "img": "https://images.pokemontcg.io/ecard3/69.png"
   },
   {
-    "set": "151 64/207",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "064/165",
+    "set": "151 064/165",
+    "cost": "UnGraded: $0.12",
     "img": "https://images.pokemontcg.io/sv3pt5/64.png"
   },
   {
-    "set": "Paldean Fates 149/245",
-    "cost": "Not PSA Graded: $4.62",
+    "code": "149/91",
+    "set": "Paldean Fates 149/91",
+    "cost": "UnGraded: $4.55",
     "img": "https://images.pokemontcg.io/sv4pt5/149.png"
   },
   {
-    "set": "Twilight Masquerade 81/226",
-    "cost": "Not PSA Graded: $0.12",
+    "code": "081/167",
+    "set": "Twilight Masquerade 081/167",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/sv6/81.png"
   },
   {
-    "set": "Mega Evolution 55/188",
-    "cost": "Not PSA Graded: $0.13",
+    "code": "055/132",
+    "set": "Mega Evolution 055/132",
+    "cost": "UnGraded: $0.13",
     "img": "https://images.pokemontcg.io/me1/55.png"
   }
 ]

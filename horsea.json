@@ -1,142 +1,170 @@
 [
   {
-    "set": "Dragon Majesty 15/80",
-    "cost": "Not PSA Graded: $0.18",
+    "code": "015/70",
+    "set": "Dragon Majesty 015/70",
+    "cost": "UnGraded: $0.18",
     "img": "https://images.pokemontcg.io/sm75/15.png"
   },
   {
-    "set": "Dragon Majesty 16/80",
-    "cost": "Not PSA Graded: $0.21",
+    "code": "016/70",
+    "set": "Dragon Majesty 016/70",
+    "cost": "UnGraded: $0.21",
     "img": "https://images.pokemontcg.io/sm75/16.png"
   },
   {
-    "set": "Plasma Freeze 18/122",
-    "cost": "Not PSA Graded: $0.28",
+    "code": "018/116",
+    "set": "Plasma Freeze 018/116",
+    "cost": "UnGraded: $0.28",
     "img": "https://images.pokemontcg.io/bw9/18.png"
   },
   {
-    "set": "Primal Clash 30/164",
-    "cost": "Not PSA Graded: $0.15",
+    "code": "030/160",
+    "set": "Primal Clash 030/160",
+    "cost": "UnGraded: $0.15",
     "img": "https://images.pokemontcg.io/xy5/30.png"
   },
   {
-    "set": "Burning Shadows 29/177",
-    "cost": "Not PSA Graded: $0.11",
+    "code": "029/147",
+    "set": "Burning Shadows 029/147",
+    "cost": "UnGraded: $0.11",
     "img": "https://images.pokemontcg.io/sm3/29.png"
   },
   {
-    "set": "Dragon 33/100",
-    "cost": "Not PSA Graded: $2.37",
+    "code": "033/97",
+    "set": "Dragon 033/97",
+    "cost": "UnGraded: $2.37",
     "img": "https://images.pokemontcg.io/ex3/33.png"
   },
   {
-    "set": "Dragon Frontiers 31/101",
-    "cost": "Not PSA Graded: $0.72",
+    "code": "031/101",
+    "set": "Dragon Frontiers 031/101",
+    "cost": "UnGraded: $0.72",
     "img": "https://images.pokemontcg.io/ex15/31.png"
   },
   {
-    "set": "Fossil 49/62",
+    "code": "049/62",
+    "set": "Fossil 049/62",
     "cost": null,
     "img": "https://images.pokemontcg.io/base3/49.png"
   },
   {
-    "set": "HS—Unleashed 49/96",
-    "cost": "Not PSA Graded: $0.41",
+    "code": "049/95",
+    "set": "HS—Unleashed 049/95",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/hgss2/49.png"
   },
   {
-    "set": "Dragon 58/100",
-    "cost": "Not PSA Graded: $0.43",
+    "code": "058/97",
+    "set": "Dragon 058/97",
+    "cost": "UnGraded: $0.43",
     "img": "https://images.pokemontcg.io/ex3/58.png"
   },
   {
-    "set": "Team Rocket Returns 58/111",
-    "cost": "Not PSA Graded: $1.18",
+    "code": "058/109",
+    "set": "Team Rocket Returns 058/109",
+    "cost": "UnGraded: $1.18",
     "img": "https://images.pokemontcg.io/ex7/58.png"
   },
   {
-    "set": "Dragon Frontiers 50/101",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "050/101",
+    "set": "Dragon Frontiers 050/101",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/ex15/50.png"
   },
   {
-    "set": "Holon Phantoms 66/111",
-    "cost": "Not PSA Graded: $0.52",
+    "code": "066/110",
+    "set": "Holon Phantoms 066/110",
+    "cost": "UnGraded: $0.52",
     "img": "https://images.pokemontcg.io/ex13/66.png"
   },
   {
-    "set": "Neo Genesis 62/111",
+    "code": "062/111",
+    "set": "Neo Genesis 062/111",
     "cost": null,
     "img": "https://images.pokemontcg.io/neo1/62.png"
   },
   {
-    "set": "Gym Heroes 86/132",
+    "code": "086/132",
+    "set": "Gym Heroes 086/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym1/86.png"
   },
   {
-    "set": "Gym Challenge 87/132",
+    "code": "087/132",
+    "set": "Gym Challenge 087/132",
     "cost": null,
     "img": "https://images.pokemontcg.io/gym2/87.png"
   },
   {
+    "code": "102/146",
     "set": "Legends Awakened 102/146",
-    "cost": "Not PSA Graded: $0.41",
+    "cost": "UnGraded: $0.41",
     "img": "https://images.pokemontcg.io/dp6/102.png"
   },
   {
-    "set": "Aquapolis 84/182",
-    "cost": "Not PSA Graded: $4.51",
+    "code": "084/147",
+    "set": "Aquapolis 084/147",
+    "cost": "UnGraded: $4.51",
     "img": "https://images.pokemontcg.io/ecard2/84.png"
   },
   {
-    "set": "Aquapolis 85/182",
-    "cost": "Not PSA Graded: $4.12",
+    "code": "085/147",
+    "set": "Aquapolis 085/147",
+    "cost": "UnGraded: $4.12",
     "img": "https://images.pokemontcg.io/ecard2/85.png"
   },
   {
-    "set": "Shining Fates 20/73",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "020/72",
+    "set": "Shining Fates 020/72",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/swsh45/20.png"
   },
   {
-    "set": "Battle Styles 31/183",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "031/163",
+    "set": "Battle Styles 031/163",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/swsh5/31.png"
   },
   {
-    "set": "McDonald's Collection 2018 3/12",
+    "code": "003/12",
+    "set": "McDonald's Collection 2018 003/12",
     "cost": null,
     "img": "https://images.pokemontcg.io/mcd18/3.png"
   },
   {
-    "set": "Lost Origin 35/217",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "035/196",
+    "set": "Lost Origin 035/196",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh11/35.png"
   },
   {
-    "set": "151 116/207",
-    "cost": "Not PSA Graded: $0.05",
+    "code": "116/165",
+    "set": "151 116/165",
+    "cost": "UnGraded: $0.05",
     "img": "https://images.pokemontcg.io/sv3pt5/116.png"
   },
   {
-    "set": "Paradox Rift 30/266",
-    "cost": "Not PSA Graded: $0.08",
+    "code": "030/182",
+    "set": "Paradox Rift 030/182",
+    "cost": "UnGraded: $0.08",
     "img": "https://images.pokemontcg.io/sv4/30.png"
   },
   {
-    "set": "Shrouded Fable 10/99",
-    "cost": "Not PSA Graded: $0.03",
+    "code": "010/64",
+    "set": "Shrouded Fable 010/64",
+    "cost": "UnGraded: $0.03",
     "img": "https://images.pokemontcg.io/sv6pt5/10.png"
   },
   {
-    "set": "Shrouded Fable 67/99",
-    "cost": "Not PSA Graded: $22.07",
+    "code": "067/64",
+    "set": "Shrouded Fable 067/64",
+    "cost": "UnGraded: $22.07",
     "img": "https://images.pokemontcg.io/sv6pt5/67.png"
   },
   {
-    "set": "Scarlet & Violet Black Star Promos 137/196",
-    "cost": "Not PSA Graded: $1.06",
+    "code": "137/215",
+    "set": "Scarlet & Violet Black Star Promos 137/215",
+    "cost": "UnGraded: $1.06",
     "img": "https://images.pokemontcg.io/svp/137.png"
   }
 ]

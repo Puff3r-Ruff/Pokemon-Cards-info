@@ -1,187 +1,224 @@
 [
   {
-    "set": "POP Series 7 4/17",
-    "cost": "Not PSA Graded: $12.5",
+    "code": "004/17",
+    "set": "POP Series 7 004/17",
+    "cost": "UnGraded: $12.5",
     "img": "https://images.pokemontcg.io/pop7/4.png"
   },
   {
-    "set": "Delta Species 9/114",
-    "cost": "Not PSA Graded: $104.5",
+    "code": "009/113",
+    "set": "Delta Species 009/113",
+    "cost": "UnGraded: $104.5",
     "img": "https://images.pokemontcg.io/ex11/9.png"
   },
   {
-    "set": "Dragon Vault 10/21",
-    "cost": "Not PSA Graded: $6.61",
+    "code": "010/20",
+    "set": "Dragon Vault 010/20",
+    "cost": "UnGraded: $6.61",
     "img": "https://images.pokemontcg.io/dv1/10.png"
   },
   {
-    "set": "Holon Phantoms 12/111",
-    "cost": "Not PSA Graded: $45.65",
+    "code": "012/110",
+    "set": "Holon Phantoms 012/110",
+    "cost": "UnGraded: $45.65",
     "img": "https://images.pokemontcg.io/ex13/12.png"
   },
   {
+    "code": "HGSS11/25",
     "set": "HGSS Black Star Promos HGSS11/25",
-    "cost": "Not PSA Graded: $26.21",
+    "cost": "UnGraded: $26.21",
     "img": "https://images.pokemontcg.io/hsp/HGSS11.png"
   },
   {
-    "set": "Holon Phantoms 22/111",
-    "cost": "Not PSA Graded: $5.22",
+    "code": "022/110",
+    "set": "Holon Phantoms 022/110",
+    "cost": "UnGraded: $5.22",
     "img": "https://images.pokemontcg.io/ex13/22.png"
   },
   {
-    "set": "Nintendo Black Star Promos 15/40",
-    "cost": "Not PSA Graded: $14.93",
+    "code": "015/40",
+    "set": "Nintendo Black Star Promos 015/40",
+    "cost": "UnGraded: $14.93",
     "img": "https://images.pokemontcg.io/np/15.png"
   },
   {
-    "set": "Great Encounters 23/106",
-    "cost": "Not PSA Graded: $3.95",
+    "code": "023/106",
+    "set": "Great Encounters 023/106",
+    "cost": "UnGraded: $3.95",
     "img": "https://images.pokemontcg.io/dp4/23.png"
   },
   {
-    "set": "Shining Legends 41/81",
-    "cost": "Not PSA Graded: $0.47",
+    "code": "041/73",
+    "set": "Shining Legends 041/73",
+    "cost": "UnGraded: $0.47",
     "img": "https://images.pokemontcg.io/sm35/41.png"
   },
   {
-    "set": "Roaring Skies 58/112",
-    "cost": "Not PSA Graded: $6.59",
+    "code": "058/108",
+    "set": "Roaring Skies 058/108",
+    "cost": "UnGraded: $6.59",
     "img": "https://images.pokemontcg.io/xy6/58.png"
   },
   {
-    "set": "Roaring Skies 59/112",
-    "cost": "Not PSA Graded: $31.31",
+    "code": "059/108",
+    "set": "Roaring Skies 059/108",
+    "cost": "UnGraded: $31.31",
     "img": "https://images.pokemontcg.io/xy6/59.png"
   },
   {
-    "set": "XY Black Star Promos XY65/216",
-    "cost": "Not PSA Graded: $8.69",
+    "code": "XY65/211",
+    "set": "XY Black Star Promos XY65/211",
+    "cost": "UnGraded: $8.69",
     "img": "https://images.pokemontcg.io/xyp/XY65.png"
   },
   {
-    "set": "XY Black Star Promos XY72/216",
-    "cost": "Not PSA Graded: $6.7",
+    "code": "XY72/211",
+    "set": "XY Black Star Promos XY72/211",
+    "cost": "UnGraded: $6.7",
     "img": "https://images.pokemontcg.io/xyp/XY72.png"
   },
   {
-    "set": "Unified Minds 78/260",
-    "cost": "Not PSA Graded: $6.47",
+    "code": "078/236",
+    "set": "Unified Minds 078/236",
+    "cost": "UnGraded: $6.47",
     "img": "https://images.pokemontcg.io/sm11/78.png"
   },
   {
-    "set": "Plasma Freeze 86/122",
-    "cost": "Not PSA Graded: $22.84",
+    "code": "086/116",
+    "set": "Plasma Freeze 086/116",
+    "cost": "UnGraded: $22.84",
     "img": "https://images.pokemontcg.io/bw9/86.png"
   },
   {
-    "set": "XY Black Star Promos XY79/216",
-    "cost": "Not PSA Graded: $67.25",
+    "code": "XY79/211",
+    "set": "XY Black Star Promos XY79/211",
+    "cost": "UnGraded: $67.25",
     "img": "https://images.pokemontcg.io/xyp/XY79.png"
   },
   {
-    "set": "SM Black Star Promos SM88/250",
-    "cost": "Not PSA Graded: $5.09",
+    "code": "SM88/248",
+    "set": "SM Black Star Promos SM88/248",
+    "cost": "UnGraded: $5.09",
     "img": "https://images.pokemontcg.io/smp/SM88.png"
   },
   {
-    "set": "Dragon 94/100",
-    "cost": "Not PSA Graded: $133.14",
+    "code": "094/97",
+    "set": "Dragon 094/97",
+    "cost": "UnGraded: $133.14",
     "img": "https://images.pokemontcg.io/ex3/94.png"
   },
   {
-    "set": "Roaring Skies 101/112",
-    "cost": "Not PSA Graded: $54.76",
+    "code": "101/108",
+    "set": "Roaring Skies 101/108",
+    "cost": "UnGraded: $54.76",
     "img": "https://images.pokemontcg.io/xy6/101.png"
   },
   {
-    "set": "Deoxys 106/108",
-    "cost": "Not PSA Graded: $583",
+    "code": "106/107",
+    "set": "Deoxys 106/107",
+    "cost": "UnGraded: $583",
     "img": "https://images.pokemontcg.io/ex8/106.png"
   },
   {
-    "set": "Roaring Skies 102/112",
-    "cost": "Not PSA Graded: $101.44",
+    "code": "102/108",
+    "set": "Roaring Skies 102/108",
+    "cost": "UnGraded: $101.44",
     "img": "https://images.pokemontcg.io/xy6/102.png"
   },
   {
-    "set": "Team Up 113/198",
-    "cost": "Not PSA Graded: $63.47",
+    "code": "113/181",
+    "set": "Team Up 113/181",
+    "cost": "UnGraded: $63.47",
     "img": "https://images.pokemontcg.io/sm9/113.png"
   },
   {
-    "set": "Dragon Frontiers 96/101",
-    "cost": "Not PSA Graded: $141.65",
+    "code": "096/101",
+    "set": "Dragon Frontiers 096/101",
+    "cost": "UnGraded: $141.65",
     "img": "https://images.pokemontcg.io/ex15/96.png"
   },
   {
-    "set": "Celestial Storm 108/187",
-    "cost": "Not PSA Graded: $11.61",
+    "code": "108/168",
+    "set": "Celestial Storm 108/168",
+    "cost": "UnGraded: $11.61",
     "img": "https://images.pokemontcg.io/sm7/108.png"
   },
   {
-    "set": "Plasma Freeze 113/122",
-    "cost": "Not PSA Graded: $219.57",
+    "code": "113/116",
+    "set": "Plasma Freeze 113/116",
+    "cost": "UnGraded: $219.57",
     "img": "https://images.pokemontcg.io/bw9/113.png"
   },
   {
-    "set": "SM Black Star Promos SM136/250",
-    "cost": "Not PSA Graded: $5.21",
+    "code": "SM136/248",
+    "set": "SM Black Star Promos SM136/248",
+    "cost": "UnGraded: $5.21",
     "img": "https://images.pokemontcg.io/smp/SM136.png"
   },
   {
-    "set": "Team Up 169/198",
-    "cost": "Not PSA Graded: $89.55",
+    "code": "169/181",
+    "set": "Team Up 169/181",
+    "cost": "UnGraded: $89.55",
     "img": "https://images.pokemontcg.io/sm9/169.png"
   },
   {
-    "set": "Team Up 170/198",
-    "cost": "Not PSA Graded: $2665.62",
+    "code": "170/181",
+    "set": "Team Up 170/181",
+    "cost": "UnGraded: $2665.62",
     "img": "https://images.pokemontcg.io/sm9/170.png"
   },
   {
-    "set": "Team Up 190/198",
-    "cost": "Not PSA Graded: $178.66",
+    "code": "190/181",
+    "set": "Team Up 190/181",
+    "cost": "UnGraded: $178.66",
     "img": "https://images.pokemontcg.io/sm9/190.png"
   },
   {
-    "set": "Unified Minds 223/260",
-    "cost": "Not PSA Graded: $24.38",
+    "code": "223/236",
+    "set": "Unified Minds 223/236",
+    "cost": "UnGraded: $24.38",
     "img": "https://images.pokemontcg.io/sm11/223.png"
   },
   {
-    "set": "Unified Minds 243/260",
-    "cost": "Not PSA Graded: $54.09",
+    "code": "243/236",
+    "set": "Unified Minds 243/236",
+    "cost": "UnGraded: $54.09",
     "img": "https://images.pokemontcg.io/sm11/243.png"
   },
   {
-    "set": "Fusion Strike 194/284",
-    "cost": "Not PSA Graded: $0.17",
+    "code": "194/264",
+    "set": "Fusion Strike 194/264",
+    "cost": "UnGraded: $0.17",
     "img": "https://images.pokemontcg.io/swsh8/194.png"
   },
   {
-    "set": "EX Trainer Kit Latios 2/10",
+    "code": "002/10",
+    "set": "EX Trainer Kit Latios 002/10",
     "cost": null,
     "img": "https://images.pokemontcg.io/tk1b/2.png"
   },
   {
-    "set": "Paradox Rift 73/266",
-    "cost": "Not PSA Graded: $0.2",
+    "code": "073/182",
+    "set": "Paradox Rift 073/182",
+    "cost": "UnGraded: $0.2",
     "img": "https://images.pokemontcg.io/sv4/73.png"
   },
   {
-    "set": "Surging Sparks 77/252",
-    "cost": "Not PSA Graded: $0.06",
+    "code": "077/191",
+    "set": "Surging Sparks 077/191",
+    "cost": "UnGraded: $0.06",
     "img": "https://images.pokemontcg.io/sv8/77.png"
   },
   {
-    "set": "Surging Sparks 203/252",
-    "cost": "Not PSA Graded: $23.2",
+    "code": "203/191",
+    "set": "Surging Sparks 203/191",
+    "cost": "UnGraded: $23.2",
     "img": "https://images.pokemontcg.io/sv8/203.png"
   },
   {
-    "set": "Mega Evolution 101/188",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "101/132",
+    "set": "Mega Evolution 101/132",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/me1/101.png"
   }
 ]

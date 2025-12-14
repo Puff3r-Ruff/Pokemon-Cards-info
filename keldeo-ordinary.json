@@ -1,107 +1,128 @@
 [
   {
-    "set": "Shining Legends 26/81",
-    "cost": "Not PSA Graded: $0.25",
+    "code": "026/73",
+    "set": "Shining Legends 026/73",
+    "cost": "UnGraded: $0.25",
     "img": "https://images.pokemontcg.io/sm35/26.png"
   },
   {
-    "set": "Legendary Treasures 45/140",
-    "cost": "Not PSA Graded: $3.87",
+    "code": "045/113",
+    "set": "Legendary Treasures 045/113",
+    "cost": "UnGraded: $3.87",
     "img": "https://images.pokemontcg.io/bw11/45.png"
   },
   {
-    "set": "Boundaries Crossed 47/153",
-    "cost": "Not PSA Graded: $1.42",
+    "code": "047/149",
+    "set": "Boundaries Crossed 047/149",
+    "cost": "UnGraded: $1.42",
     "img": "https://images.pokemontcg.io/bw7/47.png"
   },
   {
-    "set": "Boundaries Crossed 48/153",
-    "cost": "Not PSA Graded: $0.54",
+    "code": "048/149",
+    "set": "Boundaries Crossed 048/149",
+    "cost": "UnGraded: $0.54",
     "img": "https://images.pokemontcg.io/bw7/48.png"
   },
   {
-    "set": "Boundaries Crossed 49/153",
-    "cost": "Not PSA Graded: $1.35",
+    "code": "049/149",
+    "set": "Boundaries Crossed 049/149",
+    "cost": "UnGraded: $1.35",
     "img": "https://images.pokemontcg.io/bw7/49.png"
   },
   {
-    "set": "Sword & Shield 53/216",
-    "cost": "Not PSA Graded: $0.97",
+    "code": "053/202",
+    "set": "Sword & Shield 053/202",
+    "cost": "UnGraded: $0.97",
     "img": "https://images.pokemontcg.io/swsh1/53.png"
   },
   {
-    "set": "Unified Minds 47/260",
-    "cost": "Not PSA Graded: $2.41",
+    "code": "047/236",
+    "set": "Unified Minds 047/236",
+    "cost": "UnGraded: $2.41",
     "img": "https://images.pokemontcg.io/sm11/47.png"
   },
   {
+    "code": "BW60/101",
     "set": "BW Black Star Promos BW60/101",
-    "cost": "Not PSA Graded: $5.66",
+    "cost": "UnGraded: $5.66",
     "img": "https://images.pokemontcg.io/bwp/BW60.png"
   },
   {
+    "code": "BW61/101",
     "set": "BW Black Star Promos BW61/101",
-    "cost": "Not PSA Graded: $2.05",
+    "cost": "UnGraded: $2.05",
     "img": "https://images.pokemontcg.io/bwp/BW61.png"
   },
   {
-    "set": "XY Black Star Promos XY118/216",
-    "cost": "Not PSA Graded: $20.61",
+    "code": "XY118/211",
+    "set": "XY Black Star Promos XY118/211",
+    "cost": "UnGraded: $20.61",
     "img": "https://images.pokemontcg.io/xyp/XY118.png"
   },
   {
-    "set": "Boundaries Crossed 142/153",
-    "cost": "Not PSA Graded: $176.66",
+    "code": "142/149",
+    "set": "Boundaries Crossed 142/149",
+    "cost": "UnGraded: $176.66",
     "img": "https://images.pokemontcg.io/bw7/142.png"
   },
   {
-    "set": "XY Black Star Promos XY191/216",
-    "cost": "Not PSA Graded: $1.11",
+    "code": "XY191/211",
+    "set": "XY Black Star Promos XY191/211",
+    "cost": "UnGraded: $1.11",
     "img": "https://images.pokemontcg.io/xyp/XY191.png"
   },
   {
-    "set": "Unified Minds 219/260",
-    "cost": "Not PSA Graded: $6.72",
+    "code": "219/236",
+    "set": "Unified Minds 219/236",
+    "cost": "UnGraded: $6.72",
     "img": "https://images.pokemontcg.io/sm11/219.png"
   },
   {
-    "set": "Unified Minds 240/260",
-    "cost": "Not PSA Graded: $15.34",
+    "code": "240/236",
+    "set": "Unified Minds 240/236",
+    "cost": "UnGraded: $15.34",
     "img": "https://images.pokemontcg.io/sm11/240.png"
   },
   {
-    "set": "Astral Radiance 45/216",
-    "cost": "Not PSA Graded: $0.22",
+    "code": "045/189",
+    "set": "Astral Radiance 045/189",
+    "cost": "UnGraded: $0.22",
     "img": "https://images.pokemontcg.io/swsh10/45.png"
   },
   {
-    "set": "Silver Tempest 46/215",
-    "cost": "Not PSA Graded: $0.09",
+    "code": "046/195",
+    "set": "Silver Tempest 046/195",
+    "cost": "UnGraded: $0.09",
     "img": "https://images.pokemontcg.io/swsh12/46.png"
   },
   {
+    "code": "GG07/70",
     "set": "Crown Zenith Galarian Gallery GG07/70",
-    "cost": "Not PSA Graded: $9.84",
+    "cost": "UnGraded: $9.84",
     "img": "https://images.pokemontcg.io/swsh12pt5gg/GG07.png"
   },
   {
-    "set": "Temporal Forces 44/218",
-    "cost": "Not PSA Graded: $0.07",
+    "code": "044/162",
+    "set": "Temporal Forces 044/162",
+    "cost": "UnGraded: $0.07",
     "img": "https://images.pokemontcg.io/sv5/44.png"
   },
   {
-    "set": "White Flare 30/173",
-    "cost": "Not PSA Graded: $0.44",
+    "code": "030/86",
+    "set": "White Flare 030/86",
+    "cost": "UnGraded: $0.44",
     "img": "https://images.pokemontcg.io/rsv10pt5/30.png"
   },
   {
-    "set": "White Flare 159/173",
-    "cost": "Not PSA Graded: $0.85",
+    "code": "159/86",
+    "set": "White Flare 159/86",
+    "cost": "UnGraded: $0.85",
     "img": "https://images.pokemontcg.io/rsv10pt5/159.png"
   },
   {
-    "set": "White Flare 167/173",
-    "cost": "Not PSA Graded: $58.13",
+    "code": "167/86",
+    "set": "White Flare 167/86",
+    "cost": "UnGraded: $58.13",
     "img": "https://images.pokemontcg.io/rsv10pt5/167.png"
   }
 ]
