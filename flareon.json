@@ -32,8 +32,9 @@
   {
     "code": "003/64",
     "set": "Jungle 003/64",
-    "cost": null,
-    "img": "https://images.pokemontcg.io/base2/3.png"
+    "cost": "UnGraded: $70.00",
+    "img": "https://images.pokemontcg.io/base2/3.png",
+    "link": "https://gymleadertcg.com/the-fourth-most-valuable-pokemon-card-in-the-jungle-set-flareon/"
   },
   {
     "code": "0H7/144",
@@ -231,7 +232,8 @@
     "code": "146/131",
     "set": "Prismatic Evolutions 146/131",
     "cost": "UnGraded: $161.13",
-    "img": "https://images.pokemontcg.io/sv8pt5/146.png"
+    "img": "https://images.pokemontcg.io/sv8pt5/146.png",
+    "link": "https://gymleadertcg.com/prismatic-evolutions-master-set-flareon-ex-146/"
   },
   {
     "code": "167/150",
